@@ -1,0 +1,134 @@
+{
+  "date": "2026-08-19",
+  "items": [
+    {
+      "abstract": "",
+      "authors": [
+        "Dongdong Ma",
+        "Jackson K. Njau",
+        "Shuwen Pei",
+        "Ignacio de la Torre"
+      ],
+      "doi": "10.1016/j.jas.2026.106668",
+      "id": "doi:10.1016/j.jas.2026.106668",
+      "publication_date": "2026-08-18",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "",
+      "title": "The role of rock density in hominin raw material selection: Evidence from Bed II, Olduvai Gorge (Tanzania)",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://doi.org/10.1016/j.jas.2026.106668",
+      "venue": "Journal of Archaeological Science",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "The Middle Pleistocene was characterized by pronounced climatic oscillations that reshaped European ecosystems and influenced hominin settlement dynamics. This study reconstructs the paleoenvironmental context of the Middle Stratigraphic Member of Ambrona (Soria, Spain), dated to ∼350 ka (MIS 9), using stable carbon ( δ 13 C) and oxygen ( δ 18 O) isotope analyses of 56 tooth enamel samples from Equidae, Bovidae, Cervidae, and Elephantidae. The isotopic dataset is strongly dominated by equids, and paleoenvironmental interpretations primarily reflect equid ecology. The δ 13 C values indicate diets dominated by C 3 vegetation and, when combined with body mass-corrected δ 13 C ecosystem estimates, support a mosaic landscape structured around pine-dominated woodland and open herbaceous sectors, rather than a dense closed-canopy forest. Intra-tooth δ 18 O profiles provide insights into seasonal to sub-annual variability, although their interpretation is constrained by temporal resolution and enamel mineralization processes. Overall, δ 18 O values suggest relatively stable hydrological conditions and sustained water availability. Comparison with equid isotopic data from the contemporaneous MIS 9 site of Schöningen (Germany) reveals significant differences in δ 13 C and δ 18 O values, indicating regional variation in vegetation structure and hydroclimatic conditions. These differences reflect spatial heterogeneity within European interglacial environments, with Ambrona characterized by a Mediterranean hydroclimatic regime and Schöningen by a temperate setting. Integrated with faunal, sedimentological, and paleoenvironmental evidence, these results define the Ambrona Middle Stratigraphic Member as a humid, environmentally structured woodland-wetland mosaic with persistent freshwater availability. While the isotopic data do not directly resolve hominin behavior, they provide a refined environmental framework within which hominin occupations can be contextualized and contribute to understanding the role of spatial climatic variability in shaping Middle Pleistocene European landscapes.",
+      "authors": [
+        "Giuseppe Briatico",
+        "Joaquín Panera",
+        "Gideon Hartman",
+        "Abel Moclán",
+        "Manuel Santonja",
+        "Alfredo Pérez-González",
+        "Susana Rubio-Jara"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110100",
+      "id": "doi:10.1016/j.quascirev.2026.110100",
+      "publication_date": "2026-06-03",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "该研究通过分析西班牙Ambrona遗址约35万年前56件哺乳动物牙釉质稳定同位素，重建其环境为以松林和开阔草地为主的镶嵌景观，水文条件稳定，属湿润的林地-湿地环境，并与同期德国Schöningen遗址存在区域气候差异。",
+      "title": "The environmental context of Ambrona Middle Stratigraphic Member (∼350 ka): Insights from stable isotope analysis on mammalian tooth enamel",
+      "topics": [
+        "hominin",
+        "Middle Pleistocene",
+        "paleoenvironment"
+      ],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110100",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "article"
+    },
+    {
+      "abstract": "<jats:p>\n                    Recent debates on early hominin arborealism center around interpretations of fossilized foot bones as being either “African ape”- or “monkey”- like in their morphology. These dueling interpretations fuel competing locomotor reconstructions of the last common ancestor of chimpanzees and humans (LCA), including disagreements about the prevalence of vertical climbing behaviors. Yet it remains unclear if possessing an ape- or monkey-like foot impacts the safety and efficiency of climbing, in part because few kinematic data exist on cercopithecoid monkeys moving in their natural habitats. Here, we present detailed kinematic data on the feet of a prolific vertically-climbing cercopithecoid monkey (\n                    <jats:italic toggle=\"yes\">Cercocebus atys</jats:italic>\n                    ; the sooty mangabey) in the wild. We show that sooty mangabeys exhibit an extraordinary degree of midfoot dorsiflexion (~46°) during vertical climbs, a value nearly indistinguishable in magnitude to the ankle dorsiflexion of chimpanzees and slightly larger than the ankle dorsiflexion of climbing rainforest hunter-gatherers. This result suggests that, regardless of overall pedal morphology, the fitness challenges posed by vertical movements produced a kinematic convergence in primate foot biomechanics to improve climbing safety. Even if the LCA retained a more monkey-like foot compared to later hominins, our findings suggest that vertical climbing would still be a plausible component of its locomotor repertoire.\n                  </jats:p>",
+      "authors": [
+        "Luke D. Fannin",
+        "Carmen Pape",
+        "W. Scott McGraw"
+      ],
+      "doi": "10.1073/pnas.2608183123",
+      "id": "doi:10.1073/pnas.2608183123",
+      "publication_date": "2026-08-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "研究发现，野生白眉猴在垂直攀爬时足中部背屈约46度，与黑猩猩踝关节背屈幅度几乎相同，略大于攀爬的雨林狩猎采集者。这表明无论足部形态是猿类还是猴类，垂直运动带来的适应性挑战促使灵长类足部生物力学趋同进化，以提升攀爬安全性。即使人类黑猩猩共同…",
+      "title": "A kinematic convergence in ape and monkey vertical climbing informs debates on early hominin arborealism",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2608183123",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Matthew C. McDowell",
+        "Bruno David",
+        "Erin Mein",
+        "Dylan Jenkin",
+        "Russell Mullett",
+        "Jillian Garvey",
+        "Tiina Manne",
+        "Fiona Petchey",
+        "Jean-Jacques Delannoy",
+        "Joanna Fresløv",
+        "Edrick Daymond",
+        "Alistair R. Evans"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106001",
+      "id": "doi:10.1016/j.jasrep.2026.106001",
+      "publication_date": "2026-08-18",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "",
+      "title": "&gt;18,000 years of sheared kangaroo and wallaby calcanea from Waribruk (New Guinea II Cave, GunaiKurnai Country, SE Australia): Systematic breakage from marrow extraction, tendon removal, ritual engagement or post-depositional taphonomy?",
+      "topics": [
+        "taphonomy"
+      ],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106001",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    The\n                    <jats:italic>Hyperodapedon</jats:italic>\n                    Assemblage Zone of the Candelária Sequence (Santa Maria Supersequence, Paraná Basin) preserves one of the most significant Late Triassic continental vertebrate assemblages in southern Brazil. Despite the relatively well‐documented body fossil record from this interval, ichnological records remain comparatively scarce. Here, we describe a new occurrence of tetrapod footprints recovered from the Mangueira site in the municipality of Vale do Sol, Rio Grande do Sul, Brazil. The material comprises 28 footprints distributed across five trackways, tentatively referred to as cf.\n                    <jats:italic>Procolophonichnium</jats:italic>\n                    . The morphological features of the best‐preserved footprints, including digit arrangement, track proportions, and pes–manus configuration, suggest affinities with\n                    <jats:italic>Procolophonichnium</jats:italic>\n                    , although preservation limitations preclude a definitive ichnotaxonomic assignment of the specimens. Potential trackmakers include small cynodonts or parareptiles; however, no skeletal remains attributable to either group have been documented at the Mangueira site. Comparisons with the Predebon site, the best‐known ichnolocality within the\n                    <jats:italic>Hyperodapedon</jats:italic>\n                    Assemblage Zone, reveal broadly similar paleoenvironmental conditions but differences in faunal composition and preservation. This new discovery expands the currently limited ichnological record of the Candelária Sequence and underscores the value of trace fossils in reconstructing faunal diversity and paleoecological complexity in the Late Triassic continental ecosystems of southern Brazil.\n                  </jats:p>",
+      "authors": [
+        "Heitor Francischini",
+        "Murilo Andrade‐Silva",
+        "Murilo Andrade‐Silva, Heitor Francischini"
+      ],
+      "doi": "10.1002/ar.70316",
+      "id": "doi:10.1002/ar.70316",
+      "publication_date": "2026-08-17",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:The Anatomical Record"
+      ],
+      "summary": "巴西坎德拉里亚序列晚三叠世新发现四足动物足迹，共28个脚印分布于5条行迹，暂归为cf. Procolophonichnium，可能由小型犬齿兽或副爬行动物留下，扩展了该地区稀少的遗迹化石记录。",
+      "title": "A new occurrence of tetrapod footprints from the Late Triassic of the Candelária Sequence, Brazil",
+      "topics": [
+        "paleoenvironment"
+      ],
+      "url": "https://doi.org/10.1002/ar.70316",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
