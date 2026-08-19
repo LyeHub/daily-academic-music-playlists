@@ -1,0 +1,124 @@
+{
+  "date": "2026-08-20",
+  "items": [
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Taxonomic practice in evolutionary biology increasingly prioritizes the recognition of monophyletic groups (clades), yet paleoanthropology still applies this principle inconsistently. Here, I outline these inconsistencies and broader challenges in hominin taxonomy and propose a potential solution.\n                    <jats:italic>Australopithecus</jats:italic>\n                    is widely considered non‐monophyletic. In addition, the temporal depth of\n                    <jats:italic>Homo</jats:italic>\n                    is shallow relative to most primate genera, with recently diverged genera often taxonomically unstable due to complex morphological and genetic signatures and extensive gene flow among closely related taxa. The hominin fossil record exhibits pronounced morphological mosaicism and homoplasy, with supposedly key traits increasingly blurred both within and among genera. This obscures putative adaptive distinctions and contributes to persistent taxonomic disagreement. One potential solution is the subsumption of\n                    <jats:italic>Australopithecus</jats:italic>\n                    and\n                    <jats:italic>Paranthropus</jats:italic>\n                    within an expanded genus\n                    <jats:italic>Homo</jats:italic>\n                    . Such a revision would help address problems of non‐monophyly, avoid conceptual difficulties associated with genera with shallow time depths, and facilitate more coherent evolutionary comparisons within a more stable taxonomy. Within this framework, Hominini is best defined as the\n                    <jats:italic>Pan</jats:italic>\n                    ‐\n                    <jats:italic>Homo</jats:italic>\n                    clade, with Hominina retained as the appropriate subtribal designation for the human clade. Although similar proposals have been advanced previously, accumulating fossil and genetic evidence makes this a timely moment to reconsider hominin taxonomy. This proposal has limitations, including the loss of taxonomic information relating to adaptive and ecological variation, particularly within\n                    <jats:italic>Paranthropus</jats:italic>\n                    and large‐brained\n                    <jats:italic>Homo</jats:italic>\n                    . At a minimum, however, this article argues for greater consistency and transparency in distinguishing clades from grades in homininan taxonomy, and for more consistent criteria for the recognition of genera.\n                  </jats:p>",
+      "authors": [
+        "Ian Towle"
+      ],
+      "doi": "10.1002/ajpa.70344",
+      "id": "doi:10.1002/ajpa.70344",
+      "publication_date": "2026-08-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:American Journal of Biological Anthropology"
+      ],
+      "summary": "该文指出古人类学分类存在不一致，建议将南方古猿属和傍人属并入扩大的人属，以解决非单系问题，并主张更一致地区分支系与演化等级。",
+      "title": "Clades, Grades, and the Genus Problem: A Case for Revising Hominin Taxonomy",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://doi.org/10.1002/ajpa.70344",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:sec>\n                    <jats:title>Objectives</jats:title>\n                    <jats:p>The nasal complex, a climatically sensitive trait, offers insight into both long‐term adaptation and short‐term phenotypic plasticity. We test whether nasal morphology exhibits plasticity parallel to postcranial gracilization in response to subsistence shifts, using Sri Lanka's Indigenous Vedda as a model population. They represent a unique lineage with deep evolutionary continuity to the island's prehistoric inhabitants. While genetic studies affirm their deep ancestry, no systematic data exist on their nasal morphology—making this the first study of its kind in Sri Lanka.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Materials and Methods</jats:title>\n                    <jats:p>\n                      Nasal height and breadth were measured in 328 Vedda adults (≥ 19 years) of confirmed Indigenous ancestry from Yakkure (minimal displacement, 6 km) and Henanigala (resettled 38 km). Nasal index was calculated, and group comparisons used\n                      <jats:italic>t</jats:italic>\n                      ‐tests with age stratification.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      Significant sexual dimorphism was observed in groups (\n                      <jats:italic>p</jats:italic>\n                       &lt; 0.05). Yakkure adults exhibited larger nasal dimensions (height: 47.59 ± 3.34 mm; breadth: 37.38 ± 2.84 mm) than Henanigala adults (height: 46.55 ± 3.05 mm; breadth: 36.98 ± 2.75 mm), yet Nasal Indices were statistically indistinguishable (Yakkure: 79.69 ± 7.26, Henanigala: 79.20 ± 7.85), with both groups predominantly mesorrhine (67.7%).\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Discussion</jats:title>\n                    <jats:p>This dissociation between size reduction and shape conservation parallels systemic skeletal gracilization, suggesting phenotypic plasticity. The pattern is consistent with Henanigala's environmental disruption and reduced masticatory strain from softer agricultural diets; Yakkure's morphology reflects greater ecological continuity. Comparison with early 20th century data reveals a secular trend toward gracilization and nasal broadening. These findings extend loading‐related plasticity to the craniofacial skeleton, illustrating how nasal morphology may encode deep ancestral heritage and plastic responses to rapid biocultural change.</jats:p>\n                  </jats:sec>",
+      "authors": [
+        "Charmalie Anuradha Dona Nahallage",
+        "Dissanayakalage Tharaka Harshani Ananda",
+        "Dissanayakalage Tharaka Harshani Ananda, Charmalie Anuradha Dona Nahallage"
+      ],
+      "doi": "10.1002/ajpa.70348",
+      "id": "doi:10.1002/ajpa.70348",
+      "publication_date": "2026-08-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:American Journal of Biological Anthropology"
+      ],
+      "summary": "该研究首次系统分析斯里兰卡维达族成人鼻部形态，发现不同迁移群体间鼻尺寸有差异但鼻指数无显著差异，提示鼻部形态存在表型可塑性，并与骨骼细弱化趋势一致。",
+      "title": "Nasal Gracilization in Sri Lankan Indigenous Vedda: Phenotypic Plasticity and Evolutionary Continuity",
+      "topics": [
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1002/ajpa.70348",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "fossils for the first time, and reshapes our understanding of hominin evolution and the history of genetic admixture in East Asia.",
+      "authors": [
+        "Zi-Yi Zou",
+        "Hui-Yun Rao",
+        "Qiao-Mei Fu"
+      ],
+      "doi": "10.16288/j.yczz.26-115",
+      "id": "doi:10.16288/j.yczz.26-115",
+      "publication_date": "2026-08-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "古蛋白质组学首次揭示东亚中更新世直立人的遗传特征，重塑了对古人类演化及东亚基因混合历史的理解。",
+      "title": "Paleoproteomics reveal the genetic characteristics of Middle Pleistocene Homo erectus in East Asia.",
+      "topics": [
+        "hominin",
+        "Middle Pleistocene"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42608181",
+      "venue": "PubMed",
+      "work_type": "article"
+    },
+    {
+      "abstract": "<jats:p>Why rivers have not deeply incised the interior of the Tibetan Plateau over geologic time scales remains an open question. Resolving this issue requires clarifying and quantifying the respective influences of different geological factors on headward river erosion. Focusing on the Eastern Himalayan syntaxis, we reveal that glacial damming occurred frequently along an ∼70 km reach of the Yarlung Tsangpo River, based on 10Be exposure dating and paleoglacial modeling. Glacial-damming episodes limited headward erosion via a cycle in which prolonged damming inhibited erosion during glacial periods and short-lived damming delayed it during interglacial periods. Moreover, these damming processes triggered extensive aggradation upstream and protected bedrock from erosion over long time scales, while they enhanced downstream incision, reshaping the longitudinal profile of the Yarlung Tsangpo River. Repeated glacial-damming processes cumulatively raised the effective local base level by ∼300 m since the middle Pleistocene. Overall, we show that the coupling of glaciation and tectonics is the key factor maintaining the long-term stability of the southeastern Tibetan Plateau margin.</jats:p>",
+      "authors": [
+        "Baotian Pan",
+        "Bo Cao",
+        "Jie Wang",
+        "Jinkun Qiu",
+        "Lingyi Wang",
+        "Weicheng Wang",
+        "Zihan Fu"
+      ],
+      "doi": "10.1130/g54646.1",
+      "id": "doi:10.1130/g54646.1",
+      "publication_date": "2026-08-18",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "研究聚焦东喜马拉雅构造结，基于10Be暴露测年和古冰川模拟，发现雅鲁藏布江约70公里河段频繁发生冰川堵江。堵江事件通过冰期长期抑制和间冰期短期延迟，限制河流溯源侵蚀，引发上游淤积并保护基岩，同时增强下游下切，重塑河流纵剖面。自中更新世以来…",
+      "title": "Glaciation-tectonic coupling: Stabilizing the southeastern Tibetan Plateau",
+      "topics": [
+        "Middle Pleistocene"
+      ],
+      "url": "https://doi.org/10.1130/g54646.1",
+      "venue": "Geology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Abstract. The cause of the fundamental reorganisation of the climate system during the Middle Pleistocene Transition (MPT; ∼ 1.25–0.65 million years ago (Ma)), when glacial cycles intensified and lengthened from 41 thousand year (kyr) to quasi-100 kyr periodicity, remains one of the enduring unsolved questions in palaeoclimate science. Increasing attention has focused on the role of the marine carbon cycle, with enhanced carbon storage in the deep sea linked to changes in deep-water temperature and salinity that increase abyssal ocean density stratification. Here we report new high-resolution reconstructions of deep-water temperature and the isotopic composition of seawater (δ18Oseawater), a proxy for ice volume and salinity, from North Atlantic Site U1385, using paired benthic foraminiferal Mg/Ca and oxygen isotope (δ18O) analyses. Together with published records, we present basin-scale and globally distributed compilations of deep-water temperature and δ18Oseawater to assess changes in abyssal ocean stratification for the past 1.5 million years (Myr). Across the MPT, interbasinal gradients suggest North Atlantic deep-water became colder while Pacific deep-water became more saline during glacial periods after ∼ 930 thousand years ago (ka). Deep-ocean δ18Oseawater increased in both the Atlantic and Pacific across the MPT indicating increased continental ice volume. But, the increase was greater in the Pacific than the Atlantic, which we suggest reflects increased salinity of Southern Component Water (SCW). We propose the following sequence of changes during the MPT as a working hypothesis: (1) freshwater input to the marginal seas around Antarctica was reduced beginning at 930 ka by decreased melting of the Antarctic Ice Sheet and/or marine ice shelves and increased sea ice formation in the Southern Ocean; (2) the salinity and density of SCW increased, resulting in enhanced abyssal ocean density stratification and rendering the deep ocean a more effective carbon trap; (3) together with increased export production of organic matter and reduced deep-to-surface water exchange in the Southern Ocean, carbon storage in the deep ocean increased, lowering glacial atmospheric pCO2; (4) lower pCO2 permitted the growth of larger continental ice sheets, which reached a critical size and lengthened the glacial cycles. Our hypothesis supports an important role for abyssal ocean density stratification in the MPT, and requires further testing with additional benthic Mg/Ca-δ18O records, numerical model simulations, and forthcoming atmospheric pCO2 and mean ocean temperature results from the Beyond EPICA–Oldest Ice core from Antarctica.</jats:p>",
+      "authors": [
+        "David A. Hodell",
+        "Heather L. Ford",
+        "Mervyn Greaves",
+        "Nicola C. Thomas"
+      ],
+      "doi": "10.5194/cp-22-1559-2026",
+      "id": "doi:10.5194/cp-22-1559-2026",
+      "publication_date": "2026-08-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "研究显示，中更新世转型期间深海密度分层增强，北大西洋深层水变冷，太平洋深层水盐度增加，导致深海碳储存增加，可能促使冰期周期延长。",
+      "title": "Increased abyssal ocean density stratification across the Middle Pleistocene Transition",
+      "topics": [
+        "Middle Pleistocene"
+      ],
+      "url": "https://doi.org/10.5194/cp-22-1559-2026",
+      "venue": "Climate of the Past",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
