@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-21",
+  "items": [
+    {
+      "abstract": "",
+      "authors": [
+        "Emily R. Orlikoff",
+        "Jay Reti",
+        "Michael C. Pante",
+        "Trevor L. Keevil"
+      ],
+      "doi": "10.1007/s12520-026-02547-w",
+      "id": "doi:10.1007/s12520-026-02547-w",
+      "publication_date": "2026-08-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "",
+      "title": "When stone meets bone: characteristics of bone surface modifications made by Oldowan and Acheulean stone tool forms",
+      "topics": [
+        "Acheulean"
+      ],
+      "url": "https://doi.org/10.1007/s12520-026-02547-w",
+      "venue": "Archaeological and Anthropological Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Global-event approach to a high-precision inter-basinal correlation: example from the Devonian of the Variscan Foreland (Poland) Narkiewicz, Marek Newsletters on Stratigraphy, (2026), p. - Abstract The critical review of regional data on the upper Emsian to Famennian in the Devonian Variscan Foreland basins of Poland demonstrates applicability of the global event-stratigraphic approach for improvement of a chronostratigraphic correlation of the existing lithostratigraphic schemes. In particular, eustatic sea level fluctuations and hypoxic black-shale events serve as useful regionally distinguishable event horizons, partly based on regional higher-order transgressive-regressive cycles. Credibility of particular levels depends on the correctness of facies/palaeoenvironmental interpretation of the associated depositional features whereas correlation precision is related to the resolution of chronostratigraphic tools, in this case, the conodont zonation. Depending on the quality of these attributes, the distinguished event levels were classified into four groups reflecting decreasing correlation confidence: certain, probable, possible and potential levels. Being less time and resources consuming than the high resolution correlation methodology (HiRES), the present approach leads to establishing a precise chronostratigraphic framework for studies involving different basins with well-recognized lithostratigraphy, facies development and advanced biostratigraphic correlation. Thus, it may be regarded as a first (or supplementary) step towards a precise and high-resolution interbasinal correlation. Such approach may facilitate depositional architecture and palaeogeographic studies, among others, while at the same time providing information on confidence of correlation procedures. Further refinement of the presented correlation will depend on regional-scale application of more precise dating techniques, including better-constrained biostratigraphic, as well as various radiometric, chemostratigraphic and cyclostratigraphic methods.",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:600ab44df060ab3cd092258881729a21647389af0b9e0900d6af41dbc55bd285",
+      "publication_date": "2026-08-19",
+      "sources": [
+        "rss:Newsletters on Stratigraphy"
+      ],
+      "summary": "该研究回顾波兰华力西前陆盆地泥盆纪数据，应用全球事件地层学方法改进年代地层对比，依据海平面波动和缺氧黑色页岩事件划分四级可信度事件层，为跨盆地高精度对比提供基础。",
+      "title": "Global-event approach to a high-precision inter-basinal\n                    correlation: example from the Devonian of the Variscan Foreland\n                    (Poland)",
+      "topics": [
+        "stratigraphy"
+      ],
+      "url": "http://www.schweizerbart.de//papers/nos/detail/prepub/109424/Global_event_approach_to_a_high_precision_inter_basinal_correlation_example_from_the_Devonian_of_the_Variscan_Foreland_Poland",
+      "venue": "Newsletters on Stratigraphy",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
