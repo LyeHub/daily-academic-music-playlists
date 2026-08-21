@@ -1,0 +1,32 @@
+{
+  "date": "2026-08-22",
+  "items": [
+    {
+      "abstract": "",
+      "authors": [
+        "Junyi Ge",
+        "Linhui Li",
+        "Nicolas Zwyns",
+        "Peiqi Zhang",
+        "Shejiang Wang",
+        "Wei He",
+        "Xiaoling Zhang",
+        "Xing Gao",
+        "Yingshuai Jin"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114154",
+      "id": "doi:10.1016/j.palaeo.2026.114154",
+      "publication_date": "2026-08-21",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "",
+      "title": "The dispersal and adaptation of Homo sapiens onto the Tibetan Plateau during MIS 3: an Initial Upper Paleolithic assemblage from Nwya Devu?",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114154",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}

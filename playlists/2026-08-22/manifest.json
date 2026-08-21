@@ -1,0 +1,66 @@
+{
+  "date": "2026-08-22",
+  "items": [
+    {
+      "artists": [
+        "Jungle"
+      ],
+      "release_date": "2026-08-14",
+      "release_type": "album",
+      "title": "Sunshine"
+    },
+    {
+      "artists": [
+        "Tyondai Braxton"
+      ],
+      "release_date": "2026-08-21",
+      "release_type": "album",
+      "title": "Splayed Werks"
+    },
+    {
+      "artists": [
+        "Westside Cowboy"
+      ],
+      "release_date": "2026-08-21",
+      "release_type": "album",
+      "title": "It Goes On"
+    },
+    {
+      "artists": [
+        "KSHMR",
+        "Ampermut",
+        "Gobi Desert Collective",
+        "TEJA"
+      ],
+      "release_date": "2026-07-17",
+      "release_type": "single",
+      "title": "Mirage"
+    },
+    {
+      "artists": [
+        "beabadoobee"
+      ],
+      "release_date": "2026-08-20",
+      "release_type": "single",
+      "title": "Memories"
+    },
+    {
+      "artists": [
+        "Squirrel Flower"
+      ],
+      "release_date": "2026-08-21",
+      "release_type": "album",
+      "title": "Say a Prayer to the Gods of Getting Going"
+    },
+    {
+      "artists": [
+        "Julia Holter"
+      ],
+      "release_date": "2026-08-21",
+      "release_type": "album",
+      "title": "Materia"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-08-22",
+  "schema_version": 1
+}
