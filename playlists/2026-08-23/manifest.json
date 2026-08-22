@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-23",
+  "items": [
+    {
+      "artists": [
+        "Tyondai Braxton"
+      ],
+      "release_date": "2026-08-21",
+      "release_type": "album",
+      "title": "Splayed Werks"
+    },
+    {
+      "artists": [
+        "Ok Cowgirl"
+      ],
+      "release_date": "2026-08-21",
+      "release_type": "album",
+      "title": "Rhinestone Cowgirl"
+    },
+    {
+      "artists": [
+        "Carly Rae Jepsen"
+      ],
+      "release_date": "2026-08-21",
+      "release_type": "single",
+      "title": "Motivation"
+    },
+    {
+      "artists": [
+        "Squirrel Flower"
+      ],
+      "release_date": "2026-08-21",
+      "release_type": "album",
+      "title": "Say a Prayer to the Gods of Getting Going"
+    },
+    {
+      "artists": [
+        "肖骏"
+      ],
+      "release_date": "2022-09-23",
+      "release_type": "album",
+      "title": "Atypical Airship"
+    },
+    {
+      "artists": [
+        "ANBV",
+        "Stariah"
+      ],
+      "release_date": "2026-08-22",
+      "release_type": "single",
+      "title": "Coming With Me"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-08-23",
+  "schema_version": 1
+}

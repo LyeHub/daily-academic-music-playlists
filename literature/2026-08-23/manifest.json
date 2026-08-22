@@ -1,0 +1,74 @@
+{
+  "date": "2026-08-23",
+  "items": [
+    {
+      "abstract": "",
+      "authors": [
+        "Rita Sorrentino",
+        "Silvia Volpe",
+        "Kristian J. Carlson",
+        "Teresa Nicolosi",
+        "Carla Figus",
+        "Vitale Sparacello",
+        "Francesca Meli",
+        "Michele Conconi",
+        "Nicola Sancisi",
+        "Claudio Belvedere",
+        "Alberto Leardini",
+        "Jean-Jacques Hublin",
+        "Timothy Ryan",
+        "Luca Sineo",
+        "Antonio Rosas",
+        "Stefano Benazzi",
+        "Maria Giovanna Belcastro"
+      ],
+      "doi": "10.1016/j.jhevol.2026.103887",
+      "id": "doi:10.1016/j.jhevol.2026.103887",
+      "publication_date": "2026-08-22",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "",
+      "title": "Neanderthal’s heel: How the Neanderthal’s external calcaneal shape uniquely differs from that of modern humans",
+      "topics": [
+        "Neanderthal"
+      ],
+      "url": "https://doi.org/10.1016/j.jhevol.2026.103887",
+      "venue": "Journal of Human Evolution",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:p>Reconstructing surface uplift rates in active orogens is critical for understanding how deep Earth processes shape topography, but such estimates require both rapid uplift and preservation of young marine deposits. The southern margin of the Central Anatolian Plateau (CAP) in Türkiye provides an exceptional example, preserving Upper Miocene and late Middle-Pleistocene marine deposits at ∼2.2 km and ∼1.1 km of elevation, respectively, indicating multiphase uplift. We investigated the TOL-1 section in the Mut Basin, which preserves late Middle-Pleistocene (Marine Isotope Stage 7) marine deposits at 1177 m above mean sea level (amsl); the highest in the world. The section records two key calcareous nannofossil bioevents: the last occurrence of Pseudoemiliania lacunosa (0.46 Ma) and the first occurrence of Emiliania huxleyi (0.26 Ma). Foraminiferal biostratigraphy, marked by the consistent presence of Globigerinella calida from the base, indicates that deposition began after ca. 0.53 Ma. Ostracod assemblages reveal a transition from upper epibathyal to littoral environments, with a shallowing-upward trend beginning at ca. 0.40 Ma. Paleomagnetic data indicate normal polarity, consistent with deposition during the current normal polarity Brunhes Chron. By integrating biostratigraphy, paleobathymetric reconstructions (∼50 m below mean sea level), and sea-level estimates at 0.23 Ma (∼−18 m), we calculated a mean uplift rate of ∼5.2 m/k.y. This exceptionally high rate may be attributed to slab break-off of the still-subducting eastern Cyprus slab combined with mantle flow from the Arabian slab window at the Eastern Anatolian collision zone. These findings provide a rare high-resolution temporal benchmark for linking stratigraphic records of marine deposition with deep-seated processes and rapid surface uplift in active convergent margins.</jats:p>",
+      "authors": [
+        "Costanza Faranda",
+        "Domenico Cosentino",
+        "Elsa Gliozzi",
+        "Fabrizio Lirer",
+        "Francesca Cifelli",
+        "Irene Cornacchia",
+        "Massimo Mattei",
+        "Nazik Öğretmen",
+        "Paola Cipollari",
+        "Selma Sarı",
+        "Simone Racano",
+        "Süheyla Kanbur"
+      ],
+      "doi": "10.1130/g55209.1",
+      "id": "doi:10.1130/g55209.1",
+      "publication_date": "2026-08-21",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "安纳托利亚高原南缘发现全球最高的晚中更新世海相沉积，海拔1177米，揭示约5.2米/千年的快速抬升速率，可能与板块断离及地幔流有关。",
+      "title": "The world’s highest late Middle-Pleistocene marine deposits on the southern margin of the Central Anatolian Plateau (southern Türkiye)",
+      "topics": [
+        "Middle Pleistocene",
+        "stratigraphy"
+      ],
+      "url": "https://doi.org/10.1130/g55209.1",
+      "venue": "Geology",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
