@@ -1,0 +1,29 @@
+{
+  "date": "2026-08-24",
+  "items": [
+    {
+      "abstract": "<jats:p>The biblical creation model places modern humans and archaic Homo populations together on the near side of a recent, severe global bottleneck, and it makes a hard genetic prediction: their mitochondrial lineages should form one bounded, continuous human genealogy, not separate deep branches. I test that prediction on the cytochrome c oxidase subunit I barcode (COI-5P), the standard 650 base pair animal marker, across modern Homo sapiens, Neanderthals, Denisovans, and the Sima de los Huesos hominin catalogued in BOLD as Homo heidelbergensis. A marker-specific audit recovered 23,856 modern, 11 Neanderthal, three Denisovan, and two Sima COI-5P records, and all four labels are represented in a single Barcode Index Number, BOLD:AAA0001. Using one observed representative per lineage with chimpanzee and gorilla as outgroups, I evaluated all 15 rooted Homo topologies under HKY85+Γ4 and reconstructed ancestral states probabilistically at every variable site. The result is unambiguous. The four Homo lineages differ from one another by only 8 to 20 substitutions while differing from the apes by 65 to 71, so the barcode gap that marks a species boundary falls between Homo and the apes and nowhere among the Homo lineages. The rooted analysis groups modern human with Neanderthal (81.1% support) and Denisovan with Sima (70.5%) inside one Homo clade, and it reconstructs an ancestral sequence belonging to no living human and no archaic tip, a distinct founder at the root, resolved to posterior probability at or above 0.95 at four sites. This is the bounded maternal genealogy the creation model predicts. The timing of that genealogy is a separate question, and I answer it not from the barcode but from the Sima femur itself. In a cave that is wet and mild and has never frozen, the specimen still carries DNA fragments 30 to 45 base pairs long. Read against the measured, temperature-calibrated chemistry of DNA decay, that survival places the bone in the low thousands of years, and even the most preservation-favorable rate the data allow cannot carry it past roughly sixteen thousand. To reach the conventional 430,000 years, decay must run about sixty-five times slower than it has ever been measured, a rate the physics reaches only under sustained freezing this cave has never known. The barcode says these people are one family. The chemistry says the family is young. Multiple independent lines, both genetic and chemical, converge on the recent, bounded human history the biblical record described first.</jats:p>",
+      "authors": [
+        "Matt Nailor"
+      ],
+      "doi": "10.67690/8cqqv189",
+      "id": "doi:10.67690/8cqqv189",
+      "publication_date": "2026-08-23",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "一项针对现代人、尼安德特人、丹尼索瓦人和Sima古人类线粒体COI-5P条形码的分析显示，所有四个谱系属于单一BOLD:AAA0001，差异仅8至20个替换，形成单一连续谱系；Sima股骨DNA片段长度表明其年代为低数千至约一万六千年，而…",
+      "title": "One Ancestral Hominin Lineage Across Modern and Archaic Homo",
+      "topics": [
+        "hominin",
+        "Neanderthal",
+        "Sima de los Huesos"
+      ],
+      "url": "https://doi.org/10.67690/8cqqv189",
+      "venue": "Truth in Research",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
