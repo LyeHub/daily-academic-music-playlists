@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-25",
+  "items": [
+    {
+      "abstract": "<jats:p>Coastal socio-economic and ecological processes are at the forefront of current archeological research world-wide because of their significance for understanding people’s relationships with aquatic habitats. The South African west coast is such a case and particularly for the Late-Holocene. Among the many known coastal sites are more than a dozen massive shell middens. Known locally as ‘megamiddens’, they reflect an intense use of coastal resources by a growing human population during the period ~3560–2100 cal BP. Recent studies of the southern-most megamiddens in Paternoster (Vredenburg Peninsula) expanded on initial observations based on megamiddens along the central west coast, but the relationship between these two focal areas remains to be understood. We thus explore this connection through the contemporary archeological record from Dwarskersbos, located along the ~52 km long prograded sandy coastline separating them. While movement of people along this long sandy beach happened over millennia, the results show more connections between Dwarskersbos and Paternoster sites, including: (i) visits between ~3560 and 2345 cal BP, (ii) a high occupational intensity and use of large stone hearths, (iii) a subsistence based on rocky shore mollusks, small terrestrial prey and occasionally also on marine mammals, (iv) the probable presence of social networks along the Vredenburg Peninsula and Dwarskersbos coastline different to those on the central west coast which resulted in differential access to lithic raw materials. These observations add complex and dynamic aspects to an evolving picture for a unique period of intensive use of aquatic resources.</jats:p>",
+      "authors": [
+        "Antonieta Jerardino",
+        "Jayson Orton"
+      ],
+      "doi": "10.1177/09596836261477267",
+      "id": "doi:10.1177/09596836261477267",
+      "publication_date": "2026-08-24",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "该研究探讨南非西海岸Dwarskersbos遗址，位于两个巨型贝丘区域之间。结果显示其与Paternoster遗址联系更紧密，包括约3560至2345年前的访问、高密度居住、石灶使用及岩岸软体动物等生计方式，表明存在独特社会网络。",
+      "title": "Late-Holocene settlement along a prograding shoreline between two focal areas of massive shell middens, western Cape, South Africa",
+      "topics": [
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1177/09596836261477267",
+      "venue": "The Holocene",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
