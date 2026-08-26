@@ -1,0 +1,171 @@
+{
+  "date": "2026-08-27",
+  "items": [
+    {
+      "abstract": "<jats:p>\n                    The consumption of small vertebrates occurs to varying degrees among many non-human primates. This dietary element may have constituted an important source of nutrition for early hominins, particularly during periods of food scarcity, providing a stepping stone to the exploitation of larger animals. Capuchin monkeys regularly consume small vertebrates across their range. Expanding our knowledge of the contribution of animal matter to these primates’ diets can shed light on the proximate and ultimate drivers of small vertebrate consumption across primate taxa, including humans. We report on the most extensive record of bearded capuchin (\n                    <jats:italic>Sapajus libidinosus</jats:italic>\n                    ) vertebrate predation so far available: 45 months of observations of vertebrate predation in two sympatric groups in Fazenda Boa Vista, in northeastern Brazil. We estimated the effect of provisioning, sex, age class, fruit and insect availability, rainfall, humidity, and temperature on predation rates using a zero-inflated negative binomial algorithm with random effects. We found mammal and saurian consumption is habitual in this population of\n                    <jats:italic>S. libidinosus</jats:italic>\n                    . Prey brains and viscera tend to be accessed before the rest of the body. Predation rates were higher in males compared to females and in adults compared to infants across groups. Our results also identified small vertebrates as key energy sources for bearded capuchins under decreased fruit availability and show that provisioning reduces predation rates. Future work should assess small vertebrate predation as a possible stepping stone in the emergence of human exploitation of large animals by re-analyzing fossil faunal assemblages for evidence of small vertebrate predation.\n                  </jats:p>",
+      "authors": [
+        "Susana Carvalho",
+        "Noemi Spagnoletti",
+        "João d’Oliveira Coelho",
+        "Megan Beardmore-Herd",
+        "Olívia Mendonça-Furtado",
+        "Michele Verderane",
+        "Joana Prieto",
+        "Dominique I. Cavallaro",
+        "Patrícia Izar",
+        "Elisabetta Visalberghi"
+      ],
+      "doi": "10.1371/journal.pone.0355204",
+      "id": "doi:10.1371/journal.pone.0355204",
+      "publication_date": "2026-08-26",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《卷尾猴（Sapajus libidinosus）对小脊椎动物的捕食：对人类捕食模式的启示》：该研究基于巴西东北部45个月的野外观察，首次系统记录了卷尾猴捕食小型脊椎动物的行为模式，发现其偏好取食脑和内脏，且捕食率受性别、年龄及果实丰度影响。值得阅读，因为它为理解早期人类从捕食小型动物向大型动物过渡的演化路径提供了关键行为学证据，并提示在化石动物群分析中需…",
+      "title": "Small vertebrate consumption by capuchin monkeys (Sapajus libidinosus): Insights into the human predatory pattern",
+      "topics": [
+        "faunal assemblage",
+        "hominin"
+      ],
+      "url": "https://doi.org/10.1371/journal.pone.0355204",
+      "venue": "PLOS One",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>I present here a path for thinking differently about the archaeology of urbanization, one that is explicitly rooted in social zooarchaeology. I argue first that studies of early urbanism have failed to take into account the multispecies nature of cities. In order to develop a framework for thinking about the role of animals in urbanization, I draw on the concept of affordances. I argue that explicit engagement with animal affordances offers a means of developing a new methodological toolkit for social zooarchaeological research. I focus in particular on behavioural affordances to explain how the sociality of herds underpins the world’s first cities. A case study based on zooarchaeological analysis conducted at the site of Hamoukar in northern Mesopotamia illustrates the potential of a multispecies approach to the world’s first cities. My goal is to reinvigorate archaeological studies of urbanism and urbanization by opening up space for thinking differently about the social foundations upon which cities were built.</jats:p>",
+      "authors": [
+        "Kathryn Grossman"
+      ],
+      "doi": "10.1017/s0959774326100729",
+      "id": "doi:10.1017/s0959774326100729",
+      "publication_date": "2026-08-12",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《将“咩”带回城市主义：可供性、放牧与美索不达米亚北部早期城市的社会动物考古学》：该文提出以动物可供性为核心的多物种视角，重新审视早期城市形成中畜群社会性的基础作用，并以哈穆卡尔遗址案例展示方法潜力，值得关注城市起源研究的学者阅读。",
+      "title": "Putting the Baa Back in Urbanism: Affordances, Herding, and the Social Zooarchaeology of Early Cities in Northern Mesopotamia",
+      "topics": [
+        "zooarchaeology"
+      ],
+      "url": "https://doi.org/10.1017/s0959774326100729",
+      "venue": "Cambridge Archaeological Journal",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:p>\n                    Membrane association of intrinsically disordered proteins (IDPs) mediates various cellular functions including membrane remodeling and signal transduction. Whereas membrane association through amphipathic helices and polybasic motifs is well understood, sequence determinants for the insertion of aromatic residues into the membrane hydrophobic core are still poorly characterized. Here, we decipher the sequence code for membrane insertion of aromatic-centered motifs. For an initial set of ten 9-residue aromatic-centered sequences, all-atom molecular dynamics simulations and the positioning of proteins in membranes (PPM) method produced very similar membrane insertion propensities. Applying PPM to a full library of 1.2×10\n                    <jats:sup>6</jats:sup>\n                    sequences with an F, W, or Y residue flanked by L, R, G, N, or E at four positions on either side, we found that aliphatic (L) and basic (R) residues favor membrane insertion, whereas acidic (E) and polar (N) residues disfavor it. Guided by these rules, we developed a mathematical model dubbed AroMIP (Aromatic Membrane Insertion Predictor) to predict the membrane insertion propensities of aromatic-centered motifs. AroMIP achieves 91.2, 92.0, and 99.7% accuracies for F-, W-, and Y-centered motifs, respectively, in disordered regions of the human proteome and is available as a web server at\n                    <jats:ext-link ext-link-type=\"uri\" xlink:href=\"https://zhougroup-uic.github.io/AroMIP/\">https://zhougroup-uic.github.io/AroMIP/</jats:ext-link>\n                    . The present work provides the sequence basis and a mechanistic understanding of how IDPs employ aromatic-centered motifs to drive membrane insertion, and enriches the tools for the study of IDP-membrane association.\n                  </jats:p>",
+      "authors": [
+        "Fidha Nazreen Kunnath Muhammedkutty",
+        "Huan-Xiang Zhou"
+      ],
+      "doi": "10.7554/elife.111515",
+      "id": "doi:10.7554/elife.111515",
+      "publication_date": "2026-08-26",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《 intrinsically disordered proteins 的膜插入编码》：该研究通过分子动力学模拟和PPM方法，系统解析了芳香族中心基序的膜插入序列规律，并开发出预测工具AroMIP。值得阅读，因其首次揭示了无序蛋白膜插入的序列密码，为理解膜重塑和信号转导机制提供了新视角。",
+      "title": "A membrane insertion code for intrinsically disordered proteins",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.111515",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Understanding how task knowledge is encoded neurally is crucial for uncovering the mechanisms underlying adaptive behavior. Here, we test the theory that all task information is integrated into a conjunctive task representation by investigating whether this representation simultaneously includes two types of associations that can guide behavior: stimulus–response (non-controlled) associations and stimulus–control (controlled) associations that inform how task focus should be adjusted to achieve goal-directed behavior. We extended the classic item-specific proportion congruency paradigm to dissociate the electroencephalographic (EEG) representations of controlled and non-controlled associations. Behavioral data replicated previous findings of association-driven adaptive behaviors. Decoding analyses of EEG data further showed that associations of controlled and non-controlled information were represented concurrently and differentially. Brain-behavioral analyses also showed that the strength of both associations was associated with faster responses. These findings provide initial evidence supporting the idea that controlled and non-controlled associations are governed by an integrated task representation to guide adaptive behaviors simultaneously.</jats:p>",
+      "authors": [
+        "Bingfang Huang",
+        "Harrison Ritz",
+        "Jiefeng Jiang"
+      ],
+      "doi": "10.7554/elife.108673",
+      "id": "doi:10.7554/elife.108673",
+      "publication_date": "2026-08-26",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《适应性行为由受控与非受控信息的整合表征引导》：该研究通过扩展经典实验范式并结合脑电解码，首次证明大脑可同时表征受控与非受控关联，且两者强度均与更快反应相关。值得阅读，因其为理解适应性行为的神经机制提供了整合表征理论的直接证据。",
+      "title": "Adaptive behavior is guided by integrated representations of controlled and non-controlled information",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.108673",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    The KCNE (KCNE1–6) proteins are single-pass transmembrane auxiliary subunits of the voltage-gated K\n                    <jats:sup>+</jats:sup>\n                    channel KCNQ1. KCNQ1–KCNE complexes have been well studied in jawed vertebrates ranging from zebrafish to humans, but KCNE subunits from earlier-diverging vertebrates remain poorly characterized. Here, we functionally characterize a single KCNE-like gene in lamprey, a jawless vertebrate, and designate it\n                    <jats:italic>kcne0</jats:italic>\n                    as an early-diverging member of the KCNE family. KCNE0 shows moderate amino acid sequence similarity to KCNE1–6 but is not particularly similar to any single isoform. Both\n                    <jats:italic>kcnq1</jats:italic>\n                    and\n                    <jats:italic>kcne0</jats:italic>\n                    transcripts were detected in multiple lamprey organs. When co-expressed with lamprey KCNQ1, KCNE0 produced a constitutively active current, similar to KCNE3. By contrast, KCNE0 modulated KCNQ1 from other species less effectively, suggesting species-specific tuning of KCNQ1–KCNE compatibility. Introducing into KCNE0 an intracellular tetra-leucine motif analogous to that in KCNE4 markedly reduced KCNQ1 current amplitude, conferring a KCNE4-like inhibitory effect. Overall, this work provides a functional reference for comparing KCNE-dependent modulation of KCNQ1 across vertebrates and suggests an underlying compatibility mechanism.\n                  </jats:p>",
+      "authors": [
+        "Buntaro Zempo",
+        "Emi Kawano-Yamashita",
+        "Go Kasuya",
+        "Kaei Ryu",
+        "Koichi Nakajo"
+      ],
+      "doi": "10.7554/elife.111781",
+      "id": "doi:10.7554/elife.111781",
+      "publication_date": "2026-08-26",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《无颌脊椎动物七鳃鳗中一个早期分化KCNE钾通道辅助亚基的特征分析》：该研究首次功能鉴定七鳃鳗的kcne0基因，揭示其与KCNQ1形成组成型激活电流，并发现物种特异性兼容机制，为理解KCNE家族演化提供关键参考，值得关注。",
+      "title": "Characterization of an early-diverging KCNE potassium-channel auxiliary subunit in the jawless vertebrate lamprey",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.111781",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Some objects appear ‘animate’ (e.g. dogs and elephants) while others do not (e.g. boots and sofas). This distinction pervades human cognition, with an expansive literature reporting striking effects of animacy on vision, memory, social perception, and neural organization. But studies of perceived animacy face a persistent challenge: Objects that differ in animacy tend to differ in many lower-level visual features (e.g. shape, texture, spatial frequency). Thus, it remains controversial whether animacy per se – as opposed to its lower-level correlates – drives visual processing. Here, we achieve previously unattainable levels of experimental control to demonstrate that the visual system represents animacy itself, beyond its lower-level covariates. We vary animacy while holding nearly all lower-level features constant by exploiting ‘visual anagrams’ – a diffusion-based technique for generating static images whose interpretations change radically with orientation. Eight pre-registered experiments leverage this approach to demonstrate that representations of animacy structure visual working memory and guide visual attention. Thus, the visual system extracts animacy itself, beyond its lower-level correlates.</jats:p>",
+      "authors": [
+        "Chaz Firestone",
+        "Tal Boger"
+      ],
+      "doi": "10.7554/elife.111179",
+      "id": "doi:10.7554/elife.111179",
+      "publication_date": "2026-08-26",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《感知“相同”图像中的生命性》：该研究利用“视觉回文”技术，在控制低级视觉特征的同时改变生命性感知，通过八项预注册实验证明视觉系统能独立提取生命性并影响工作记忆与注意力。值得阅读，因其巧妙解决了生命性研究中长期存在的混淆难题，为视觉认知提供了严谨的新证据。",
+      "title": "Perceiving animacy in ‘identical’ images",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.111179",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Artificial neural networks (ANNs) are an important tool for studying neural computation, but many features of the brain are not captured by standard ANN architectures. One notable missing feature in most ANN models is top-down feedback, that is projections from higher-order layers to lower-order layers in the network. Top-down feedback is ubiquitous in the brain, and it has a unique modulatory impact on activity in neocortical pyramidal neurons. However, we still do not understand its computational role. Here, we develop a deep neural network model that captures the core functional properties of top-down feedback in the neocortex, allowing us to construct hierarchical recurrent ANN models that more closely reflect the architecture of the brain. We use this to explore the impact of different hierarchical recurrent architectures on an audiovisual integration task. We find that certain hierarchies, namely those that mimic the architecture of the human brain, impart ANN models with a light visual bias similar to that seen in humans. This bias does not impair performance on the audiovisual tasks. The results further suggest that different configurations of top-down feedback make otherwise identically connected models functionally distinct from each other, and from traditional feedforward and laterally recurrent models. Altogether, our findings demonstrate that modulatory top-down feedback is a computationally relevant feature of biological brains, and that incorporating it into ANNs affects their behavior and constrains the solutions it is likely to discover.</jats:p>",
+      "authors": [
+        "Blake Richards",
+        "ec (Blake Richards",
+        "ec (Eilif B Muller",
+        "ec (Mashbayar Tugsbayar",
+        "ec (Mingze Li",
+        "Eilif B Muller",
+        "Mashbayar Tugsbayar",
+        "Mingze Li"
+      ],
+      "doi": "10.7554/elife.105953",
+      "id": "doi:10.7554/elife.105953",
+      "publication_date": "2026-08-26",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《深度神经网络中的自上而下反馈导致视听整合过程中的功能差异》：该研究构建了模拟大脑新皮层自上而下反馈的层级循环神经网络，并发现模仿人脑架构的模型会呈现类似人类的视觉偏置且不影响任务表现。值得阅读，因为它揭示了自上而下反馈如何使结构相同的网络产生功能分化，为理解生物脑计算机制和优化人工神经网络设计提供了新视角。",
+      "title": "Top-down feedback in deep neural networks leads to functional differences during audiovisual integration",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.105953",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}

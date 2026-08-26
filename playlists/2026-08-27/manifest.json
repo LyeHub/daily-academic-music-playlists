@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-27",
+  "items": [
+    {
+      "artists": [
+        "Alpha Contact"
+      ],
+      "release_date": "2026-08-20",
+      "release_type": "album",
+      "title": "Alpha"
+    },
+    {
+      "artists": [
+        "SimplyDogpack"
+      ],
+      "release_date": "2026-08-27",
+      "release_type": "single",
+      "title": "Strut"
+    },
+    {
+      "artists": [
+        "DJC@"
+      ],
+      "release_date": "2026-08-21",
+      "release_type": "single",
+      "title": "Wake Up, It Is You"
+    },
+    {
+      "artists": [
+        "Lusine"
+      ],
+      "release_date": "2026-08-21",
+      "release_type": "album",
+      "title": "Melting Days"
+    },
+    {
+      "artists": [
+        "Kate Bollinger"
+      ],
+      "release_date": "2026-10-02",
+      "release_type": "ep",
+      "title": "Shop Girl"
+    },
+    {
+      "artists": [
+        "Shahlo Ahmedova"
+      ],
+      "release_date": "2026-08-22",
+      "release_type": "single",
+      "title": "Yon (demo)"
+    },
+    {
+      "artists": [
+        "AkiLya-XON"
+      ],
+      "release_date": "2026-08-25",
+      "release_type": "single",
+      "title": "Hope"
+    },
+    {
+      "artists": [
+        "squeeda",
+        "ultalux"
+      ],
+      "release_date": "2026-08-21",
+      "release_type": "single",
+      "title": "Trust Fall (Chill Dude mix)"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-08-27",
+  "schema_version": 1
+}
