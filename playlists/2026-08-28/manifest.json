@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-28",
+  "items": [
+    {
+      "artists": [
+        "Jackson Wyeth"
+      ],
+      "release_date": "2026-08-28",
+      "release_type": "album",
+      "title": "28"
+    },
+    {
+      "artists": [
+        "Kev'Laa"
+      ],
+      "release_date": "2026-08-28",
+      "release_type": "single",
+      "title": "Disco Biscuit (Drop Culture Version)"
+    },
+    {
+      "artists": [
+        "Eguana"
+      ],
+      "release_date": "2026-08-27",
+      "release_type": "album",
+      "title": "Fly Alone"
+    },
+    {
+      "artists": [
+        "Antony Szmierek"
+      ],
+      "release_date": "2026-08-21",
+      "release_type": "album",
+      "title": "Decoding Birdsong"
+    },
+    {
+      "artists": [
+        "Vladislav Delay Quintet"
+      ],
+      "release_date": "2026-08-27",
+      "release_type": "album",
+      "title": "vd5"
+    },
+    {
+      "artists": [
+        "Atmodub"
+      ],
+      "release_date": "2026-08-28",
+      "release_type": "ep",
+      "title": "Hydro Static"
+    },
+    {
+      "artists": [
+        "jaydobeatzz",
+        "Timo PR"
+      ],
+      "release_date": "2026-08-27",
+      "release_type": "single",
+      "title": "yo quiero una bori"
+    },
+    {
+      "artists": [
+        "Jun OKUNO"
+      ],
+      "release_date": "2026-08-28",
+      "release_type": "ep",
+      "title": "Kaiju"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-08-28",
+  "schema_version": 1
+}

@@ -1,0 +1,934 @@
+{
+  "date": "2026-08-28",
+  "items": [
+    {
+      "abstract": "Science, Volume 393, Issue 6814, August 2026.",
+      "authors": [
+        "Yulin Zhang, Arjun Biddanda, Sarah A. Johnson, Colm O’Dushlaine, Priya Moorjani"
+      ],
+      "doi": "",
+      "id": "paperfp:769b67fbf492702ca2bac077d67d5472c3b13951c2cd04b907440013df54b339",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《利用祖先重组图恢复古人类基因渗入的特征》：该研究提出基于祖先重组图的新方法，用于检测现代人类基因组中源自古人类的基因片段。值得阅读，因其为理解人类演化中的基因交流提供了更精确的分析工具，方法创新且发表于顶级期刊。",
+      "title": "Recovering signatures of archaic hominin introgression using ancestral recombination graphs",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef8874?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:sec>\n                    <jats:title>Objectives</jats:title>\n                    <jats:p>This paper uses deciduous dental morphology to evaluate the spatial structure of the Archaic period site of Phaleron (Athens, Greece) with the goal of identifying possible biological kin‐ or community structuring of the burial ground.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Materials and Methods</jats:title>\n                    <jats:p>Deciduous morphological data (77 total root‐trait combinations) were collected by the author using published standards for 231 preadult individuals from Phaleron. After pre‐analysis data treatments evaluating the effects of age, sex, and inter‐trait correlation, remaining variables were compared among burial subsectors using Mean Measure of Divergence statistics, with statistical significance assessed following both standard protocols and with bootstrapping methods.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Results are consistent with, but not identical to, those presented using permanent dental morphology, with deciduous data presenting stronger evidence of spatial structuring. This suggests that the same principles governing grave placement applied to both adults and preadults, which I argue reflects biological kinship as a structuring principle of Archaic period burial grounds.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Discussion</jats:title>\n                    <jats:p>This paper makes three contributions: (1) enhances understanding of ancient Greek burial practices, particularly of the non‐elite individuals who lived during the critical centuries of Athenian political development, (2) demonstrates the complementary value of using both deciduous and permanent dentition in analyses of biological distance, and (3) presents the first large sample of deciduous trait frequencies from ancient Greece, thus informing future comparative studies.</jats:p>\n                  </jats:sec>",
+      "authors": [
+        "Christopher M. Stojanowski"
+      ],
+      "doi": "10.1002/ajpa.70338",
+      "id": "doi:10.1002/ajpa.70338",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《利用乳牙形态重建希腊古风时期法勒隆墓地前成年个体墓葬的空间组织与墓地结构》：该研究通过分析231例前成年个体的乳牙形态特征，揭示墓地空间分布与生物亲缘关系的关联，为理解古希腊非精英群体的埋葬习俗及雅典政治发展关键时期的社会结构提供了新证据，同时首次提供古希腊乳牙特征的大样本数据，对生物距离分析方法的互补价值具有重要参考意义。",
+      "title": "Reconstruction of Spatial Organization and Cemetery Structure of Preadult Burials at the Phaleron Burial Ground (Archaic Athens, Greece) Using Deciduous Dental Morphology",
+      "topics": [
+        "dental morphology"
+      ],
+      "url": "https://doi.org/10.1002/ajpa.70338",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>\n                      This study provides new dental phenotypic data on the Aurignacian mandible Les Rois 2 (southwestern France). A former study of its dental morphology concluded that its taxonomic assignment to either\n                      <jats:styled-content style=\"fixed-case\">\n                        <jats:italic>Homo sapiens</jats:italic>\n                      </jats:styled-content>\n                      or\n                      <jats:italic>Homo neanderthalensis</jats:italic>\n                      was “uncertain” and could reflect a recent Neanderthal ancestry of this specimen. An alternative explanation was that Aurignacian people from Les Rois were\n                      <jats:styled-content style=\"fixed-case\">\n                        <jats:italic>H. sapiens</jats:italic>\n                      </jats:styled-content>\n                      displaying plesiomorphic features, extending the biological variation seen among modern populations. Here, we propose a reassessment of Les Rois 2 taxonomic status through the study of its dental morphological features.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Material and Methods</jats:title>\n                    <jats:p>\n                      Our analyses include micro‐tomographic data of a large comparative sample of\n                      <jats:italic>H. neanderthalensis</jats:italic>\n                      , Pleistocene and Holocene\n                      <jats:styled-content style=\"fixed-case\">\n                        <jats:italic>H. sapiens</jats:italic>\n                      </jats:styled-content>\n                      . We analyze dental metrics, 3D dental tissue proportions (AET and RET), Enamel Dentin Junction (EDJ) nonmetric trait variations, and lower premolar EDJ size and shape with 3D geometric morphometrics.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      The Les Rois 2 specimen displays dental features placing it at the limit of the range of variation of Holocene populations, but consistent with the morphology of Late Pleistocene\n                      <jats:styled-content style=\"fixed-case\">\n                        <jats:italic>H. sapiens</jats:italic>\n                      </jats:styled-content>\n                      . Our analyses also show that Les Rois 2 lacks the derived\n                      <jats:italic>H. neanderthalensis</jats:italic>\n                      morphological trait.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Discussion</jats:title>\n                    <jats:p>\n                      Our study shows that the taxonomic attribution of Les Rois 2 is more consistent with\n                      <jats:styled-content style=\"fixed-case\">\n                        <jats:italic>H. sapiens</jats:italic>\n                      </jats:styled-content>\n                      than with\n                      <jats:italic>H. neanderthalensis</jats:italic>\n                      , while acknowledging that the specimen displays plesiomorphic features rare among recent\n                      <jats:styled-content style=\"fixed-case\">\n                        <jats:italic>H. sapiens</jats:italic>\n                      </jats:styled-content>\n                      populations. These findings highlight the larger phenotypic variation displayed by Early Upper Paleolithic populations and contribute to a better understanding of the morphology of Aurignacian makers.\n                    </jats:p>\n                  </jats:sec>",
+      "authors": [
+        "Christine Verna",
+        "Dominique Grimaud‐Hervé",
+        "Fernando Ramirez Rozzi",
+        "Florent Détroit",
+        "Gaël Becam",
+        "Jérôme Isle de Beauchaine"
+      ],
+      "doi": "10.1002/ajpa.70354",
+      "id": "doi:10.1002/ajpa.70354",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《法国奥瑞纳下颌骨Les Rois 2的牙齿特征：新数据与分类学再评估》：该研究通过显微断层扫描和三维几何形态测量，重新评估了这件关键化石的归属，发现其牙齿形态更符合智人而非尼安德特人，但保留少数原始特征。值得阅读，因为它为早期旧石器时代晚期人群的形态变异提供了新证据，有助于厘清奥瑞纳文化制造者的生物学身份。",
+      "title": "The Dentition of the Aurignacian Mandible Les Rois 2, France: New Data and Taxonomic Reassessment",
+      "topics": [
+        "dental morphology",
+        "Neanderthal"
+      ],
+      "url": "https://doi.org/10.1002/ajpa.70354",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, August 2026.",
+      "authors": [
+        "Susana Monsó"
+      ],
+      "doi": "10.1126/science.ael0147",
+      "id": "doi:10.1126/science.ael0147",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Science"
+      ],
+      "summary": "《科学基于假设，哲学能确保这些假设是正确的》：这篇论文探讨了科学赖以成立的隐含假设，以及哲学如何通过批判性反思来检验这些假设的合理性。值得一读，因为它为理解科学与哲学的互补关系提供了清晰框架，尤其适合关注科学方法论基础的读者。",
+      "title": "Science is based on assumptions. Philosophy can make sure they’re the right ones.",
+      "topics": [],
+      "url": "https://doi.org/10.1126/science.ael0147",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 868-868, August 2026.",
+      "authors": [
+        "Emmanuel Edwar Siddig"
+      ],
+      "doi": "10.1126/science.aej9417",
+      "id": "doi:10.1126/science.aej9417",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Science"
+      ],
+      "summary": "《为战乱中的苏丹奥贝德寻求公共卫生支持之呼吁》：这篇发表于《科学》的短文聚焦苏丹奥贝德地区在冲突下的公共卫生困境，值得关注因为它以权威期刊平台发出紧急呼吁，凸显战争对医疗体系的破坏性影响，为全球健康政策制定者提供即时参考。",
+      "title": "A plea for public health support for war-torn El Obeid, Sudan",
+      "topics": [],
+      "url": "https://doi.org/10.1126/science.aej9417",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 946-946, August 2026.",
+      "authors": [
+        "Breana Griffin"
+      ],
+      "doi": "10.1126/science.ael7896",
+      "id": "doi:10.1126/science.ael7896",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Science"
+      ],
+      "summary": "《在照护他人时照护自己》：这篇发表于《科学》期刊的文章探讨了照护者在履行照护职责的同时如何维护自身身心健康。值得一读，因为它为长期承受照护压力的人群提供了实用的自我关怀策略，有助于平衡责任与个人福祉。",
+      "title": "Caring for myself while caring for others",
+      "topics": [],
+      "url": "https://doi.org/10.1126/science.ael7896",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Finding bodes greater weather disruptions from the Pacific climate cycle</jats:p>",
+      "authors": [
+        "Julia Vaz"
+      ],
+      "doi": "10.1126/science.ael8351",
+      "id": "doi:10.1126/science.ael8351",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Science"
+      ],
+      "summary": "《珊瑚记录表明全球变暖正在加强厄尔尼诺》：研究利用珊瑚记录揭示全球变暖对厄尔尼诺现象的增强效应，预示太平洋气候周期将带来更剧烈的天气扰动。该发现为理解气候变暖与极端天气的关联提供关键实证，值得关注。",
+      "title": "Coral records suggest global warming is strengthening El Niño",
+      "topics": [],
+      "url": "https://doi.org/10.1126/science.ael8351",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Gates Foundation pledges $540 million to a project often criticized for its opacity</jats:p>",
+      "authors": [
+        "Gretchen Vogel"
+      ],
+      "doi": "10.1126/science.ael8355",
+      "id": "doi:10.1126/science.ael8355",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Science"
+      ],
+      "summary": "《全球疾病研究获历史性资金注入》：报道盖茨基金会承诺投入5.4亿美元支持一项常因透明度不足而受批评的项目，揭示资金规模与争议并存，值得关注科研资助伦理与全球健康治理的平衡问题。",
+      "title": "Worldwide study of diseases gets historic funding influx",
+      "topics": [],
+      "url": "https://doi.org/10.1126/science.ael8355",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Lipoproteins are essential for lipid transport in all bilaterians. A single Apolipoprotein B (ApoB) molecule is the inseparable structural scaffold of each ApoB-containing lipoprotein (B-lps), which are responsible for transporting lipids to peripheral tissues. The cellular mechanisms that regulate ApoB and B-lp production, secretion, transport, and degradation remain to be fully defined. In humans, elevated levels of vascular B-lps play a causative role in cardiovascular disease. Previously, we have detailed that human B-lp biology is remarkably conserved in the zebrafish using an in vivo chemiluminescent reporter of ApoB (LipoGlo) that does not disrupt ApoB function. Thus, the LipoGlo model is an ideal system for identifying novel mechanisms of ApoB modulation and, due to the ability of zebrafish to generate many progeny, is particularly amenable to large-scale phenotypic drug screening. Here, we report a screen of roughly 3000 compounds that identified 49 unique ApoB-lowering hits. Nineteen hits passed orthogonal screening criteria, and seven were subjected to extensive phenotyping. A licorice root component, enoxolone, significantly lowered B-lps only in animals that express a functional allele of the nuclear hormone receptor Hepatocyte Nuclear Factor 4⍺ (HNF4⍺). Consistent with this result, inhibitors of HNF4⍺ also reduce B-lp levels. These data demonstrate that mechanism(s) of action can be rapidly determined from a whole-animal zebrafish phenotypic screen. Given the well-documented role of HNF4⍺ in human B-lp biology, these data validate the LipoGlo screening platform for identifying small-molecule modulators of B-lps that play a critical role in a leading cause of worldwide mortality.</jats:p>",
+      "authors": [
+        "Adrian G Rivera Cruz",
+        "Daniel J Kelpsch",
+        "James H Thierer",
+        "Jeff S Mumm",
+        "Jun O Liu",
+        "Kobe Koren",
+        "Liyun Zhang",
+        "Mira Sohn",
+        "Monica R Hensley",
+        "Steven A Farber",
+        "Thomas Lectka",
+        "Urmi Kumar",
+        "Yuki Lin"
+      ],
+      "doi": "10.7554/elife.105314",
+      "id": "doi:10.7554/elife.105314",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《全动物表型药物筛选鉴定致动脉粥样硬化脂蛋白的抑制因子》：该研究利用斑马鱼LipoGlo模型筛选约3000种化合物，发现49种降低ApoB脂蛋白的候选药物，并锁定甘草成分enoxolone通过HNF4⍺通路发挥作用。值得阅读，因其验证了全动物筛选平台在心血管疾病药物发现中的高效性，为靶向B-lp调控提供新策略。",
+      "title": "A whole-animal phenotypic drug screen identifies suppressors of atherogenic lipoproteins",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.105314",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    Endolysosomal dysfunction is a hallmark of Alzheimer’s disease and related tauopathies, yet underlying mechanisms remain poorly understood. This study investigates the role of sphingolipid metabolism in maintaining endolysosomal membrane integrity and its impact on tau aggregation and toxicity in\n                    <jats:italic>Caenorhabditis elegans</jats:italic>\n                    and human cell culture models. Fluorescence recovery after photobleaching and C-Laurdan dye imaging revealed that silencing sphingolipid metabolism genes reduced endolysosomal vesicle membrane fluidity, increasing their rupture. The accumulation of aggregated tau in endolysosomal vesicles further aggravated endomembrane rigidification and damage, and promoted seeded tau aggregation, potentially by facilitating the escape of tau seeds from the endolysosomal system. Supplementation with unsaturated fatty acids improved membrane fluidity, suppressing endolysosomal rupture and seeded tau aggregation in cell models, and alleviating tau-associated neurotoxicity in\n                    <jats:italic>C. elegans</jats:italic>\n                    . Together, this study provides mechanistic insight into how perturbation of sphingolipid metabolism promotes endolysosomal membrane damage and contributes to the escape of aggregated tau from this compartment, suggesting that restoration of membrane fluidity may represent a strategy to limit tau propagation and toxicity.\n                  </jats:p>",
+      "authors": [
+        "Carl Alexander Sandhof",
+        "Carmen Nussbaum-Krammer",
+        "Deike El-Kabarity",
+        "Jessica Tittelmeier",
+        "Nicole Martin",
+        "Ronald Melki",
+        "Soki-Bradel Ngonza-Nito"
+      ],
+      "doi": "10.7554/elife.106865",
+      "id": "doi:10.7554/elife.106865",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《鞘脂代谢紊乱通过内溶酶体膜硬化与破裂促进tau蛋白播种》：该研究揭示鞘脂代谢异常如何导致内溶酶体膜流动性下降、破裂，进而加剧tau蛋白聚集与传播，并通过补充不饱和脂肪酸恢复膜流动性来缓解毒性，为理解阿尔茨海默病机制及潜在干预策略提供了新视角，值得关注。",
+      "title": "Disruption of sphingolipid metabolism promotes tau seeding through endolysosomal membrane rigidification and rupture",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.106865",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>The evolutionary change in the mode of locomotion is often a major evolutionary event, triggering diversification. Sideways locomotion is a defining feature of true crabs (Brachyura) and may have contributed to their ecological success. Yet, the evolutionary origin of this unique behavior remains unknown. Here, we show that the prevalence of sideways locomotion in true crabs reflects a single evolutionary origin from a forward-moving ancestor. Our behavioral analysis of 50 live crab species indicates that crab locomotion can be broadly separated into two predominant modes, sideways and forward locomotion. The phylogenetic comparative analysis revealed a single origin of sideways locomotion, with multiple independent reversions to forward locomotion in ecologically specialized groups. The species richness data show that the lineage in which sideways locomotion originated is far more diverse than its nearest outgroups. These results are consistent with the idea that sideways locomotion acted as a key innovation contributing to the evolutionary diversification of true crabs. Such a rare but innovative behavioral trait provides a framework for understanding how locomotor modes shape evolutionary diversification in animals.</jats:p>",
+      "authors": [
+        "Atsushi Hirai",
+        "Fumio Takeshita",
+        "Jung-Fu Huang",
+        "Junya Taniguchi",
+        "Kano Kohara",
+        "Nobuaki Mizumoto",
+        "Tsubasa Inoue",
+        "Yuuki Kawabata"
+      ],
+      "doi": "10.7554/elife.110015",
+      "id": "doi:10.7554/elife.110015",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《螃蟹侧向行走的演化》：该研究通过50种活体螃蟹的行为分析与系统发育比较，揭示侧向行走在真蟹中单次起源并多次独立逆转，且与物种多样性显著相关。值得阅读，因其首次阐明这一独特行为作为关键创新如何推动甲壳动物演化辐射，为理解运动模式与生物多样性关联提供新视角。",
+      "title": "Evolution of sideways locomotion in crabs",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.110015",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Drug resistance inevitably emerges during the treatment of cancer by targeted therapy. Adaptive resistance is a major form of drug resistance, wherein the rewiring of protein signalling networks in response to drug perturbation allows drug-targeted protein activity to recover. This can occur in the continuous presence of the drug and enables cells to survive/grow. Simultaneously, molecular heterogeneity enables the selection of drug-resistant cancer clones that can survive an initial drug insult, proliferate, and eventually cause disease relapse. Despite their importance, the link between heterogeneity and adaptive resistance, specifically how heterogeneity influences protein signalling dynamics to drive adaptive resistance, remains poorly understood. Here, we have explored the relationship between heterogeneity, protein signalling dynamics, and adaptive resistance through the development of a novel modelling technique coined Meta Dynamic Network (MDN) modelling. We use MDN modelling to characterise how heterogeneity influences the drug-response signalling dynamics of the proteins that regulate early cell cycle progression and demonstrate that heterogeneity can robustly facilitate adaptive resistance associated dynamics for key cell cycle regulators. We determined the influence of heterogeneity at the level of both reaction coefficients and protein abundance and show that reaction coefficients are a much stronger driver of adaptive resistance. Owing to the mechanistic nature of the underpinning ordinary differential equation framework, we then identified a full spectrum of subnetworks capable of driving adaptive resistance dynamics in the key early cell cycle regulators. Finally, we show that single-cell dynamic data supports the validity of our MDN modelling technique and a comparison between our predicted resistance mechanisms and known CDK4/6 and oestrogen receptor inhibitor resistance mechanisms suggests MDN modelling can be deployed to robustly predict network-level resistance mechanisms for novel drugs and additional protein signalling networks.</jats:p>",
+      "authors": [
+        "Anthony Hart",
+        "Lan K Nguyen",
+        "Sung-Young Shin"
+      ],
+      "doi": "10.7554/elife.87710",
+      "id": "doi:10.7554/elife.87710",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《基于元动态网络建模的系统性分析揭示CDK4/6与雌激素受体抑制剂的网络驱动适应性耐药》：该研究提出新颖的元动态网络建模技术，系统阐明肿瘤异质性如何通过蛋白信号动态促进适应性耐药，并识别关键细胞周期调控子的耐药驱动子网络。值得阅读，因其为预测新型药物耐药机制提供了可推广的计算框架，对精准癌症治疗策略设计具有重要参考价值。",
+      "title": "Systematic analysis of network-driven adaptive resistance to CDK4/6 and oestrogen receptor inhibition using meta-dynamic network modelling",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.87710",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    The\n                    <jats:italic>Drosophila</jats:italic>\n                    scaffolding protein Zasp52 is required to maintain structure at the muscle Z-disc, which experiences strong forces during contraction. It is alternatively spliced into many isoforms, some of which contain a long intrinsically disordered region (IDR). We show that this region is primarily expressed in the indirect flight muscle (IFM) and is required for maintaining the integrity of the Z-disc. Deleting the IDR-encoding exon 15e results in flightlessness and structural IFM defects, including sarcomere bending at the Z-disc and an inability to de-contract. These defects are indicative of a lack of proper thin filament anchoring to the Z-disc. This is further supported by a genetic interaction between exon 15e and actin. Fluorescence recovery after photobleaching of an isoform lacking exon 15e shows that the IDR is required for maintaining Zasp52 at the Z-disc and thereby stabilizing Z-discs. Lastly, we can rescue these phenotypes by restricting IFM use. Together, these results suggest that Zasp52’s IDR confers thin filament stability at the Z-disc of IFM.\n                  </jats:p>",
+      "authors": [
+        "Frieder Schöck",
+        "Nikolai Ho"
+      ],
+      "doi": "10.7554/elife.111101",
+      "id": "doi:10.7554/elife.111101",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《Zasp52差异表达的内在无序区赋予Z盘细丝稳定性》：该研究揭示果蝇Zasp52蛋白中特定无序区域在间接飞行肌中维持Z盘结构完整性的关键作用，通过基因敲除与荧光恢复实验证实其锚定细丝的功能。值得阅读，因其为理解肌肉收缩力学中蛋白动态调控提供了新视角，且对肌病机制研究具有启示意义。",
+      "title": "Zasp52’s differentially expressed intrinsically disordered region confers thin filament stability at the Z-disc",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.111101",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Landforms comprising mixtures of fine and coarse sediment and deposited during late glacial times are ubiquitous in the British mountains. In many cases, their interpretation has often proved contentious; as a result, the non‐generic term discrete debris accumulations (DDA) has been used to describe them and, over the last 50 years, some have been interpreted as fossil rock glaciers of late Quaternary age. However, detailed accounts of their sedimentology and structural assessments of surrounding rock slopes have been lacking, despite the insights into processes that such investigations would allow. Here, and for the first time in the British Isles, we use detailed lithological and structural modelling and analyses to investigate a well‐defined DDA in the Nantlle Valley of North Wales. We show that component clasts within the landform are from rockfall debris originally detached from upslope rockwalls above by relatively small‐scale failure events. The results of 2D rockfall analysis demonstrate that a significant proportion of component debris could not have been deposited directly from rockfall. Instead, we conclude that the DDA was formed by downslope remobilisation of thick talus deposits, and movement was associated with strong compressional flow in the frontal margin. We argue that the only plausible mechanism that could have been responsible was the internal creep of ground ice that had developed within the talus. As a result, we argue that the DDA is a fossil rock glacier. Its formation in western Britain with former high levels of precipitation calls into question some of the palaeoenvironmental implications often applied to such landforms.</jats:p>",
+      "authors": [
+        "Ed Anderson",
+        "Stephan Harrison",
+        "Stephan Harrison, Ed Anderson"
+      ],
+      "doi": "10.1002/jqs.70108",
+      "id": "doi:10.1002/jqs.70108",
+      "publication_date": "2026-08-26",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Quaternary Science"
+      ],
+      "summary": "《北威尔士南特勒河谷的岩屑石冰川》：该研究首次在不列颠群岛运用详细岩石学与结构建模，揭示该地貌由岩屑崩塌再移动形成，并论证其为化石石冰川。值得阅读，因其挑战了高降水环境下此类地貌的古环境解释，为冰川地貌研究提供新视角。",
+      "title": "A talus rock glacier in Nantlle Valley, North Wales",
+      "topics": [],
+      "url": "https://doi.org/10.1002/jqs.70108",
+      "venue": "Journal of Quaternary Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    A detailed morphometric analysis of 200 cirques across the western Putorana Plateau, central Siberia, was undertaken to investigate cirque development, reconstruct glaciers and infer palaeoclimatic conditions. Cirques are amphitheatre‐shaped landforms with mean length and widths of 936 and 1000 m, respectively, indicating a mature glacial landscape shaped by prolonged erosion. Cirques exhibit near‐circularity (mean ratio 1.05) and a width–height ratio (3.44), indicating their characteristics of wider‐than‐deep form, with significant erosion of headwalls. Strong positive correlations between length, width and height (L/W: 0.758; L/H: 0.610) suggest that these dimensions scale together. A dominant northwesterly aspect reflects climatic conditions under which the cirques formed. PalaeoIce 2.0 reconstructions indicate that cirque glaciers generated a total reconstructed ice volume of 10.6 km\n                    <jats:sup>3</jats:sup>\n                    . Reconstructed glaciers attained a median ice thickness of 55.9 m and a maximum of 260.6 m, whilst equilibrium‐line altitudes reconstructed using the AAR and AABR methods ranged from 593 to 1372 m a.s.l. with median values of 818–826 m a.s.l. Strong positive correlations between glacier thickness and cirque dimensions indicate that basin geometry exerted a control on ice accumulation. Using the reconstructed ELAs, a snowline depression was calculated relative to present‐day conditions. Estimated temperature depressions range from 5.0 to 5.7 °C under mean conditions, and up to 7.2 °C under the coldest scenarios. This corresponds to summer temperatures of 0.3 to −0.4 °C and annual temperatures of −14.7 to −15.4 °C. Estimated palaeoprecipitation values of 875–1036 mm a\n                    <jats:sup>−1</jats:sup>\n                    suggest that sufficient moisture was needed to sustain cirque‐style glaciation. These findings provide the first quantitative reconstruction of cirque glaciers in the western Putorana Plateau and demonstrate that the region supported mountain glaciation during cold stages of the Late Pleistocene. This study provides new constraints on former glacier extent, equilibrium‐line altitudes and palaeoclimatic conditions, contributing to a broader understanding of mountain glaciations across Siberia.\n                  </jats:p>",
+      "authors": [
+        "Ethan Lee",
+        "Rachel P. Oien",
+        "Rachel P. Oien, Ethan Lee"
+      ],
+      "doi": "10.1111/bor.70086",
+      "id": "doi:10.1111/bor.70086",
+      "publication_date": "2026-08-26",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Boreas"
+      ],
+      "summary": "《西西伯利亚普托拉纳高原西部冰斗的形态计量分析：古气候代用指标》：该研究对200个冰斗进行形态测量并重建古冰川，首次定量揭示该区域晚更新世冰川规模与气候条件，为理解西伯利亚山地冰川演化提供关键数据，值得关注。",
+      "title": "Morphometric analysis of cirques in central Siberia's western Putorana Plateau: a proxy for palaeoclimate",
+      "topics": [],
+      "url": "https://doi.org/10.1111/bor.70086",
+      "venue": "Boreas",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, August 2026.",
+      "authors": [
+        "Jiyi Pang, Aysha H. Al-Ani, Komal M. Patel, Yunzhuo Zhou, Samuel N. Young, Jinjin Chen, Isabella Kong, Marilou Barrios, James A. Rickard, Siqi Chen, Xiuquan Ma, Farzaneh Shojaee, Seong-Beom Kim, Siavash Foroughi, Wayne Cawthorne, Annette V. Jacobsen, Asha Jois, Ashley L. Weir, Lachlan W. Whitehead, Pradeep Rajasekhar, Christopher R. Horne, Ruqian Lyu, Lucy J. Mather, Raymond K. H. Yip, Ellen Tsui, Imadh Azeez, Tao Tan, Weiwei Liang, Suresh Sivanesan, Andrew Metz, Ash Patwardhan, Natalie Shea, Guru Iyngkaran, Daniel Schneider, Alexander T. Elford, William Beattie, Finlay Macrae, Gianmaria Liccardi, Henning Walczak, Yuxia Zhang, Oliver M. Sieber, Tim Spelman, Lisa Giulino-Roth, Michael Christie, Yunshun Chen, Kelly L. Rogers, Rory Bowden, Sandra E. Nicholson, Kate E. Lawlor, Edwin D. Hawkins, Britt Christensen, Andre L. Samson, James E. Vince, James M. Murphy"
+      ],
+      "doi": "",
+      "id": "paperfp:8afdb3696ed1923d6585df588500d77f2dca59cbadd49062c91ab22710530ff2",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《坏死性凋亡向凋亡转变的信号轴是炎症性肠病的基础》：该研究揭示了肠道炎症中细胞死亡方式转换的关键分子机制，为理解炎症性肠病发病原理及开发靶向治疗策略提供了新视角，值得关注。",
+      "title": "A necroptotic-to-apoptotic signaling axis underlies inflammatory bowel disease",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh7112?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, August 2026.",
+      "authors": [
+        "Belinda Wang, Rasika Vartak, Kelsey M. Hennick, Yefim Zaltsman, Zun Zar Chi Naing, Benjamin J. Polacco, Ali Bashir, Manon Eckhardt, Mehdi Bouhaddou, Jiewei Xu, Nawei Sun, Micaela C. Lasser, Yuan Zhou, Justin McKetney, Keelan Z. Guiley, Pawel Gniewek, Una Chan, Naufa Amirani, Owen Griffiths, Nishant Chadha, Reshmi Tognatta, Merve Cakir, Martin Gordon, Prachi Khare, Sam Drake, Vanessa Drury, David F. Burke, Silvano Gonzalez, Sahar Alkhairy, Reuben Thomas, Stephanie Lam, Montana Morris, Ethel Bader, Mélanie Dos Santos, Anastassia V. Komarova, Maxwell Bennett, Craig Ennis, Octavio Castillo, Yvonne Lim, Robert Martin, Meghan Seyler, Tierney Baum, Rebecca Krasnoff, George Wang, Sagnik Middya, Sheng Wang, Presley Pham, Juan Arbelaez, Dexter Pratt, Sofia Bali, Shivali Chag, Julia A. Kaye, Nadir Mahmood, Lee Spraggon, Thomas Rolland, Shawn Hervey-Jumper, James S. Fraser, Thomas Bourgeron, Steven Finkbeiner, Caroline Demeret, Danielle L. Swaney, Sourav Bandyopadhyay, Trey Ideker, Pedro Beltrao, Helen Rankin Willsey, Ruth Hüttenhain, Kirsten Obernier, Tomasz J. Nowakowski, Matthew W. State, A. Jeremy Willsey, Nevan J. Krogan"
+      ],
+      "doi": "",
+      "id": "paperfp:76410bfae2f1f83f79fa0c673f2bc0a1a0d6ff9179c7ddf770b90f3a15ad1363",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《自闭症突变重塑蛋白质相互作用网络驱动神经发育病理》：该研究系统揭示了自闭症相关突变如何系统性改变蛋白质互作网络，为理解神经发育障碍的分子机制提供了全新视角，值得关注其突破性的网络分析方法和潜在治疗靶点。",
+      "title": "Autism mutations rewire protein interaction networks to drive neurodevelopmental pathology",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.ady4523?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, August 2026.",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:afde561b84ce8afb44347debeb2755921380acb7079c1a4758142347eff3d2e9",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《勘误：根系通过感知局部pH梯度绕过腐烂区域》：该勘误修正了关于根系如何依据局部酸碱度变化规避腐烂区域的研究结论，值得关注以确保引用准确性和理解根系导航机制的最新修正。",
+      "title": "Erratum for the Research Article “Roots navigate around decay regions by sensing local pH gradients”",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael6254?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, August 2026.",
+      "authors": [
+        "Bei Wang, Honn Kao, Hongyu Yu, Yan Jiang, Qiang Lin, Wenli Zhang, Jun Hua, Yushi Bai, Zhilong Chen, Peng Zhang, Ya Liu, Ryan Visser"
+      ],
+      "doi": "",
+      "id": "paperfp:908ffb909cb6c948c52ecf06b125e8322f8debc384edf118c99baa0d305c6f95",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《加拿大西部注水诱发地震的前震产出率与破裂成核》：该研究基于加拿大西部注水诱发地震数据，系统分析前震活动特征及其与破裂成核的关系，为理解诱发地震机制提供关键观测证据，值得地震学和能源工程领域读者关注。",
+      "title": "Foreshock productivity and rupture nucleation in injection-induced earthquakes in western Canada",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed9893?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, August 2026.",
+      "authors": [
+        "Yang Zhou, Jiazheng Jin, Chuan Jiang, Olga Dudchenko, Brendan J. Pinto, Zane Colaric, Ruqayya Khan, Arina D. Omer, Xuemei Li, Zhenzhen Song, Li Han, Wanyi Chen, Lichun Jiang, Zhangyue Song, David Weisz, Yun Xia, Yin Qi, Zhengqing Cao, Yudian Peng, Zexian Zhu, Qi Zhou, Yan Liu, Xiaosong Gu, Stuart V. Nielsen, Aaron H. Griffing, Tariq Ezaz, Arthur Georges, Ian Brennan, Erez Lieberman Aiden, Tony Gamble, Peng Shi, Guojie Zhang"
+      ],
+      "doi": "",
+      "id": "paperfp:908869e3c6c53ce82da2d3381d16074062aae38d00fd3a74d75f4b859650555e",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《基因组预 disposition 与性染色体进化方向相关》：该研究基于多种动物基因组数据，揭示基因组结构如何影响性染色体演化路径，为理解性别决定机制提供新视角。值得阅读，因其结合比较基因组学与进化生物学，对性染色体多样性的成因提出系统性解释，有助于深化对生物性别演化规律的认识。",
+      "title": "Genomic predisposition is associated with the direction of sex chromosome evolution",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec3449?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, August 2026.",
+      "authors": [
+        "Anh-Tuan Trinh, Anna Maria Ostenrath, Ignacio del Castillo-Berges, Fanchon Cachin, Mina Koç, Susanne Kraus, Bram Serneels, Koichi Kawakami, Emre Yaksi"
+      ],
+      "doi": "",
+      "id": "paperfp:b4ec7844300c58ba120197d2f8561fecf27c6db0abd121ad365e444dea28b11a",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《斑马鱼丘脑皮层样回路中的层级感觉处理》：该研究揭示了斑马鱼丘脑皮层样回路如何实现感觉信息的层级加工，为理解脊椎动物感觉处理的进化保守机制提供了新视角。值得阅读，因其发表于《科学》期刊，且可能对神经科学中跨物种比较研究具有重要参考价值。",
+      "title": "Hierarchical sensory processing in zebrafish thalamocortical-like circuits",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec2171?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, August 2026.",
+      "authors": [
+        "Jingan Chen, Muye Zhou, Songtao Dong, Fanglin Gong, Rasangi Tennakoon, Breanna Y. Seto, Ziyan Rachel Chen, Zhichang Peter Zhou, Jingyi Pan, Yue Xu, Sijin Luozhong, Colette Maya Macarios, Santiago Tijaro-Bulla, Tanja Gonska, Jim Hu, Haissi Cui, Bowen Li"
+      ],
+      "doi": "",
+      "id": "paperfp:8f05e75eb7a9ef9f9c9d63e99d08e967473c162ac5984b4f29e39d72b222b797",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《非病毒递送化学修饰tRNA挽救囊性纤维化无义突变》：该研究展示了一种无需病毒载体即可递送修饰tRNA的策略，成功恢复囊性纤维化细胞中因无义突变中断的蛋白合成。值得关注的是，它可能为遗传病治疗提供更安全、可重复给药的核酸药物新路径，对基因治疗领域具有重要参考价值。",
+      "title": "Nonviral delivery of chemically modified tRNA rescues nonsense mutations in cystic fibrosis",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb0054?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 903-909, August 2026.",
+      "authors": [
+        "Xiaodong He, Zhigang Zhao, Kun Shao, Xiaowen Yu, Ying Zhu, Jintao Tang, Jing Li, Yunhui Zhang, Keyu Zhao, Xiaoming Zheng, Hongru Wang, Chao Li, Xiangchao Gan, Xiaoou Dong, Yulong Ren, Yehui Xiong, Jian Wang, Yang Hu, Siqi Cheng, Bowen Yao, Yulu Ye, Song Guo, Yuantao Zhu, Ling He, Tiaofeng Shan, Chen Xu, Jinxuan Xu, Jiayu Lu, Dekun Lei, Anqi Jian, Junwen Gao, Song Cui, Gencheng Xu, Xiuping Guo, Xi Liu, Yunlu Tian, Shijia Liu, Ling Jiang, Xianneng Deng, Jiawu Zhou, Dayun Tao, Yonglun Zeng, Letian Chen, Chuanyin Wu, Haiyang Wang, Chaolong Wang, Jianmin Wan"
+      ],
+      "doi": "",
+      "id": "paperfp:3720c21e48a62a6696617202e35e24cb62419a772e9b30b6556c315f61f370ac",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《水稻杂种不育的三方遗传冲突系统》：该研究揭示了水稻中由三个遗传位点构成的冲突系统如何调控杂种不育现象，为理解物种形成和杂交育种提供了新机制。值得阅读，因其首次系统阐明多基因互作在生殖隔离中的动态平衡，对作物遗传改良具有直接指导意义。",
+      "title": "A tripartite genetic conflict system controls hybrid sterility in rice",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec5252?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 863-865, August 2026.",
+      "authors": [
+        "Sasan Jalili and Julia Oh"
+      ],
+      "doi": "",
+      "id": "paperfp:43b091e6f41af917e6bad472e9d456632feb95ebadb277231ba54d5bd70f685c",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《超越皱纹》：该论文探讨了皮肤衰老机制中皱纹形成之外的深层生物学变化，值得阅读，因为它为理解皮肤老化提供了更全面的视角，可能启发新的抗衰老研究方向。",
+      "title": "Beyond wrinkles",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh4348?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 869-871, August 2026.",
+      "authors": [
+        "Antonio M. Bento, Kenneth T. Gillingham, Mark R. Jacobsen, Christopher R. Knittel, Benjamin Leard, Joshua Linn, David S. Rapson, James M. Sallee, Arthur A. van Benthem, and Kate S. Whitefoot"
+      ],
+      "doi": "",
+      "id": "paperfp:30b679c10e16cc35505755919a48ae9b78aae91917ed6d792b5e9a6a633a1eaa",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《纠正2026年美国车辆排放标准回退背后的逻辑》：该研究系统剖析了美国车辆排放标准回退的政策逻辑缺陷，值得关注的是，它基于多位权威学者的联合分析，为理解环境政策与市场影响提供了严谨的学术视角。",
+      "title": "Correcting the logic behind the 2026 US vehicle emissions standard rollback",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef0464?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 931-937, August 2026.",
+      "authors": [
+        "Jill Townley, Wipapat Kladwang, David Baker, Hamish M. Blair, Christian A. Choe, Gina El Nesr, Andrew Favor, Eli Fisker, Daniel B. Haack, Shujun He, Jason Hingey, Po-Ssu Huang, Rui Huang, Chaitanya K. Joshi, Thomas Karagianes, Andrew Kubaney, Pietro Liò, Adamo Mancino, Jonathan Romano, Boris Rudolfs, Nicholas Spellmon, Navtej Toor, Jigyasa Verma, Vivian Wu, Zhiheng Yu, Eterna Participants, Rhiju Das"
+      ],
+      "doi": "",
+      "id": "paperfp:6e7d1b266d0a42898918b30a676d2d36577ef27eb0b3c99c90242aeba5645649",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《利用深度学习从头设计RNA假结》：该研究提出用深度学习模型从头设计RNA假结结构，突破了传统设计方法的局限。值得阅读，因为它展示了AI在复杂生物分子设计中的前沿应用，对合成生物学和RNA工程领域具有重要参考价值。",
+      "title": "De novo design of RNA pseudoknots with deep learning",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg6829?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 848-849, August 2026.",
+      "authors": [
+        "Richard Stone"
+      ],
+      "doi": "",
+      "id": "paperfp:1e3cef71f1d1f981e7c1d55c7c859cc6a62ce385c01474ed249f8217c581c44b",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《致命蜱传病毒在欧洲蔓延》：该研究追踪了新型蜱传病毒在欧洲的传播动态与风险区域，结合流行病学数据揭示其扩散趋势。值得关注的是，它提供了当前疫情地理分布的关键证据，对公共卫生防控和旅行者防护具有直接参考价值。",
+      "title": "Deadly tick-borne virus gains ground in Europe",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael8352?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 867-867, August 2026.",
+      "authors": [
+        "Alejandro Olivera, Erick Morales-Montes de Oca, Viridiana Lázaro, María Fernanda Méndez-Martínez, and Héctor Reyes-Bonilla"
+      ],
+      "doi": "",
+      "id": "paperfp:c0193005368de924756e9f4794d123c010b4dc75460f72415768cd8c4384762a",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《深海采矿的速度已超越科学与法律》：该文指出深海采矿活动进展过快，而相关科学研究和法律监管尚未跟上，值得关注以理解当前资源开发与生态保护间的紧迫矛盾。",
+      "title": "Deep-sea mining outpaces both science and law",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek5038?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 868-868, August 2026.",
+      "authors": [
+        "Ji-Xi Gao, Hai-Dong Li, Li-Jun Zhao, Dilinuer Tuoliewubieke, Ying-Kui Li, and Ya-Mei Shao"
+      ],
+      "doi": "",
+      "id": "paperfp:472060806f7f407ff355cb740840c8764c3849c543ac15bc85919427fc500761",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《沙漠洪水凸显气候变化适应的关键缺口》：该研究基于Science期刊2026年8月发表的观点文章，指出沙漠地区突发洪水事件暴露了现有气候适应策略的盲区。值得阅读，因为它挑战了传统干旱区灾害认知，为完善全球气候变化应对框架提供了新视角。",
+      "title": "Desert flooding highlights a critical gap in climate change adaptation",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek8173?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 938-943, August 2026.",
+      "authors": [
+        "Ying Zhang, Chang Liu, Huiting Wang, Guichen Teng, Yilu Qin, Wencheng Niu, Shuimei Ding, Binmin Wu, Shuaiqin Wu, Yan Chen, Ni Yang, Tie Lin, Hong Shen, Xiangjian Meng, Yuan Liu, Xuming Zou, Xudong Wang, Lei Liao, Junhao Chu, Lain-Jong Li, Jianlu Wang"
+      ],
+      "doi": "",
+      "id": "paperfp:a1836c27ecedf1c1abd22ddd89778ab2da37043d5103ceac98725b321761290b",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《二维半导体单晶金属接触的直接蒸发》：该研究提出一种直接蒸发工艺，用于在二维半导体上制备高质量单晶金属接触，显著提升器件性能。值得阅读，因其为二维材料电子器件中的接触电阻难题提供了创新解决方案，对推动高性能晶体管发展具有重要参考价值。",
+      "title": "Direct evaporation of single-crystal metal contacts for 2D semiconductors",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee3132?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 882-887, August 2026.",
+      "authors": [
+        "Wenhao Bai, Tongtong Xuan, Guanhua Ren, Kunjie Song, Huili Li, Chengkai Hu, Fandi Mo, Lixin Wang, Rong-Jun Xie"
+      ],
+      "doi": "",
+      "id": "paperfp:7f18eae9c2e1c0c0468a3a9d6da3bcd80190ef939d529fbde394e72fb1c854f4",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《高效长寿命无铅钙钛矿发光二极管》：该研究报道了无铅钙钛矿LED在效率与寿命上的突破性进展，值得关注因其为替代含铅器件提供了可行方案，对环保显示技术发展具有重要参考价值。",
+      "title": "High-efficiency, long-lived lead-free perovskite light-emitting diodes",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg8955?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 888-894, August 2026.",
+      "authors": [
+        "Liheng Bian, Qinghao Meng, Lianjie Li, Zhen Wang, Yibo Feng, Xuan Peng, Jiajun Zhao, Jingyi Wang, Zhu Yang, Jun Zhang"
+      ],
+      "doi": "",
+      "id": "paperfp:8b2641de9afb4fbcb7ec485b76ef805e990bb8d14979e6306268879e89101ab4",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《Hypervision：用于在线视频率计算成像的片上高光谱微系统》：该研究提出一种集成在芯片上的高光谱微系统，实现视频速率下的实时计算成像，值得关注其突破传统设备体积与速度限制，为动态场景高光谱分析提供新路径。",
+      "title": "Hypervision: An on-chip hyperspectral microsystem for online video-rate computational imaging",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef8268?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 873-874, August 2026.",
+      "authors": [
+        "Corinne Simonti, and Jesse Smith, Corinne Simonti, L. Bryan Ray, Sacha Vignieri, Ian S. Osborne, Yury Suleymanov, Keith T. Smith, and Mattia Maroso"
+      ],
+      "doi": "",
+      "id": "paperfp:cec100aee15656d079000b03d41c086d8995322ca315a4832168c1add5279a4c",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《科学》期刊“其他期刊”栏目综述：该文汇总了多领域前沿研究动态，涵盖生物、物理及跨学科进展。值得阅读，因其以精炼篇幅呈现最新科学突破，助您高效把握学科交叉热点与趋势。",
+      "title": "In Other Journals",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael7895?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 872-874, August 2026.",
+      "authors": [
+        "Michael Funk, and Peter U. Clark, Phil Szuromi, Yevgeniya Nusinovich, Unnati Sonawala, Madeleine Seale, Jake S. Yeston, Courtney Malo, Yury Suleymanov, Stella M. Hurtley, Mattia Maroso, Angela Hessler, Corinne Simonti, Di Jiang, Leslie Ferrarelli, and Seth Thomas Scanlon"
+      ],
+      "doi": "",
+      "id": "paperfp:50f1d1b6cd0470d9bd8244388b8ca68c99cf7ac25cd5e6e9fcc941e67206209e",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《科学》2026年8月刊第393卷第6814期研究综述：该文汇集多位学者对科学前沿的多领域进展分析，涵盖地球科学、生物学、医学等方向，值得关注以快速把握当前多学科交叉研究的最新动态与趋势。",
+      "title": "In Science Journals",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael7894?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 910-916, August 2026.",
+      "authors": [
+        "Lingran Kong, Kevin Zong, Marcus Hopfengärtner, Brandon J. Orzolek, Ryan Shenvi"
+      ],
+      "doi": "",
+      "id": "paperfp:9121c9262b092a5cd016266733050619a3a7157cd46841235985212d0bdd670c",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《铁催化酯与两种卡宾顺序偶联的[1+1+1]环丙烷化反应》：该研究报道了一种新型铁催化策略，通过酯与两种卡宾的连续偶联实现环丙烷的高效构建。值得阅读，因其为有机合成提供了廉价金属替代贵金属催化剂的创新路径，有望简化复杂分子的制备流程。",
+      "title": "Iron-catalyzed [1+1+1] cyclopropanation by sequential coupling of an ester to two carbenes",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aej0194?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 866-866, August 2026.",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:63c789728e5d7f4dac28361004ae88c80d531ba67b1afb8da8bc0cb2b4e5f9e1",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《养活印度的M.S.斯瓦米纳坦》：这篇发表于《科学》的纪念文章，回顾了斯瓦米纳坦推动绿色革命、解决印度粮食危机的关键贡献，值得阅读以理解科学如何切实影响国家命运。",
+      "title": "M.S. Swaminathan: The Man Who Fed India",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael0871?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 849-850, August 2026.",
+      "authors": [
+        "Daniel Clery"
+      ],
+      "doi": "",
+      "id": "paperfp:5586e74038d360a1d6a661141e04c1dea3e5603bfb48afe3493b37250d65151d",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《NASA罗曼望远镜准备对宇宙进行全景扫描》：本文报道了罗曼望远镜即将开展的宽视场巡天计划，其观测能力将覆盖前所未有的宇宙范围。值得阅读，因为它揭示了这一旗舰任务如何推动暗能量、系外行星等前沿研究，是了解未来天文发现窗口的及时参考。",
+      "title": "NASA’s Roman telescope readies a sweeping view of the universe",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael8353?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 851-851, August 2026.",
+      "authors": [
+        "Jocelyn Kaiser"
+      ],
+      "doi": "",
+      "id": "paperfp:841f7c5187a20c690b1be34713641d0d7077cdbf51504dc3b487700f939dcac7",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《儿童健康研究所新所长与MAHA有关联》：这篇发表于《科学》的新闻文章报道了儿童健康研究所新任所长的背景及其与MAHA组织的联系，值得关注以了解科研机构领导层变动背后的潜在政策影响。",
+      "title": "New chief of child health institute has MAHA ties",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael8354?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 854-858, August 2026.",
+      "authors": [
+        "Michael Greshko"
+      ],
+      "doi": "",
+      "id": "paperfp:5b96d920f7d20539ab71adbbc6b5b21ef330100bd60eec1367ed53972a9e16fd",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《轨道炼金术》：探讨轨道动力学中的物质转化机制，揭示其潜在应用价值。该文发表于《科学》杂志，结合前沿理论与实验数据，为理解轨道操控提供新视角，值得关注。",
+      "title": "Orbital alchemy",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael8347?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 860-861, August 2026.",
+      "authors": [
+        "June-Chul Shin and Jeehwan Kim"
+      ],
+      "doi": "",
+      "id": "paperfp:01670a13fadf61038ceec8c779501567b0a6c5bb19295678641301337610f698",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《弱相互作用下的原子排列》：这篇发表于《科学》的论文探讨了如何利用弱相互作用实现原子尺度的有序排列，为纳米制造和量子材料设计提供了新思路。值得一读，因为它可能突破传统强键合方法的局限，开辟更精细的原子操控途径。",
+      "title": "Ordering atoms on weak interaction",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek4631?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 862-863, August 2026.",
+      "authors": [
+        "Jacob W. Myerson and Drew Weissman"
+      ],
+      "doi": "",
+      "id": "paperfp:5a9eef8444a4274be9adc5ff1c24180e793531224922601f98c7826865842e83",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "推荐阅读这篇发表于《Science》的研究，以了解“Rethink the cargo, rethink the carrier”所涉及问题的最新证据与讨论。",
+      "title": "Rethink the cargo, rethink the carrier",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek3835?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 944-944, August 2026.",
+      "authors": [
+        "Carmen Nobel"
+      ],
+      "doi": "",
+      "id": "paperfp:c7ba85bad2e8ec5a795e8b050c88781b18f3dd821e8fd68e2e54627463b5a31b",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "推荐阅读这篇发表于《Science》的研究，以了解“SciLine helps journalists bring scientific evidence to midterm election…”所涉及问题的最新证据与讨论。",
+      "title": "SciLine helps journalists bring scientific evidence to midterm election news coverage",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael7924?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 895-902, August 2026.",
+      "authors": [
+        "Nicholas Forelli, Trace Thome, Deborah M. Eaton, Kollin Schultz, Jiten Patel, Caitlyn E. Bowman, Ryo Kawakami, Jae Woo Jung, Ivan A. Kuznetsov, Kristina Li, Jialiu A. Liang, Kirsten Branch, Claire Brady, Kenneth C. Bedi, Yijun Yang, Kaustubh Koya, Nesrine Bouhrira, Emily Megill, Daniel S. Kantner, Louis G. Smith, Cristin F. MacIntosh, Kushol Gupta, Gregory R. Bowman, Nathaniel W. Snyder, Jonathan Edwards, Kenneth B. Margulies, Zoltan Arany"
+      ],
+      "doi": "",
+      "id": "paperfp:afd1933ddbeadd35bad47c2695465a3ccee0a7a87e18f0d0d356431dff67d308",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "推荐阅读这篇发表于《Science》的研究，以了解“SGLT2 inhibitors activate pantothenate kinase in the human heart”所涉及问题的最新证据与讨论。",
+      "title": "SGLT2 inhibitors activate pantothenate kinase in the human heart",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh4856?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 866-866, August 2026.",
+      "authors": [
+        "Adrian Woolfson"
+      ],
+      "doi": "",
+      "id": "paperfp:3a9311fd40ef83e9f316979099bd7b70783b2f07cdae06658e2830cebaeb2026",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "推荐阅读这篇发表于《Science》的研究，以了解“The history and future of sickle cell disease”所涉及问题的最新证据与讨论。",
+      "title": "The history and future of sickle cell disease",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aej0154?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 859-860, August 2026.",
+      "authors": [
+        "Anthony M. Mustoe and Junzhe Guo"
+      ],
+      "doi": "",
+      "id": "paperfp:4aa6abd23eaf11072be8e30709d17f25faac9bafbefe93e1f00f705b3bb87c1f",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "推荐阅读这篇发表于《Science》的研究，以了解“The knotty problem of RNA structure prediction”所涉及问题的最新证据与讨论。",
+      "title": "The knotty problem of RNA structure prediction",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek4499?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 845-845, August 2026.",
+      "authors": [
+        "Paasha Mahdavi and Michael L. Ross"
+      ],
+      "doi": "",
+      "id": "paperfp:05b8b616f6cff9292728af5131471e978adf957afa3a7a51a19cdf163a774e8f",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "推荐阅读这篇发表于《Science》的研究，以了解“The worst energy policy in the world”所涉及问题的最新证据与讨论。",
+      "title": "The worst energy policy in the world",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aej2018?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 923-930, August 2026.",
+      "authors": [
+        "Jiaojiao Yi, Kangyu Zhong, Chen Shen, Yining Zhai, Lu Sun, Hongbin Zhang, Zizheng Song, Zibin Chen, Dragan Damjanovic, Jing-Feng Li, Shujun Zhang, Lisha Liu"
+      ],
+      "doi": "",
+      "id": "paperfp:bdaae98311e31e4136a1968507ef408423d6244cf0423b51c7d523c338e15735",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "推荐阅读这篇发表于《Science》的研究，以了解“Thermal cycling–induced nitriding increases energy-storage density in t…”所涉及问题的最新证据与讨论。",
+      "title": "Thermal cycling–induced nitriding increases energy-storage density in titanate ferroelectric films",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb5274?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 917-922, August 2026.",
+      "authors": [
+        "Zehan Wu, Ke Yang, Wanqing Meng, Weizhen Wang, Yifei Zhao, Fumei Yang, Ran Ding, Hui Li, Yudong Peng, Zongmeng Yang, Yee Sin Ang, Songhua Cai, Ming Yang, Jiannong Wang, Lain-Jong Li, Jianhua Hao"
+      ],
+      "doi": "",
+      "id": "paperfp:17536577d4e37d14fa9b202c8f2c5bc4962dccc20cf2274dd7bf21880d0ee521",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "推荐阅读这篇发表于《Science》的研究，以了解“Tunnel field-effect transistors exhibiting performance beyond the Boltz…”所涉及问题的最新证据与讨论。",
+      "title": "Tunnel field-effect transistors exhibiting performance beyond the Boltzmann thermionic limit",
+      "topics": [],
+      "url": "https://www.science.org/doi/abs/10.1126/science.adx6059?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
