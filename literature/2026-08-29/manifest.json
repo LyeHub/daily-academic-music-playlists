@@ -1,0 +1,378 @@
+{
+  "date": "2026-08-29",
+  "items": [
+    {
+      "abstract": "",
+      "authors": [
+        "Anna Rufà",
+        "Florent Rivals",
+        "Goizane Alonso",
+        "Jordi Rosell",
+        "Ruth Blasco"
+      ],
+      "doi": "10.1007/s12520-026-02539-w",
+      "id": "doi:10.1007/s12520-026-02539-w",
+      "publication_date": "2026-08-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《特西克塞雷斯洞穴（西班牙巴塞罗那，IIIb亚单元）小型猎物遗存上的埋藏学特征：区分人类与食肉动物活动》：该研究通过分析小型猎物的埋藏学痕迹，系统区分人类与食肉动物在洞穴中的行为贡献，为理解旧石器时代古人类生存策略及遗址形成过程提供了关键证据，值得考古学与埋藏学研究者深入阅读。",
+      "title": "Taphonomic signatures on small prey remains from Teixoneres cave (Barcelona, Spain, sub-unit IIIb): disentangling human and carnivore activity",
+      "topics": [],
+      "url": "https://doi.org/10.1007/s12520-026-02539-w",
+      "venue": "Archaeological and Anthropological Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Christopher J. Bae",
+        "Daidu Fan",
+        "Muhammad Kamran",
+        "Nadir Fawad",
+        "Zhongbo Wang"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114178",
+      "id": "doi:10.1016/j.palaeo.2026.114178",
+      "publication_date": "2026-08-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《理解第四纪古气候变迁及其对下索安河谷（次喜马拉雅地区）古人类定居的影响》：该研究结合地质与考古证据，揭示气候波动如何驱动古人类迁徙与定居模式，为理解南亚早期人类适应策略提供关键视角，值得关注。",
+      "title": "Understanding Quaternary paleoclimatic shifts and their impact on hominin settlement in the lower Soan Valley, sub-Himalayas",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114178",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "G.L. Cardello",
+        "A.M. Conte",
+        "M. Gaeta",
+        "B. Jicha",
+        "F. Lombardi",
+        "L. Monaco",
+        "S. Nomade",
+        "C. Perinelli",
+        "M. Petrelli",
+        "G. Sottili",
+        "D.M. Palladino"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110243",
+      "id": "doi:10.1016/j.quascirev.2026.110243",
+      "publication_date": "2026-08-29",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《文托泰内火山化学地层学与40Ar/39Ar年代学（蓬蒂内群岛，第勒尼安海）：意大利中部第四纪钾质岩浆作用缺失的一环》：该研究通过高精度定年与地层分析，填补了意大利中部钾质岩浆活动时空演化的关键空白，对理解第勒尼安海区域构造-岩浆耦合过程具有重要参考价值。",
+      "title": "Chemostratigraphy and 40Ar/39Ar geochronology of Ventotene volcano (Pontian Islands, Tyrrhenian Sea): The missing link in the Quaternary potassic magmatism of central Italy",
+      "topics": [
+        "stratigraphy"
+      ],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110243",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:p>The experience of emotions is that of dynamic, time-changing processes. Yet, many functional MRI (fMRI) studies of emotion average across time to focus on maps of static activations, overlooking the temporal dimension of emotional responses. In this study, we used time-resolved fMRI, group spatial independent component analysis (ICA), dual regression, and Gaussian curve fitting to examine both the spatial and temporal properties of whole-brain networks during a behavioral task. This task included trials that spanned over 25 s of watching short, emotionally evocative movie clips, making emotion-related decisions, and an intertrial rest period. We identified four whole-brain networks with unique spatial and temporal features that mapped onto different stages of the task. A network activated early in the course of the task included perceptual and affective evaluation regions, while two later networks supported semantic interpretation and decision-making, and a final network aligned with default mode activity. Both spatial and temporal properties of all four networks were modulated by the emotional content of the movie clips. Our findings extend current models of emotion by integrating temporal dynamics with large-scale network activity, offering a richer framework for understanding how emotions unfold across distributed circuits. Such temporal-spatial markers of emotional processing may prove valuable for identifying and tracking alterations in clinical populations.</jats:p>",
+      "authors": [
+        "Joost Janssen",
+        "Niels Janssen",
+        "Theo GM van Erp",
+        "Uriel KA Elvira"
+      ],
+      "doi": "10.7554/elife.106070",
+      "id": "doi:10.7554/elife.106070",
+      "publication_date": "2026-08-28",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《人类情绪的动态fMRI网络》：该研究利用时间分辨fMRI和独立成分分析，揭示了情绪任务中四个全脑网络的空间与时间特征，突破了传统静态激活研究的局限。值得阅读，因为它将情绪的时间动态与大规模网络活动整合，为理解情绪如何在大脑分布式回路中展开提供了更丰富的框架，并可能有助于临床人群的识别与追踪。",
+      "title": "Dynamic fMRI networks of human emotion",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.106070",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Bioarcheologists interpret skeletal health by examining variability within and between individuals. Studies of bone loss have generated contradictory and conflicting results regarding the onset and severity of age‐related bone loss on a global and temporal scale, perhaps due to mismatched methodologies. Intraskeletal comparisons of bone tissue prove challenging precisely because of heterogeneous baselines in quantity and remodeling of cortical bone throughout the skeleton, as well as evolutionary histories and environmental impacts on growth and development. Here we analyze cortical bone indicators from the rib, metacarpal, and femoral cortical bone in a subset of individuals (\n                    <jats:italic>n</jats:italic>\n                     = 72) regions from the medieval Italian archaeological site of Pieve di Pava. To facilitate intraskeletal comparisons across elements with different biological baselines, we standardize cortical bone parameters using\n                    <jats:italic>z</jats:italic>\n                    ‐scores. Variation in relative intraskeletal cortical bone was assessed using accessible multivariate methods (principal component analysis and hierarchical cluster analysis). Results suggest an association between femoral and metacarpal cortical bone values, with stochastic trends in metacarpal and femoral relative bone quantity in relation to the rib bone quantity at the sample level. Our study demonstrates that while intraskeletal analyses are challenging, they are made more robust by synthesizing multivariate methods alongside exploratory data analysis (EDA) methods to tack between sample‐level and individual‐level scales and variability. Ultimately, we advocate for leveraging multivariate techniques not as a final step, but rather as a means of generating new hypotheses and challenging tendencies to a priori establish typological groups in the research process.\n                  </jats:p>",
+      "authors": [
+        "Giulia Riccomi",
+        "Jeffrey A. Seckinger",
+        "Katherine M. Kinkopf",
+        "Katherine M. Kinkopf, Trent M. Trombley, Jeffrey A. Seckinger, Sabrina C. Agarwal, Valentina Giuffra, Simona Minozzi, Stefano Campana, Giulia Riccomi",
+        "Sabrina C. Agarwal",
+        "Simona Minozzi",
+        "Stefano Campana",
+        "Trent M. Trombley",
+        "Valentina Giuffra"
+      ],
+      "doi": "10.1002/ajpa.70341",
+      "id": "doi:10.1002/ajpa.70341",
+      "publication_date": "2026-08-28",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:American Journal of Biological Anthropology"
+      ],
+      "summary": "《中世纪意大利样本中皮质骨数量的骨骼内变异：一种多变量探索性方法》：该研究通过标准化z分数和多变量分析，揭示肋骨、掌骨与股骨皮质骨量的关联模式，挑战传统骨丢失研究的方法论局限。值得阅读，因其创新性地将探索性数据分析与多变量技术结合，为生物考古学中个体与样本层面的骨骼健康解读提供更稳健的分析框架。",
+      "title": "Intraskeletal Variation in Cortical Bone Quantity in a Medieval Italian Sample: A Multivariate Exploratory Approach",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ajpa.70341",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Recent work shows that the brain’s arousal system remains active during sleep, with rhythmic locus coeruleus (LC) activity shaping sleep architecture and supporting memory consolidation. The LC releases norepinephrine (NE) in infraslow (~0.02 Hz) bouts that gate NREM sleep spindles. Here, we demonstrate that heart rate (HR) fluctuations during NREM are tightly phase-locked to these NE rhythms, identifying the LC as a key driver of very-low-frequency HR variability (VLF-HRV), an understudied autonomic signal. Using optogenetics, transient LC inhibition blunts HR slowing, whereas LC activation produces rapid HR acceleration, demonstrating a direct LC-HR relationship during sleep that is maintained across a defined range of LC activity levels but breaks down when LC activity becomes excessive. We further show that infraslow HR variability is a cross-species marker of spindle-dependent memory processing. In mice, the amplitude of HR decelerations during NREM correlates with spindle activity and subsequent memory performance. Remarkably, human sleepers show the same pattern: stronger VLF-HR fluctuations during NREM correspond to increased spindle expression and better overnight memory retention. These findings reveal a mechanistic pathway through which graded changes in LC activity, up to a critical level, modulates autonomic physiology during sleep and identify infraslow HR variability as a non-invasive marker of brainstem function and memory-promoting sleep. Because LC degeneration occurs early in neurodegenerative disease, sleep-derived HR metrics may provide a scalable indicator of emerging neuromodulatory dysfunction.</jats:p>",
+      "authors": [
+        "Allison B Morehouse",
+        "Celia Kjaerby",
+        "Maiken Nedergaard",
+        "Mie Andersen",
+        "Pin-Chun Chen",
+        "Ryszard S Gomolka",
+        "Sara C Mednick",
+        "Sofie S Jacobsen",
+        "Yi Qian"
+      ],
+      "doi": "10.7554/elife.110252",
+      "id": "doi:10.7554/elife.110252",
+      "publication_date": "2026-08-28",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《睡眠中去甲肾上腺素超慢节律是心率动态与记忆巩固之间的关键联系》：该研究揭示睡眠中蓝斑核释放的去甲肾上腺素超慢节律与心率波动紧密同步，并直接调控记忆巩固过程。值得阅读，因其首次将心率变异性确立为无创评估脑干功能和记忆促进睡眠的跨物种生物标志物，为神经退行性疾病的早期检测提供了新思路。",
+      "title": "Noradrenergic infraslow rhythm during sleep is the critical link between heart-rate dynamics and memory consolidation",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.110252",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    Retrotransposons or endogenous retroviruses (ERVs) essentially carry open reading frames of\n                    <jats:italic>gag</jats:italic>\n                    and\n                    <jats:italic>pol</jats:italic>\n                    , which are utilized to selfishly replicate themselves in the host germline genome. One rare example of ERVs that additionally carry\n                    <jats:italic>envelope</jats:italic>\n                    genes is\n                    <jats:italic>Ty3/gypsy</jats:italic>\n                    errantiviruses in\n                    <jats:italic>Drosophila</jats:italic>\n                    . Though they are structurally analogous to retroviruses, it remained unclear whether\n                    <jats:italic>envelope</jats:italic>\n                    -containing\n                    <jats:italic>Ty3/gypsy</jats:italic>\n                    elements represent recent, lineage-specific acquisitions of viral fusogens or an ancient association between retrotransposons and\n                    <jats:italic>envelope</jats:italic>\n                    -like genes. We systematically searched for intact\n                    <jats:italic>envelope</jats:italic>\n                    -containing ERVs that are homologous to\n                    <jats:italic>Ty3/gypsy</jats:italic>\n                    in invertebrate metazoan genomes and found that they are widespread across taxa, including ancient animals. such as cnidarians, ctenophores, and tunicates. Many elements occur as multiple highly similar copies in their respective genomes, consistent with recent genomic expansion in some host lineages.\n                    <jats:italic>Envelope</jats:italic>\n                    genes are classified into those that resemble glycoprotein F from paramyxoviruses and glycoprotein B from herpesviruses, and both types are equally abundant and widespread. Phylogenetic and structural analyses revealed that\n                    <jats:italic>envelope</jats:italic>\n                    genes have largely diverged with\n                    <jats:italic>pol</jats:italic>\n                    genes as well as with the host organisms throughout their evolutionary history and recombined infrequently, suggesting that the\n                    <jats:italic>envelope</jats:italic>\n                    acquisition to ERVs is ancient and likely dates to before the split of bilaterian and non-bilaterian animals in the Pre-Cambrian era.\n                  </jats:p>",
+      "authors": [
+        "Rippei Hayashi",
+        "Shashank Chary"
+      ],
+      "doi": "10.7554/elife.108449",
+      "id": "doi:10.7554/elife.108449",
+      "publication_date": "2026-08-28",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《后生动物中携带包膜基因的逆转录转座子的前寒武纪起源》：该研究系统搜索无脊椎动物基因组，发现携带包膜基因的Ty3/gypsy类逆转录转座子广泛存在于刺胞动物、栉水母等古老动物类群中，并通过系统发育与结构分析推断其包膜基因获得可追溯至前寒武纪双侧对称动物分化之前。值得阅读，因为它揭示了逆转录转座子与病毒包膜基因的古老关联，挑战了以往认为此类元件为近期谱系特异…",
+      "title": "Pre-Cambrian origin of <i>envelope</i>-carrying retrotransposons in metazoans",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.108449",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    Peroxisome proliferator-activated receptor gamma (PPARγ) is a key transcriptional regulator of genes mediating adipogenesis (fat-cell differentiation), and lipid storage in several cell types like hepatocytes. As such, its regulation is crucial for cell and organismal physiology. Indeed, PPARγ’s activity is regulated by multiple mechanisms, including post-transcriptional modifications, which, when dys-coordinated, may contribute to the pathogenesis of various states, including obesity, insulin resistance, and fatty liver disease. Here, we demonstrate that SETD6 binds to and methylates PPARγ at lysine 170 (K170) both in vitro and in liver-derived cells. This methylation event, in turn, is required for PPARγ-mediated activation of\n                    <jats:italic>SETD6</jats:italic>\n                    transcription via promoter binding, forming a positive feedback regulatory loop. RNA-sequencing revealed that both SETD6 and PPARγ methylation at K170 are required for full induction of lipid metabolism genes’ expression, manifesting functionally in lipid droplet biogenesis in liver-derived cells. Together, our findings uncover a novel role for lysine methylation of PPARγ in the regulation of lipid synthesis and lipid droplet biogenesis, thereby identifying putative new therapeutic targets for lipid overproduction diseases, including metabolic dysfunction-associated fatty liver disease and obesity.\n                  </jats:p>",
+      "authors": [
+        "Anand Chopra",
+        "Assaf Rudich",
+        "Dan Levy",
+        "Dana Goldberg",
+        "Habib Muallem",
+        "Liron Levin",
+        "Maayan Abramov",
+        "Michal Feldman",
+        "Noa Nashnaz",
+        "Raz Zarivach",
+        "Tamar Rosiecki",
+        "Tzofit Elbaz Biton",
+        "Yulia Haim"
+      ],
+      "doi": "10.7554/elife.111542",
+      "id": "doi:10.7554/elife.111542",
+      "publication_date": "2026-08-28",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《SETD6介导的PPARγ甲基化建立促进肝源细胞脂质积累的转录反馈回路》：该研究揭示SETD6通过甲基化PPARγ第170位赖氨酸，形成正反馈回路激活脂质代谢基因，值得关注因其为脂肪肝和肥胖治疗提供了潜在新靶点。",
+      "title": "SETD6-mediated methylation of PPARγ establishes a transcriptional feedback circuit promoting lipid accumulation in liver-derived cells",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.111542",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:sec id=\"abs1\">\n                    <jats:title>Background:</jats:title>\n                    <jats:p>Polycystic ovary syndrome (PCOS), recently renamed as polyendocrine metabolic ovarian syndrome (PMOS), is a prevalent endocrine disorder in women, often accompanied by various symptoms, including significant pain, such as dysmenorrhea, abdominal, and pelvic pain, which remains underexplored.</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"abs2\">\n                    <jats:title>Methods:</jats:title>\n                    <jats:p>This retrospective study examines electronic health records (EHR) data to assess the prevalence of pain in women with PMOS. Conducted in January 2026, using data from 120 Health Care Organizations within the TriNetX Global Network, the study involved 103,675,738 women from diverse racial backgrounds. The analysis focused on the prevalence of pain among women with PMOS, both overall and in those prescribed PMOS-related medications. Relative risk ratios (RR) were calculated for future health outcomes and stratified by self-reported race.</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"abs3\">\n                    <jats:title>Results:</jats:title>\n                    <jats:p>The study found that 20.67% of women with PMOS experienced pain, with the highest prevalence among Black or African American (32.70%) and White (30.78%) populations. Both the PMOS and PMOS and Pain cohorts exhibited increased RR for various health conditions, with significant differences noted across racial groups for infertility, ovarian cysts, obesity, and respiratory diseases. Additionally, women with PMOS who were treated with PMOS-related medications showed a decrease in pain diagnoses following treatment.</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"abs4\">\n                    <jats:title>Conclusions:</jats:title>\n                    <jats:p>This study highlights the critical need to address pain in the diagnosis and management of PMOS due to its significant impact on patient health outcomes.</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"abs5\">\n                    <jats:title>Funding:</jats:title>\n                    <jats:p>Tess Cherlin was supported by NIH | National Institute of General Medical Sciences (NIGMS) (grant # K12GM081259 (HHS)).</jats:p>\n                  </jats:sec>",
+      "authors": [
+        "Katherine Sherif",
+        "Samantha Strydesky",
+        "Sasha Ottey",
+        "Shefali Setia Verma",
+        "Stephanie Mohammed",
+        "Tess Cherlin"
+      ],
+      "doi": "10.7554/elife.103875",
+      "id": "doi:10.7554/elife.103875",
+      "publication_date": "2026-08-28",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《理解多内分泌代谢性卵巢综合征女性的疼痛：健康风险与治疗有效性》：该研究基于超1亿女性电子健康记录，首次系统揭示PMOS患者疼痛高发率及种族差异，并证实相关药物可减少疼痛诊断，对临床疼痛管理具有重要参考价值。",
+      "title": "Understanding pain in women with polyendocrine metabolic ovarian syndrome: health risks and treatment effectiveness",
+      "topics": [],
+      "url": "https://doi.org/10.7554/elife.103875",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>With Hubble’s sharp vision and a view 100 times larger, the observatory will rapidly scan the cosmos for distant worlds and clues to dark energy</jats:p>",
+      "authors": [
+        "Daniel Clery"
+      ],
+      "doi": "10.1126/science.ael8353",
+      "id": "doi:10.1126/science.ael8353",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Science"
+      ],
+      "summary": "《NASA的罗曼望远镜准备对宇宙进行全景扫描》：本文介绍罗曼望远镜兼具哈勃的锐利视野与百倍观测范围，将快速扫描宇宙以搜寻系外行星和暗能量线索。值得阅读，因为它展示了下一代天文观测技术如何突破现有局限，为理解宇宙演化提供关键数据。",
+      "title": "NASA’s Roman telescope readies a sweeping view of the universe",
+      "topics": [],
+      "url": "https://doi.org/10.1126/science.ael8353",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Appointment of John Gaitanis draws concern that politics is driving leadership picks</jats:p>",
+      "authors": [
+        "Jocelyn Kaiser"
+      ],
+      "doi": "10.1126/science.ael8354",
+      "id": "doi:10.1126/science.ael8354",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Science"
+      ],
+      "summary": "《儿童健康研究所新任负责人与MAHA有关联》：该文报道了John Gaitanis的任命引发对政治干预领导层选拔的担忧，值得关注科研管理独立性与政策导向的平衡问题。",
+      "title": "New chief of child health institute has MAHA ties",
+      "topics": [],
+      "url": "https://doi.org/10.1126/science.ael8354",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6814, Page 944-944, August 2026.",
+      "authors": [
+        "Carmen Nobel"
+      ],
+      "doi": "10.1126/science.ael7924",
+      "id": "doi:10.1126/science.ael7924",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Science"
+      ],
+      "summary": "《科学线助力记者将科学证据带入中期选举新闻报道》：本文探讨了科学线平台如何协助记者在中期选举报道中融入科学证据，值得关注，因为它揭示了科学传播与政治报道结合的实际路径，对理解媒体如何提升公共讨论质量具有参考价值。",
+      "title": "SciLine helps journalists bring scientific evidence to midterm election news coverage",
+      "topics": [],
+      "url": "https://doi.org/10.1126/science.ael7924",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    The arrival of the Neolithic way of life in Europe is associated with the migration of Anatolian farmers and their admixture with local hunter‐gatherers. In the Paris Basin (Northern France), the Middle Neolithic Cerny culture (4700–4300 \n                    <jats:sc>bce</jats:sc>\n                    ) combines agricultural practices with funerary items linked to hunting, suggesting a particular connection with the local descendants of Mesolithic hunter‐gatherers. The monumental burials gathering only a handful of deceased indicate the development of an elite. To better understand Cerny social structures, we generated genome‐wide data for 28 individuals from the Paris basin, including 5 individuals from the Early Neolithic and 23 from various Cerny‐associated necropolises. Our analysis revealed no significantly higher Mesolithic hunter‐gatherer ancestry compared to other European Neolithic contemporaneous populations, indicating that distinctive cultural traits of the Cerny burials were not linked to biological admixture. We observed genetic continuity among the Paris Basin populations between the Early and Middle Neolithic, with minimal gene flow from other areas and a high degree of genetic homogeneity at the regional level. Finally, genetic relatedness and haplotype‐sharing analyses identified only two close biological relationships, suggesting that Cerny necropolises in the Paris Basin were not organized only around biologically related individuals.\n                  </jats:p>",
+      "authors": [
+        "Aline Thomas",
+        "Amélie Chimènes",
+        "Céline Bon",
+        "Françoise Dessarps",
+        "José Utge",
+        "Juliette Sauvage",
+        "Juliette Sauvage, Maël Lefeuvre, Marine Delvigne, Françoise Dessarps, Sophie Lafosse, Amélie Chimènes, José Utge, Romain Laurent, Aline Thomas, Marie‐Claude Marsolier, Céline Bon",
+        "Marie‐Claude Marsolier",
+        "Marine Delvigne",
+        "Maël Lefeuvre",
+        "Romain Laurent",
+        "Sophie Lafosse"
+      ],
+      "doi": "10.1002/ajpa.70351",
+      "id": "doi:10.1002/ajpa.70351",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:American Journal of Biological Anthropology"
+      ],
+      "summary": "《古代DNA揭示法国中石器时代塞尔尼文化中有限的狩猎采集者血统尽管存在狩猎相关习俗》：该研究通过分析巴黎盆地28名古代个体的基因组数据，发现塞尔尼文化人群与早期新石器时代人群遗传连续，且狩猎采集者血统并未显著高于同期欧洲其他人群，表明其独特狩猎葬俗与生物混合无关。值得阅读，因其挑战了文化特征与遗传血统直接关联的假设，为理解新石器时代社会结构提供了新视角。",
+      "title": "Ancient\n                    <scp>DNA</scp>\n                    Reveals Limited Hunter‐Gatherer Ancestry in the Cerny Culture (Middle Neolithic, France) Despite Hunting‐Associated Practices",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ajpa.70351",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "American Journal of Biological Anthropology, Volume 191, Issue 1, September 2026.",
+      "authors": [],
+      "doi": "10.1002/ajpa.70275",
+      "id": "doi:10.1002/ajpa.70275",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:American Journal of Biological Anthropology"
+      ],
+      "summary": "《美国生物人类学杂志》第191卷第1期（2026年9月）封面与编委会信息：本期呈现该刊最新编辑团队构成及期刊封面设计，值得关注以了解生物人类学领域的前沿发表动态与学术组织架构。",
+      "title": "Cover &amp; Editorial Board",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ajpa.70275",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    This study analyzes the geomorphological context, weathering processes, and evolution of granitic shelters bearing rock art in the Parque Arqueológico Provincial La Tunita (Sierra de Ancasti, Northwest Argentina), a key repository of Aguada Culture pictographs (\n                    <jats:italic>ca</jats:italic>\n                    . 600–900 AD). The research pursued four main objectives: (i) to characterize the spatial location and geomorphological setting of the principal shelters; (ii) to generate a three‐dimensional record of the cavities in relation to the distribution of pictographs; (iii) to identify inherited morphologies and ongoing degradative processes; and (iv) to propose a geomorphological evolutionary model for the area. Methodological procedures combined systematic photogrammetric recording with the production of 3D models. Weathering diagnosis was supported by X‐ray diffraction (XRD) to determine lithological composition, alteration products, and patinas, complemented by petrographic thin sections. The evolutionary model indicates that megatafoni and vault morphologies correspond to forms developed through prolonged weathering under warm–humid conditions. The tafoni interiors show vaults and ribs, some of which display higher resistance to uniaxial compression (RCU) than the surrounding rock. Active weathering results from the combined influence of humidity, salts, and biological/anthropic agents. Weathering fronts, gypsum and calcite neoformation, together with capillary humidity, partially affect the pictographs. Physical disintegration—granular disaggregation and exfoliation—is concentrated in overhangs and block supports, where compressive stress and water infiltration through fractures compromise the edges of certain paintings.\n                  </jats:p>",
+      "authors": [
+        "Domingo Carlos Nazar",
+        "Elio Rodríguez",
+        "Flávia Goncalves de Mesquita",
+        "Guillermo Adrián de la Fuente",
+        "José Luis Peña‐Monné",
+        "Luis Alberto Longares‐Aladrén",
+        "María Marta Sampietro‐Vattuone",
+        "María Marta Sampietro‐Vattuone, José Luis Peña‐Monné, Domingo Carlos Nazar, Guillermo Adrián de la Fuente, Rosario García‐Gimenéz, Virginia Rubio‐Fernández, Luis Alberto Longares‐Aladrén, Elio Rodríguez, Walter Ariel Báez, Flávia Goncalves de Mesquita",
+        "Rosario García‐Gimenéz",
+        "Virginia Rubio‐Fernández",
+        "Walter Ariel Báez"
+      ],
+      "doi": "10.1002/gea.70075",
+      "id": "doi:10.1002/gea.70075",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Geoarchaeology"
+      ],
+      "summary": "《拉图尼塔岩画遮蔽处的地貌背景与风化过程》：该研究系统分析了阿根廷西北部安卡斯蒂山脉拉图尼塔考古公园内花岗岩岩画遮蔽处的地貌演化与风化机制，结合三维建模和X射线衍射揭示了温湿条件下巨型岩穴的形成及盐分、生物等因素对岩画的侵蚀影响，为理解阿瓜达文化彩绘的保存环境提供了关键地质学依据，值得考古与地质交叉领域读者关注。",
+      "title": "Geomorphological Context and Weathering Processes of the Rock Art Shelters of La Tunita (Sierra de Ancasti, Northwest Argentina)",
+      "topics": [],
+      "url": "https://doi.org/10.1002/gea.70075",
+      "venue": "Geoarchaeology",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
