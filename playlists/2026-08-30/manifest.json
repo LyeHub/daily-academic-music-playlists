@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-30",
+  "items": [
+    {
+      "artists": [
+        "Kiki Rockwell"
+      ],
+      "release_date": "2026-08-28",
+      "release_type": "single",
+      "title": "Selkie"
+    },
+    {
+      "artists": [
+        "Peter Phippen",
+        "Eric “the” Taylor"
+      ],
+      "release_date": "2026-08-25",
+      "release_type": "album",
+      "title": "Two by Twilight"
+    },
+    {
+      "artists": [
+        "I See Seraphims"
+      ],
+      "release_date": "2026-08-30",
+      "release_type": "album",
+      "title": "There is Still Time"
+    },
+    {
+      "artists": [
+        "jaydobeatzz",
+        "primmy!",
+        "Angel Trejo"
+      ],
+      "release_date": "2026-08-29",
+      "release_type": "single",
+      "title": "Bombón"
+    },
+    {
+      "artists": [
+        "New Power"
+      ],
+      "release_date": "2026-08-28",
+      "release_type": "single",
+      "title": "PROMENADE"
+    },
+    {
+      "artists": [
+        "Šimanský",
+        "Valko",
+        "Podracký"
+      ],
+      "release_date": "2026-08-25",
+      "release_type": "album",
+      "title": "K-drone"
+    },
+    {
+      "artists": [
+        "Williamson"
+      ],
+      "release_date": "2026-08-29",
+      "release_type": "album",
+      "title": "A Quest for Peace on the Mountain"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-08-30",
+  "schema_version": 1
+}

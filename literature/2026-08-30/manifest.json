@@ -1,0 +1,74 @@
+{
+  "date": "2026-08-30",
+  "items": [
+    {
+      "abstract": "Communications Earth & Environment, Published online: 29 August 2026; doi:10.1038/s43247-026-03992-0 A two-step interaction between clay minerals and evaporite salts may promote organic matter preservation, with possible relevance to Mars, according to microanalytical analysis of the Middle Pleistocene gypsum and halite minerals from China’s western Qaidam Basin.",
+      "authors": [
+        "Jialong Hao",
+        "Jianxun Shen",
+        "Jiaxin Xi",
+        "Li Liu",
+        "Tongtong Huang",
+        "Wei Lin",
+        "Yan Chen"
+      ],
+      "doi": "10.1038/s43247-026-03992-0",
+      "id": "doi:10.1038/s43247-026-03992-0",
+      "publication_date": "2026-08-29",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Communications Earth & Environment"
+      ],
+      "summary": "《有机质保存的双矿物保护机制及其对火星宜居性与生物特征探测的启示》：该研究通过分析中国柴达木盆地中更新世石膏与盐岩，揭示黏土矿物与蒸发盐的两步交互作用可促进有机质保存，为火星生命探测提供新视角，值得关注其跨行星类比价值。",
+      "title": "A dual-mineral protection mechanism for organic matter preservation and its implications for Mars habitability and biosignature detection",
+      "topics": [
+        "Middle Pleistocene"
+      ],
+      "url": "https://doi.org/10.1038/s43247-026-03992-0",
+      "venue": "Communications Earth &amp; Environment",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Kosovo’s surveillance experience could help other countries prepare before human cases appear</jats:p>",
+      "authors": [
+        "Richard Stone"
+      ],
+      "doi": "10.1126/science.ael8352",
+      "id": "doi:10.1126/science.ael8352",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Science"
+      ],
+      "summary": "《致命蜱传病毒在欧洲蔓延》：该研究基于科索沃的监测经验，探讨了致命蜱传病毒在欧洲的传播态势，并指出其经验或可帮助其他国家在人类病例出现前做好防范准备。值得关注，因它提供了前瞻性预警与实用防控思路，对公共卫生应对具有参考价值。",
+      "title": "Deadly tick-borne virus gains ground in Europe",
+      "topics": [],
+      "url": "https://doi.org/10.1126/science.ael8352",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Maturing space labs and cheaper launches fuel dreams of manufacturing drugs and tissues in orbit</jats:p>",
+      "authors": [
+        "Michael Greshko"
+      ],
+      "doi": "10.1126/science.ael8347",
+      "id": "doi:10.1126/science.ael8347",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Science"
+      ],
+      "summary": "《轨道炼金术》：探讨太空实验室成熟与发射成本下降如何推动在轨制造药物和组织的愿景，值得关注其前沿科技与商业潜力的结合。",
+      "title": "Orbital alchemy",
+      "topics": [],
+      "url": "https://doi.org/10.1126/science.ael8347",
+      "venue": "Science",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
