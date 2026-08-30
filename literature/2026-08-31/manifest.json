@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-31",
+  "items": [
+    {
+      "abstract": "",
+      "authors": [
+        "Qingfeng Shao",
+        "Christophe Falguères",
+        "Yunping Huang",
+        "Salah Abdessadok",
+        "Wenbo Bao",
+        "Jianing He",
+        "Xi Chen",
+        "Xianglin Zhou",
+        "Xinrui Jin",
+        "Guilan Hu",
+        "Bassam Ghaleb",
+        "Yingfei Zhang",
+        "Guorong Hua",
+        "Zun'e Lü",
+        "Jean-Jacques Bahain"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110241",
+      "id": "doi:10.1016/j.quascirev.2026.110241",
+      "publication_date": "2026-08-29",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《中国关键直立人遗址葫芦洞的新型铀系与铀系/电子自旋共振联合测年研究》：该论文对葫芦洞遗址进行高精度定年，为厘清中国直立人演化时间框架提供关键数据，值得考古与古人类学界关注。",
+      "title": "New U-series and coupled ESR/U-series dating of Hulu Cave, a key Homo erectus site in China",
+      "topics": [
+        "U-series"
+      ],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110241",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Guangchao Deng",
+        "Xuefei Chen",
+        "Wenfeng Deng",
+        "Huiling Kang",
+        "Jian-xin Zhao",
+        "Gangjian Wei"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114176",
+      "id": "doi:10.1016/j.palaeo.2026.114176",
+      "publication_date": "2026-08-30",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《潜在生物介导的珊瑚骨骼痕量金属揭示南海北部中晚全新世古环境变化》：该研究通过珊瑚骨骼痕量金属记录，重建南海北部中晚全新世古环境演变，为理解气候与海洋变化提供新证据，值得关注其方法创新与区域环境重建意义。",
+      "title": "Potentially biologically mediated coral skeletal trace metals reveal mid- to late Holocene paleoenvironmental changes in the northern South China Sea",
+      "topics": [
+        "paleoenvironment"
+      ],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114176",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Bingbing Fan",
+        "Meng Wang",
+        "Tong Hou"
+      ],
+      "doi": "10.1016/j.jseaes.2026.107279",
+      "id": "doi:10.1016/j.jseaes.2026.107279",
+      "publication_date": "2026-08-29",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《大同火山群中更新世碱性玄武岩的多压分异与晶粥解聚》：该研究揭示华北克拉通大同火山群碱性玄武岩的岩浆演化过程，对理解板内火山成因具有重要意义，值得地质学者关注。",
+      "title": "Polybaric differentiation and mush disaggregation of Middle Pleistocene alkali basalts from the Datong Volcanic Field, North China Craton",
+      "topics": [
+        "Middle Pleistocene"
+      ],
+      "url": "https://doi.org/10.1016/j.jseaes.2026.107279",
+      "venue": "Journal of Asian Earth Sciences",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
