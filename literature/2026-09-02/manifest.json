@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-02",
+  "items": [
+    {
+      "abstract": "",
+      "authors": [
+        "Vishal Kataria",
+        "Gilad Shtienberg",
+        "Isaac Ogloblin Ramirez",
+        "Roni Zuckerman-Cooper",
+        "Nimer Taha",
+        "Elle Grono",
+        "Marko Runjajić",
+        "Ehud Galili",
+        "Nicolas Waldmann",
+        "David E. Friesem"
+      ],
+      "doi": "10.1016/j.quaint.2026.110434",
+      "id": "doi:10.1016/j.quaint.2026.110434",
+      "publication_date": "2026-09-01",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《东地中海最早海岸村落Atlit-Yam的地貌动态：沉积地层学及其淹没景观》：该研究通过沉积地层分析，揭示Atlit-Yam遗址的淹没过程与地貌演变，为理解史前海岸聚落的环境变迁提供关键证据，值得考古与地质学者阅读。",
+      "title": "Geomorphological dynamics at the coast: A sedimentary stratigraphy for Atlit-Yam, the earliest coastal village at the Eastern Mediterranean and its submerged landscape",
+      "topics": [
+        "stratigraphy"
+      ],
+      "url": "https://doi.org/10.1016/j.quaint.2026.110434",
+      "venue": "Quaternary International",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    The Iberian wolf (\n                    <jats:italic>Canis lupus signatus</jats:italic>\n                    ) is an endangered subspecies characterized by highly fragmented populations and increasing human–carnivore conflict across the Iberian Peninsula. Although body mass strongly influences predator–prey dynamics and ecological performance, quantitative assessments of sexual size dimorphism (SSD) and body mass (BM) variation in this subspecies remain scarce. Here, we conducted a morphometric analysis of the lower carnassial tooth (m1) in 78 historical and contemporary museum specimens (1900–2006) to evaluate its applicability for non‐invasive body mass estimation and sex discrimination. We assessed the anteroposterior length (m1L) and blade length (m1BL) as potential proxies for BM and SSD. Multivariate analyses (MANOVA) based on m1L and m1BL revealed significant morphometric differences between sexes (Pillai's trace = 0.3488,\n                    <jats:italic>p</jats:italic>\n                     &lt; 0.001), and Linear Discriminant Analysis produced a cross‐validated classification accuracy of 79.07%. We further developed a predictive equation specifically calibrated for the Iberian wolf using m1L, achieving a mean absolute error of 2.44 kg and a mean absolute percentage error of 7.58% under leave‐one‐out cross‐validation, demonstrating robust predictive performance for mature individuals. In immature specimens, the equation likely estimates expected adult body mass, consistent with earlier dental maturation relative to overall skeletal growth. Sexual size dimorphism was further supported by body mass estimates, with males being on average 21.4% (RBM) and 11.6% (EBM) heavier than females. Spatial analyses indicated morphological stability, with no significant differences in body mass between mature males from north and south of the Douro River, Portugal. Comparative analyses within\n                    <jats:italic>Canis</jats:italic>\n                    place the Iberian wolf within the range of variation of medium‐sized wolves. Overall, carnassial morphometrics provide a robust and accurate approach for assessing ecomorphological traits, offering valuable data to support field monitoring, forensic applications, and conservation research in threatened canids.\n                  </jats:p>",
+      "authors": [
+        "Eduardo Rossener",
+        "Leonardo Cotts",
+        "Leonardo Cotts, Eduardo Rossener, Ricardo Moratelli, Maria da Luz Mathias, Oscar Rocha‐Barbosa",
+        "Maria da Luz Mathias",
+        "Oscar Rocha‐Barbosa",
+        "Ricardo Moratelli"
+      ],
+      "doi": "10.1002/ar.70343",
+      "id": "doi:10.1002/ar.70343",
+      "publication_date": "2026-09-01",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:The Anatomical Record"
+      ],
+      "summary": "《基于下裂齿形态测量对濒危伊比利亚狼的体重与性别估计：性别大小二态性的生态形态学分析》：该研究利用78件博物馆标本的裂齿测量数据，构建了高精度体重预测方程（误差仅2.44公斤）和性别判别模型（准确率79%），为濒危物种的非侵入性监测和法医学应用提供了可靠工具，值得关注。",
+      "title": "Body mass and sex estimation from lower carnassial tooth morphometry in the endangered Iberian wolf (\n                    <i>Canis lupus signatus</i>\n                    ): An ecomorphological analysis of sexual size dimorphism",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70343",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    The tapinocephalid dinocephalian\n                    <jats:italic>Moschops</jats:italic>\n                    is one of the most iconic taxa of the middle Permian, yet its paleobiology remains one of the least well‐known. Here, we address some aspects of paleoneurology and paleobiology of\n                    <jats:italic>Moschops</jats:italic>\n                    using CT scanning of four well preserved skulls from the upper Abrahamskraal Formation of South Africa. Two of the specimens preserve articulated scleral ossicle rings, the dimensions of which are more consistent with a diel activity pattern, although intermediate between diurnal, nocturnal, and cathemeral. The bony labyrinth for the inner ear (preserved in one specimen) has comparatively short semicircular canals, and the agility score aligns with those of modern large herbivores that are able to swim. This is consistent with previous hypotheses inferring that some tapinocephalid dinocephalians may have been semi‐aquatic. The four individuals form a partial ontogenetic series, and we show that the endocast grows markedly with body size in\n                    <jats:italic>Moschops</jats:italic>\n                    , as does the encephalization quotient. The latter is an unusual pattern for vertebrates. We also report the first possible evidence for the preservation of soft brain tissues in a non‐mammalian synapsid, which sparks exciting perspectives for future studies of non‐mammalian synapsid paleoneurology.\n                  </jats:p>",
+      "authors": [
+        "Adam Midzuk",
+        "Andrew D. Bolton",
+        "Julien Benoit",
+        "Julien Benoit, Lars Schmitz, Kenneth D. Angielczyk, Luke A. Norton, Andrew D. Bolton, Adam Midzuk, Roger M. H. Smith",
+        "Kenneth D. Angielczyk",
+        "Lars Schmitz",
+        "Luke A. Norton",
+        "Roger M. H. Smith"
+      ],
+      "doi": "10.1002/ar.70297",
+      "id": "doi:10.1002/ar.70297",
+      "publication_date": "2026-09-01",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:The Anatomical Record"
+      ],
+      "summary": "《非凡保存揭示塔平诺头兽类恐头兽的古生物学》：该研究通过CT扫描南非四件保存完好的摩斯兽头骨，首次揭示巩膜环、内耳迷路及脑部软组织证据，并发现脑化商随体型增大的异常模式，为理解二叠纪大型草食兽的昼夜活动习性与半水生适应提供了关键新视角，值得古生物学爱好者深入阅读。",
+      "title": "Exceptional preservation informs the paleobiology of tapinocephalid dinocephalians",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70297",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
