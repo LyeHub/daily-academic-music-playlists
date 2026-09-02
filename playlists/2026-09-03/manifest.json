@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-03",
+  "items": [
+    {
+      "artists": [
+        "Jun OKUNO"
+      ],
+      "release_date": "2026-09-03",
+      "release_type": "single",
+      "title": "Static Crown"
+    },
+    {
+      "artists": [
+        "David Dellacroce"
+      ],
+      "release_date": "2026-09-01",
+      "release_type": "album",
+      "title": "Suite 050"
+    },
+    {
+      "artists": [
+        "Olivia Escuyos"
+      ],
+      "release_date": "2026-09-03",
+      "release_type": "single",
+      "title": "TWO MINDS"
+    },
+    {
+      "artists": [
+        "Huremic"
+      ],
+      "release_date": "2026-09-02",
+      "release_type": "album",
+      "title": "No Dancing Allowed"
+    },
+    {
+      "artists": [
+        "Vanny Goodfella"
+      ],
+      "release_date": "2026-09-02",
+      "release_type": "album",
+      "title": "The Illuminated G.O.A.T.(Greatest Of All Time)"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-09-03",
+  "schema_version": 1
+}
