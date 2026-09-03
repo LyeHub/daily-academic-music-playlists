@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-04",
+  "items": [
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Identifying intact Late Pleistocene occupations on the South Atlantic Coastal Plain is a persistent challenge due to shallow, dynamic sedimentary settings and extensive postdepositional modification. Here, we examine the sedimentological and site-formation dynamics of the Swag site (38AL137) located in an upland basin adjacent to the Savannah River in Allendale County, South Carolina. We integrate sediment characterization, artifact fabric analysis, refit data, and optically stimulated luminescence (OSL) dating to assess vertical stability and taphonomic processes within an upland pond-margin setting. Artifact orientations do not show evidence of strong preferred alignment, and inclinations show a strong preference for flat-lying positions, consistent with limited disturbance. Refit patterns display minimal vertical movement, averaging 3.2 cm, and correspond to a dense horizon of artifacts. OSL ages (16,910 ± 1145 and 10,435 ± 715 years ago) bracket the artifact horizon, providing a broad Late Pleistocene–Early Holocene time frame within which a Clovis fluted preform was deposited. These results demonstrate that upland depressions underlain by fine-grained, poorly drained sediments can preserve minimally reworked occupations. The Swag site provides a rare example of stratigraphic integrity for Late Pleistocene deposits in the American Southeast, offering a model for identifying and evaluating stable geoarchaeological contexts in similar settings.</jats:p>",
+      "authors": [
+        "D. Shane Miller",
+        "Derek T. Anderson",
+        "J. Nathan Shores",
+        "Jesse W. Tune"
+      ],
+      "doi": "10.1017/qua.2026.10109",
+      "id": "doi:10.1017/qua.2026.10109",
+      "publication_date": "2026-09-03",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "推荐关注这篇发表于《Quaternary Research》、聚焦OSL dating的研究；可由“Preservation of Late Pleistocene archaeological deposits in an upland p…”进一步了解其材料、方法与结论。",
+      "title": "Preservation of Late Pleistocene archaeological deposits in an upland pond-margin setting at the Swag site (38AL137) on the South Atlantic Coastal Plain, USA",
+      "topics": [
+        "OSL dating"
+      ],
+      "url": "https://doi.org/10.1017/qua.2026.10109",
+      "venue": "Quaternary Research",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Rubén Juidíaz",
+        "Fernando Blanco",
+        "Ana R. Gómez Cano",
+        "Adriana Oliver",
+        "Manuel Hernández Fernández",
+        "M. Soledad Domingo"
+      ],
+      "doi": "10.1016/j.earscirev.2026.105679",
+      "id": "doi:10.1016/j.earscirev.2026.105679",
+      "publication_date": "2026-09-02",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "推荐关注这篇发表于《Earth-Science Reviews》、聚焦biochronology的研究；可由“Iberian Neogene–Quaternary biochronology: a refined framework based on…”进一步了解其材料、方法与结论。",
+      "title": "Iberian Neogene–Quaternary biochronology: a refined framework based on maximum likelihood analysis of small mammal assemblages",
+      "topics": [
+        "biochronology"
+      ],
+      "url": "https://doi.org/10.1016/j.earscirev.2026.105679",
+      "venue": "Earth-Science Reviews",
+      "work_type": "journal-article"
+    }
+  ],
+  "schema_version": 1
+}
