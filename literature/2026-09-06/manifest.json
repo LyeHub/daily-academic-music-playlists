@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-06",
+  "items": [
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    There is now a wealth of glass‐shard geochemical data for volcanic ash (tephra) layers from a wide range of volcanoes and eruptions, providing invaluable datasets for tephrochronology. However, compilation of published data to assess tephra correlations leads to large files and requires careful management. Here, we show that a project within the\n                    <jats:italic>IntChron</jats:italic>\n                    Integration Tool (Ramsey et al., 2019), an open‐access and versatile online application, can be used to effectively store and manage tephra information, geochemical data and relevant metadata, while also providing visualisation and statistical tools. The visualisation functionality allows sites to be plotted on a variety of base maps, enables the plotting of tephra shard concentrations through a sequence and generates biplots of major and trace elements. The statistical tools are similarly invaluable for investigating compositional variability and relationships, and for assessing the probability that datasets correlate. An\n                    <jats:italic>IntChron</jats:italic>\n                    Integration Tool project supports the entire workflow, from sample and data collection through analysis and interpretation, to the generation of publication‐ready plots. Here, we present an example project to show the functionality using published data from distal tephra layers in the Lake Suigetsu core, and proximal eruption deposits from volcanoes across Japan. This project contains over 7000 geochemical analyses from 12 publications, demonstrating the power of the\n                    <jats:italic>IntChron</jats:italic>\n                    Integration Tool to manage, visualise and archive geochemical datasets.\n                  </jats:p>",
+      "authors": [
+        "Christopher Bronk Ramsey",
+        "Danielle McLean",
+        "Eloise Wilkinson‐Rowe",
+        "Emma L. Horn",
+        "Gavin Kane",
+        "Victoria C. Smith",
+        "Victoria C. Smith, Danielle McLean, Eloise Wilkinson‐Rowe, Emma L. Horn, Gavin Kane, Christopher Bronk Ramsey"
+      ],
+      "doi": "10.1002/jqs.70111",
+      "id": "doi:10.1002/jqs.70111",
+      "publication_date": "2026-09-04",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Quaternary Science"
+      ],
+      "summary": "推荐阅读这篇发表于《Journal of Quaternary Science》的研究，以了解“Managing and visualising geochemical data for tephra correlation with t…”所涉及问题的最新证据与讨论。",
+      "title": "Managing and visualising geochemical data for tephra correlation with the\n                    <i>IntChron</i>\n                    Integration Tool",
+      "topics": [],
+      "url": "https://doi.org/10.1002/jqs.70111",
+      "venue": "Journal of Quaternary Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    The Australasian crocodylian fossil record is dominated by the extinct endemic clade Mekosuchinae, with known members spanning the Eocene‐to‐Holocene. This diverse clade exhibited high morphological disparity, from early members superficially similar to\n                    <jats:italic>Crocodylus</jats:italic>\n                    , to more terrestrial forms later in the clade's evolutionary history. However, it remains unclear why mekosuchines went extinct whilst\n                    <jats:italic>Crocodylus</jats:italic>\n                    continues to thrive in the region, and how the ancestors of this terrestrial clade reached Australasia without long‐distance transoceanic dispersal. One possible explanation is that there was intraclade variation in the growth pattern and life habit of mekosuchine species, and that these, in turn, differ from those of\n                    <jats:italic>Crocodylus</jats:italic>\n                    . Here, we present the first osteohistological study of mekosuchines, evaluating the femora of the middle–late Eocene species\n                    <jats:italic>Kambara taraina</jats:italic>\n                    and late Oligocene–middle Miocene\n                    <jats:italic>Baru</jats:italic>\n                    (\n                    <jats:italic>B</jats:italic>\n                    .\n                    <jats:italic>wickeni</jats:italic>\n                    ,\n                    <jats:italic>B</jats:italic>\n                    .\n                    <jats:italic>darrowi</jats:italic>\n                    ). Bone compactness profiles are more characteristic of a terrestrial habit than those of extant crocodylians, with\n                    <jats:italic>Baru darrowi</jats:italic>\n                    demonstrating the most terrestrialized profile. Apposition rates are similar in absolute value to those of extant crocodylians, indicating a comparable metabolism; however, high appositional rates throughout mid‐cortical cyclical growth marks suggest that mekosuchines were able (or needed) to maintain a moderate rate of growth for longer than extant crocodylians. Our results indicate that mekosuchines were more terrestrial than\n                    <jats:italic>Crocodylus</jats:italic>\n                    and that later‐diverging mekosuchines showed increased terrestrialization; however, they do not indicate that early mekosuchines were well‐adapted to transoceanic dispersal. Heightened terrestrialization and an extended moderate growth period might have made mekosuchines more vulnerable to late Cenozoic aridification in Australia than semi‐aquatic\n                    <jats:italic>Crocodylus</jats:italic>\n                    .\n                  </jats:p>",
+      "authors": [
+        "Adam M. Yates",
+        "Alexandra Houssaye",
+        "Cecily S. C. Nicholl",
+        "Devin K. Hoffman",
+        "Devin K. Hoffman, Cecily S. C. Nicholl, Oliver Bradley, Sreya Magar, Marie Sofia Sebaratnam, Alexandra Houssaye, Ryan N. Felice, Adam M. Yates, Stephen F. Poropat, Philip D. Mannion",
+        "Marie Sofia Sebaratnam",
+        "Oliver Bradley",
+        "Philip D. Mannion",
+        "Ryan N. Felice",
+        "Sreya Magar",
+        "Stephen F. Poropat"
+      ],
+      "doi": "10.1002/ar.70341",
+      "id": "doi:10.1002/ar.70341",
+      "publication_date": "2026-09-04",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:The Anatomical Record"
+      ],
+      "summary": "推荐阅读这篇发表于《The Anatomical Record》的研究，以了解“Osteohistological evidence for terrestrial adaptation and an extended g…”所涉及问题的最新证据与讨论。",
+      "title": "Osteohistological evidence for terrestrial adaptation and an extended growth period in mekosuchine crocodylians and its potential role in their extinction",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70341",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
