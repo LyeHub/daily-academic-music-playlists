@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-07",
+  "items": [
+    {
+      "artists": [
+        "Jogging House"
+      ],
+      "release_date": "2026-09-01",
+      "release_type": "album",
+      "title": "Really"
+    },
+    {
+      "artists": [
+        "My second guess"
+      ],
+      "release_date": "2026-09-03",
+      "release_type": "single",
+      "title": "Opal"
+    },
+    {
+      "artists": [
+        "imber"
+      ],
+      "release_date": "2026-09-07",
+      "release_type": "single",
+      "title": "Signals"
+    },
+    {
+      "artists": [
+        "PARK AUTHORITY"
+      ],
+      "release_date": "2026-09-04",
+      "release_type": "single",
+      "title": "Marigold"
+    },
+    {
+      "artists": [
+        "undersaken"
+      ],
+      "release_date": "2026-09-06",
+      "release_type": "album",
+      "title": "omnicidal 壊滅"
+    },
+    {
+      "artists": [
+        "Magic Orange"
+      ],
+      "release_date": "2026-09-06",
+      "release_type": "single",
+      "title": "Sensory Pleasures"
+    },
+    {
+      "artists": [
+        "DECO*27",
+        "初音ミク"
+      ],
+      "release_date": "2026-09-04",
+      "release_type": "single",
+      "title": "洗脳"
+    },
+    {
+      "artists": [
+        "Saishō 最小"
+      ],
+      "release_date": "2026-09-01",
+      "release_type": "ep",
+      "title": "rendez-vous à la gare"
+    },
+    {
+      "artists": [
+        "Limonene Cigarette"
+      ],
+      "release_date": "2026-09-03",
+      "release_type": "album",
+      "title": "C10H18"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-09-07",
+  "schema_version": 1
+}

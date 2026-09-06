@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-07",
+  "items": [
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Music is a widespread cultural phenomenon and the biological and cognitive capacities for making and engaging with music are widely distributed among the human population. The anthropological record details the many guises in which music appears across human cultures and the roles that it plays. This includes ethnographically known forager societies in which all individuals are engaged to some extent with the musical activities of their group. From an evolutionary perspective, humans are musical creatures. This chapter sketches an evolutionary account of our species’ widely distributed musicality via various key features of hominin vocal and bodily anatomy, the ear, and cognition from a paleoanthropological perspective—features that make music production and engagement possible—as well as relevant archeological evidence.</jats:p>",
+      "authors": [
+        "Anton Killin",
+        "Peter Hiscock"
+      ],
+      "doi": "10.1093/9780197775097.003.0007",
+      "id": "doi:10.1093/9780197775097.003.0007",
+      "publication_date": "2026-09-07",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "推荐关注这篇发表于《The Biology of Music》、聚焦hominin的研究；可由“The Phylogeny of Musicality”进一步了解其材料、方法与结论。",
+      "title": "The Phylogeny of Musicality",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://doi.org/10.1093/9780197775097.003.0007",
+      "venue": "The Biology of Music",
+      "work_type": "book_chapter"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yutong Qian",
+        "Ruibo Ren",
+        "Yunti Wu",
+        "Frank M. Chambers",
+        "Chunbai Hu",
+        "Honghao Niu"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106034",
+      "id": "doi:10.1016/j.jasrep.2026.106034",
+      "publication_date": "2026-09-06",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "推荐关注这篇发表于《Journal of Archaeological Science: Reports》、聚焦subsistence的研究；可由“Subsistence strategies and anthropomorphic soil modification at a Hongs…”进一步了解其材料、方法与结论。",
+      "title": "Subsistence strategies and anthropomorphic soil modification at a Hongshan Culture site in northern China: a multi-proxy archaeological perspective",
+      "topics": [
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106034",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal-article"
+    }
+  ],
+  "schema_version": 1
+}
