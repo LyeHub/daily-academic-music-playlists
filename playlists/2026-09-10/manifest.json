@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-10",
+  "items": [
+    {
+      "artists": [
+        "Silenced"
+      ],
+      "release_date": "2026-09-04",
+      "release_type": "ep",
+      "title": "morning air in silence"
+    },
+    {
+      "artists": [
+        "TREVØR"
+      ],
+      "release_date": "2026-09-04",
+      "release_type": "album",
+      "title": "JUDGMENT"
+    },
+    {
+      "artists": [
+        "Roots of Quiet"
+      ],
+      "release_date": "2026-09-04",
+      "release_type": "single",
+      "title": "Black Ocean"
+    },
+    {
+      "artists": [
+        "LSZ"
+      ],
+      "release_date": "2026-09-04",
+      "release_type": "album",
+      "title": "Inherited Tetrad"
+    },
+    {
+      "artists": [
+        "LSZ"
+      ],
+      "release_date": "2026-09-04",
+      "release_type": "album",
+      "title": "A Photograph of Wood"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-09-10",
+  "schema_version": 1
+}
