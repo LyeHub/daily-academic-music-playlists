@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-11",
+  "items": [
+    {
+      "artists": [
+        "Marian Renta"
+      ],
+      "release_date": "2026-09-11",
+      "release_type": "album",
+      "title": "Let Him Hear"
+    },
+    {
+      "artists": [
+        "Schandmaul"
+      ],
+      "release_date": "2026-09-11",
+      "release_type": "album",
+      "title": "Sternensegler"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-09-11",
+  "schema_version": 1
+}
