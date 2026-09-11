@@ -1,0 +1,65 @@
+{
+  "date": "2026-09-12",
+  "items": [
+    {
+      "artists": [
+        "Kiko Dinucci"
+      ],
+      "release_date": "2026-09-09",
+      "release_type": "album",
+      "title": "Medusa"
+    },
+    {
+      "artists": [
+        "Ari Nurdiman"
+      ],
+      "release_date": "2026-09-11",
+      "release_type": "single",
+      "title": "Senyummu Cukup"
+    },
+    {
+      "artists": [
+        "Nick Betschart",
+        "Dyeana"
+      ],
+      "release_date": "2026-09-11",
+      "release_type": "single",
+      "title": "Bad on Purpose"
+    },
+    {
+      "artists": [
+        "Acidgvrl",
+        "iilith"
+      ],
+      "release_date": "2026-09-12",
+      "release_type": "single",
+      "title": "Aneurysms"
+    },
+    {
+      "artists": [
+        "brentt Medina"
+      ],
+      "release_date": "2026-09-10",
+      "release_type": "single",
+      "title": "One 9"
+    },
+    {
+      "artists": [
+        "Camilo"
+      ],
+      "release_date": "2026-09-09",
+      "release_type": "album",
+      "title": "Para cuando sean mayores"
+    },
+    {
+      "artists": [
+        "E U P H O R I A 永遠の"
+      ],
+      "release_date": "2026-09-11",
+      "release_type": "album",
+      "title": "雲の流れる静かな風景"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-09-12",
+  "schema_version": 1
+}
