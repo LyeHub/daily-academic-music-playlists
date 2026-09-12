@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-13",
+  "items": [
+    {
+      "artists": [
+        "known artiste"
+      ],
+      "release_date": "2026-09-11",
+      "release_type": "album",
+      "title": "Summoners"
+    },
+    {
+      "artists": [
+        "Bleachers"
+      ],
+      "release_date": "2026-09-11",
+      "release_type": "single",
+      "title": "Caught Myself Believing"
+    },
+    {
+      "artists": [
+        "Lusanda"
+      ],
+      "release_date": "2026-09-11",
+      "release_type": "single",
+      "title": "By The Time I Wake Up"
+    },
+    {
+      "artists": [
+        "S O A R E R"
+      ],
+      "release_date": "2026-09-10",
+      "release_type": "album",
+      "title": "もう一度私を愛して"
+    },
+    {
+      "artists": [
+        "Nate Mercereau"
+      ],
+      "release_date": "2026-09-11",
+      "release_type": "album",
+      "title": "Fantastic Thoughts"
+    },
+    {
+      "artists": [
+        "Bonobo"
+      ],
+      "release_date": "2026-09-11",
+      "release_type": "album",
+      "title": "Distance in Static"
+    },
+    {
+      "artists": [
+        "Awayday"
+      ],
+      "release_date": "2026-09-10",
+      "release_type": "ep",
+      "title": "Handsignature"
+    },
+    {
+      "artists": [
+        "The Pilots"
+      ],
+      "release_date": "2026-09-08",
+      "release_type": "single",
+      "title": "Splash Mountain"
+    },
+    {
+      "artists": [
+        "Weathersong"
+      ],
+      "release_date": "2026-09-08",
+      "release_type": "album",
+      "title": "Aerosol Study"
+    },
+    {
+      "artists": [
+        "S O A R E R"
+      ],
+      "release_date": "2026-09-10",
+      "release_type": "album",
+      "title": "global connection // modulación angular"
+    },
+    {
+      "artists": [
+        "Deepspace"
+      ],
+      "release_date": "2026-09-08",
+      "release_type": "album",
+      "title": "The Atlas Sector"
+    },
+    {
+      "artists": [
+        "NORTH OF SILENCE"
+      ],
+      "release_date": "2026-09-12",
+      "release_type": "single",
+      "title": "The Machine Never Wanted Anything"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-09-13",
+  "schema_version": 1
+}
