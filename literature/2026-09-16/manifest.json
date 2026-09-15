@@ -1,0 +1,547 @@
+{
+  "date": "2026-09-16",
+  "items": [
+    {
+      "abstract": "<jats:p>The Chenghai Fault Zone is a major active intrablock structure within the Sichuan–Yunnan Block at the southeastern margin of the Tibetan Plateau and exhibits pronounced along-strike kinematic segmentation. However, the Quaternary left-lateral slip rate of its central Qina segment remains poorly constrained. Here, we integrate field investigations, remote-sensing geomorphic mapping, UAV photogrammetry, and U-series dating to investigate the fault-offset Qiaonan paleolandslide along the Jinjiang Fault. The Qina segment consists mainly of the NNE-striking Qina and Jinjiang faults, which together form an overall left-stepping fault system dominated by left-lateral strike-slip motion. Geomorphic restoration of well-preserved landslide margins using high-resolution UAV-derived orthophotos and digital surface models indicates a cumulative left-lateral displacement of approximately 100 m. Independent DEM-based restoration yields a horizontal displacement of ~97 m, providing a consistent estimate of the fault offset. U-series dating of secondary carbonate cement within the landslide deposit yields a ^230Th–U age of 257.7 ± 3.2 ka. Because the dated carbonate precipitated after landslide emplacement, this age provides only a minimum-age constraint on the paleolandslide. Consequently, the calculated apparent left-lateral slip rate of ~0.39–0.47 mm/yr should be regarded as an upper-bound estimate rather than a precisely determined slip rate for the Jinjiang Fault. The Jinjiang Fault also left-laterally offsets the Jinsha River by ~3.04–3.25 km. Assuming that this displacement began to accumulate with the initiation of the Dali faulted-basin system at ca. 7.6 Ma, the corresponding long-term average slip rate is ~0.40–0.43 mm/yr. However, this estimate depends on an assumed fault-initiation age and therefore represents an end-member long-term average. When considered together with previous interpretations of possible fault-activity migration within the Chenghai Fault Zone, the Quaternary upper-bound rate is compatible with, but does not demonstrate, a reduction in the left-lateral strike-slip component during the Late Cenozoic. Such temporal variations may reflect changes in deformation partitioning among intrablock faults within the Dali faulted-basin system, although this interpretation remains tentative and requires additional chronological and slip-rate constraints. Our results demonstrate the potential of fault-offset paleolandslides to provide valuable geomorphic and chronological constraints on the Quaternary behavior of slowly slipping intrablock faults, while highlighting the importance of independent chronological control for resolving long-term variations in fault slip.</jats:p>",
+      "authors": [
+        "Feipeng Huang",
+        "Shifeng Wang",
+        "Xiaolong Huang",
+        "Zhichao Li",
+        "Zhonghai Wu"
+      ],
+      "doi": "10.3390/quat9050062",
+      "id": "doi:10.3390/quat9050062",
+      "publication_date": "2026-09-14",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《程海断裂带期纳段晚第四纪左旋走滑速率的断层错断古滑坡约束》：研究利用野外调查、遥感地貌填图、无人机摄影测量与铀系测年，对锦江断裂上被错断的桥南古滑坡进行地貌恢复与定年，估算期纳段晚第四纪左旋走滑速率上限，并讨论金沙江错断所反映的长期平均速率。适合关注青藏高原东南缘活动构造、走滑速率与古滑坡测年的读者阅读。",
+      "title": "Fault-Displaced Paleolandslide Constraints on the Late Quaternary Left-Lateral Slip Rate of the Qina Segment of the Chenghai Fault Zone",
+      "topics": [
+        "U-series"
+      ],
+      "url": "https://doi.org/10.3390/quat9050062",
+      "venue": "Quaternary",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    The Little Ice Age (LIA, ∼1400–1850 CE) was characterized by colder winters and more frequent extreme weather events in the Northern Hemisphere. While changes in ocean circulation likely contributed to global cooling, the specific mechanisms remain poorly understood. Here, we investigate how ocean circulation changed before, during, and after the LIA using marine sediment cores from the Laurentian Channel in the lower St. Lawrence Estuary. We first established a Mg/Ca–temperature calibration for\n                    <jats:italic>Globobulimina auriculata</jats:italic>\n                    using instrumental temperature data and a century-old box core. Applying this calibration to a longer piston core, we reconstructed bottom-water temperatures during the LIA. Coupling these results with existing δ\n                    <jats:sup>1</jats:sup>\n                    ⁸O calcite data allowed us to isolate the δ\n                    <jats:sup>1</jats:sup>\n                    ⁸O seawater signal, which reflects changes in the relative contributions of the Labrador Current and Gulf Stream. Our results indicate an increase of fresh and cold Labrador Sea–derived waters around 1500 CE. Throughout most of the LIA, we observed a slow and steady warming of the bottom water associated with a gradual increase in the proportion of Atlantic-derived waters until ∼1850 CE. The ∼1800–1950 CE interval shows high-amplitude variability, including a sudden freshening event at the LIA’s end. After 1950 CE, regional warming dominates, consistent with previous studies documenting increased Atlantic influence over the Canadian shelf.\n                  </jats:p>",
+      "authors": [
+        "Wai Ching Rachel Chu",
+        "Tiffany Audet",
+        "Anne de Vernal",
+        "Benoit Thibodeau"
+      ],
+      "doi": "10.1017/qua.2026.10100",
+      "id": "doi:10.1017/qua.2026.10100",
+      "publication_date": "2026-07-10",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《小冰期开始时西北大西洋陆坡水的突然淡化和冷却：基于镁钙比与氧稳定同位素记录》：研究利用圣劳伦斯河口沉积岩芯，建立Globobulimina auriculata的Mg/Ca温度校准，重建小冰期底层水温并分离海水δ¹⁸O信号，揭示约1500年拉布拉多海水输入增加、小冰期大部分时段底层水缓慢变暖、1800至1950年高幅波动及小冰期结束时的突然淡化事件，可供…",
+      "title": "Sudden freshening and cooling of western North Atlantic slope water at the onset of the Little Ice Age based on magnesium-to-calcium ratio and oxygen stable isotope record",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.1017/qua.2026.10100",
+      "venue": "Quaternary Research",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:p>The port of Portus was located about 30 km southwest of Rome and was the most important in the Western Mediterranean during the Roman Imperial period (27 BCE–476 CE). This paper analyses the palaeoenvironmental evolution of the channel linking the outer harbour, or Claudius Basin, with the inner harbour, or Trajan’s Hexagon. During the 1st century CE, this area was situated in an open marine environment, which gradually became more confined due to sedimentation from the River Tiber and the silting caused by the massive accumulation of fibres and leaves from the seagrass Posidonia oceanica. In the ~2nd–5th centuries CE, the area transitioned to a brackish environment and eventually became silted up, with a marked decline in port activity from the 5th century CE onward.</jats:p>",
+      "authors": [
+        "Francisco Ruiz",
+        "Gabriel Gómez",
+        "Javier Bermejo",
+        "Guadalupe Monge",
+        "María Isabel Carretero",
+        "María Luz González-Regalado",
+        "Sergio Ríos",
+        "Amanda López",
+        "Alejandro Cano",
+        "Lucía Fernández",
+        "Manuel Abad",
+        "Tatiana Izquierdo",
+        "Antonio Toscano",
+        "Paula Gómez",
+        "José Manuel Bernabé",
+        "Verónica Romero"
+      ],
+      "doi": "10.3390/quat9030047",
+      "id": "doi:10.3390/quat9030047",
+      "publication_date": "2026-06-22",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《从克劳狄到图拉真：波图斯帝国港（意大利中部）的古环境演化》：该研究分析连接外港克劳狄盆地与内港图拉真六边形的通道之古环境演化，指出公元1世纪该区域为开阔海洋环境，后因台伯河沉积及海草波西多尼亚大量纤维和叶片堆积而逐渐封闭，约2至5世纪转为半咸水环境并最终淤塞，5世纪起港口活动明显衰退；适合关注罗马帝国港口与古环境变迁的读者阅读。",
+      "title": "Between Claudius and Trajan: Palaeoenvironmental Evolution of the Imperial Port of Portus (Central Italy)",
+      "topics": [
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.3390/quat9030047",
+      "venue": "Quaternary",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:p xml:lang=\"en\">Since the 19th century, vertebrate fossils from the Açu Formation (Potiguar Basin, northeastern ­Brazil) have received limited taphonomic attention, despite recent discoveries of various gnathostomes, including chondrichtyans, actinopterygians, dipnoans, crocodyliforms and dinosaurs. This study presents the first integrated macro- and microscale taphonomic analysis of vertebrate assemblages from selected outcrops of the Açu Formation. A total of 134 disarticulated vertebrate specimens, mainly vertebrae and limb bones, were examined, focusing on articulation, fragmentation, weathering, abrasion, bioerosion, root marks, and diagenetic features such as mineral replacement, pore filling, and fracturing. The assemblages record variable degrees of subaerial exposure and episodic transport prior to burial, as indicated by moderate abrasion, the predominance of weathering stage 2, insect bioerosion, tooth marks, and root traces. Petrographic analyses reveal extensive carbonate and iron oxide replacement, osteon infilling, and desiccation-related microfracturing, reflecting fossilization under generally humid conditions punctuated by intervals of reduced precipitation. Integrated sedimentological and taphonomic evidence indicates that the studied deposits accumulated within an estuarine floodplain system, most consistent with the upper, fluvial-dominated sector of an estuary. The predominance of fine-grained facies with pedogenic features, interbedded sandstones, and heterolithic bedding reflects episodic sedimentation under fluctuating hydrological conditions. The fossil assemblages comprise autochthonous to parautochthonous remains, recording localized burial, limited reworking, and temporal mixing during Cretaceous depositional processes.</jats:p>",
+      "authors": [
+        "Letícia Paiva BELFORT",
+        "Hermínio Ismael DE ARAÚJO-JÚNIOR",
+        "Lílian PAGLARELLI BERGQVIST",
+        "Gustavo PRADO MARTINS",
+        "Fernando Henrique DE SOUZA BARBOSA",
+        "Kleberson DE OLIVEIRA PORPINO",
+        "Maurícius NASCIMENTO MENEZES",
+        "Patrick FÜHR DAL’BÓ"
+      ],
+      "doi": "10.5852/cr-palevol2026v25a9",
+      "id": "doi:10.5852/cr-palevol2026v25a9",
+      "publication_date": "2026-05-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《巴西东北部波蒂瓜尔盆地阿尔布阶-塞诺曼阶阿苏组脊椎动物埋藏学及遗迹学与沉积学特征》：该研究首次对阿苏组脊椎动物化石组合开展宏观与微观结合的埋藏学分析，考察134件脱节标本的风化、磨蚀、生物侵蚀与成岩特征，并结合沉积学证据推断其沉积于河口湾洪泛平原环境，为理解白垩纪化石埋藏与保存过程提供了具体案例。",
+      "title": "Vertebrate taphonomy and ichnological and sedimentological aspects from the Albian-Cenomanian Açu Formation, Potiguar Basin, Northeastern Brazil",
+      "topics": [
+        "taphonomy"
+      ],
+      "url": "https://doi.org/10.5852/cr-palevol2026v25a9",
+      "venue": "Comptes Rendus Palevol",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Kannika Wangritthikraikul",
+        "S. Nemiah Ladd",
+        "Ricardo N. Santos",
+        "Negar Haghipour",
+        "Nathalie Dubois",
+        "Sakonvan Chawchai"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110248",
+      "id": "doi:10.1016/j.quascirev.2026.110248",
+      "publication_date": "2026-09-11",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《泰国东部全新世古环境变化的多指标重建：海平面与季风作为关键驱动因素》：该研究利用多指标重建泰国东部全新世古环境变化，并指出海平面与季风是主要驱动因素，适合关注东南亚古气候与海平面相互作用的研究者阅读。",
+      "title": "Multi-proxy reconstruction of Holocene paleoenvironmental changes in eastern Thailand: Sea-level and monsoon as key drivers",
+      "topics": [
+        "paleoenvironment"
+      ],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110248",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Henry Schwarcz",
+        "Eric J. Bartelink",
+        "Melanie Beasley",
+        "Carol Goldberg"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110231",
+      "id": "doi:10.1016/j.quascirev.2026.110231",
+      "publication_date": "2026-09-10",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《美洲太平洋沿岸人群陆地动物蛋白来源有限的稳定同位素证据》：该研究利用稳定同位素分析，探讨美洲太平洋沿岸人群是否以陆地动物作为蛋白质来源，结论指向其使用程度有限。适合关注稳定同位素方法、古代饮食结构与沿海人群生计的读者阅读。",
+      "title": "Stable isotope evidence for limited use of terrestrial animals as a protein source by peoples of the Pacific Coast of the Americas",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110231",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Wuyu Zhou",
+        "Yuanyuan Chen",
+        "Shu Wang",
+        "Zongyu Li",
+        "Yunxin Fu",
+        "Enxue Feng",
+        "Chunxue Wang",
+        "Song Wu"
+      ],
+      "doi": "10.1007/s12520-026-02559-6",
+      "id": "doi:10.1007/s12520-026-02559-6",
+      "publication_date": "2026-08-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《辽金春捺钵遗址群中后鸣子地点的差异化供给：动物考古与稳定同位素证据》：该研究结合动物考古与稳定同位素分析，考察中国东北一处辽金春捺钵遗址群内后鸣子地点的动物遗存，探讨移动皇家营地的差异化供给方式，可供关注辽金捺钵制度、古代生计与稳定同位素应用的读者参考。",
+      "title": "Differentiated provisioning in a mobile royal camp: zooarchaeological and stable isotope evidence from Houmingzi, a locality within a Liao–Jin spring nabo site complex, Northeast China",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.1007/s12520-026-02559-6",
+      "venue": "Archaeological and Anthropological Sciences",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Falconry, a prominent emblem of aristocratic status across medieval Eurasian societies, constituted a refined leisure practice among elite milieus. This investigation examines falconry within the medieval Principality of Tver (12th–15th centuries) through osteoarcheological analysis of Kremlin excavations, identifying diagnostic avian assemblages including gyrfalcons and goshawks, decoy species (buzzards, owls, corvids), provisioning pigeons, and game birds (capercaillie, black grouse, hazel grouse). No written sources document Tver's falconry practice; evidence rests exclusively on zooarchaeological signatures. Raptors comprise 6.0% of the Kremlin avian assemblage—markedly elevated and spatially confined to elite precincts, almost absent from extramural excavations—indicating institutionalized practice among princely elites. The study fills a critical lacuna in medieval Russian zooarchaeology by providing the first zooarchaeological evidence of falconry in any medieval Russian principality, establishing diagnostic criteria (female‐biased raptors, jesses, training corvids, provisioning pigeons) applicable to other understudied sites lacking written documentation. The spatial patterning and cohesive artifactual assemblages reveal how material signatures unveil aristocratic practices invisible in textual records, demonstrating Tver's synthesis of post‐Mongol Asian and Western European falconry traditions.</jats:p>",
+      "authors": [
+        "A. V. Zinoviev"
+      ],
+      "doi": "10.1002/oa.70163",
+      "id": "doi:10.1002/oa.70163",
+      "publication_date": "2026-08-26",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《中世纪特维尔（俄罗斯）的鹰猎：骨骼考古学与历史记录》：通过分析克里姆林宫出土鸟类遗存，识别出矛隼、苍鹰、诱饵鸟种、供饲鸽及猎禽，发现猛禽占鸟类组合6.0%且集中于精英区域，首次为 medieval 俄罗斯公国鹰猎提供动物考古证据，并建立可用于缺乏文献遗址的鉴定标准，值得关注。",
+      "title": "Falconry in Medieval Tver (Russia): Osteoarchaeological and Historical Accounts",
+      "topics": [
+        "zooarchaeology"
+      ],
+      "url": "https://doi.org/10.1002/oa.70163",
+      "venue": "International Journal of Osteoarchaeology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:p>\n                    This study investigates long-term wood procurement strategies in northeastern Iberia through the anthracological analysis of two rural settlements, Vilauba (Camós, Girona) and Can Ring (Besalú, Girona), whose occupational sequences span almost nine centuries (first century BCE–seventh century CE). The charcoal analysis provides insights into woodland exploitation, resources management and changes in fuel selection through time. The results indicate that wood acquisition relied primarily on local mixed Mediterranean woodlands dominated by deciduous and evergreen\n                    <jats:italic toggle=\"yes\">Quercus</jats:italic>\n                    species, complemented by the exploitation of Mediterranean shrubs and riparian vegetation. Differences between the two settlements reflect local environmental conditions, while the recurrent presence of high-altitude conifers suggests occasional procurement of timber from more distant forested areas, likely associated with construction and other specialised uses. Cultivated taxa, including sp.\n                    <jats:italic toggle=\"yes\">Prunus</jats:italic>\n                    ,\n                    <jats:italic toggle=\"yes\">Olea europaea</jats:italic>\n                    and\n                    <jats:italic toggle=\"yes\">Vitis vinifera</jats:italic>\n                    , point to the integration of arboriculture by-products into fuel supply systems. Diachronic trends reveal significant changes in woodland exploitation linked to transformations in settlement function and economic organisation. While local woodland resources consistently formed the basis of fuel procurement, shifts in taxonomic composition indicate adaptive responses to changing productive activities and resource demands. These results provide new evidence for the relationship between woodland management and rural economies in Roman and Late Antique northeastern Iberia and broadly support palaeoenvironmental reconstructions derived from regional palynological records.\n                  </jats:p>",
+      "authors": [
+        "Eva Maria López Castillo",
+        "Raquel Piqué Huerta",
+        "Pere Castanyer Masoliver",
+        "Joan Frigola Torrent",
+        "Oriol López Bultó",
+        "Anna Barberà Berrocal",
+        "Joaquim Tremoleda Trilla"
+      ],
+      "doi": "10.1177/09596836261468266",
+      "id": "doi:10.1177/09596836261468266",
+      "publication_date": "2026-08-24",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《通过炭屑证据重建薪柴获取方式：西班牙赫罗纳的Can Ring与Vilauba两处罗马及晚古时期遗址》：该研究对伊比利亚东北部两处乡村聚落近九个世纪的炭屑进行分析，揭示当地以地中海混合栎林为主的薪柴获取策略及林木利用的历时变化，可供关注古环境与罗马乡村经济的研究者参考。",
+      "title": "Reconstructing firewood procurement through anthracological evidence: The Roman and Late Antique sites of Can Ring and Vilauba (Girona, Spain)",
+      "topics": [
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.1177/09596836261468266",
+      "venue": "The Holocene",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "Recovering well-preserved vertebrate remains from underwater caves has provided critical insights into archaeological and palaeontological records worldwide. However, understanding how bone assemblages form and are modified in underwater environments remains limited due to stable low energy burial conditions that produce time-averaged deposits, and underwater settings that hinder traditional recording and recovery methods. We examine three assemblages of historically deposited and dated non-human, domesticate animal bones from two underwater caves, Green Waterhole and Gouldens Sinkhole, near Mount Gambier, South Australia, encompassing known submerged (wet) and dry burial conditions. The assemblages were examined to assess how wet and dry cave environments impact bone distribution, surface and microstructural modification. Radiocarbon dating of 41 specimens indicates that domesticate fauna were deposited over decadal and centennial timescales, allowing taphonomic signatures to be contextualised through time. Statistically significant differences were identified between wet and dry burial contexts. Bones recovered from wet contexts exhibit mostly better preservation, including skeletal elemental completeness, surface, and microstructure, than those from dry caves. However, some of the submerged specimens also have elevated frequencies of bone surface chemical corrosion with macroscopic evidence for heterogenous black biological staining, algal or biofilm attack, and a distinctive form of circular etching. Histotaphonomy further reveals patterns of peripheral cyanobacterial tunnelling across most bones recovered from submerged contexts. Bones from dry environments were dominated by terrestrially linked tunnelling across all regions of the bone cortex. These findings can be explained by variation in light availability across different cave zones which influences biological activity and, in turn, the expression of taphonomic markers on bone externally and at the microstructural level. This is the first study to provide a benchmark dataset for reconstructing depositional histories and post-depositional reworking of bones in underwater cave environments under a taphonomic framework.",
+      "authors": [
+        "Elizabeth Reed",
+        "Geraldine E. Jacobsen",
+        "Gilbert J. Price",
+        "Joanne E. Wilkinson",
+        "Joseph Monks",
+        "Julien Louys",
+        "Justyna J. Miszkiewicz",
+        "Mathew Stewart",
+        "Meg M. Walker",
+        "Rachel Wood",
+        "Rebecca Esmay",
+        "Shwaron Kumar",
+        "Stewart Fallon",
+        "Vladimir Levchenko"
+      ],
+      "doi": "10.1371/journal.pone.0343896",
+      "id": "doi:10.1371/journal.pone.0343896",
+      "publication_date": "2026-07-15",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《水下洞穴脊椎动物遗址形成的埋藏学新特征》：研究通过澳大利亚南部两处水下洞穴中已定年的家养动物骨骼组合，比较湿性与干性埋藏环境对骨骼分布、表面及微结构改造的影响，发现湿环境骨骼保存更好但存在化学腐蚀、生物染色和蓝细菌钻孔等特征，干环境则以陆源钻孔为主，为重建水下洞穴骨骼沉积史提供首个基准数据集。",
+      "title": "Neotaphonomic characteristics of vertebrate site formation in underwater caves",
+      "topics": [
+        "site formation",
+        "taphonomy"
+      ],
+      "url": "https://doi.org/10.1371/journal.pone.0343896",
+      "venue": "PLoS ONE",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Projectile technology and long-range weapons represent a major innovation in human evolution, shaping subsistence strategies, complex behavior, and advanced planning skills. Given the fast decay of organic remains, the Upper Paleolithic record is dominated by lithic implements, which are often classified as projectiles based primarily on morphological characteristics. However, such typological classifications frequently overlook macro- and microfractures that signal actual projectile use and may vary between different weapon systems. Here, we present the results of a detailed technological and functional analysis of 54\n                    <jats:italic>fléchettes</jats:italic>\n                    from the Gravettian layers of the cave sites Hohle Fels, Brillenhöhle, and Geißenklösterle. Using a holistic approach including multiple analytical approaches spanning from lithic technology, traceology, projectile experiments, and statistics allowed a more comprehensive and robust analysis of possible wear patterns linked to projectile use. The technological analysis focused on the production sequence and morphological variability of the\n                    <jats:italic>fléchettes</jats:italic>\n                    , while use-wear analysis was employed to identify macro- and micro traces indicative of projectile use. The observed traces were tested against a reference assemblage of experimentally replicated\n                    <jats:italic>fléchettes</jats:italic>\n                    knapped from Jurassic chert and radiolarite, the two primary lithic materials used in the Swabian Gravettian. The experiments tested different propulsion modes, including spear-throwing and bow-and-arrow propulsion, as well as the influence of raw material variability on the formation of macro traces. The results reveal a high overlap of use-wear traces between Ach Valley\n                    <jats:italic>fléchettes</jats:italic>\n                    and\n                    <jats:italic>fléchettes</jats:italic>\n                    used in experimental spear-throwing while clustering with TCSA values of ethnographic arrowheads. Based on these findings, we hypothesize that\n                    <jats:italic>fléchettes</jats:italic>\n                    were likely adapted for projectile use in a long-range weapon system, complementing other Gravettian point types in a modular projectile design that reflects the versatile technological and subsistence organization in the Swabian Gravettian.\n                  </jats:p>",
+      "authors": [
+        "Elena Moos",
+        "Elena T. Moos",
+        "Flavia Venditti",
+        "Nicholas J. Conard"
+      ],
+      "doi": "10.1007/s10816-026-09809-w",
+      "id": "doi:10.1007/s10816-026-09809-w",
+      "publication_date": "2026-07-08",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《旧石器时代投射物研究的整体框架：来自施瓦本格拉维特文化小箭头的启示》：该研究对霍勒费尔斯、布里伦洞穴和盖森克洛斯特尔洞穴格拉维特文化层出土的54件小箭头进行技术分析与使用痕迹分析，并结合以侏罗纪燧石和放射虫岩复制小箭头开展的投射实验与统计分析，发现其使用痕迹与实验矛投掷小箭头高度重合，且与民族志箭头的TCSA值聚类，据此推测小箭头可能适配于远程武器系统，…",
+      "title": " A Holistic Framework for Paleolithic Projectile Studies: Insights from Swabian Gravettian Fléchettes",
+      "topics": [
+        "lithic technology",
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1007/s10816-026-09809-w",
+      "venue": "Journal of Archaeological Method and Theory",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "This paper introduces a systems-level, mechanistic framework that reframes hominin evolution as a prolonged, recursive response to persistent environmental and physiological stress across the Neogene and Quaternary. Departing from classical stochastic paradigms centered upon isolated anatomical innovations or linear selection for intelligence, the model proposes that human evolutionary history emerged as a cascade of tightly coupled, interacting feedback loops spanning climate variability, ecomorphology, terrestrial adaptation, energetics, and neural scaling. Long-term trends toward African aridification and severe, high-amplitude environmental oscillations across the Sahel-Rift corridor continuously penalized narrow ecological specialization, systematically favoring generalized biological and behavioral flexibility. The resulting early hominin adaptive suite—characterized by facultative bipedalism, extensive eccrine sweating, structural hair reduction, and endurance locomotion—is modeled as a coordinated, multi-system survival strategy to manage these unstable resource and thermoregulatory landscapes. Within this foundational adaptive framework, encephalization is hypothesized to have proceeded through two distinct yet recursively interacting neuroadaptive pathways. The first represents a slow, evolutionary baseline of structural scaling driven by cumulative network connectivity burdens over millions of years. The second, highly accelerated pathway is proposed to have been triggered during acute Pleistocene climatic downturns that compressed hominin populations into high-altitude, western Ethiopian montane refugia. Within these ecologically restricted zones, forced fallback subsistence on naturally caffeinated Coffea arabica berry ecosystems exposed already burdened nervous systems to chronic competitive antagonism of central adenosine receptors, inducing a state of neural metabolic strain that natural selection resolved through parsimonious neuronal scaling. This critical behavioral shift was governed by an upstream molecular gatekeeper—the fixation of a derived, desensitized aryl hydrocarbon receptor variant unique to modern humans—and a comprehensive somatic overhaul encompassing hepatic, renal, and autonomic specializations to tolerate and clear continuous stimulant influx. A proposed regional mosaic model for the aryl hydrocarbon receptor elegantly resolves the long-standing macro-evolutionary paradox regarding why highly encephalized archaic Eurasian lineages stochastically retained ancestral, hyper-sensitive primate receptor configurations. As this accelerated neural regime consolidated within the genus Homo, the lineage confronted a severe convergence of compounding metabolic bottlenecks. Obligate terrestrial bipedalism and high-throughput endurance running increasingly subjected hominins to chronic, low-grade intravascular footstrike hemolysis and sweating-induced iron loss, colliding directly with the immense nutritional requirements demanded by developing neural tissues. The sequence of this somatic and neural evolution was fundamentally shaped by high-altitude nocturnal thermal stress, which drove the early habitual control of fire for thermoregulation. The resulting energetic surplus financed a dramatic increase in overall body mass and stature, introducing a severe baseline iron debt that necessitated a definitive behavioral transition toward compulsory, habitual hunting. Because an obligate carnivorous infrastructure and cooking technologies were already firmly established to pre-finance these strict caloric, iron, and vitamin constraints, the lineage possessed the exact dietary pipeline required to sustain massive, highly active neuronal populations without triggering systemic metabolic bankruptcy. Finally, the model notes that this caffeine-driven encephalization loop was inherently self-limiting, as the expansion of the neural network itself gradually muted the specific selection pressure over deep evolutionary time.",
+      "authors": [
+        "Christopher Gomes"
+      ],
+      "doi": "10.5281/zenodo.20598459",
+      "id": "doi:10.5281/zenodo.20598459",
+      "publication_date": "2026-06-08",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《人亚科进化的一种机制模型：通过递归生理应激》：该文将人亚科进化重构为对新近纪和第四纪持续环境与生理应激的长期递归响应，提出气候变率、生态形态、陆地适应、能量学与神经 scaling 相互耦合的反馈回路，并讨论咖啡因生态、芳烃受体变异与脑化路径。适合关注人类进化机制与跨学科建模的读者。",
+      "title": "A Mechanistic Model of Hominin Evolution Through Recursive Physiological Stress",
+      "topics": [
+        "hominin",
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20598459",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "work_type": "article"
+    },
+    {
+      "abstract": "This paper introduces a systems-level, mechanistic framework that reframes hominin evolution as a prolonged, recursive response to persistent environmental and physiological stress across the Neogene and Quaternary. Departing from classical stochastic paradigms centered upon isolated anatomical innovations or linear selection for intelligence, the model proposes that human evolutionary history emerged as a cascade of tightly coupled, interacting feedback loops spanning climate variability, ecomorphology, terrestrial adaptation, energetics, and neural scaling. Long-term trends toward African aridification and severe, high-amplitude environmental oscillations across the Sahel-Rift corridor continuously penalized narrow ecological specialization, systematically favoring generalized biological and behavioral flexibility. The resulting early hominin adaptive suite—characterized by facultative bipedalism, extensive eccrine sweating, structural hair reduction, and endurance locomotion—is modeled as a coordinated, multi-system survival strategy to manage these unstable resource and thermoregulatory landscapes. Within this foundational adaptive framework, encephalization is hypothesized to have proceeded through two distinct yet recursively interacting neuroadaptive pathways. The first represents a slow, evolutionary baseline of structural scaling driven by cumulative network connectivity burdens over millions of years. The second, highly accelerated pathway is proposed to have been triggered during acute Pleistocene climatic downturns that compressed hominin populations into high-altitude, western Ethiopian montane refugia. Within these ecologically restricted zones, forced fallback subsistence on naturally caffeinated Coffea arabica berry ecosystems exposed already burdened nervous systems to chronic competitive antagonism of central adenosine receptors, inducing a state of neural metabolic strain that natural selection resolved through parsimonious neuronal scaling. This critical behavioral shift was governed by an upstream molecular gatekeeper—the fixation of a derived, desensitized aryl hydrocarbon receptor variant unique to modern humans—and a comprehensive somatic overhaul encompassing hepatic, renal, and autonomic specializations to tolerate and clear continuous stimulant influx. A proposed regional mosaic model for the aryl hydrocarbon receptor elegantly resolves the long-standing macro-evolutionary paradox regarding why highly encephalized archaic Eurasian lineages stochastically retained ancestral, hyper-sensitive primate receptor configurations. As this accelerated neural regime consolidated within the genus Homo, the lineage confronted a severe convergence of compounding metabolic bottlenecks. Obligate terrestrial bipedalism and high-throughput endurance running increasingly subjected hominins to chronic, low-grade intravascular footstrike hemolysis and sweating-induced iron loss, colliding directly with the immense nutritional requirements demanded by developing neural tissues. The sequence of this somatic and neural evolution was fundamentally shaped by high-altitude nocturnal thermal stress, which drove the early habitual control of fire for thermoregulation. The resulting energetic surplus financed a dramatic increase in overall body mass and stature, introducing a severe baseline iron debt that necessitated a definitive behavioral transition toward compulsory, habitual hunting. Because an obligate carnivorous infrastructure and cooking technologies were already firmly established to pre-finance these strict caloric, iron, and vitamin constraints, the lineage possessed the exact dietary pipeline required to sustain massive, highly active neuronal populations without triggering systemic metabolic bankruptcy. Finally, the model notes that this caffeine-driven encephalization loop was inherently self-limiting, as the expansion of the neural network itself gradually muted the specific selection pressure over deep evolutionary time.",
+      "authors": [
+        "Christopher Gomes"
+      ],
+      "doi": "10.5281/zenodo.20598460",
+      "id": "doi:10.5281/zenodo.20598460",
+      "publication_date": "2026-06-08",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《人亚科进化的一种机制模型：通过递归生理应激》：该文将人亚科进化重构为对新近纪和第四纪持续环境与生理应激的长期递归响应，提出气候变率、生态形态、陆地适应、能量学与神经 scaling 相互耦合的反馈回路，并探讨咖啡因生态与芳烃受体变异在脑化中的作用，适合关注人类进化机制整合解释的读者。",
+      "title": "A Mechanistic Model of Hominin Evolution Through Recursive Physiological Stress",
+      "topics": [
+        "hominin",
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20598460",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Abstract Understanding the seasonality of resource exploitation provides critical insights into past human behaviours, how prehistoric communities structured their subsistence strategies, organised resource use, coordinated social activities, and interacted with their environment. These insights benefit from large sample numbers, increasing robustness, enabling statistical correlations of contextual information with specific seasons as well as the identification of synchronous collection events. Here we present these benefits as a result of high-throughput and high-resolution seasonal analyses of 180 archaeological mollusc shell samples using laser induced breakdown spectroscopy (LIBS) from the prehistoric site of Franchthi (Greece). These results focus on the Neolithic but also include information on the Final Palaeolithic and Mesolithic periods. They offer rare glimpses into meal practices and seasonal scheduling that are often elusive in traditional archaeological analyses, thereby highlighting the ability of large sample sets to reveal nuanced aspects of prehistoric subsistence and social practices.",
+      "authors": [
+        "Danai Theodoraki",
+        "Niklas Hausmann"
+      ],
+      "doi": "10.1007/s12520-026-02509-2",
+      "id": "doi:10.1007/s12520-026-02509-2",
+      "publication_date": "2026-05-30",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《史前弗兰克西遗址的季节性：大样本集的运用》：该研究用激光诱导击穿光谱对希腊弗兰克西遗址180件考古软体动物贝壳样本做高通量高分辨率季节性分析，聚焦新石器时代并涵盖旧石器时代末期与中石器时代，揭示资源利用的季节安排与膳食实践，值得关注大样本如何呈现传统分析难以捕捉的史前生计与社会细节。",
+      "title": "Seasonality at prehistoric Franchthi: the use of large sample sets",
+      "topics": [
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1007/s12520-026-02509-2",
+      "venue": "Archaeological and Anthropological Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Who were the Neanderthals and what forms of symbolic material culture did they engage in? Part II provides a further historical background and overview of research over the past two decades on Neanderthals symbolic material culture to support the discussion in Part I (Adoranten 2024) on whether they had cognitive ability. No one disagrees that Neanderthals are not us- they are not the same as Homo sapiens. The question of cognitive ability centers on how Neanderthals are fundamentally different. Within that lies a cognitive process involved in knowing the needs, sources, or planning for tool making, mortuary practices, fishing-hunting-gathering for food, personal adornment, or making images on cave walls. It is important not to define humanity as one homogenous group or to confine the definition of mind as something encased in the brain: Both limit our understanding of ‘other’ cultures. Research points to a Middle Palaeolithic transformation that led to an increase of symbolic material culture in the Upper Palaeolithic- not the beginning of it, suggesting Neanderthals were clever enough to create markings on cave walls.",
+      "authors": [
+        "Anne Jodon Cole"
+      ],
+      "doi": "10.65611/ador.v56i.65696",
+      "id": "doi:10.65611/ador.v56i.65696",
+      "publication_date": "2026-05-19",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《旧石器时代艺术与尼安德特人：他们足够聪明吗？》：文章梳理近二十年尼安德特人象征物质文化研究，探讨其工具制作、丧葬、渔猎采集、个人装饰及洞穴壁面图像背后的认知过程，并指出中旧石器时代已出现向象征物质文化增多的转变，值得关注旧石器艺术与尼安德特人认知能力讨论的读者阅读。",
+      "title": "Palaeolithic Art & Neanderthals: Were they clever enough?",
+      "topics": [
+        "Middle Palaeolithic",
+        "Neanderthal"
+      ],
+      "url": "https://doi.org/10.65611/ador.v56i.65696",
+      "venue": "Adoranten",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Xingyi Guo, Jixiang Song, Zhanwei Du, Fang Han, Qi Meng, Hongliang Lu, Hong Qiao, Jiyuan Li",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:3a23c07737fc120836cdfc0bbd5c7fa0fd9e40af2356248928cc2478bf594459",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Journal of Archaeological Science: Reports",
+        "scholar_email"
+      ],
+      "summary": "《青藏高原全新世中期狩猎采集者的植物利用：东果滩遗址的植物考古证据》：该研究基于东果滩遗址的植物考古证据，探讨全新世中期青藏高原狩猎采集者的植物利用情况，适合关注高原史前生计与植物考古的读者阅读。",
+      "title": "Mid-holocene hunter-gatherer plant utilization on the Tibetan Plateau: archaeobotanical evidence from the Dongguotan site",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004645?dgcid=rss_sd_all",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:0ababbb3ad811b9ec2865d97adf0702c85db7b28560d9c15d2e40590c2156b8a",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《古风时期腓尼基加迪尔的动物考古学与生物分子分析——萨加斯塔-廷特遗址（公元前9至8世纪）》：该研究结合动物考古学与生物分子分析，考察该遗址的动物遗存，值得关注其对早期腓尼基殖民点生计与资源利用的揭示。",
+      "title": "Archaeozoology and Biomolecular Analysis in Archaic Phoenician Gadir—The Site of Sagasta–Tinte (9th–8th Centuries BC)",
+      "topics": [
+        "archaeozoology"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.mdpi.com/2673-9461/6/3/33&hl=zh-CN&sa=X&d=14270540058906516006&ei=YnqparyCGcOuieoPhcC12Ag&scisig=AIVdB-z_U_wXbE3brkpAmpHCU4Rj&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:AIVdB-yFgjQ3aq7L7XCjppZ1-SRh&html=&pos=1&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:93c4ecced7def3397e8cbc272b86c4f68a49db01b3d8fdaeb59d90efc0641795",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《利用稳定同位素分析重建伊比利亚东南部拉巴斯蒂达和加塔斯早期青铜时代遗址的青铜时代饮食与农业策略》：该研究通过稳定同位素分析，探讨这两个早期青铜时代遗址的饮食与农业策略，适合关注青铜时代社会生计与同位素考古的读者阅读。",
+      "title": "Reconstructing Bronze Age diets and farming strategies at the early Bronze Age sites of La Bastida and Gatas (southeast Iberia) using stable isotope analysis",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.academia.edu/download/81554458/20200312110628_5e6a09a4e5211.pdf&hl=zh-CN&sa=X&d=5300900099288105285&ei=YXqpaq3JN9GhieoPzK7roQY&scisig=AIVdB-xF978NTVBf2M4JC-JiIYrY&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIVdB-wRbyhrHf5k-0EmLax2725g&html=&pos=2&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:9ce5ca6e5b76a4bd5b638e50ef6c0847fb592b8f26a340269e309ea9b797dc5b",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《来自德国舍宁根的首例灵长类（Macaca cf. sylvanus）》：该研究报道了在舍宁根遗址发现的猕猴类化石，这是该地区首次发现的灵长类动物，为理解舍宁根动物群组成和更新世灵长类地理分布提供了新证据，值得古生物学与考古学研究者关注。",
+      "title": "The first primate (Macaca cf. sylvanus) from Schöningen (Germany)",
+      "topics": [
+        "Schöningen"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2950236526000228",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:1e560256e5d90f19fcae143feecb25a8208d678787634d3a9f7e1b9132f708a2",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《瓦里布鲁克（新几内亚二号洞穴，澳大利亚东南部古奈库尔奈地区）18000年来被剪切的有袋类跟骨：系统性破损……》：研究更新世至全新世有袋类跟骨的系统性破损模式，值得考古学与埋藏学研究者阅读。",
+      "title": "> 18,000 years of sheared kangaroo and wallaby calcanea from Waribruk (New Guinea II Cave, GunaiKurnai Country, SE Australia): Systematic breakage from ...",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S2352409X26004360&hl=zh-CN&sa=X&d=18166349518530512492&ei=YXqpaq3JN9GhieoPzK7roQY&scisig=AIVdB-z7WijdmnrWPKqSxPwCsi8H&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIVdB-wRbyhrHf5k-0EmLax2725g&html=&pos=9&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:eef0c5217626dd831a81f71e5175f3c2bc5b54963236a2726aa0b32d59741eeb",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《牙齿釉质发育不全与齿内同位素记录作为早更新世河马类生理压力与环境变异指标》：该研究利用牙齿釉质发育不全和齿内同位素记录，分析早更新世河马类的生理压力与环境变异，适合关注古生态与同位素应用的读者。",
+      "title": "Dental enamel hypoplasia and intra‐tooth isotope records as indicators of physiological stress and environmental variability in Early Pleistocene hippopotamids from ...",
+      "topics": [],
+      "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/jqs.70113",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:f0260b8186e318c520d2e49d9f17637e2f008445a44940490efd754641e4bbcb",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《欧亚上新世-更新世存在非洲象属（Loxodonta Anonymous, 1827）的证据》：该研究探讨欧亚上新世-更新世地层中非洲象属的化石记录，为理解该属在欧亚大陆的分布与演化提供证据，适合关注古生物与象类演化的读者参考。",
+      "title": "EVIDENCE OF THE PRESENCE OF THE GENUS LOXODONTA ANONYMOUS, 1827 IN PLIO-PLEISTOCENE OF EURASIA",
+      "topics": [],
+      "url": "https://www.applied-research.ru/en/article/view?id=3830",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:d9c85d1e436ca17dadef4162c2629f722c97325183533b0cac36faecb8a58679",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《罗马尼亚喀尔巴阡山脉晚更新世洞熊种群的古饮食与古生态》：该研究聚焦这一洞熊种群的食性与生态背景，有助于了解晚更新世大型动物如何适应环境，适合关注古生态与古生物学的读者阅读。",
+      "title": "Palaeodiet and palaeoecology of a Late Pleistocene cave bear population in the Romanian Carpathians",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.app.pan.pl/archive/published/app71/app012912025.pdf&hl=zh-CN&sa=X&d=16841319240330098983&ei=YXqpaq3JN9GhieoPzK7roQY&scisig=AIVdB-yTRTg2qpSRNw4dptq3jqyE&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIVdB-wRbyhrHf5k-0EmLax2725g&html=&pos=7&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:511b4dbb99768a2c7fa78218c58e4cd10ab96222fc06c3d686b7fae13970139e",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《魔法的色彩：异域原材料、勘探与北欧旧石器时代晚期》：该研究探讨北欧旧石器时代晚期异域原材料的获取与勘探活动，适合关注史前贸易、资源流动及早期人类适应策略的读者阅读。",
+      "title": "The colour of magic: Exotic raw materials, prospecting, and the Late Palaeolithic of northern Europe",
+      "topics": [],
+      "url": "https://pure.au.dk/portal/en/publications/the-colour-of-magic-exotic-raw-materials-prospecting-and-the-late/",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:ecc0c780d94df424dd55c321c203396a8b6830107ec54f6ca36b773742bed325",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《基于改进的频率比模型的新石器时期遗址预测：以太湖流域为例》：该研究以太湖流域为例，运用改进的频率比模型预测新石器时期遗址分布，可供考古学与地理信息科学领域研究者参考。",
+      "title": "基于改进的频率比模型的新石器时期遗址预测: 以太湖流域为例.",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://openurl.ebsco.com/contentitem/gcd:196772122%3Fsid%3Debsco:plink:crawler-gcd%26id%3Debsco:gcd:196772122%26crl%3Dc%26jrnl%3D16711815&hl=zh-CN&sa=X&d=14052552777618369791&ei=YnqparyCGcOuieoPhcC12Ag&scisig=AIVdB-wPX84ZjPvC9BDH0wPRqEYW&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:AIVdB-yFgjQ3aq7L7XCjppZ1-SRh&html=&pos=0&folt=cit",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
