@@ -1,0 +1,462 @@
+{
+  "date": "2026-09-17",
+  "items": [
+    {
+      "abstract": "ABSTRACT Centromeres are essential for accurate chromosome segregation during cell division, yet their highly repetitive sequence has historically hindered their complete assembly and characterization. Consequently, the full spectrum of centromere diversity across individuals, populations, and evolutionary contexts remains largely unexplored. Here, we address this gap in knowledge by assembling and characterizing 2,110 complete human centromeres from a diverse cohort of individuals representing 5 continental and 28 population groups. By developing a novel suite of bioinformatic tools tailored for centromeric regions, we uncover previously unknown variation within centromeres, including 226 novel centromere haplotypes and 1,870 new α-satellite higher-order repeat (HOR) variants. We find that mobile element insertions are present in 30% of centromeres, with chromosome 16 harboring Alu elements within the kinetochore site at an 11-fold higher frequency than expected. While most centromeres have a single kinetochore site, 6% of them have di-kinetochores, and <<1% have tri-kinetochores, which we confirm with long-read CENP-A CUT&RUN, DiMeLo-seq, and multi-generational inheritance. We further show that the position of the kinetochore is not random and is, instead, closely associated with the underlying sequence and structure of the centromere. To understand the nature of evolutionary change, we compared 2,110 complete human centromeres to 5,747 complete centromeres recently assembled from the Human Pangenome Reference Consortium. We show that centromeres have a >50-fold variation in mutation rate, with the most rapidly mutating centromeres on chromosome 1 and the slowest mutating centromeres on chromosome Y. Additionally, a subset of centromeres show evidence of introgression from archaic hominins, shaping their sequence, structure, and evolutionary history. We validate these centromere mutation rates in a four-generation family, spanning 28 family members and 483 accurately assembled centromeres, and show that the kinetochore site is the most rapidly mutating region in the centromere, with twofold more single-nucleotide variants than the rest of the centromeric α-satellite HOR array on average. We propose a model that reveals an ‘arms race’ between centromeric sequence and proteins, with frequent mutations within the site of the kinetochore that lead to changes in genetic and epigenetic landscapes and, ultimately, rapid evolution of these critically important regions.",
+      "authors": [
+        "Shenghan Gao",
+        "Keisuke K. Oshima",
+        "Shu-Cheng Chuang",
+        "Mark Loftus",
+        "Tamara Potapova",
+        "Annalaura Montanari",
+        "David Gordon",
+        "Zikun Yang",
+        "Hufsah Ashraf",
+        "Peter A. Audano",
+        "Marcelo Ayllon",
+        "Andrey Azov",
+        "Parithi Balachandran",
+        "Anna O. Basile",
+        "Christine R. Beck",
+        "Marc Jan Bonder",
+        "Lucy Brooks",
+        "Marta Byrska-Bishop",
+        "Mark J. P. Chaisson",
+        "Zechen Chong",
+        "André Corvelo",
+        "Jonathan Crabtree",
+        "Scott E. Devine",
+        "Peter Ebert",
+        "Jana Ebler",
+        "Evan E. Eichler",
+        "Aine Fairbrother-Browne",
+        "Chia-Hsuan Fan",
+        "Mallory Freeberg",
+        "M. Gerstein",
+        "Bida Gu",
+        "Pille Hallast",
+        "Patrick Hasenfeld",
+        "Mir Henglin",
+        "Kendra Hoekzema",
+        "Kaili Hu",
+        "Sarah Hunt",
+        "Matthew Jensen",
+        "Yunzhe Jiang",
+        "Kwondo Kim",
+        "Jan O. Korbel",
+        "Youngjun Kwon",
+        "Peter M. Lansdorp",
+        "Charles Lee",
+        "Tiffany Leung",
+        "Jiaqi Li",
+        "Chong Li",
+        "Jiadong Lin",
+        "Mark Loftus",
+        "Tobias Marschall",
+        "Gianni V. Martino",
+        "Ryan E. Mills",
+        "Yulia Mostovoy",
+        "Katherine M. Munson",
+        "Giuseppe Narzisi",
+        "Lingbin Ni",
+        "Carolyn Paisie",
+        "Samarendra Pani",
+        "Zishan Peng",
+        "David Porubskỳ",
+        "Timofey Prodanov",
+        "Keon Rabbani",
+        "Tobias Rausch",
+        "Xinghua Shi",
+        "Yuwei Song",
+        "Kaitlyn Sun",
+        "Likhitha Surapaneni",
+        "Michael E. Talkowski",
+        "Vasiliki Tsapalou",
+        "Andres Veidenberg",
+        "Feyza Yilmaz",
+        "DongAhn Yoo",
+        "Xuefang Zhao",
+        "Weichen Zhou",
+        "Qihui Zhu",
+        "Michael C. Zody",
+        "Derek Albracht",
+        "Ivan A. Alexandrov",
+        "Jamie Allen",
+        "Alawi A. Alsheikh-Ali",
+        "Nicolas Altemose",
+        "Casey Andrews",
+        "Dmitry Antipov",
+        "Lucinda Antonacci-Fulton",
+        "Mobin Asri",
+        "Jennifer Balacco",
+        "Floris P. Barthel",
+        "Edward A. Belter",
+        "Halle D. Bender",
+        "Andrew P. Blair",
+        "Davide Bolognini",
+        "Katherine E. Bonini",
+        "Christina Boucher",
+        "Guillaume Bourque",
+        "Silvia Buonaiuto",
+        "Shuo Cao",
+        "Andrew Carroll",
+        "Ann M. Mc Cartney",
+        "Monika Čechová",
+        "Pi-Chuan Chang"
+      ],
+      "doi": "10.1038/s41586-026-10841-9",
+      "id": "doi:10.1038/s41586-026-10841-9",
+      "publication_date": "2026-07-29",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《人类着丝粒变异与演化的全球视角》：研究组装并表征了来自5大洲28个群体2110个完整人类着丝粒，揭示226种新着丝粒单倍型、1870种新α卫星高阶重复变体及动粒位点变异，并与5747个泛基因组着丝粒比较发现突变率逾50倍差异及古人类基因渗入，值得关注着丝粒演化与基因组稳定性研究。",
+      "title": "A global view of human centromere variation and evolution",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-10841-9",
+      "venue": "Nature",
+      "work_type": "article"
+    },
+    {
+      "abstract": "The first farmers in the Wetterau Basin (Hesse, Central Germany) are associated with the Early Neolithic Linear Pottery culture (5400–5000/4900 cal. BCE). Following a brief population decline at the transition to the Middle Neolithic, the Rössen culture (4750–4600 cal. BCE) expanded into peripheral landscapes outside the regions dominated by fertile soils derived from loess, and into higher terrain. This expansion was accompanied by changes in agricultural practices and might have included the use of floodplains for animal grazing. To investigate livestock herding, we conducted a multi-proxy study of a sediment core taken from a floodplain near a Rössen settlement in Berstadt/Wölfersheim, Central Germany. Our analyses combined pollen, charred plant particles, coprophilous fungal spores, faecal lipid biomarkers and dental microwear from domestic ungulates. Our results suggest that during the Early and Middle Neolithic periods, the landscape was characterised by Pinus woodlands interspersed with deciduous trees such as Quercus and Tilia , whereas floodplain habitats remained largely devoid of trees. Fire was likely used to manage woodlands and wet meadows. Since the Rössen culture the floodplain has been used as a grazing area for cattle and pigs, as evidenced by elevated concentrations of 5β -stanol derived from herbivores, bile acid ratios, coprophilous fungal spores, alongside high values of Poaceae and grazing indicators. The dental microwear patterns of domestic ruminants from the settlement indicate that most of them were grazers. This study emphasises the importance of combining palaeoenvironmental data to reconstruct human–ecosystem interactions and the adaptive strategies employed by early farming communities.",
+      "authors": [
+        "Astrid Stobbe",
+        "Hannah Lindemann",
+        "Nadine Nolde",
+        "Sabine Fiedler",
+        "Sascha Scherer"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106059",
+      "id": "doi:10.1016/j.jasrep.2026.106059",
+      "publication_date": "2026-09-14",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《德国中部韦特劳地区新石器时代中期的洪泛平原放牧——一项综合多指标研究》：该研究通过花粉、炭化植物颗粒、粪生真菌孢子、粪便脂质生物标志物及家养有蹄类牙齿微磨痕等多指标分析，探讨罗森文化时期洪泛平原是否被用于牲畜放牧，值得关注早期农业社群与生态系统互动及适应策略的读者阅读。",
+      "title": "Middle Neolithic floodplain grazing in the Wetterau (Hesse, Central Germany) – An integrated multi–proxy study",
+      "topics": [
+        "dental microwear",
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106059",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study presents a reproducible framework for identifying the anatomical position of cattle phalanges, integrating both morphological and osteometric approaches for application to modern and zooarchaeological assemblages. The dataset comprises 1853 phalanges from 106 individuals with known and unknown phalangeal position representing multiple breeds, ages, sexes, and functions from four modern reference collections. Morphological criteria of first, second, and third phalanges from previous studies were systematically tested for accuracy, whereas osteometric data were analyzed using multivariate models, including LASSO‐regularized logistic regression. The models were trained and validated through repeated fivefold cross‐validation and tested on independent datasets of phalanges with unknown position. In parallel, pathologies were assessed and quantified using the Pathological Index (PI) and Refined Pathological Index (PIr) to evaluate their impact on position determination. Results indicate that nonmetric morphology provides the most reliable method for determining phalangeal position, with osteometric data offering supporting evidence, especially for anterior–posterior position determination. Pathologies generally have no to little influence on diagnostic traits, although severe lesions, especially for the first phalanges, can compromise the accuracy of the identification. This study allows for an accurate determination of phalangeal position in both modern reference collections and zooarchaeological datasets where mixed deposits obscure the original anatomical position. In zooarchaeology, the accurate determination of phalangeal position contributes to more reliable differentiation of bovid species, improved MNI estimations, and the assessment of sexual dimorphism, thereby aiding reconstructions of herd composition and cattle exploitation strategies, which shed much light on significant processes such as domestication and economic intensification. Furthermore, this paper also provides an accessible manual with flowcharts of diagnostic morphological characteristics, digital drawings, and analytical tools to facilitate the standardized and user‐friendly application across collections.</jats:p>",
+      "authors": [
+        "Audrey Crabbé",
+        "Willemien de Kock",
+        "Canan Çakırlar"
+      ],
+      "doi": "10.1002/oa.70145",
+      "id": "doi:10.1002/oa.70145",
+      "publication_date": "2026-07-08",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《不对称的步态：通过牛趾骨形态学与测量学模式判定解剖位置》：该研究整合形态学与骨测量学方法，建立了一套可重复的牛趾骨解剖位置判定框架，并评估病理对判定的影响。其价值在于为动物考古学中混合堆积的趾骨鉴定提供可靠依据，有助于牛属物种区分、MNI估算及性二态评估，并附有可操作流程图与数字绘图。",
+      "title": "Asymmetrical Steps: Osteomorphological and Metric Patterns of Cattle Phalanges to Determine Anatomical Position",
+      "topics": [
+        "zooarchaeology"
+      ],
+      "url": "https://doi.org/10.1002/oa.70145",
+      "venue": "International Journal of Osteoarchaeology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "10.1002/ajpa.70305",
+      "id": "doi:10.1002/ajpa.70305",
+      "publication_date": "2026-07-02",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《对“塞伦卡收藏婆罗洲猩猩（Pongo pygmaeus）牙齿微磨痕质地分析”的更正》：该更正针对一项分析婆罗洲猩猩牙齿微磨痕质地的研究，值得关注以了解原文可能需修正之处。",
+      "title": "Correction to “Dental Microwear Texture Analysis of the Bornean Orangutans (\n                    <i>Pongo Pygmaeus</i>\n                    ) From the Selenka Collection”",
+      "topics": [
+        "dental microwear"
+      ],
+      "url": "https://doi.org/10.1002/ajpa.70305",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:p>This study presents a multiproxy reconstruction of palaeoenvironment under variable climatic conditions from the retreat of the Saalian ice sheet (MIS 6a) to the Late Weichselian (MIS 2), based on an analysis of mineral and biogenic sediments from a palaeolake at the Józefów site (central Poland). The diversity and disturbances of sediments studied at Józefów highlight the general need to combine multiple research techniques for a comprehensive reconstruction; however, they also demonstrate the limitations of methods used in such analyses. Lithological, geochemical and palaeobotanical analyses of a 7.5 m sediment succession from the CO‐1 core and several outcrops completed using previous OSL dating reveal that lacustrine accumulation started in the active permafrost layer. Pollen, macrofossils and geochemical records indicate that, during the lateglacial of the Saalian (MIS 6a), the lake was initially surrounded by steppe–tundra plant communities, then supplemented by pioneering birch and pine patches, followed by a deterioration in conditions expressed as increased amounts of open‐steppe vegetation and intensified erosion processes. This record indicates traces of climate oscillations in the Late Saalian. At the onset of the Eemian interglacial (MIS 5e), the lake became shallow and transitioned into a peat bog during a mesocratic phase, remaining so until the middle of the oligocratic phase. Sediment accumulation in the basin continued into the Early Weichselian (MIS 5d–a), ceasing around 58 ka, confirming the typical development succession of Eemian–Early Weichselian lakes in the Polish lowlands. No deposits or direct traces of erosion from MIS 4 and MIS 3 were identified, which reflects a widespread hiatus across central‐eastern Europe. OSL dates can be rejuvenated by a highly dynamic periglacial environment and therefore do not correlate precisely with palaeobotanical data. Thermal contraction fissures formed due to intense permafrost aggradation (MIS 2, Leszno phase, 25–21 ka), supporting a previous hypothesis that a frost mound existed at Józefów. The Weichselian is recorded in mineral sediments deposited as a result of intensive mass‐flow processes and sedimentation from suspension in a shallow lake during gradual degradation of permafrost (after the Leszno phase) and in aeolian sediments from the final stage of the Late Weichselian (Oldest/Younger Dryas). The Józefów case study provides a detailed record of environmental and climate changes and confirms the main traces of Late Pleistocene landscape morphogenesis in central‐eastern Europe.</jats:p>",
+      "authors": [
+        "Aleksandra Majecka",
+        "Jacek Forysiak",
+        "Ryszard Borówka",
+        "Andreas Börner",
+        "Łukasz Bujak",
+        "Leszek Marks",
+        "Radosław Mieszkowski",
+        "Piotr Moska",
+        "Daniel Okupny",
+        "Małgorzata Pisarska‐Jamroży",
+        "Renata Stachowicz‐Rybka",
+        "Krzysztof Stachowicz"
+      ],
+      "doi": "10.1111/bor.70070",
+      "id": "doi:10.1111/bor.70070",
+      "publication_date": "2026-06-22",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《波兰中部从萨勒冰期晚冰期至晚魏克塞尔期的古环境与气候变化：Józefów多指标研究》：该研究基于波兰中部Józefów古湖的矿物与生物沉积，重建了从萨勒冰盖退缩（MIS 6a）到晚魏克塞尔期（MIS 2）的古环境演变，结合光释光测年与多指标分析，揭示湖泊发育、永冻土活动及沉积间断，值得关注中东欧晚更新世景观演化与测年局限性的读者阅读。",
+      "title": "Palaeoenvironmental and climatic changes from the lateglacial of the Saalian to the Late Weichselian in central Poland: a multiproxy study from Józefów",
+      "topics": [
+        "OSL dating",
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.1111/bor.70070",
+      "venue": "Boreas",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:p>Archaeomalacological analyses have been carried out as part of the interdisciplinary project of Colombare di Negrar, a prehistoric site in the Lessini Mountains (northern Italy). The palaeoenvironmental and economic reconstruction from the Late to Final Neolithic was based on 1047 mollusc remains taken from two contiguous Trenches 4 and 15. The landscape reconstruction shows natural clearings in the woods. The faunal associations indicate that the environment from the Late to Final Neolithic became wetter. Finally, stony-soil species remained constant over time.</jats:p>",
+      "authors": [
+        "Silvia Bandera",
+        "Umberto Tecchiati",
+        "Fiorenza Gulino"
+      ],
+      "doi": "10.3390/quat9030042",
+      "id": "doi:10.3390/quat9030042",
+      "publication_date": "2026-05-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《软体动物学研究对理解科隆巴雷迪维拉-内格拉尔迪瓦尔波利切拉（维罗纳）史前遗址占据动态的贡献：第4和第15探沟遗存的初步报告》：研究基于该遗址两处相邻探沟出土的1047件软体动物遗存，重建新石器时代晚期至末期的古环境与经济状况，揭示林地中的自然空地和环境趋于湿润的变化，可供关注古环境与史前遗址研究的读者参考。",
+      "title": "The Contribution of Malacological Studies to Understanding the Occupation Dynamics of the Prehistoric Site at Colombare di Villa-Negrar di Valpolicella (VR): Preliminary Report on the Remains from Trenches 4 and 15",
+      "topics": [
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.3390/quat9030042",
+      "venue": "Quaternary",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Mineral-associated organic matter (MAOM) constitutes a vast terrestrial carbon reservoir, yet its vulnerability to plant root activity remains poorly constrained. Here, we show that MAOM destabilization by plant roots is governed by two distinct factors: the overall extent of destabilization, which scales with cumulative root growth, and the intensity of destabilization, which reflects the efficiency of individual roots. Using stable isotope tracing combined with metabolomics, we quantified MAOM destabilization in the rhizosphere of common oat (\n                    <jats:italic>Avena sativa</jats:italic>\n                    ) across gradients of nitrogen and water availability. The overall extent of MAOM destabilization increased linearly with root biomass across all treatments. However, nitrogen-limited plants exhibited two-fold greater MAOM destabilization per unit root biomass—here termed MAOM destabilization intensity—than nitrogen-replete plants, coinciding with shifts in rhizodeposition indicative of enhanced nitrogen mining. Across treatments, this destabilization intensity increased nonlinearly as root biomass declined, highlighting a disproportionate increase in per-root destabilization efficiency at low root biomass. These findings demonstrate that environmental stressors cause opposing responses in the extent and intensity of root-driven MAOM destabilization, such that reduced root growth can coincide with increased per-root destabilization efficiency. This contrast reveals a dynamic plant–soil feedback with important implications for predicting soil carbon persistence under future environmental change.\n                  </jats:p>",
+      "authors": [
+        "Charlotte Koch",
+        "Faith Aguirre Mendoza",
+        "Glyn Mardis",
+        "Malak M. Tfaily",
+        "Marco Keiluweit",
+        "Mariela Garcia Arredondo",
+        "Sherlynette Pérez Castro",
+        "Zoe G. Cardon"
+      ],
+      "doi": "10.1038/s43247-026-04008-7",
+      "id": "doi:10.1038/s43247-026-04008-7",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Communications Earth & Environment"
+      ],
+      "summary": "《养分胁迫缩小根驱动矿物结合有机质失稳的范围但提高其强度》：该研究用稳定同位素示踪结合代谢组学，在燕麦根际沿氮与水分梯度量化矿物结合有机质的失稳，发现失稳范围随根生物量线性增加，而氮限制下单位根生物量的失稳强度翻倍，且根生物量下降时强度非线性上升，值得关注以理解未来环境变化下土壤碳的持久性。",
+      "title": "Nutrient stress reduces the extent but increases the intensity of root-driven destabilization of mineral-associated organic matter",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.1038/s43247-026-04008-7",
+      "venue": "Communications Earth &amp; Environment",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Skeletal evidence from geographically co‐located populations offers a rare opportunity to disentangle subsistence‐driven bone adaptation from socially organized labor. This study examines upper limb morphology in two Byzantine communities—the urban center of Tyana (10th–13th c.\n                    <jats:sc>CE</jats:sc>\n                    , church cemetery) and the rural settlement of Köşk Höyük (Byzantine Middle Ages)—located 4.5 km apart within the same agropastoral microgeographic context. Three complementary osteological methods were applied to 120 adult individuals: Entheseal changes scored using the Mariotti et al. Protocol, anthropometric indices of the humerus, and CT‐based cross‐sectional geometry (total area, medullary area, cortical area, and normalized cortical ratios).\n                  </jats:p>\n                  <jats:p>Despite shared ecological conditions, intracommunity analyses reveal divergent mechanical loading profiles. Tyana exhibits pronounced bilateral asymmetry with large effect sizes in both anthropometric and cross‐sectional parameters, but limited sex‐based differentiation. Köşk Höyük, by contrast, shows marked cortical divergence along sex lines—particularly in normalized distal cortical ratios—while maintaining bilateral symmetry. Entheseal complexes revealed no significant interpopulation divergence, and their sensitivity to fine‐scale activity differences appears limited relative to cross‐sectional geometry.</jats:p>\n                  <jats:p>These profiles suggest that variation in labor organization within a broadly shared agropastoral framework, rather than subsistence type alone, shaped upper limb morphology at the microgeographic scale. The differential sensitivity of the three datasets underscores the value of multiproxy approaches for activity reconstruction.</jats:p>",
+      "authors": [
+        "Adalet E. Yıldız",
+        "Ahmet G. Erdemir",
+        "Gökhan Çakan",
+        "Osman Doğanay",
+        "Ömür Dilek Erdal",
+        "Üstün Aydıngöz"
+      ],
+      "doi": "10.1002/oa.70166",
+      "id": "doi:10.1002/oa.70166",
+      "publication_date": "2026-09-15",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《共址中世纪安纳托利亚人群的骨骼适应与劳动组织》：研究比较相距4.5公里、同处农牧微地理环境中的拜占庭城市Tyana与乡村Köşk Höyük两社群共120名成人的上肢形态，结合肌腱附着点变化、肱骨人体测量与CT截面几何三种方法，发现两地虽生态条件相近却呈现不同的机械负荷模式，提示劳动组织差异而非生计类型本身塑造了上肢形态，并显示截面几何比附着点更能捕捉细…",
+      "title": "Bone Adaptation and Labor Organization in Co‐Located Medieval Anatolian Populations",
+      "topics": [
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1002/oa.70166",
+      "venue": "International Journal of Osteoarchaeology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Mariusz A. Salamon",
+        "László Bujtor",
+        "László Kanizsai"
+      ],
+      "doi": "10.1127/njgpa/1324",
+      "id": "doi:10.1127/njgpa/1324",
+      "publication_date": "2026-09-15",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《匈牙利南部迈切克山科姆洛最晚巴柔期（中侏罗世）海百合及其古环境》：该研究报道了科姆洛地区最晚巴柔期地层中的海百合化石，并据此探讨其古环境意义，适合关注中侏罗世古生态与海百合演化的读者参考。",
+      "title": "Crinoids from the latest Bajocian (Middle Jurassic)                     palaeoenvironment of Komló (Mecsek Mountains, South Hungary)",
+      "topics": [
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.1127/njgpa/1324",
+      "venue": "Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Dawn M. Mulhern",
+        "Karen Ramey Burns"
+      ],
+      "doi": "10.4324/9781032721477-14",
+      "id": "doi:10.4324/9781032721477-14",
+      "publication_date": "2026-09-15",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《法医埋藏学与死后间隔》：该文献由Dawn M. Mulhern与Karen Ramey Burns撰写，收录于《法医人类学培训手册》，探讨埋藏学在法医鉴定中的应用及死后间隔推断方法，适合法医人类学与相关领域研究者参考。",
+      "title": "Forensic Taphonomy and Postmortem Interval",
+      "topics": [
+        "taphonomy"
+      ],
+      "url": "https://doi.org/10.4324/9781032721477-14",
+      "venue": "Forensic Anthropology Training Manual",
+      "work_type": "book_chapter"
+    },
+    {
+      "abstract": "Reconstructing the dietary ecology of fossil primates is essential for understanding how Pliocene–Pleistocene climatic reorganization shaped African ecosystems. During this interval, increasing aridity and climatic variability transformed habitats across eastern Africa, promoting ecological diversification among mammalian lineages. Papionins were key components of these faunas, yet their ecological differentiation remains incompletely resolved. Here, we investigate the dietary regimes of extinct papionins from the Turkana Basin using three-dimensional dental microwear texture analysis (DMTA) of buccal enamel surfaces combined with supervised machine-learning approaches. We analyzed buccal surface textures from fossil specimens of Parapapio ado , Parapapio lothagamensis , Theropithecus oswaldi , Cercopithecoides williamsi and Parapapio sp., applying ISO 25178, ISO 12781, Furrow, and SSFA parameters. After rigorous pre-processing and feature selection, Linear Discriminant Analysis and regularized multinomial logistic regression were used to assess taxonomic separability and identify key microtexture drivers. Cercopithecoides williamsi is characterized by highly distinctive buccal microtexture (notably deep furrows and elevated surface complexity), whereas Theropithecus oswaldi occupies the opposite end of the discriminant space, reflecting contrasting abrasive texture signatures. Parapapio lothagamensis forms a discrete cluster as the oldest taxon in the sample, clearly separated from Parapapio ado and other Parapapio , indicating early ecological divergence within the lineage. These findings demonstrate that buccal DMTA, integrated with machine-learning frameworks, provides a robust tool for resolving ecological differentiation in fossil primates and supports niche partitioning among Pliocene–Pleistocene papionins in the Turkana Basin during a period of major environmental change.",
+      "authors": [
+        "Albert Dyowe-Roig",
+        "Alejandro Pérez-Pérez",
+        "Berta Ruesca-Bonet",
+        "David Ríos-Insúa",
+        "Ferran Estebaranz‐Sánchez",
+        "Ignacio Bayón Jiménez-Ugarte",
+        "J. Jaime Pizarroso",
+        "Juan José Ibáñez",
+        "Laura M. Martínez",
+        "Luis Hidalgo‐Trujillo",
+        "S. Simón Rodríguez-Santana",
+        "Xabier Albizu-Arias"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114119",
+      "id": "doi:10.1016/j.palaeo.2026.114119",
+      "publication_date": "2026-08-11",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《上新世-更新世图尔卡纳盆地狒狒类膳食生态与生态位分化：基于颊齿微磨痕纹理分析与机器学习方法》：研究用三维颊齿釉质微磨痕纹理结合监督机器学习，分析图尔卡纳盆地多种化石狒狒类的食性差异，发现Cercopithecoides williamsi微纹理独特、Theropithecus oswaldi处于判别空间另一端、Parapapio lothagamensi…",
+      "title": "Dietary ecology and niche differentiation of Pliocene-Pleistocene papionins from the Turkana Basin inferred from buccal dental microwear texture analysis and machine-learning approaches",
+      "topics": [
+        "dental microwear"
+      ],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114119",
+      "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "A recent analysis of the mammal bone assemblages from Bluefish Caves I and II suggests that humans hunted horses and caribou in the northern Yukon Territory of Canada as early as 23,500 years ago. Here we use a taphonomic approach to test whether humans were also active at Cave III. We identify several species of herbivores and carnivores – including the American cheetah – and suggest that carnivores were the principal agent responsible for the assemblage of mammal bones in the rockshelter. We observe no signs of human activity and posit that Cave III was ignored by humans in favor of Caves I and II, which offered better views of former glacial Lake Old Crow. We compare Bluefish Caves with other karstic sites in Alaska and conclude that cave use by humans was opportunistic and episodic, shaped by seasonal prey availability, carnivore occupation cycles, and the strategic advantages of elevated karstic settings.",
+      "authors": [
+        "Lauriane Bourgeon",
+        "Lauren Norman",
+        "Rolfe D. Mandel"
+      ],
+      "doi": "10.1080/20555563.2026.2694234",
+      "id": "doi:10.1080/20555563.2026.2694234",
+      "publication_date": "2026-07-28",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《白令地区喀斯特遗址的埋藏学：以加拿大育空蓝鱼洞三号地点为例》：研究通过埋藏学分析检验蓝鱼洞三号地点是否存在人类活动，识别出多种食草与食肉动物（包括美洲猎豹），认为食肉动物是哺乳动物骨骼堆积的主要动因，未发现人类活动迹象，并提出人类偏好视野更佳的一、二号洞。该研究为理解白令地区早期人类对洞穴的利用方式及食肉动物在遗址形成中的作用提供了新证据。",
+      "title": "Taphonomy of Beringian Karstic Sites: A Case Study from Bluefish Cave III, Yukon, Canada",
+      "topics": [
+        "taphonomy"
+      ],
+      "url": "https://doi.org/10.1080/20555563.2026.2694234",
+      "venue": "PaleoAmerica",
+      "work_type": "article"
+    },
+    {
+      "abstract": "<jats:p>An engraved ochre stone from Blombos Cave (southern Cape, South Africa) witha cross-hatched geometric motif dated to the Middle Stone Age Still Bay/M1 sequence (c. 75,000 – 77,000 years ago) is typically treated as an early abstract geometric representation without having a practical function for early humans [1]. Our case study suggests a function for the engraved ochre stone based on its proximity to evidence of fish net weights found in the Blombos cave; the perforated Nassarius Kraussianus shell net-weightsfound in the same site [1]. Building on the 2025 articlepublished in this Journal that hypothesized a functional alternative for punctured shells as string-borne net weights [1], this article focuses on the engraved ochre as related to net making and evaluates two competing hypotheses: (H1) the cross-hatched motif is a procedural template that encodes a diamond-mesh netting operation; (H0) the motif is non-procedural (decorative, symbolic, or incidental) and will not support a constraint-satisfying reconstruction as a net for shell net weights.</jats:p>",
+      "authors": [
+        "Silvia Stein",
+        "Morris Chukhman",
+        "Sergii Makhin"
+      ],
+      "doi": "10.5121/mathsj.2026.13201",
+      "id": "doi:10.5121/mathsj.2026.13201",
+      "publication_date": "2026-07-14",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《基于图像的矢量化、使用痕迹约束与实验重建确立中石器时代布隆博斯赭石雕刻石的功能用途》：研究以约七万五千至七万七千年前布隆博斯洞穴的交叉刻纹赭石为对象，结合图像矢量化、使用痕迹与实验重建，检验其是否为编码菱形网结工序的模板，还是非程序性的装饰或象征。",
+      "title": "Establishing a Functional use for the Middle Stone Age (MSA) Engraved Blombos Ochre Stone through Image-based Vectorization, Use-Wear Constraints, and Experimental Reconstruction",
+      "topics": [
+        "Middle Stone Age"
+      ],
+      "url": "https://doi.org/10.5121/mathsj.2026.13201",
+      "venue": "Applied Mathematics and Sciences An International Journal (MathSJ)",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "Abstract Hungarian archaeology had long recognized that Palaeolithic sites are concentrated in the country's northern regions, particularly in the North Hungarian Range. However, the Mátra Mountains and its immediate surroundings remained practically unknown to Palaeolithic research until the early 2000s, when systematic field surveys led to the identification of numerous sites attributed mainly to the Upper Palaeolithic. In 2006, the site of Gyöngyöstarján 10 was identified and linked to the Middle Palaeolithic Micoquian or Keilmessergruppe of Central and Eastern Europe. In 2024, another site, Gyöngyöstarján-Puskor, was discovered in the same area. Despite differences in the size of the two assemblages, the Gyöngyöstarján 10 and Gyöngyöstarján-Puskor sites show notable technological and typological similarities; therefore, we assumed they both belong to the same cultural unit. In this paper, we present a comparative analysis of these assemblages, highlighting their technological and typological characteristics to clarify their possible cultural connection within the Middle Palaeolithic in Central Europe.",
+      "authors": [
+        "Attila Péntek",
+        "Lili Vadász"
+      ],
+      "doi": "10.1556/0208.2026.00127",
+      "id": "doi:10.1556/0208.2026.00127",
+      "publication_date": "2026-07-10",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《马特劳山的两处旧石器时代中期露天遗址》：该研究比较了匈牙利马特劳山区金吉厄什塔尔扬10号与金吉厄什塔尔扬-普什科尔两处遗址的石器组合，分析其技术与类型特征，以厘清二者在中欧旧石器时代中期可能的文化联系，适合关注该地区莫斯特文化及中欧旧石器中期考古的读者参考。",
+      "title": "Two Middle Palaeolithic open-air sites in the Mátra Mountains",
+      "topics": [
+        "Middle Palaeolithic"
+      ],
+      "url": "https://doi.org/10.1556/0208.2026.00127",
+      "venue": "Archaeologiai Értesítő",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Dental microwear texture analysis (DMTA) is widely used to reconstruct dietary habits in extant and fossil taxa, but correspondence between dental microwear texture (DMT) and short-term dietary proxies, such as stomach contents, is often weak at the individual level in wild populations due to differences in temporal resolution. We examined the relationship between stomach contents, representing the “last supper”, and DMT in a wild population of Japanese serow ( Capricornis crispus ), a territorial and selectively foraging herbivore endemic to Japan, to evaluate how short-term dietary information is reflected in microwear patterns. Stomach contents and DMT were analyzed from 57 adults using qualitative surface observations, principal component analysis of 36 DMT parameters, linear regression, and partial least squares regression. PC1 reflected overall surface relief, and regression analyses identified graminoid consumption as the sole dietary variable significantly associated with PC1. PLS regression further showed directional covariation between graminoid-rich diets and increased surface roughness, although predictive performance was low. Thus, dietary composition explained only limited individual DMT variation, but the direction of graminoid–DMT covariation was consistent across analyses. We interpret this correspondence as reflecting relatively stable individual diets promoted by territoriality, selective foraging, and seasonally constrained resources. By linking stomach contents with DMT in a wild extant herbivore, this study provides a modern analogue for interpreting individual-level DMT variation in fossil assemblages. Such variation may help distinguish stable dietary tendencies from opportunistic or heterogeneous resource use, informing reconstructions of niche breadth, habitat heterogeneity, and resource partitioning.",
+      "authors": [
+        "Konoka Aiba",
+        "Misako Kuroe",
+        "Mugino O. Kubo",
+        "Ryosuke Kishimoto",
+        "Shingo Miura"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114050",
+      "id": "doi:10.1016/j.palaeo.2026.114050",
+      "publication_date": "2026-07-08",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《将“最后的晚餐”与日本鬣羚牙齿微磨痕纹理联系起来：对化石食草动物古食性重建及食性稳定性的启示》：研究以日本特有、具领域性且选择性觅食的野生日本鬣羚为对象，比较代表“最后一餐”的胃内容物与牙齿微磨痕纹理，发现食性组成仅能解释有限的个体纹理差异，但禾草类取食与表面粗糙度增加的方向性关联在各分析中一致，作者据此将其解释为领域性、选择性觅食与季节性资源限制促成的…",
+      "title": "Linking “last supper” and dental microwear texture in Japanese serow: Implications for palaeodietary reconstruction and dietary stability in fossil herbivores",
+      "topics": [
+        "dental microwear"
+      ],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114050",
+      "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}

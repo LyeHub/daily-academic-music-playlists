@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-17",
+  "items": [
+    {
+      "artists": [
+        "Haywire"
+      ],
+      "release_date": "2026-09-16",
+      "release_type": "single",
+      "title": "Sincerely Yours"
+    },
+    {
+      "artists": [
+        "undersaken"
+      ],
+      "release_date": "2026-09-17",
+      "release_type": "album",
+      "title": "cope for lack of meaning - beat tape I"
+    },
+    {
+      "artists": [
+        "Formal Sppeedwear"
+      ],
+      "release_date": "2026-09-11",
+      "release_type": "album",
+      "title": "Punch Card"
+    },
+    {
+      "artists": [
+        "Kevin Morby"
+      ],
+      "release_date": "2026-09-16",
+      "release_type": "single",
+      "title": "PBJ"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-09-17",
+  "schema_version": 1
+}
