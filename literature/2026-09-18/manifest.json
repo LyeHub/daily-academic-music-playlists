@@ -1,0 +1,414 @@
+{
+  "date": "2026-09-18",
+  "items": [
+    {
+      "abstract": "<jats:p>The identification and interpretation of bone surface modifications (BSM) are central to reconstructing early hominin behavior, yet recent shifts by some researchers toward metric quantification face significant epistemological and statistical challenges. This paper critically evaluates the “metric method” proposed by Keevil/Pante et al., arguing that its reliance on continuous, ratio-scale measurements is fundamentally undermined by effector variance—the inherent dimensional mismatch between experimental tools and those in the (assemblage-specific) archaeological record. I demonstrate through statistical analysis that the method’s use of quadratic discriminant analysis (QDA) is compromised by severe multicollinearity (VIF &gt; 5), resulting in unstable models that fail to generalize to fossil contexts, as exemplified by the problematic interpretations of the Grăunceanu (Romania) assemblage. Furthermore, I deconstruct recent critiques against the application of machine learning (ML) in taphonomy, clarifying misconceptions regarding Wolpert’s “no free lunch” theorem and rebutting allegations of data leakage. I contend that ML algorithms, when properly integrated with high-resolution categorical data, provide a more robust and accurate framework for classification of taphonomic datasets. By exposing these methodological biases, I propose a new paradigm for BSM analysis that prioritizes systemic hypothesis testing, objective data generation, and empirical testing/refutation models based on original datasets over speculative arguments and strict metric quantification.</jats:p>",
+      "authors": [
+        "Manuel Domínguez-Rodrigo"
+      ],
+      "doi": "10.3390/quat9050064",
+      "id": "doi:10.3390/quat9050064",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《论骨骼表面改造的维度分析、机器学习与稻草人谬误》：论文批判性评估了Keevil/Pante等人提出的度量方法，指出其依赖连续比率尺度测量受效应器方差影响，二次判别分析因严重多重共线性导致模型不稳定，并澄清了对机器学习应用于埋藏学的误解，主张机器学习结合高分辨率分类数据能提供更稳健的分类框架。",
+      "title": "On Dimensional Analyses of Bone Surface Modifications, Machine Learning, and Straw Men",
+      "topics": [
+        "bone surface modification",
+        "hominin",
+        "taphonomy"
+      ],
+      "url": "https://doi.org/10.3390/quat9050064",
+      "venue": "Quaternary",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The portion of the Riparo l’Oscurusciuto (Italy) stratigraphic sequence so far excavated provides an outstanding record of the local population history between ca. 55 − 42 kya BP: a key period for understanding the end of the Middle Palaeolithic and the onset of the Upper Palaeolithic on a regional level. Previous studies focusing on the settlement pattern, the spatial organisation, and the lithic technology within the lower part of the exposed l’Oscurusciuto sequence suggest that the site was repeatedly occupied by groups sharing the same Late Mousterian tradition. On the other hand, a series of innovative technological traits appearing toward the top of the sequence seem to reflect the variability of the Late Mousterian, the local development of innovation, or the cultural influence of human groups with a different tradition.</jats:p>\n                  <jats:p>The present study aims to examine the potential patterns of continuity and innovation in lithic technology along the sequence (Stratigraphic Units 11, 4, and 2) and their implications for the movement of people and ideas at the end of the Middle Palaeolithic. To enhance the comparability of the results, we combine a traditional techno-typological approach with a new method for extracting technologically relevant quantitative features based on digital three-dimensional models of lithic artifacts. Based on our results, the same set of technological solutions was adopted along the whole investigated sequence, supporting the hypothesis that the groups occupying l’Oscurusciuto shared a single long-lasting manufacturing tradition, attributed to the local Late Mousterian technocomplex.</jats:p>",
+      "authors": [
+        "Ana Abrunhosa",
+        "Annamaria Ronchitelli",
+        "Francesco Berna",
+        "Francesco Boschin",
+        "Francesco Valletta",
+        "Giulia Marciani",
+        "Isabella Caricola",
+        "Matteo Rossini",
+        "Maya Oron",
+        "Omry Barzilai",
+        "Stefano Benazzi",
+        "Vincenzo Spagnolo"
+      ],
+      "doi": "10.1007/s12520-026-02558-7",
+      "id": "doi:10.1007/s12520-026-02558-7",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《意大利里帕罗·洛库鲁斯丘托遗址灵活的晚莫斯特期石器技术组织：基于类型-技术与三维方法的研究》：该研究结合传统类型-技术分析与基于石器三维数字模型提取技术相关量化特征的新方法，考察该遗址第11、4、2层石器技术中延续与创新的潜在模式及其对中旧石器时代晚期人群与思想流动的启示，结果支持占据该遗址的群体共享同一长期制作传统、属于当地晚莫斯特技术复合体的假说，适…",
+      "title": "Flexible Late Mousterian lithic technological organisation at Riparo l’Oscurusciuto (Italy): A typo-technological and 3D-based approach",
+      "topics": [
+        "lithic technology",
+        "Middle Palaeolithic"
+      ],
+      "url": "https://doi.org/10.1007/s12520-026-02558-7",
+      "venue": "Archaeological and Anthropological Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    Human traces in semi-arid environments such as the Kalahari have been linked to the presence of water in the landscape. However, low organic preservation and an uneven distribution of studied sites have resulted in a gap in the knowledge of the environmental conditions under which\n                    <jats:italic>Homo sapiens</jats:italic>\n                    adapted to drylands in the Late Pleistocene. The Kalahari boasts numerous seasonal waterbodies (pans) that may provide stratified sequences containing a variety of palaeoenvironmental proxies. Despite this, these environmental archives have rarely been used. In this study, we report on a multi-method investigation of the palaeoenvironmental context of Maralaleng Pan, a pan site with archaeological material in the southern Kalahari basin. Geoarchaeological methodologies, luminescence dating, and plant wax biomarkers have been combined to create a high-resolution palaeoenvironmental record. This contribution reveals that pan sediments from Maralaleng Pan were deposited in an environment characterised by alternating processes indicative of wet (lake) and dry (evaporative) conditions. The integration of our results with the archaeological investigation of Maralaleng Pan suggests that hominins frequented the landscape during a fluctuating lacustrine environment in MIS 5, while the greatest moisture availability occurred during MIS 3.\n                  </jats:p>",
+      "authors": [
+        "Inèz Faul",
+        "Taylor Grandfield",
+        "Chris Green",
+        "Elena A. Hensel-Karamalakidou",
+        "Phillip Segadika",
+        "Rowena Winterhalder",
+        "Sarah Mothulatshipi",
+        "Stefan Dreibrodt",
+        "Nils Andersen",
+        "Marine Frouin",
+        "Michaela Ecker"
+      ],
+      "doi": "10.1371/journal.pone.0357461",
+      "id": "doi:10.1371/journal.pone.0357461",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《南部喀拉哈里盆地马拉拉伦潘盐沼沉积物的高分辨率多方法古环境记录》：研究结合地质考古方法、光释光测年与植物蜡生物标志物，重建该考古遗址所在盐沼的干湿交替沉积环境，并探讨晚更新世智人适应干旱地带的水文背景，值得关注干旱区古环境与人类演化关系的读者阅读。",
+      "title": "A high-resolution, multi-method palaeoenvironmental record from pan sediments at Maralaleng Pan, southern Kalahari basin",
+      "topics": [
+        "hominin",
+        "luminescence dating",
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.1371/journal.pone.0357461",
+      "venue": "PLOS One",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Piram (Perim) Island of Kathiawar (Gujarat) is well known for its preserved wealth of fossil vertebrates since the early 18th century. Broadly, these vertebrates have been considered to be equivalent to the Dhok Pathan stage of the Middle Siwaliks (~9.8–3.5 Ma). Based on earlier finds and recent field work, we describe additional fossil mammals, including the first report of a rodent from these sediments. Also, we discuss the biostratigraphy and palaeoecology of Piram in the light of the latest available Siwalik mammalian biochronology and stable carbon and oxygen isotope analyses. We can now place these highly fossiliferous sediments at ~8.7 Ma based on the first occurrence (FO) of the hipparionine equid\n                    <jats:italic>Sivalhippus perimensis</jats:italic>\n                    and the last occurrence (LO) of the rodent\n                    <jats:italic>Democricetodon fejfari</jats:italic>\n                    . Our carbon isotopic data reveal that most of the mammals (bovids, proboscideans, rhinoceratids and giraffids) were dominantly C3 browsers and lived in tropical forests and wet to dry woodlands, whereas\n                    <jats:italic>Sivalhippus perimensis</jats:italic>\n                    had a wider range of diet and habitat, ranging from C3 browsing in the tropical forest and wet‐dry woodland to mixed C3 and C4 feeding in water stressed wooded grassland. Further, the intra‐tooth oxygen isotope values recovered from two high crowned\n                    <jats:italic>Sivalhippus perimensis</jats:italic>\n                    teeth reveal evidence of the existence of monsoon‐like seasonality in the Late Miocene around the Kathiawar region of Gujarat. Overall, the carbon isotope data indicate co‐existence of strict browsers, mixed feeders, and limited grazers in a mosaic of closed canopy forest, woodland and some grassland patches, while oxygen isotope data suggest environmental heterogeneity.\n                  </jats:p>",
+      "authors": [
+        "Advait M. Jukar",
+        "Asgar Hossain",
+        "Ashok Sahni",
+        "Christopher C. Gilbert",
+        "Deepak Choudhary",
+        "K. Milankumar Sharma",
+        "Rajeev Patnaik",
+        "Suresh Srivastava"
+      ],
+      "doi": "10.1002/ar.70346",
+      "id": "doi:10.1002/ar.70346",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《皮拉姆岛化石哺乳动物再研究：对年代与古生态的启示》：该研究描述了皮拉姆岛新增化石哺乳动物并首次报道啮齿类，结合生物年代学与碳氧稳定同位素分析，将化石层定年至约870万年前，揭示多数哺乳动物为C3食叶者、生存于热带森林与林地，而Sivalhippus perimensis食性与生境更广，并指示晚中新世存在季风式季节性，值得古生物与古生态学者阅读。",
+      "title": "The\n                    <scp>Piram Island</scp>\n                    fossil mammals revisited: Implications for age and palaeoecology",
+      "topics": [
+        "biochronology",
+        "stratigraphy"
+      ],
+      "url": "https://doi.org/10.1002/ar.70346",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 12 September 2026 Source: Quaternary Environments and Humans Author(s): Christian Sommer, Miriam N. Haidle, Michael Bolus, Angela A. Bruch, Christine Hertler, Zara Kanaeva, Maria Malina, Volker Hochschild, Nicholas J. Conard, Andrew W. Kandel",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:b272a24a95de1b2dc75d1c558f4bd79bb7e94bac0d1a6bbb4601bb0906200237",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Quaternary Environments and Humans",
+        "scholar_email"
+      ],
+      "summary": "《检验考古数据集的极限：MIS 6至MIS 5e冰期旋回中的尼安德特人行为表明其文化灵活性》：该研究基于考古数据集考察尼安德特人在MIS 6至MIS 5e冰期旋回中的行为，探讨其文化灵活性，适合关注尼安德特人行为与考古数据局限的读者。",
+      "title": "Testing the limits of archaeological datasets: Neanderthal behavior during the MIS 6–MIS 5e glacial cycle indicates cultural flexibility",
+      "topics": [
+        "Neanderthal"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S295023652600023X?dgcid=rss_sd_all",
+      "venue": "Quaternary Environments and Humans",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>During the Middle and Late Pleistocene, the Earth experienced rapid millennial-scale climate and sea-level fluctuations associated with 100 kyr-glacial-interglacial cycles. However, understanding of the timing and amplitude of these changes, and their impact on coral reef ecosystems remains incomplete. The Ryukyu Islands in southwestern Japan, with their extensive exposure of uplifted Quaternary coral reef limestones, are ideal to investigate the Quaternary record of high-latitude coral reef growth and fossil coral assemblages in the Northern Hemisphere. In this study, we focus on the late Middle Pleistocene Minatogawa Formation exposed in southern Okinawa Jima and nearby islets. We examined in detail the taxonomic compositions of fossil coral assemblages and their temporal and spatial variations in sections of coral limestone exposed in a quarry. We identified seven distinct coral assemblages each indicating a particular environment, from shallow (&lt; 5 m) to deeper (up to 30 m) reef settings. Coral assemblages and sedimentary facies show spatial variations among outcrops and vertical (temporal) trends reflecting both relative sea-level changes and different exposure to wave energy. Our results suggest that the Minatogawa Formation formed in response to at least four cycles of relative sea-level change with minimum amplitudes of 20 to 30 m.</jats:p>",
+      "authors": [
+        "Kazuhiko Fujita",
+        "Marc Humblet",
+        "Riho Tomatsu",
+        "Yasufumi Iryu"
+      ],
+      "doi": "10.1186/s40645-026-00844-5",
+      "id": "doi:10.1186/s40645-026-00844-5",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《西北太平洋亚热带地区中更新世晚期化石珊瑚礁生长史》：该研究以日本冲绳岛南部及邻近小岛的中更新世晚期凑川组为对象，通过分析珊瑚灰岩中化石珊瑚组合的分类组成及其时空变化，识别出七种指示从浅于5米到深达30米不同礁环境的珊瑚组合，并揭示沉积相在露头间的空间差异与垂向趋势，进而提出该组形成于至少四次相对海平面变化旋回、最小幅度为20至30米。",
+      "title": "Late middle Pleistocene fossil coral reef growth history in the subtropical Northwest Pacific",
+      "topics": [
+        "Middle Pleistocene"
+      ],
+      "url": "https://doi.org/10.1186/s40645-026-00844-5",
+      "venue": "Progress in Earth and Planetary Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "The Yadgir-Surpur region of present-day Karnataka occupies an important position in the historical geography of the Deccan. Situated between the Krishna and Bhima river systems, the region preserves evidence of human activity ranging from the Lower Palaeolithic period to the formation of the modern state of Karnataka. Archaeological discoveries in the Hunsgi-Baichbal valleys have established the region as one of the most significant centres for the study of Acheulean culture in South Asia. During the historical and medieval periods, the region came successively under the influence of the Satavahanas, Chalukyas, Rashtrakutas, later Chalukyas, Bahmani rulers, Adil Shahis, Mughals and the Asaf Jahi Nizams of Hyderabad. The rise of the Surpur Nayakas added an important regional political tradition, culminating in the resistance of Raja Venkatappa Nayaka during the uprising of 1857-58. Following the integration of Hyderabad State into the Indian Union and the linguistic reorganisation of states in 1956, the area became part of Karnataka. Yadgir emerged as a separate district in 2009. This article examines the changing political, cultural and social landscape of the Yadgir-Surpur region and argues that its history illustrates the wider processes of cultural interaction, political transition and regional identity formation in the Deccan.",
+      "authors": [
+        "Vidyasagar B Hugar"
+      ],
+      "doi": "10.22271/27069109.2026.v8.i9a.884",
+      "id": "doi:10.22271/27069109.2026.v8.i9a.884",
+      "publication_date": "2026-09-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《卡纳塔克邦亚德吉尔-苏尔普尔地区的历史演变：从史前到现代国家形成》：梳理该地区从旧石器时代阿舍利文化到现代卡纳塔克邦建制的历史，涉及亨苏吉-拜奇巴尔河谷考古发现及萨塔瓦哈纳、遮娄其等王朝更迭，适合关注德干地区考古与区域史的读者。",
+      "title": "Historical evolution of the Yadgir-Surpur region of Karnataka: From prehistory to modern state formation",
+      "topics": [
+        "Acheulean",
+        "Lower Palaeolithic"
+      ],
+      "url": "https://doi.org/10.22271/27069109.2026.v8.i9a.884",
+      "venue": "International Journal of History",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Following the Last Interglacial (~125 ka), Britain experienced a series of pronounced climatic fluctuations that drove major shifts in environmental conditions and habitat structure during the last glaciation. Despite broader faunal turnover, grey wolves ( Canis lupus L., 1758) persisted throughout these changing landscapes, reflecting considerable ecological resilience. This study examines the dietary behaviour of last glaciation wolves in Britain, using dental microwear texture analysis (DMTA). Variation in microwear textures is used to evaluate differences in feeding behaviour across distinct climatic intervals, including the Marine Oxygen Isotope Stage (MIS) 5a interstadial, the climatic complexity of the middle part of the last glaciation (Devensian/Weichselian, MIS 3) and the Last Glacial Maximum (late Devensian, MIS 2). As diet is a fundamental component of ecological adaptation, dental microwear texture parameters offer direct insight into feeding strategies and carcass processing intensity in fossil carnivores. Results indicate that dental microwear texture patterns vary systematically with climatic context. Wolves from the coldest phase of the last glaciation (MIS 2) exhibit surface textures distinct from those of the interstadial periods, consistent with reduced durophagous behaviour. In contrast, wolves from MIS 3 and MIS 5a display higher surface complexity, with MIS 3 showing the broadest range of texture values and thus the greatest variability among the intervals examined. These findings are interpreted in relation to potential driving factors, including palaeoclimatic conditions, prey availability, and the presence of competing carnivores. Integrating dental microwear and palaeoenvironmental evidence provides new insights into how this keystone species responded to climatic variability during the Late Pleistocene.",
+      "authors": [
+        "Amanda A. Burtt",
+        "Angela L. Lamb",
+        "Danielle Schreve",
+        "Mark A. Purnell"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114120",
+      "id": "doi:10.1016/j.palaeo.2026.114120",
+      "publication_date": "2026-08-07",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《末次冰期灰狼为应对古气候变化而发生的食性转变》：研究利用牙齿微磨痕纹理分析，考察英国末次冰期灰狼在MIS 5a间冰阶、MIS 3和MIS 2等不同气候阶段的取食行为差异，发现最寒冷阶段狼的磨痕纹理与间冰阶明显不同，MIS 3的纹理变异范围最广。该研究将牙齿微磨痕与古环境证据结合，为理解这一关键物种如何响应晚更新世气候波动提供了新视角，适合关注古生态与食性…",
+      "title": "Rapid response: dietary shifts by grey wolves in response to palaeoclimatic variations during the last glaciation",
+      "topics": [
+        "dental microwear",
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114120",
+      "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    Glacially overdeepened valleys in the northern Alpine Foreland preserve Middle to Late Pleistocene sedimentary sequences that may serve as valuable archives for reconstructing past environmental changes in response to shifts in climate. This study presents a multidisciplinary analysis of two sediment cores from the overdeepened Wehntal Valley at Niederweningen in northern Switzerland, integrating sedimentological, palaeobotanical (pollen, plant macroremains) and malacological data as well as luminescence dating. The basal sediments of the cores consist of lacustrine silts deposited under cold climatic conditions, associated with a treeless landscape and later with pioneer birch woodland. Previous studies have reliably attributed these deposits to the Penultimate Glaciation, that is the equivalent of Marine Isotope Stage (MIS) 6. Overlying this unit, carbonate‐rich silts containing a rich suite of biological remains were identified for the first time in the Wehntal Valley. These deposits suggest sedimentation in a marshy wetland bordered by mature deciduous‐coniferous forest, which corresponds to the early‐middle Eemian (MIS 5e). Above this, silty and peaty sediments indicate alternating lacustrine and marshy conditions under a variable climate, with a predominantly coniferous woodland, during the Early Würmian (MIS 5d–5a). Subsequent cooling, corresponding to MIS 4, led to a return to lacustrine conditions and a more open landscape. This stratigraphical and palaeoenvironmental framework aligns with previous studies in the Niederweningen area, confirming that the ‘Lower Peat’ unit is of middle to late Eemian age, while the ‘Upper Peat’, which contains mammoth remains, dates to MIS 3. During late MIS 3 or early MIS 2, the valley‐bottom lake disappeared and was replaced by a modest stream network with slope deposits from the sides of the Wehntal Valley. Although this chronostratigraphical interpretation is strongly supported by the biological proxies, luminescence dating results are in partial contradiction. The luminescence ages from one core are in fairly good agreement with the proposed sequence, while those from the other suggest that most of the sequence corresponds to the Early Würmian (MIS 5d–5a) after\n                    <jats:italic>c</jats:italic>\n                    . 100 ka. Reconstructing this complex sequence has been complicated by significant erosive events linked to fluctuations in palaeolake levels that led to important sedimentary hiatuses.\n                  </jats:p>",
+      "authors": [
+        "Johannes M. Miocic",
+        "Nigel Thew",
+        "Ruth Drescher‐Schneider",
+        "Hans Rudolf Graf",
+        "Marlu Kühn",
+        "Frank Preusser",
+        "Werner H. Schoch",
+        "Lucia Wick",
+        "Heinz Furrer"
+      ],
+      "doi": "10.1111/bor.70065",
+      "id": "doi:10.1111/bor.70065",
+      "publication_date": "2026-06-08",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《瑞士尼德文宁根一处过深谷中更新世中晚期复杂沉积的气候与环境变化》：研究通过沉积学、古植物学、软体动物学与光释光测年，重建韦恩塔尔谷两根沉积岩芯所记录的环境演变，识别出倒数第二次冰期、伊米间冰期及早维尔姆期等阶段，并指出光释光结果与生物指标存在部分矛盾。适合关注第四纪古环境与测年方法的读者。",
+      "title": "Changing climates and environments within the complex Middle to Late Pleistocene fill of an overdeepened valley at Niederweningen, Switzerland",
+      "topics": [
+        "luminescence dating",
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.1111/bor.70065",
+      "venue": "Boreas",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:p>The raw materials people used for making stone tools may contain information about their territory, exchange routs or the selection criteria they employed during provisioning. In this study, we measure the mechanical properties of different tool-stones used by foragers living during the Middle Stone Age at Sibhudu Cave in South Africa. The site yielded a long and continuous sequence that saw transitions between different raw materials and tool forms. We evaluate the quality of these different stones for tool making and use, attempting to find correlations between selected raw materials and the tools made from them. We find that the raw materials used at Sibhudu have substantially different qualities, some being easy to flake but weak upon use, some being tough during stone knapping and resistant during use. Comparing these data with the appearance and disappearance of tool types throughout the Sibhudu sequence, we note that tool-stones requiring lower flaking forces were more often retouched than those requiring great forces. Elongated products, blades, were mostly made from materials with better fracture predictability, suggesting an understanding of the basic requirements for standardising the tool knapping process. Use-related qualities, such as resistance to dulling, appear to have been of lesser importance at Sibhudu. Our results suggest that the site’s occupants had a good understanding of the qualities of rocks for specific knapping processes.</jats:p>",
+      "authors": [
+        "Patrick Schmidt",
+        "Klaus G. Nickel"
+      ],
+      "doi": "10.1371/journal.pone.0350817",
+      "id": "doi:10.1371/journal.pone.0350817",
+      "publication_date": "2026-06-04",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《南非西布杜洞穴中石器时代工具石材的选择》：研究通过测量南非西布杜洞穴中石器时代采集者所用不同工具石材的力学性能，评估其打制与使用品质，并与该遗址长期序列中工具类型的出现和消失进行对比，发现所需打制力较低的石材更常被修整，细长石叶多由断裂可预测性较好的材料制成，而抗钝化等使用性能似乎较不重要，表明当时居民对岩石在特定打制工艺中的特性有较好理解。",
+      "title": "Tool-stone selection in the African Middle stone age at Sibhudu cave",
+      "topics": [
+        "Middle Stone Age"
+      ],
+      "url": "https://doi.org/10.1371/journal.pone.0350817",
+      "venue": "PLOS One",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "Tracing the earliest evidence of burning in archaeological contexts is essential for understanding the emergence of fire use-an innovation that underpinned critical behavioral and biological developments in the genus Homo. However, identifying unambiguous traces of early fire use remains challenging. To enhance detection of incipient burning in early occupation layers, we introduce a rapid, non-invasive protocol based on bone luminescence properties, validated through comparison with Fourier Transform Infrared spectroscopy (FTIR). Using these methods, we provide evidence for fire use in two Early Pleistocene (Acheulean) deposits at Wonderwerk Cave (South Africa), extending the chronology of one of the world's earliest paleo-fire records. This combined approach improves the resolution with which early fire use can be identified and opens new avenues for investigating the emergence of pyrotechnology in deep time.",
+      "authors": [
+        "Alicia Pons",
+        "Candice L. Shaw",
+        "Filipe Natalio",
+        "Joaquín Campos",
+        "José M. Pereira",
+        "Liora Kolska Horwitz",
+        "Liron Grossman",
+        "M. Dolores Marin-Monfort",
+        "Michael Chazan",
+        "Peter Andrews",
+        "Sara García-Morato",
+        "Yolanda Fernández–Jalvo"
+      ],
+      "doi": "10.1371/journal.pone.0347480",
+      "id": "doi:10.1371/journal.pone.0347480",
+      "publication_date": "2026-06-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《南非奇迹洞早期更新世用火的新证据》：研究通过基于骨骼发光特性的快速无损检测方案并与傅里叶变换红外光谱对比验证，在南非奇迹洞两处早期更新世阿舍利文化堆积中发现了用火证据，延长了世界最早古火记录之一的年代序列，为识别早期用火和探索深时火技术起源提供了更高分辨率的新途径。",
+      "title": "New evidence for Early Pleistocene use of fire at Wonderwerk Cave (South Africa)",
+      "topics": [
+        "Acheulean",
+        "fire use",
+        "use of fire"
+      ],
+      "url": "https://doi.org/10.1371/journal.pone.0347480",
+      "venue": "PLoS ONE",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:41eae93ead966d33f8a5ce933a2e01445b55d42d544daa31f08bc830777306f8",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《中国关键直立人遗址葫芦洞的铀系与电子自旋共振/铀系联合测年》：研究对葫芦洞遗址开展铀系及电子自旋共振与铀系联合测年，为这一中国关键直立人遗址建立年代框架，适合关注直立人演化与年代学研究的读者阅读。",
+      "title": "New U-series and coupled ESR/U-series dating of Hulu Cave, a key Homo erectus site in China",
+      "topics": [
+        "Homo erectus",
+        "U-series"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S0277379126004506&hl=zh-CN&sa=X&d=8710830772789276678&ei=KX6ratGTD5Sw6rQP0au6kQ4&scisig=AIVdB-wkbGs6vbrswnwWDEwSddWj&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIVdB-wRbyhrHf5k-0EmLax2725g&html=&pos=8&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:7a7a442192d399706acf920f118d04505dc59c2fecb32c5241a5c9a9ff8b3015",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《土耳其西部的中旧石器时代遗址》：该研究聚焦土耳其西部的中旧石器时代遗址，主题属于中旧石器时代考古。若需了解该地区中旧石器时代遗址的学术信息，可阅读。",
+      "title": "The Middle Palaeolithic sites from Western Turkey",
+      "topics": [
+        "Middle Palaeolithic"
+      ],
+      "url": "https://avesis.istanbul.edu.tr/yayin/640f6243-4324-411f-a54d-075dbb699786/the-middle-palaeolithic-sites-from-western-turkey",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Dominik Chlachula, Petr Lissek, Anna-Marie Marko, Marjolein D. Bosch, Denis Hübsch, Soňa Herčíková",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:fe89b519a46ced780872f909fe6d52ac471d2601366455f360f97d7e97dda417",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Journal of Archaeological Science: Reports",
+        "scholar_email"
+      ],
+      "summary": "《北波希米亚乌斯季纳德拉贝姆布科夫一处新的晚格拉维特期猛犸象骨堆积》：论文报告了在捷克北波希米亚布科夫发现的一处晚格拉维特期猛犸象骨堆积，刊于《考古科学杂志：报告》2026年11月第75卷，适合关注旧石器时代晚期人类与猛犸象关系及中欧考古的读者阅读。",
+      "title": "A New Late Gravettian Mammoth Bone Deposit in Bukov, Ústí nad Labem, North Bohemia",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004839?dgcid=rss_sd_all",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: 15 November 2026 Source: Quaternary Science Reviews, Volume 392 Author(s): Alvaro Castilla-Beltrán, Enrique Fernández-Palacios, Javier de la Casa, Natalia Sierra Cornejo, Sandra Nogué, Pilar Martin-Ramos, Constantino Criado Hernández, Rüdiger Otto, José María Fernández-Palacios, Lea de Nascimento",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:32d10b965552d9de3cd563ad6b92ab5abb9f4ca0f6a20f75067b4d8afefae718",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Quaternary Science Reviews",
+        "scholar_email"
+      ],
+      "summary": "《特内里费高地末次盛冰期富草景观与冰期后森林发育的植硅体证据》：研究利用植硅体证据重建该地区末次盛冰期以草类为主的景观及冰期后森林发育过程，适合关注古生态、植被演替与岛屿环境变化的研究者阅读。",
+      "title": "Phytolith evidence for Last Glacial Maximum grass-rich landscapes and postglacial forest development in the highlands of Tenerife",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S0277379126004567?dgcid=rss_sd_all",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:148145da5b366c73ac9a7c64ee3981491fd7ffb6c533705b5463fe4ef1f60220",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《基于石器实验的阿舍利与莫斯特工业学习方式研究》：该论文借助石器实验，探讨阿舍利和莫斯特工业中的学习过程，适合关注旧石器时代技术传承与实验考古的读者阅读。",
+      "title": "Una aproximació a l'aprenentatge en indústries acheulianes i mosterianes de la mà de l'experimentació lítica",
+      "topics": [
+        "Acheulian"
+      ],
+      "url": "https://www.mac.cat/ca/Recerca/Arqueodebats/Arqueodebats-3/aprenentatge-industries-acheulianes",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:ce0f537f4171791aa67e485ac0b3519e09d7a397fad5b0d4c0b845a31bf993cc",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《日本列岛晚更新世至全新世古地理演化的水均衡建模及其对史前人类扩散的意义》：研究通过水均衡建模重建日本列岛晚更新世至全新世的古地理变迁，并探讨其对史前人类扩散的影响，可供关注古地理与人类迁徙的读者参考。",
+      "title": "Hydro-isostatic modeling of Late Pleistocene–Holocene paleogeographic evolution across the Japanese archipelago and implications for prehistoric human dispersal",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666033426000316",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:b8dc4583c24a34b82b43077573787b20fba2f07d69f33e043c50a12467567e06",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《猛犸象牙内部结构启发了乌克兰米津旧石器时代晚期雕像的设计》：该研究探讨猛犸象牙内部结构如何启发米津旧石器时代晚期雕像的设计，值得关注旧石器时代艺术与材料关系的研究者阅读。",
+      "title": "Internal structure of Mammoth ivory inspired the design of Mizyn (Ukraine) Upper Palaeolithic figurines",
+      "topics": [],
+      "url": "https://www.nature.com/articles/s40494-026-02988-5_reference.pdf",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
