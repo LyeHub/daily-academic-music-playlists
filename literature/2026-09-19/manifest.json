@@ -1,0 +1,400 @@
+{
+  "date": "2026-09-19",
+  "items": [
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The duration of Neanderthal occupations of caves and rock shelters is one of the most debated issues in prehistoric archaeology. Several disciplines, including lithic analysis, micromorphology, zooarchaeology, taphonomy, and spatial archaeology, have proposed criteria to estimate occupation length, but their reliability varies. This study focuses only on indicators derived from faunal assemblages and evaluates their effectiveness through statistical testing. Four features were analysed: number of taxa, hunting spectrum, anthropogenic modifications, and evidence of carnivore activity. These characteristics were applied to a dataset from Late Mousterian sites in Spain and south-eastern France (70–40 ka) that have previously been examined through multidisciplinary approaches. The results indicate that the four features do not provide equally robust signals. Anthropogenic modifications and the number of exploited taxa show the strongest correlation with occupation duration. In contrast, the number of taxa and carnivore activity, when considered alone, are less reliable indicators. Multivariate analyses reveal a clearer structuring of the faunal assemblages. Brief stopping places are consistently distinguished from longer occupations. However, long-term occupations and repeated short-term occupations tend to overlap, largely because of palimpsest effects. Overall, these findings demonstrate both the potential and the limits of faunal criteria. They highlight the need for integrated, high-resolution approaches to reconstruct the duration and intensity of Neanderthal occupations.</jats:p>",
+      "authors": [
+        "Anna Rufà",
+        "Florent Rivals",
+        "Jordi Rosell",
+        "Ruth Blasco",
+        "Valentina Lubrano",
+        "Vincenzo Spagnolo"
+      ],
+      "doi": "10.1007/s10816-026-09829-6",
+      "id": "doi:10.1007/s10816-026-09829-6",
+      "publication_date": "2026-09-18",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《动物遗存与居住持续时间：尼安德特人考古遗址的统计方法》：研究仅以动物组合指标检验尼安德特人洞穴与岩厦居住时长的估算效力，分析猎物种类数、狩猎谱系、人为改造与食肉动物活动四类特征，发现人为改造与利用物种数同居住时长相关性最强，而单一物种数与食肉动物活动指标可靠性较低，多变量分析可区分短暂停留与长期居住，但长期居住与反复短期居住因叠压效应而重叠，适合关注旧石…",
+      "title": "Faunal Evidence and the Duration of Occupation: A Statistical Approach to Neanderthal Archaeological Sites",
+      "topics": [
+        "faunal assemblage",
+        "micromorphology",
+        "Neanderthal",
+        "taphonomy",
+        "zooarchaeology"
+      ],
+      "url": "https://doi.org/10.1007/s10816-026-09829-6",
+      "venue": "Journal of Archaeological Method and Theory",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Science, Volume 393, Issue 6817, September 2026.",
+      "authors": [
+        "Chao Ning, Ke Wang, Tianyi Wang, Jian Ma, Xue Zhao, Tongyuan Xi, Yongqiang Wang, Peng Cao, Shizhu Gao, Xiaotian Feng, Wanglin Hu, Xiaolin Wang,, Fan Zhang, Meng Ren, Xiyan Wu, Feng Liu, Xue Zhang, Jiangsong Zhu, Chunxiang Li, Qingyan Dai, Zhihao Dang, Ruowei Yang, Yunpeng Tang, Wanjing Ping, Vikas Kumar, Wenying Li, Bo Wang, Jianxin Wang, Dong Wei, Zhongzhi Nie, E. Andrew Bennett, Yinqiu Cui, Qiaomei Fu"
+      ],
+      "doi": "",
+      "id": "paperfp:c55f8ae867c9cd27ca9be023019f8569dce094db62967eb36061d13750a4cc24",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "rss:Science"
+      ],
+      "summary": "《古DNA揭示东天山青铜与铁器时代的独特祖先成分》：研究通过古DNA分析东天山地区青铜和铁器时代人群的祖先来源，值得阅读以了解该区域古代人群遗传结构的独特性。",
+      "title": "Ancient DNA unveils distinctive ancestries in the Bronze and Iron Ages of East Tianshan",
+      "topics": [
+        "ancient DNA"
+      ],
+      "url": "https://www.science.org/doi/abs/10.1126/science.adv1295?af=R",
+      "venue": "Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>The East Tianshan Mountains occupy a key corridor between Central and East Asia, but their population history remains poorly understood. Here we report genome-wide data from 135 ancient individuals from 11 archaeological sites. We identify a previously unrecognized Bronze Age admixture between populations related to Yellow River millet farmers and steppe pastoralists associated with the Chemurchek culture. In contrast, we find little genetic contribution from contemporaneous middle-to-late Bronze Age steppe pastoralists, despite their eastward expansion across the Eurasian Steppe. By the Iron Age, regional populations had become more heterogeneous, incorporating additional eastern and steppe-related sources while retaining variable contributions from Early Bronze Age groups. These results reveal sustained demographic interactions in eastern Central Asia nearly 1800 years preceding the establishment of the historic Silk Road.</jats:p>",
+      "authors": [
+        "Chao Ning",
+        "Ke Wang",
+        "Tianyi Wang",
+        "Jian Ma",
+        "Xue Zhao",
+        "Tongyuan Xi",
+        "Yongqiang Wang",
+        "Peng Cao",
+        "Shizhu Gao",
+        "Xiaotian Feng",
+        "Wanglin Hu",
+        "Xiaolin Wang",
+        "Fan Zhang",
+        "Meng Ren",
+        "Xiyan Wu",
+        "Feng Liu",
+        "Xue Zhang",
+        "Jiangsong Zhu",
+        "Chunxiang Li",
+        "Qingyan Dai",
+        "Zhihao Dang",
+        "Ruowei Yang",
+        "Yunpeng Tang",
+        "Wanjing Ping",
+        "Vikas Kumar",
+        "Wenying Li",
+        "Bo Wang",
+        "Jianxin Wang",
+        "Dong Wei",
+        "Zhongzhi Nie",
+        "E. Andrew Bennett",
+        "Yinqiu Cui",
+        "Qiaomei Fu"
+      ],
+      "doi": "10.1126/science.adv1295",
+      "id": "doi:10.1126/science.adv1295",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《古DNA揭示东天山青铜与铁器时代的独特祖先成分》：研究对东天山11处考古遗址135例古代个体进行全基因组分析，识别出青铜时代黄河流域粟作农民与切木尔切克文化草原牧人之间此前未被认识的混合，并发现铁器时代区域人群异质性增强。该研究为理解中亚东部在丝绸之路形成前近1800年的人群互动提供了关键遗传学证据，值得关注。",
+      "title": "Ancient DNA unveils distinctive ancestries in the Bronze and Iron Ages of East Tianshan",
+      "topics": [
+        "ancient DNA"
+      ],
+      "url": "https://doi.org/10.1126/science.adv1295",
+      "venue": "Science",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This article aims to demonstrate a broadly similar Middle Palaeolithic settlement pattern that we have identified in two closely located site clusters in Transcarpathian Ukraine. These include MIS 5a Levallois-Mousterian and MIS 4 Quina-type Mousterian industries, each situated near different lithic raw material sources. The lithic artifacts from Horizon III (Levallois-Mousterian) and Horizon II (Quina-type Mousterian) at the Korolevo I site complex, located at a hyalodacite source, exhibit ‘living site’ characteristics. The lithics from the Cherna I site (Levallois-Mousterian) and the Korolevo II and Ruban sites (Quina-type Mousterian), situated near siliceous sandstone sources, reflect characteristics of ‘site-workshops.’ The distance between the hyalodacite and siliceous sandstone site clusters is approximately 0.3–5 km. A notable feature of this settlement pattern is the consistent presence of siliceous sandstone artifacts from the ‘site-workshops’ at the hyalodacite-based ‘living sites,’ but not the reverse. This pattern is evident across two industrially and geochronologically distinct Middle Palaeolithic industries. The newly recognized regional settlement pattern is supported by detailed data from both site clusters in Transcarpathia, within the Carpathian Basin of East-Central Europe.</jats:p>",
+      "authors": [
+        "Yuri E. Demidenko",
+        "Béla Rácz"
+      ],
+      "doi": "10.1556/0208.2026.00128",
+      "id": "doi:10.1556/0208.2026.00128",
+      "publication_date": "2026-09-18",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《外喀尔巴阡（乌克兰）两个邻近遗址群中特定的中旧石器时代定居模式》：文章考察了外喀尔巴阡两个相距约0.3至5公里的遗址群，分别对应MIS 5a勒瓦娄哇-莫斯特工业和MIS 4基纳型莫斯特工业，并揭示出以玻质英安岩和硅质砂岩原料为基础的“居住遗址”与“遗址-作坊”之间单向的器物流动模式，这一模式在两种工业中均有体现，值得关注中旧石器时代人类活动组织与原料利用…",
+      "title": "A specific Middle Palaeolithic settlement pattern in two closely located site clusters in Transcarpathia (Ukraine)",
+      "topics": [
+        "Levallois",
+        "Middle Palaeolithic"
+      ],
+      "url": "https://doi.org/10.1556/0208.2026.00128",
+      "venue": "Archaeologiai Értesítő",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    How and why hominins evolved key behaviors, such as obligate bipedalism and sophisticated tool production, are key questions in paleoanthropology. Crucial to this inquiry are accurate reconstructions of the morphology and behavior that characterized the panin–hominin last common ancestor (LCA). Because all extant hominines besides\n                    <jats:italic>Homo sapiens</jats:italic>\n                    knuckle‐walk, this rare hand posture has received special attention as a possible behavior in the LCA's locomotor repertoire. Arguments concerning knuckle‐walking ancestry in hominins typically examine functional morphology to explore possible adaptations to knuckle‐walking or leverage biological principles to evaluate the likelihood of certain evolutionary scenarios. Because wrist biomechanics in knuckle walking differ from those of other behaviors, carpals are frequently investigated for possible knuckle‐walking specializations. Here, we quantified carpal morphology using spherical harmonics analysis to reevaluate purported knuckle‐walking adaptations among an anthropoid sample with variable locomotor behaviors. We calculated Euclidean distances between behavioral pairs to investigate whether the carpals in knuckle‐walking taxa appear specialized relative to those of other taxa. Results show that nearly all hypothesized knuckle‐walking adaptations are broadly present in anthropoids, and several are specially shared with Asian apes. Some African ape carpal features are shared uniquely with humans and may signal knuckle‐walking ancestry. These results overall suggest that (1) the carpals of African apes are not specialized for knuckle walking; (2) to evolve knuckle walking, only few morphological changes to ancestral hominid carpals are necessary; and (3) an African ape‐like carpus is not too specialized to be a viable ancestral form from which the hominin carpus evolved.\n                  </jats:p>",
+      "authors": [
+        "Biren A. Patel",
+        "Caley M. Orr",
+        "Laura E. Hunter",
+        "Matthew W. Tocheri",
+        "Zeresenay Alemseged"
+      ],
+      "doi": "10.1111/joa.70241",
+      "id": "doi:10.1111/joa.70241",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《非洲猿腕骨形态并未特化到无法代表祖先人族腕骨》：研究用球谐分析量化灵长类腕骨形态，检验非洲猿腕骨是否因指关节行走而高度特化，发现多数所谓指关节行走适应在类人猿中普遍存在，非洲猿腕骨并未特化到不能作为人族腕骨演化起点的程度，值得关注人类手部与运动方式演化起源的读者阅读。",
+      "title": "African ape carpal morphology is not too specialized to represent the ancestral hominin carpus",
+      "topics": [
+        "hominid",
+        "hominin"
+      ],
+      "url": "https://doi.org/10.1111/joa.70241",
+      "venue": "Journal of Anatomy",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Summary</jats:title>\n                  <jats:p>Giv'at Rabi East is a Pre‐Pottery Neolithic B site located in northern Israel, interpreted as a flint workshop. One area has been spatially identified as a ‘biface locality’; it is characterized by the presence of finished axes and preforms alongside débitage. Interestingly, Acheulean bifaces have also been recovered from this area. Aside from these, no other diagnostic Lower Palaeolithic artefacts have been identified, and the integrity of the Neolithic contexts is well established. It is therefore suggested that Neolithic knappers collected Acheulian bifaces from nearby sites and brought them to the workshop. Technological similarity along with an apparent appreciation for artefacts knapped hundreds of thousands of years earlier – and for the ancient people who knapped them – may partially explain this intriguing phenomenon. These findings shed new light on the enduring significance of bifacial tools in the lives of Neolithic communities in the southern Levant.</jats:p>",
+      "authors": [
+        "Ella Assaf"
+      ],
+      "doi": "10.1111/ojoa.70028",
+      "id": "doi:10.1111/ojoa.70028",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《昔日之物必将重现：吉瓦特拉比东新石器时代遗址中的旧石器时代双面器》：论文考察以色列北部前陶新石器时代B遗址吉瓦特拉比东一处燧石作坊中出土的阿舍利双面器，指出这些旧石器时代器物并非原地遗留，而可能是新石器时代工匠从附近遗址采集带回，并探讨其与当地双面工具在技术上的相似性及对远古制作者的推崇，为理解双面工具在黎凡特南部新石器社群中的持久意义提供了新视角。",
+      "title": "WHAT ONCE WAS SHALL BE AGAIN: PALAEOLITHIC BIFACES AT THE NEOLITHIC SITE OF GIV'AT RABI EAST",
+      "topics": [
+        "Acheulean",
+        "Acheulian",
+        "Lower Palaeolithic"
+      ],
+      "url": "https://doi.org/10.1111/ojoa.70028",
+      "venue": "Oxford Journal of Archaeology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:p>\n                    The apicomplexan parasite\n                    <jats:italic>Toxoplasma gondii</jats:italic>\n                    infects 25–30% of the global human population and can cause life-threatening diseases in immunocompromised patients. The chronically infectious forms of the parasite, bradyzoites, persist within cysts in brain and muscle tissue, and are responsible for its transmission and remission of the disease. Currently available treatment options are very limited and are only effective against the fast-replicating tachyzoites, but fail to eradicate the chronic stages of\n                    <jats:italic>T. gondii</jats:italic>\n                    . The cause of these treatment failures remains unclear. Here, we utilized our recently developed human myotube-based culture model to screen compounds from the MMV Pathogen Box against pan-resistant in vitro bradyzoites, and identified multiple compounds with simultaneous activity against tachyzoites and bradyzoites. Stable isotope-resolved metabolic profiling on tachyzoites and bradyzoites identified the mitochondrial\n                    <jats:italic>bc</jats:italic>\n                    <jats:sub>1</jats:sub>\n                    -complex as a target of bradyzocidal compounds and defined their metabolic impacts on both parasite forms. Our data suggest that mature bradyzoites rely on mitochondrial ATP production.\n                  </jats:p>",
+      "authors": [
+        "Deborah Maus",
+        "Elyzana Putrianti",
+        "Frank Seeber",
+        "Martin Blume",
+        "Michael Laue",
+        "Tobias Hoffmann"
+      ],
+      "doi": "10.7554/elife.102511",
+      "id": "doi:10.7554/elife.102511",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:eLife"
+      ],
+      "summary": "《筛选MMV病原体盒揭示线粒体bc1复合物为成熟刚地弓形虫缓殖子的药物靶点》：研究利用人肌管培养模型从MMV病原体盒中筛选出对耐多种药物的体外缓殖子与速殖子均有活性的化合物，并通过稳定同位素代谢分析确定线粒体bc1复合物为杀缓殖子化合物的靶点，提示成熟缓殖子依赖线粒体ATP生成，为攻克弓形虫慢性感染阶段提供了新线索。",
+      "title": "Screening the MMV Pathogen Box reveals the mitochondrial <i>bc</i><sub>1</sub>-complex as a drug target in mature <i>Toxoplasma gondii</i> bradyzoites",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.7554/elife.102511",
+      "venue": "eLife",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "The evolution of habitual bipedalism was a defining milestone in human history, yet fossil evidence indicates substantial variation in how bipedality was practiced. Trabecular bone, which responds throughout life to joint loading and orientation, offers a powerful way to investigate these differences. Interpreting variation in fossil hominins, however, requires a reliable baseline of intraspecific variation in modern humans, accounting for differences in lifestyle, mobility, and habitual behaviors. Many modern skeletal collections derive from postindustrial populations whose activity patterns, footwear use, and health profiles differ markedly from past populations, potentially biasing interpretations. Thus, habitually shod, postindustrial humans may not be the best proxy for the loading environments experienced by early hominins, whereas unshod individuals provide a closer approximation of barefoot locomotion. To explore the effects of footwear on internal bone structure, we examined trabecular architecture in the talus of habitually shod (N = 40) modern humans (Homo sapiens) from recent donation-based skeletal collections and habitually unshod (N = 16) individuals from the Andaman Island, Khoisan, and Aka populations, representing diverse ecological and subsistence contexts, using high-resolution micro-computed tomographic scans. Trabecular parameters-including bone volume fraction (BV/TV), relative BV/TV (rBV/TV), trabecular thickness (Tb.Th), separation (Tb.Sp), number (Tb.N), and degree of anisotropy (DA)-were quantified using canonical holistic morphometric analysis (cHMA). Shod individuals exhibited higher mean BV/TV and greater variability in BV/TV, suggesting that the talus remains heavily loaded due to its central role in weight bearing during bipedal gait, and that different types of footwear create variable force distributions across the ankle. The spatial distribution of rBV/TV revealed further differences between the groups: shod individuals showed higher rBV/TV in the medial and posterior talus, consistent with more dorsiflexed and medially loaded ankle postures, whereas unshod individuals had elevated rBV/TV in the talar head and neck, potentially reflecting loading associated to squatting or climbing. Shod individuals also exhibited higher mean DA indicating more strongly organized and directionally constrained trabeculae. Mean BV/TV was likewise higher in the shod group and primarily driven by greater trabecular thickness, as trabecular separation and number were broadly similar between groups, suggesting loading differences associated with footwear primarily influence BV/TV and trabecular anisotropy. By establishing clear patterns of trabecular variation between shod and unshod modern humans, this study provides a robust comparative framework for interpreting locomotor behavior in fossil hominins, while highlighting the need to further disentangle the effects of footwear from differences in body size, stature, subsistence strategy, and other aspects of lifestyle among human populations. Recognizing how habitual behavior influences internal bone architecture is essential for reconstructing past movement patterns and understanding the evolutionary pathways of bipedalism.",
+      "authors": [
+        "Hannah N Farrell",
+        "Andrea Lukova",
+        "Sebastian Bachmann",
+        "Karley Spriggs",
+        "Alexander Synek",
+        "Dieter H. Pahr",
+        "Zewdi J. Tsegai"
+      ],
+      "doi": "10.1111/joa.70236",
+      "id": "doi:10.1111/joa.70236",
+      "publication_date": "2026-09-08",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《鞋类对人类距骨小梁结构的影响》：研究比较习惯穿鞋与习惯赤足现代人群的距骨小梁结构，发现穿鞋者骨体积分数更高且变异性更大、小梁方向性更强，赤足者则在距骨头颈部有更高相对骨体积分数，为解读化石人类运动行为提供了对比框架。",
+      "title": "The impact of footwear on human talar trabecular architecture",
+      "topics": [
+        "hominin",
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1111/joa.70236",
+      "venue": "Journal of Anatomy",
+      "work_type": "article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:85fb028e22a98c6239e9dfbaf101bbf061f8bec3ff957b4951400748df85656e",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《黎巴嫩动物遗存收藏揭示40万年间林地韧性与不同古人类生态策略》：该研究基于黎巴嫩动物遗存收藏，探讨了40万年间林地的持续存在及不同古人类群体的生态策略差异，适合关注古人类生态与长时段环境变迁的读者阅读。",
+      "title": "Lebanese faunal legacy collections uncover 400,000 years of woodland resilience and distinct hominin ecological strategies",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://www.nature.com/articles/s43247-026-03926-w",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Guangjie Song, Xinyan Zhang, Lei Zhong, Shengnan Lian, Dawei Cai",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:23b48b65ae9485e8324f4d94f89e5d89f14d7ab27f9eaed86df27956e51cb220",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Journal of Archaeological Science: Reports",
+        "scholar_email"
+      ],
+      "summary": "《中国古代山羊研究中的动物考古学与生物分子学方法进展》：该文发表于《考古科学杂志：报告》，由宋广杰、张欣妍、钟磊、连胜男、蔡大伟撰写，梳理了动物考古学与生物分子学方法在中国古代山羊研究中的应用进展，适合关注中国动物考古与分子考古的读者参考。",
+      "title": "Advances in Zooarchaeological and Biomolecular Approaches to the Study of Goats in Ancient China",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005146?dgcid=rss_sd_all",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Norbert Buchinger, Michael Brandl, Caroline Posch, Marc Händel",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:d8eacfdd3da61c254dfe2bd9bbeb5c63d7dd5bef52620d61f6c4f3d26e21b056",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Journal of Archaeological Science: Reports",
+        "scholar_email"
+      ],
+      "summary": "《格拉维特文化之后猎杀猛犸象——兰曼斯多夫的石器工业》：该研究考察格拉维特文化之后兰曼斯多夫遗址的石器工业，探讨其与猎杀猛犸象活动的关联，适合关注旧石器时代晚期人类生计与石器技术演变的读者阅读。",
+      "title": "Hunting Mammoths after the Gravettian – The lithic industry at Langmannersdorf",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005122?dgcid=rss_sd_all",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:1671e46a43318842b28f797030c4b2b4f3452815d3c6a2251f08847284e9abb2",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《阿舍利技术复合体的概念及其对中国相关问题的启示》：该文围绕阿舍利技术复合体的概念展开讨论，并探讨其对中国相关研究议题的意义，适合关注旧石器时代技术类型学与国内相关材料对比的研究者参考。",
+      "title": "The concept of Acheulean technocomplex and implications on related issues in China",
+      "topics": [
+        "Acheulean"
+      ],
+      "url": "https://www.anthropol.ac.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=2601",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:26d382b6234d77763038aaf367b24b5ba9437a5cb746b19c7fdfd9db0ed77ba2",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《火使用的连续体：人类与火的关系》：该文围绕人类用火方式的连续谱系展开，探讨人类与火之间长期而多样的关系，适合关注火使用史与人类生态互动的读者阅读。",
+      "title": "The Continuum of Fire Use: Humans' Relationship with Fire",
+      "topics": [
+        "fire use"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://api.taylorfrancis.com/content/chapters/edit/download%3FidentifierName%3Ddoi%26identifierValue%3D10.4324/9781003467533-3%26type%3Dchapterpdf&hl=zh-CN&sa=X&d=13962649107622476716&ei=WmutaoSvDLmL6rQPhJqsuAM&scisig=AIVdB-xQvYKvlDDZGF9TD0WbVThV&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:AIVdB-yFgjQ3aq7L7XCjppZ1-SRh&html=&pos=3&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:637bef37cc794b2c10dd26df64c7129388638078415ff52620a352c2914eae6c",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《黎巴嫩釉质同位素揭示更新世黎凡特中部走廊的长期生态稳定》：研究利用黎巴嫩动物牙齿釉质同位素，重建更新世黎凡特中部走廊的生态状况，发现该地区长期保持生态稳定。适合关注古生态、人类演化与黎凡特走廊环境背景的读者阅读。",
+      "title": "Long-term ecological stability in the Pleistocene central Levantine corridor revealed by enamel isotopes from Lebanon",
+      "topics": [],
+      "url": "https://www.nature.com/articles/s43247-026-03925-x",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:90222cfe6542b64f3bd1c02e6f4332c0ad3795cbc859aaafba635a40141a0fd5",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《西藏熊（Ursus cf. thibetanus）在伊比利亚半岛东北部的出现》：该研究报道了西藏熊在伊比利亚半岛东北部的发现，有助于了解该物种在更新世的地理分布。",
+      "title": "Occurrence of Ursus cf. thibetanus (Cuvier, 1823) in the Northeastern Iberian Peninsula",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S0016699526000446",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:c888ff68943b269726552152aa390cca6a46bc6e3135324d14c54d178845858e",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《基于植硅体的中国东部海岸动态重建：现代校准、代用指标评估及对良渚文明的意义》：该研究通过植硅体分析重建中国东部海岸动态，并进行现代校准与代用指标评估，进而探讨其对良渚文明的意义，适合关注环境考古与海岸演变的研究者阅读。",
+      "title": "Phytolith-based reconstruction of coastal dynamics in East China: Modern calibration, proxy evaluation, and implications for the Liangzhu Civilization",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S0034666726002356&hl=zh-CN&sa=X&d=1396400858587485238&ei=WWutarbWKI-P6rQPsZOK2Q0&scisig=AIVdB-wkCF9rkvbaOtVsIf8IFBm2&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIVdB-wRbyhrHf5k-0EmLax2725g&html=&pos=1&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:8578666a18bbc200e8980c23b3d804290f3d67a1595ab17c744daa3b50111d72",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《阿皮迪马遗址旧藏：新分析与解读——希腊阿皮迪马C洞和D洞的新放射性测年及旧石器时代晚期旧藏》：该研究对希腊阿皮迪马C洞和D洞的旧藏材料进行新的放射性测年，并据此提出新的分析与解读，涉及旧石器时代晚期遗存，适合关注希腊旧石器时代年代学与遗址地层问题的读者参考。",
+      "title": "The Apidima Legacy Collections: New Analyses and Interpretations New Radiometric Dates for the Apidima Caves C and D (Greece) Upper Paleolithic Legacy ...",
+      "topics": [],
+      "url": "https://www.researchgate.net/profile/Katerina-Harvati/publication/414259078_Special_Issue_The_Apidima_Legacy_Collections_New_Analyses_and_Interpretations_New_Radiometric_Dates_for_the_Apidima_Caves_C_and_D_Greece_Upper_Paleolithic_Legacy_Collections/links/6aa585c8bb75f564a237bf76/Special-Issue-The-Apidima-Legacy-Collections-New-Analyses-and-Interpretations-New-Radiometric-Dates-for-the-Apidima-Caves-C-and-D-Greece-Upper-Paleolithic-Legacy-Collections.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:5eab50c5ceb84959cf55cfe1ab0e0a0b86f6cba811d199ebc50f04616072ffee",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《微型脊椎动物记录作为重建加利西亚东部山脉（伊比利亚西北部）气候与景观的工具：现状、潜力……》：梳理该地区微型脊椎动物化石记录的研究现状，探讨其用于重建古气候与古景观的潜力，适合关注伊比利亚西北部古环境与微体化石研究的读者参考。",
+      "title": "The Microvertebrate Record as a Tool for Reconstructing the Climate and Landscape of the Eastern Mountain Ranges of Galicia (NW Iberia): Current State, Potential ...",
+      "topics": [],
+      "url": "https://www.researchgate.net/profile/Hugo-Garcia-44/publication/414259527_The_Microvertebrate_Record_as_a_Tool_for_Reconstructing_the_Climate_and_Landscape_of_the_Eastern_Mountain_Ranges_of_Galicia_NW_Iberia_Current_State_Potential_and_Future_Directions/links/6aa590df7cb8137a71c4a645/The-Microvertebrate-Record-as-a-Tool-for-Reconstructing-the-Climate-and-Landscape-of-the-Eastern-Mountain-Ranges-of-Galicia-NW-Iberia-Current-State-Potential-and-Future-Directions.pdf",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
