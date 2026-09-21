@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-22",
+  "items": [
+    {
+      "artists": [
+        "The Dead Broken Heart"
+      ],
+      "release_date": "2026-09-22",
+      "release_type": "ep",
+      "title": "European Brutalism EP"
+    },
+    {
+      "artists": [
+        "Floex",
+        "Jan Šikl"
+      ],
+      "release_date": "2026-09-18",
+      "release_type": "single",
+      "title": "Director No. III (Producer’s Cut)"
+    },
+    {
+      "artists": [
+        "Magdalene"
+      ],
+      "release_date": "2026-09-17",
+      "release_type": "album",
+      "title": "Yandere"
+    },
+    {
+      "artists": [
+        "Misha Panfilov Septet"
+      ],
+      "release_date": "2026-09-18",
+      "release_type": "album",
+      "title": "Live in Leipzig and Berlin"
+    },
+    {
+      "artists": [
+        "The Dead Broken Heart"
+      ],
+      "release_date": "2026-09-22",
+      "release_type": "single",
+      "title": "Blokovi"
+    },
+    {
+      "artists": [
+        "Static Decibel"
+      ],
+      "release_date": "2026-09-21",
+      "release_type": "album",
+      "title": "The Night Where Two Worlds Collapsed"
+    },
+    {
+      "artists": [
+        "Say Now"
+      ],
+      "release_date": "2026-09-18",
+      "release_type": "single",
+      "title": "Met my match"
+    },
+    {
+      "artists": [
+        "Jura Hums"
+      ],
+      "release_date": "2026-09-19",
+      "release_type": "album",
+      "title": "Water Over Stones"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-09-22",
+  "schema_version": 1
+}
