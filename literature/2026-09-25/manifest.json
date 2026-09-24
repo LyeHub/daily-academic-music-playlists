@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-25",
+  "items": [
+    {
+      "abstract": "<jats:p>Despite the ubiquity of wild boar populations across Eurasia, their origins, routes of dispersal, and phenotypic evolution remain uncertain. Here, using 745 genomes representing populations across Eurasia, we demonstrate that wild boar expanded from South Asia during the Middle Pleistocene. This expansion was preceded by a Pliocene introgression (~3 to 5 million years ago) in South Asia from an archaic Suinae lineage that introduced a ~43 megabase X-chromosomal haplotype into the ancestral wild boar population. This haplotype includes loci associated with increased body size and adaptation to cold climates. During domestication, this region was selected at least three times independently to develop modern large-bodied breeds. Our findings reveal a long-lasting evolutionary legacy of this ancient introgression, which provided genetic material that was later shaped by natural and artificial selection.</jats:p>",
+      "authors": [
+        "Jian-Hai Chen",
+        "Xiaoyong Du",
+        "Zhuqing Zheng",
+        "Neena Amatya Gorkhali",
+        "Changyi Xiao",
+        "Shilin Zhu",
+        "Jie Zhong",
+        "Liangliang Fu",
+        "Jingjin Li",
+        "Zhuofan Yan",
+        "Edward S. Ricemeyer",
+        "Fan Jiang",
+        "Thuy Nhien Thi Tran",
+        "Pan Ni",
+        "Nicholas VanKuren",
+        "Guanglin He",
+        "Yalan Yang",
+        "Supamit Mekchay",
+        "San San Hmwe",
+        "Mikhail Sablin",
+        "Nikica Šprem",
+        "Le Thi Thuy",
+        "Abdullah Omar",
+        "M. O. Faruque",
+        "Ali Akbar Bhuiyan",
+        "G. L. L. Pradeepa Silva",
+        "Amali Malshani Samaraweera",
+        "Debabrata Phukon",
+        "Mukesh Thakur",
+        "Saroj Sapkota",
+        "S. M. Farhad Vahidi",
+        "Faiz-ul Hussan",
+        "Hidayat Ashari",
+        "Bayu Dewantoro Putro Soewandi",
+        "Ivan Jakovlić",
+        "Kevin G. Daly",
+        "Ming-Shan Wang",
+        "Xiaolei Liu",
+        "Malavanh Chittavong",
+        "Daniel Falush",
+        "Jeffrey Spence",
+        "Richard Bishop",
+        "David W. G. Stanton",
+        "Xuewen Xu",
+        "Xinyun Li",
+        "Matthew W. Hahn",
+        "Lingzhao Fang",
+        "Laurent A. F. Frantz",
+        "Greger Larson",
+        "Jianlin Han",
+        "Shuhong Zhao"
+      ],
+      "doi": "10.1126/science.adq7553",
+      "id": "doi:10.1126/science.adq7553",
+      "publication_date": "2026-09-24",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《古代基因渗入驱动野猪扩张与家猪表型多样化》：研究利用745个基因组揭示野猪于中更新世从南亚扩张，其祖先曾在上新世从古Suinae谱系获得约43兆碱基的X染色体单倍型，该区域含体型增大与寒冷适应相关位点，并在驯化中被至少三次独立选择以形成现代大体型品种，值得关注其如何串联自然与人工选择的长期演化遗产。",
+      "title": "Ancient introgression drives wild boar expansion and phenotypic diversification of domestic pigs",
+      "topics": [
+        "Middle Pleistocene"
+      ],
+      "url": "https://doi.org/10.1126/science.adq7553",
+      "venue": "Science",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:p>\n                    The phylogenetic relationships of early catarrhines (Old World monkeys and apes) are contentious, particularly regarding pliopithecoids, which are considered a clade of Miocene stem catarrhines more derived than most of their Oligocene counterparts. However, their debated affinities and the uncertain phylogenetic relationships of the Oligocene catarrhine\n                    <jats:italic toggle=\"yes\">Saadanius</jats:italic>\n                    leave their systematic position unresolved. Notably,\n                    <jats:italic toggle=\"yes\">Saadanius</jats:italic>\n                    displays a mosaic morphology, coupling primitive craniodental traits with a fully ossified ectotympanic (as opposed to the annular/incompletely ossified ear tube of stem catarrhines and early stem hominoids), a characteristic customarily considered as a shared-derived trait of crown catarrhines. To clarify the early evolutionary history of catarrhines, we analyzed the semicircular canal and vestibule morphology of\n                    <jats:italic toggle=\"yes\">Saadanius</jats:italic>\n                    , the pliopithecoid\n                    <jats:italic toggle=\"yes\">Pliobates</jats:italic>\n                    , the stem cercopithecoid\n                    <jats:italic toggle=\"yes\">Victoriapithecus</jats:italic>\n                    , and the stem hominoid\n                    <jats:italic toggle=\"yes\">Ekembo</jats:italic>\n                    . Using diffeomorphic deformation-based geometric morphometrics on a broad anthropoid sample, we quantified shape variation and inferred ancestral morphotypes. Our results reveal that\n                    <jats:italic toggle=\"yes\">Saadanius</jats:italic>\n                    retains a primitive, platyrrhine-like inner ear, lacking all crown catarrhine synapomorphies. We also recover similarities between\n                    <jats:italic toggle=\"yes\">Pliobates</jats:italic>\n                    and the other analyzed pliopithecoid (\n                    <jats:italic toggle=\"yes\">Epipliopithecus</jats:italic>\n                    ), as these taxa share some derived traits with crown catarrhine (particularly, in the anterior semicircular canal), while missing most hominoid and cercopithecoid synapomorphies. Furthermore,\n                    <jats:italic toggle=\"yes\">Victoriapithecus</jats:italic>\n                    displays a derived, cercopithecoid-like morphology indistinguishable from extant Old World monkeys, whereas\n                    <jats:italic toggle=\"yes\">Ekembo</jats:italic>\n                    exhibits unexpected derived, ape-like features. These findings support that pliopithecoids are stem catarrhines more derived than\n                    <jats:italic toggle=\"yes\">Saadanius</jats:italic>\n                    and imply that its tubular ectotympanic must have evolved independently from crown catarrhines, thus representing a remarkable instance of homoplasy.\n                  </jats:p>",
+      "authors": [
+        "Alessandro Urciuoli",
+        "Clément Zanolli",
+        "David M. Alba",
+        "Florian Bouchet",
+        "Júlia Arias-Martorell",
+        "Oriol Monclús-Gonzalo",
+        "Salvador Moyà-Solà",
+        "Sergio Almécija"
+      ],
+      "doi": "10.1073/pnas.2535242123",
+      "id": "doi:10.1073/pnas.2535242123",
+      "publication_date": "2026-09-24",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《基于半规管与前庭形态的早期狭鼻猴类演化》：研究用几何形态测量学分析萨达尼猴、上猿类、维多利亚猴及埃肯博猴的内耳半规管与前庭形态，以厘清早期狭鼻猴类系统关系；结果支持上猿类为较萨达尼猴更衍生的干狭鼻猴，并提示萨达尼猴的管状外鼓骨可能独立演化，值得关注早期灵长类演化与趋同问题的读者阅读。",
+      "title": "Early catarrhine evolution in the light of semicircular canal and vestibule shape",
+      "topics": [
+        "geometric morphometrics"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2535242123",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>A long-standing objective in Acheulean research is defining evolutionary trends in handaxe production over time. This study investigates technological and morphological variability in the Early Acheulean by analysing three geographically and chronologically proximate assemblages (&gt;1.2 million years ago) from Melka Kunture (Upper Awash, Ethiopia). Combined techno-typological and geometric morphometric analyses reveal significant variability in handaxe morphology, shaping strategies and raw material selection. The observed dissimilarity suggests that Acheulean handaxe manufacture did not follow a linear path of standardisation. Rather, it demonstrates considerable flexibility, reflecting hominins’ responses to varying constraints and immediate needs within short timeframes.</jats:p>",
+      "authors": [
+        "Eduardo Méndez-Quintas",
+        "Rita T. Melis",
+        "Flavio Altamura",
+        "Patricia Bello-Alonso",
+        "Andrea Serodio Domínguez",
+        "Adugna Debalike Belayneh",
+        "Riccardo Salvini",
+        "Giuliano Ambrosetti",
+        "Margherita Mussi"
+      ],
+      "doi": "10.1371/journal.pone.0357880",
+      "id": "doi:10.1371/journal.pone.0357880",
+      "publication_date": "2026-09-24",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《距今120万年前东非Melka Kunture的手斧打制中的随机游走》：研究通过技术类型学与几何形态测量分析埃塞俄比亚Melka Kunture三处年代相近的早阿舍利组合，发现手斧形态、打制策略与原料选择存在显著变异，表明手斧制作并非线性标准化过程，而体现古人类在短时间内的灵活适应，适合关注阿舍利技术演化与古人类行为的读者。",
+      "title": "Random walks in handaxe knapping before 1.2 million years ago in East Africa at Melka Kunture (Upper Awash, Ethiopia)",
+      "topics": [
+        "Acheulean",
+        "hominin"
+      ],
+      "url": "https://doi.org/10.1371/journal.pone.0357880",
+      "venue": "PLOS One",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Olivia Charles",
+        "Karen Greig",
+        "Rui Monge Soares",
+        "Mariana Nabais"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106076",
+      "id": "doi:10.1016/j.jasrep.2026.106076",
+      "publication_date": "2026-09-24",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《葡萄牙南部罗马化时期的生计变迁：区域模式与罗马共和国时期萨法拉旧城堡的新动物考古证据》：该研究结合区域模式与萨法拉旧城堡的新动物考古证据，考察葡萄牙南部罗马化过程中的生计变化，适合关注罗马化、动物考古与生计变迁的读者阅读。",
+      "title": "Subsistence change during the Romanisation of southern Portugal: Regional patterns and new zooarchaeological evidence from Roman Republican Castelo Velho de Safara",
+      "topics": [
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106076",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:a1c9b1252dacb5893bfc6c8be540fac2d9cc315cf293e2cda0e567fab0e71f8d",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《法国蒙莫兰库普峡谷旧石器时代中期早期修理与未修理石器：技术功能与使用痕迹分析的初步研究》：该研究对库普峡谷遗址出土的修理与未修理石器进行技术功能与使用痕迹的初步分析，有助于了解旧石器时代中期早期石器的制作与使用方式。",
+      "title": "Early Middle Paleolithic Retouched and Unretouched Lithic Tools from Coupe-Gorge (Montmaurin, France): First Approach Combining Techno-Functional and Use ...",
+      "topics": [
+        "Middle Paleolithic"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://hal.science/hal-05746605/&hl=zh-CN&sa=X&d=13770588366461374077&ei=_5K0avuJDoabieoP3K_V8As&scisig=ACTRDVEKXM-qS4yNFmEt_0tW0wCo&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=9&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:c157b9c68bc573579f4ff13a631a47adcf0fde1f216cae96c6efea9b97dce7ef",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《巅峰角5-6岩性分析方法：E4代码与特征定义》：该文献提出用于巅峰角5-6遗址石器分析的E4编码与特征定义方法，适合关注旧石器时代石器分类与量化分析的研究者参考。",
+      "title": "Pinnacle Point 5-6 Lithic Analytical Methods: E4 Codes and Trait Definitions",
+      "topics": [],
+      "url": "https://attachments.academia-assets.com/extracted-pdfs/33438517.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:b2cccbeab29e63c90e58091784d9d2f1cdacc1afe0bd3cb33d94622507f44dc1",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《东方人：冰河时代末期波罗的海东部石器时代社会的文化变异与发展》：该研究考察冰河时代末期波罗的海东部石器时代社会的文化变异与发展，适合关注该地区史前社会演变与文化多样性的读者阅读。",
+      "title": "The Easterlings: the cultural variation and development of the Stone Age societies at the end of the Ice Age in the Eastern Baltic",
+      "topics": [],
+      "url": "https://www.ku.lt/cris/entities/publication/d745218a-98ee-463f-901e-e964aeca4ad2",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
