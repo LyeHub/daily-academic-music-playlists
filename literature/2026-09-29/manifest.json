@@ -1,0 +1,424 @@
+{
+  "date": "2026-09-29",
+  "items": [
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:9fbc07a26d164c0aa685ca8a48c031eaa86487f9f3f2e9fe4932c56def6e63be",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《重思比尔青斯莱本：遗址形成、人类活动、埋藏学与古人类遗存》：该研究围绕比尔青斯莱本遗址的形成过程、人类活动痕迹、埋藏学特征及古人类遗存展开重新审视，适合关注古人类遗址形成与埋藏学分析的读者参考。",
+      "title": "Rethinking Bilzingsleben: site formation, human activity, taphonomy, and hominin remains",
+      "topics": [
+        "hominin",
+        "site formation",
+        "taphonomy"
+      ],
+      "url": "https://cir.cenieh.es/bitstream/20.500.12136/3609/1/Sala_2026_AbstractBook.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    A major challenge for the understanding of violence in the past is that our main source of evidence comes from cemeteries, but a significant proportion of the victims of violence are not buried in cemeteries. Iron and Viking Age Scandinavia (c. 500\n                    <jats:sc>BCE</jats:sc>\n                    –1050\n                    <jats:sc>CE</jats:sc>\n                    ) is infamous for its emerging warrior ideology and hegemony of violence. Yet, somewhat counter-intuitively, trauma rates have typically been found to be relatively low in cemetery populations. Not everyone was afforded formal burial in cemeteries, however. The BODY-POLITICS project examines a previously neglected mortuary dataset: disarticulated and semi-complete human remains deposited in and around domestic spaces such as longhouses, pits, wells, postholes, and hearths. We report on 12 individuals inscribed with 19 ante- and perimortem traumatic injuries, analysed through osteological, bimolecular and digital imaging methods. The unusual post-mortem history of these individuals, set within a historical context of raiding, enslavement, and ritual violence including potential ‘human sacrifice’, allows us to explore multiple scenarios for inflicted injuries: war-like events (extra-community violence), interpersonal and domestic violence (intra-community violence), and ritual violence. Finally, by integrating trauma patterns, mortuary treatment, and contextual information, we discuss the broader life histories of these individuals and argue that some may have been vulnerable to structural, ‘slow’ violence that compounded over the lifecourse. This study thus contributes to broader discourse on direct and structural violence towards potentially marginalised people, as well as connections between ritualised violence and divergent mortuary pathways.\n                  </jats:p>",
+      "authors": [
+        "Emma Tollefsen",
+        "Jo Appleby",
+        "Kevin Kay",
+        "Marianne Hem Eriksen",
+        "Vasiliki Louka",
+        "Veronica Tamorri"
+      ],
+      "doi": "10.1007/s10816-026-09817-w",
+      "id": "doi:10.1007/s10816-026-09817-w",
+      "publication_date": "2026-09-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《家庭空间中的残破躯体：铁器时代与维京时代斯堪的纳维亚一处非典型丧葬数据集中的直接暴力与结构性暴力》：该研究考察长屋、坑、井、柱洞和炉灶等家庭空间内出土的12具脱节或半完整人骨，结合骨学、分子与数字成像方法分析19处死前及临终创伤，并联系劫掠、奴役与仪式暴力的历史背景，探讨战争、人际与家庭暴力及仪式暴力等多种致伤情境，进而讨论部分个体可能一生累积的结构性“…",
+      "title": "Broken bodies in Domestic Spaces: Direct and Structural Violence in an Atypical Mortuary Dataset from Iron and Viking Age Scandinavia",
+      "topics": [
+        "hearth"
+      ],
+      "url": "https://doi.org/10.1007/s10816-026-09817-w",
+      "venue": "Journal of Archaeological Method and Theory",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Neanderthal teeth represent one of the most valuable sources of information for reconstructing the biology, behaviour, and evolution of Homo neanderthalensis.Due to the exceptional preservation of dental tissues, teeth provide insights into growth and development, dietary habits, physiological stress, health status, and patterns of daily activity.The present review summarizes current evidence regarding the morphology, development, wear patterns, and paleobiological significance of Neanderthal dentition.Studies of dental development suggest that Neanderthals may have exhibited slightly accelerated growth and maturation compared with modern humans, although some findings indicate only minor differences.Morphologically, Neanderthal teeth are characterized by large anterior crowns, robust roots, and complex enamel-dentine junctions, reflecting both genetic inheritance and adaptation to heavy mechanical loading.Pronounced dental wear and characteristic scratches on anterior teeth indicate frequent use of the mouth as a \"third hand\" during tool manufacture and material processing.Isotopic analyses, dental microwear, and dental calculus studies demonstrate that Neanderthal diets were more diverse than previously assumed, combining large-animal hunting with substantial consumption of plant foods.Pathological findings, including enamel hypoplasias, periodontal disease, abscesses, and evidence of possible primitive dental interventions, provide additional information about health and survival under harsh environmental conditions.Modern methods such as micro-computed tomography, virtual histology, and isotope analysis have considerably expanded our understanding of Neanderthal life history and adaptation.Neanderthal teeth constitute a key source for investigating human evolution and the biological relationship between Neanderthals and modern humans.",
+      "authors": [
+        "Vladimir Panov"
+      ],
+      "doi": "10.18044/medinform.2026132.2440",
+      "id": "doi:10.18044/medinform.2026132.2440",
+      "publication_date": "2026-08-06",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《尼安德特人的牙齿：形态、发育及其意义》：该综述梳理了尼安德特人牙列在形态、发育、磨耗模式及古生物学意义方面的现有证据，涉及牙齿发育速度、釉质—牙本质界结构、牙齿微磨耗与牙结石所反映的食性多样性，以及釉质发育不全等病理现象，并提及显微计算机断层扫描、虚拟组织学和同位素分析等现代方法的应用，可供关注人类演化与古病理学的读者参考。",
+      "title": "Neanderthal Teeth: Morphology, Development, and Significance//",
+      "topics": [
+        "dental microwear",
+        "Neanderthal"
+      ],
+      "url": "https://doi.org/10.18044/medinform.2026132.2440",
+      "venue": "Journal of Medical and Dental Practice",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "American Journal of Biological Anthropology, Volume 191, Issue 2, October 2026.",
+      "authors": [],
+      "doi": "10.1002/ajpa.70276",
+      "id": "doi:10.1002/ajpa.70276",
+      "publication_date": "2026-09-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:American Journal of Biological Anthropology"
+      ],
+      "summary": "《美国生物人类学杂志》2026年10月第191卷第2期封面与编委会：本期为期刊固定栏目，呈现封面及编委会信息，适合关注该刊动态的读者查阅。",
+      "title": "Cover &amp; Editorial Board",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ajpa.70276",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This study, alongside prior work on crab‐eating macaques with O'Higgins, investigates regional variation in skull sexual dimorphism across different species of Old World monkeys. Findings reveal consistent patterns: the posterior skull regions (mandibular vertical ramus, chondrocranium and, possibly, the cranial vault) exhibit lower dimorphism, which may be related to developmental constraints such as the early formation of the cranial base. In contrast, the snout (including the horizontal ramus of the mandible and oro‐facial regions of the cranium) shows the most pronounced dimorphism, aligned with functional and ecological demands, such as canine size differences and masticatory adaptations. Regional dimorphism patterns, if demonstrated, may aid taxonomic identification (focusing on less dimorphic regions) or sex discrimination (using snout measurements). However, these are, for now, hypotheses and potential contradictions in primate studies (e.g., great apes) indicate the need for standardized measurements and methods, as well as an expanded taxonomic sampling. Nonetheless, exploring regional anatomical variation in relation to sex, and potentially other factors such as age and taxon, is a promising avenue of research that can contribute to elucidating evolutionary patterns in morphological diversity of living and extinct species.</jats:p>",
+      "authors": [
+        "Andrea Cardini"
+      ],
+      "doi": "10.1002/ar.70353",
+      "id": "doi:10.1002/ar.70353",
+      "publication_date": "2026-09-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:The Anatomical Record"
+      ],
+      "summary": "《旧大陆猴头骨性别二态性的区域差异：橄榄狒狒、蓝猴和绿猴证实头骨后部与吻部为性别差异的两个极端》：该研究比较多种旧大陆猴，发现头骨后部二态性较低、吻部二态性最强，并讨论其发育与功能生态成因及在物种鉴定和性别判别中的潜在用途；适合关注灵长类形态演化与测量方法的研究者阅读。",
+      "title": "Regional variability in skull sexual dimorphism: Olive baboons, blue monkeys, and vervets confirm the posterior region of the skull and the snout as opposite extremes of sex differences in Old World monkeys",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70353",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:sec>\n                    <jats:title>Objectives</jats:title>\n                    <jats:p>Runs of homozygosity (ROHs) are suitable for studying population demographic history. This study analyzed whole‐genome patterns of homozygosity and natural selection in Colombian indigenous populations to identify their role in population structure and demographic history.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Materials and Methods</jats:title>\n                    <jats:p>Individuals from four indigenous groups (Nasa, Pijao, Wayuu, and Emberá) were genotyped using an array of 758,740 SNPs. ROH distribution across the genome and signatures of selection were characterized and compared with reference populations.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      Colombian Native Americans showed a population structure similar to that of Central and South American indigenous groups, with higher genome‐wide homozygosity (mean = 179.40 Mb, median = 168.77 Mb, SD = 98.08 Mb), and the Emberá group showed the highest mean ROH size (2.46 Mb) and\n                      <jats:italic>F</jats:italic>\n                      <jats:sub>ROH</jats:sub>\n                      (0.092). Admixture was negatively correlated with ROH content and length. We described 16 ROH islands and selection signatures, including\n                      <jats:italic>EDAR</jats:italic>\n                      ,\n                      <jats:italic>F13A1</jats:italic>\n                      ,\n                      <jats:italic>SASH1</jats:italic>\n                      ,\n                      <jats:italic>IYD</jats:italic>\n                      , and\n                      <jats:italic>FADS1</jats:italic>\n                      , with the strongest ROH–selection co‐occurrence at 2q24.2. These genomic regions showed larger haplotype blocks and reduced diversity compared with Europeans and Africans.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Discussion</jats:title>\n                    <jats:p>Frequent ROH islands in Colombian indigenous groups revealed homozygous chromosomal regions enriched for genes previously reported to be associated with cancer and metabolic and cardiovascular conditions. These islands harbor highly differentiated alleles in Native Americans, including signals of natural selection. However, the presence of these genes within ROH regions does not imply a direct association with disease in the populations analyzed here. Rather, these findings provide a foundational genomic resource for future phenotype‐inclusive studies of complex disease architecture in Native American populations.</jats:p>\n                  </jats:sec>",
+      "authors": [
+        "Ana Estrada‐Flórez",
+        "Angel Carracedo",
+        "Angel Criollo‐Rayo",
+        "Angel Criollo‐Rayo, Catalina Rubio‐Vargas, Carlos Puentes, Daniel Molina‐Campos, Mabel Elena Bohórquez, Angel Carracedo, Ana Estrada‐Flórez, Danna Díaz‐Carmona, Fabian Castro‐Valencia, Luis Carvajal‐Carmona, María Magdalena Echeverry",
+        "Carlos Puentes",
+        "Catalina Rubio‐Vargas",
+        "Daniel Molina‐Campos",
+        "Danna Díaz‐Carmona",
+        "Fabian Castro‐Valencia",
+        "Luis Carvajal‐Carmona",
+        "Mabel Elena Bohórquez",
+        "María Magdalena Echeverry"
+      ],
+      "doi": "10.1002/ajpa.70361",
+      "id": "doi:10.1002/ajpa.70361",
+      "publication_date": "2026-09-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:American Journal of Biological Anthropology"
+      ],
+      "summary": "《哥伦比亚原住民群体中的纯合片段与正选择特征：遗传结构与人口历史》：研究利用全基因组SNP芯片分析四个哥伦比亚原住民群体的纯合片段分布与选择信号，发现其纯合度较高、混合程度与纯合片段呈负相关，并定位到多个选择特征区域，为原住民复杂疾病遗传研究提供基础资源。",
+      "title": "Runs of Homozygosity and Signatures of Positive Selection in Colombian Native American Populations: Genetic Architecture and Demographic History",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ajpa.70361",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:d0b24846dc7448e16d4828fc757088c471cb9359418b639db0fa6d68d1883533",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《南非德里莫伦主采石场新发现的人族颅骨与下颌骨遗存》：该研究报道了出自德里莫伦主采石场的人族颅骨和下颌骨新标本，可为了解该地点人族成员的形态特征与变异提供新的化石证据，适合关注南非早期人族演化与化石记录的研究者阅读。",
+      "title": "New hominin cranial and mandibular remains from Drimolen Main Quarry, South Africa",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://www.tandfonline.com/doi/full/10.1080/03014460.2026.2725046",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Ting Li, Nihanxue Jia, Jian Wang, Han Gao, Yan Tong, Yazhong Li, Wangdue Shargan, Miaomiao Yang, Xiaoyan Yang",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:405637de9c979e92d365ff6a8366a4fac2e19c7f2203bdb19866e045a28f621b",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Journal of Archaeological Science: Reports",
+        "scholar_email"
+      ],
+      "summary": "《隐匿自身却显露工具：超高海拔地区人类的新石器时代寒冷适应策略》：该研究探讨超高海拔地区人类在新石器时代的寒冷适应策略，发表于《考古科学杂志：报告》2026年11月第75卷，作者为Ting Li等，适合关注高原考古与人类适应议题的读者阅读。",
+      "title": "Invisible hide but visible tools: Neolithic cold adaptation strategies of humans at ultra-high elevations",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600533X?dgcid=rss_sd_all",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Vedat Onar, Zeynep Erdem Koçel, Şamil Sefergil",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:640d33d05c9a78644bd2bf8ad92dfaa79330b468e3b4db80b6bd2c267859ec92",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Journal of Archaeological Science: Reports",
+        "scholar_email"
+      ],
+      "summary": "《佩林索斯古城（土耳其泰基尔达）动物遗存的动物考古学分析》：该研究对佩林索斯古城出土动物遗存进行动物考古学分析，有助于了解该古城的动物利用与相关生计方式，适合关注动物考古与安纳托利亚考古的读者阅读。",
+      "title": "Zooarchaeological analysis of animal remains from the ancient city of Perinthos (Tekirdağ-Türkiye)",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005298?dgcid=rss_sd_all",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:a947d66aea5e611e3d342d99dc69b3b9a650710b2d6f1a1f2778c6f13b670886",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《赫斯特遗址（22MO569）的遗址形成过程：密西西比州东北部汤比格比河冲积平原上一处晚更新世至早全新世的人类活动遗存》：该研究聚焦这一冲积平原遗址的堆积与改造过程，探讨晚更新世至早全新世人类活动遗存的保存机制，适合关注遗址形成过程与北美东南部早期考古的读者。",
+      "title": "Site Formation Processes at the Hester Site (22MO569): A Late Pleistocene/Early Holocene Occupation on the Tombigbee River Alluvial Plain in Northeast Mississippi ...",
+      "topics": [
+        "site formation"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://onlinelibrary.wiley.com/doi/abs/10.1002/gea.70079&hl=zh-CN&sa=X&d=6908047250270568626&ei=etG6as6iCNK2ieoPyY3ciQo&scisig=ACTRDVFyD9ml3PaE7tPgnRUTMoGL&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=6&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:8ebd2a7eacb89eb11f5685eba8ef75acf43845241ce43b09103823dfd522f4b8",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《肯尼亚东图尔卡纳布卢克中新世气候适宜期的陆地古环境与古气候》：该研究考察布卢克地区在中新世气候适宜期的陆地古环境与古气候，适合关注古环境与古气候演变的读者阅读。",
+      "title": "Terrestrial paleoenvironments and paleoclimate during the Miocene climate optimum at Buluk, East Turkana, Kenya",
+      "topics": [
+        "paleoenvironment"
+      ],
+      "url": "https://www.researchgate.net/profile/Ellen-Miller-2/publication/414484847_Terrestrial_paleoenvironments_and_paleoclimate_during_the_Miocene_climate_optimum_at_Buluk_East_Turkana_Kenya/links/6ab397b5db7d3b1c539fac38/Terrestrial-paleoenvironments-and-paleoclimate-during-the-Miocene-climate-optimum-at-Buluk-East-Turkana-Kenya.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:7345e953dc6d85ef0a6fd67ee782446ba4c8c4d356a90c75db26b21a41c0bdc1",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《Cypsela 24》：该文献仅提供卷册编号，未提供作者、期刊、主题与摘要等具体内容，无法判断其研究了什么或为何值得阅读。",
+      "title": "Cypsela 24",
+      "topics": [],
+      "url": "https://www.researchgate.net/profile/Carlos-Rodriguez-Rellan/publication/414620217_Rodriguez_Rellan_C_2026_The_Origin_and_Early_Development_of_the_Galician_Burial_Mound_Phenomenon_Recovering_evidence_from_a_Sea_of_Uncertainty_In_Basch-Gomez_A_Buxo_R_Hernandez_E_Molist_M_Santos_M_ed_/links/6ab2ca3d799bef11c4af4bec/Rodriguez-Rellan-C-2026-The-Origin-and-Early-Development-of-the-Galician-Burial-Mound-Phenomenon-Recovering-evidence-from-a-Sea-of-Uncertainty-In-Basch-Gomez-A-Buxo-R-Hernandez-E-Molist-M-Santos.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:c59bab63612df5f77341c12e94cfa4270a1dd253b877c93b15575bf92669d292",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《尼娜阿尔塔（特瓦，马拉加）的旧石器时代双面工具》：该研究聚焦西班牙马拉加特瓦地区尼娜阿尔塔遗址出土的旧石器时代双面工具，对其形制与工艺特征进行考察，有助于了解该地区旧石器时代石器技术面貌，适合关注伊比利亚半岛旧石器考古的读者参考。",
+      "title": "EL BIFAZ PALEOLÍTICO DE NINA ALTA (TEBA, MÁLAGA)",
+      "topics": [],
+      "url": "https://conoceteba.com/wp-content/uploads/2026/09/boletin-museo-historico-municipal-teba-2026-ISNN.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:37c0956fc63e5c1dc03e52dd1cb77c71a22ede0a3ba524274665592b3dc3afcf",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《旧石器时代黏土绘画研究的实验方法：来自西班牙多内斯洞穴的启示》：该研究围绕西班牙多内斯洞穴的旧石器时代黏土绘画，探讨适用于此类遗存的实验研究方法，为理解黏土绘画的制作与保存提供参考，适合关注旧石器时代艺术与实验考古的读者阅读。",
+      "title": "Experimental Approaches to the Study of Palaeolithic Clay Paintings: Insights from Cova Dones (Spain)",
+      "topics": [],
+      "url": "https://hal.science/hal-05754137/",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:43635194e66d2083db637c27d8bfd917e5e3eb3b866b9515a496c63c44e577c9",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《探索青铜时代希腊的流动性：锶同位素视角》：该研究从锶同位素角度考察青铜时代希腊的人口流动，适合关注爱琴海史前考古与同位素分析方法的读者阅读。",
+      "title": "Exploring mobility in Bronze Age Greece: A Sr isotope perspective",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0357576&hl=zh-CN&sa=X&d=15276737094344767690&ei=etG6as6iCNK2ieoPyY3ciQo&scisig=ACTRDVHHSSZFXlgrSekf7ju1NePO&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=8&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:32124e01768f5379373319055e945f6d1fc111f3393bae553cda0e0a773cc9c9",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《布卢克化石遗址的年代学与沉积学，肯尼亚东图尔卡纳：中新世气候适宜期内的类人猿化石含化石地层》：该研究通过年代学与沉积学分析，厘定布卢克化石遗址含类人猿化石地层的时代与沉积背景，并将其置于中新世气候适宜期框架下，值得关注早期人类演化与古环境关系的读者阅读。",
+      "title": "Geochronology and sedimentology of the Buluk fossil site, East Turkana, Kenya: Hominoid fossil–bearing strata within the Miocene climate optimum",
+      "topics": [],
+      "url": "https://www.researchgate.net/profile/Ellen-Miller-2/publication/414484848_Geochronology_and_sedimentology_of_the_Buluk_fossil_site_East_Turkana_Kenya_Hominoid_fossil-bearing_strata_within_the_Miocene_climate_optimum/links/6ab39714756a0b12f4f31a38/Geochronology-and-sedimentology-of-the-Buluk-fossil-site-East-Turkana-Kenya-Hominoid-fossil-bearing-strata-within-the-Miocene-climate-optimum.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:521ce731303b9f3dc624a91b397b5443521277d3bb8376393f44ba38d91dda71",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《晚全新世艾伯塔省马科动物的记录与放射性碳测年》：研究通过记录与放射性碳测年，梳理了艾伯塔省晚全新世马科动物的出现情况，有助于了解该地区马科动物的历史分布与年代框架。",
+      "title": "Historic hooves: Records and radiocarbon dates of equids in Alberta in the late Holocene",
+      "topics": [],
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/00320447.2026.2727821",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:44878bf872a59f7c42491ccbd16f2a7de420e0137a8c1abc91a087bbae8ab099",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《海水冲刷，骨骼铭记：对18世纪路易斯堡要塞骨骼遗存中生物磷灰石保存状况的FTIR-ATR分析以指导海岸环境研究》：该研究用FTIR-ATR分析路易斯堡要塞出土骨骼中生物磷灰石的保存情况，为海岸环境下的骨骼遗存研究提供依据，适合关注考古骨骼保存与海岸埋藏环境的读者阅读。",
+      "title": "La mer emporte, les os se souviennent: FTIR-ATR analysis of bioapatite preservation in skeletal remains from the 18th-century Fortress of Louisbourg to inform coastal ...",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.researchsquare.com/article/rs-11143018/latest.pdf&hl=zh-CN&sa=X&d=10269799299939888568&ei=etG6asj1IYabieoPtYKMoQs&scisig=ACTRDVESHxYsW82akGHyOgoLIHMr&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=1&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:0bd29f32ea6beaf15d833a70a5d7524a7d6ccc09f19af67cb79d9fec6f0df7b0",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《法国西南部尼安德特人的丧葬行为》：该研究聚焦法国西南部尼安德特人的丧葬行为，摘要信息有限，但主题涉及尼安德特人是否具有象征性丧葬习俗这一古人类学争议核心，值得关注后续完整论证与证据。",
+      "title": "Neandertal funerary behavior in Southwest of France",
+      "topics": [],
+      "url": "https://cir.cenieh.es/bitstream/20.500.12136/3609/1/Sala_2026_AbstractBook.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:87e4a8a99ea79fde619c56e623e5b1f434fe520177559b35016aaf2d8e2e1b61",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《对巴西Lagerstätte洞穴沉积Toca da Boa Vista第四纪化石组合形成的新见解》：该研究探讨了这一巴西洞穴化石群的形成过程，有助于理解第四纪化石组合的埋藏与保存机制。",
+      "title": "New insights into the formation of the Quaternary fossil assemblage at Toca da Boa Vista, a Brazilian Lagerstätte cave deposit",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S1871174X26001095&hl=zh-CN&sa=X&d=18328374431884162485&ei=etG6as6iCNK2ieoPyY3ciQo&scisig=ACTRDVENnwlYa3ER2WRqQDir1EnP&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=7&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:91e187a0cf47f2c842eba62c83829a429f3fa3c735a41707f5584d0765bad450",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《论悲伤的本质：揭示动物界丧失体验的演化根源》：该研究探讨动物界中丧失体验的演化根源，试图揭示悲伤的本质。适合关注演化生物学、动物行为与比较心理学交叉议题的读者阅读。",
+      "title": "On the nature of grief: uncovering the evolutionary roots of loss across the animal realm",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://royalsocietypublishing.org/rstb/article-abstract/381/1959/20250147/483402&hl=zh-CN&sa=X&d=10943342620736512525&ei=etG6asj1IYabieoPtYKMoQs&scisig=ACTRDVGBKwUvH88nCCKKwUqNaLjz&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=0&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:5799c7765f395bbf2b2f0c3ba0d2156f3574a2b07bbf2736847c9779c6db51d5",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《鸽子洞（阿尔及利亚）：马格里布地区人类适应更新世末期至全新世过渡的一个案例》：该研究以阿尔及利亚鸽子洞为例，考察马格里布地区人类如何适应更新世末期至全新世过渡期的环境变化，可供关注北非史前人类适应与古环境变迁的读者参考。",
+      "title": "Pigeon Cave (Algeria): An Example of Human Adaptation to the Transition of theTerminal Pleistocene/Holocene in the Maghreb",
+      "topics": [],
+      "url": "https://hal.science/hal-05762758/",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:4a92680db0e9df8ee61500f3485833455c47b38d07072d0a37f724bb0e8b0ce4",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《距今120万年前东非手斧打制中的随机行走：埃塞俄比亚上阿瓦什梅尔卡昆图雷遗址》：研究通过梅尔卡昆图雷遗址的手斧打制材料，探讨距今120万年前东非早期石器技术中的随机行走模式，值得关注早期人类技术行为与认知演化的读者阅读。",
+      "title": "Random walks in handaxe knapping before 1.2 million years ago in East Africa at Melka Kunture (Upper Awash, Ethiopia)",
+      "topics": [],
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357880",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
