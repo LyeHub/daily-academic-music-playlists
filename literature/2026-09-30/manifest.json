@@ -1,0 +1,219 @@
+{
+  "date": "2026-09-30",
+  "items": [
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    The Fiorano quarry paleosol developed within the Colli Albani volcanic district (Italy) in the time interval bracketed by the deposition of the Pozzolanelle pyroclastic‐flow unit (365 ± 4 ka) and the emplacement of the Capo di Bove lava flow (277 ± 2 ka). The paleosol is characterized by an accretionary feature produced by the progressive accumulation of clastic material eroded from the surrounding volcanic landscape. The δ\n                    <jats:sup>13</jats:sup>\n                    C composition of soil organic matter (δ\n                    <jats:sup>13</jats:sup>\n                    C\n                    <jats:sub>OM</jats:sub>\n                    ) shows limited but systematic variations with stratigraphic age (from −20.77‰ to −27.29‰), reflecting changes in plants' contribution and organic matter input during pedogenesis. The δ\n                    <jats:sup>13</jats:sup>\n                    C\n                    <jats:sub>OM</jats:sub>\n                    record also matches global and local proxies over the 365–277 ka interval, spanning Marine Isotopic Stage 10 (MIS) to MIS 8.5. These data suggest that δ\n                    <jats:sup>13</jats:sup>\n                    C\n                    <jats:sub>OM</jats:sub>\n                    values were primarily controlled by variation in vegetation density and cover at the paleosol surface. The Fiorano paleosol thus preserves a well‐resolved continental stable isotope record for MIS 9 in the central Mediterranean area, showing the potential of δ\n                    <jats:sup>13</jats:sup>\n                    C\n                    <jats:sub>OM</jats:sub>\n                    variations in paleosols to constrain paleo‐environmental and paleo‐climatological conditions in the central Mediterranean area during the middle Pleistocene.\n                  </jats:p>",
+      "authors": [
+        "Eduardo Di Marcantonio",
+        "Fabrizio Marra",
+        "Luca Aldega",
+        "Luigi Dallai",
+        "Mario Gaeta"
+      ],
+      "doi": "10.1002/jqs.70119",
+      "id": "doi:10.1002/jqs.70119",
+      "publication_date": "2026-09-29",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《火山古土壤有机质碳同位素地球化学对古环境变化的约束》：研究以意大利Colli Albani火山区Fiorano采石场古土壤为对象，分析有机质δ13C在约365至277 ka间的系统变化，并将其与MIS 10至MIS 8.5的全球和区域记录对比，认为δ13C主要受古土壤表面植被密度与覆盖度控制，为地中海中部中更新世古环境与古气候研究提供了分辨率较高的陆相稳…",
+      "title": "Carbon isotope geochemistry of organic matter in volcanic paleosols constrains paleo‐environmental variations",
+      "topics": [
+        "Middle Pleistocene",
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.1002/jqs.70119",
+      "venue": "Journal of Quaternary Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>We investigated the lithology and tephra of the 87-metre-long drill core (WD1) from the Walsdorfer maar (Eifel, Germany) in order to reconstruct the sequence of volcanic activity and its integration into palaeoclimatic developments between Marine Isotope Stage (MIS) 7 and MIS 6. Based on tephra counts, mineralogical and geochemical analyses, we have identified 11 primary tephra layers in the WD1 core that have not previously been described in the Eifel, with an age range of approximately 196–158 ka, alongside 13 reworked tephra layers, particularly in the older part of the core. Leucite was detected in the important marker tephra Hüttenberg Tephra (HBT) at 215 ka and Glees Tephra (GLT) at 151 ka. The basal Walsdorfer Maar Tephra (WDT) dates the outbreak to 217,843 years ago. Our results thus extend the existing ELSA–23–Tephra–Stack for the period 220–130 ka. The results for organic components show that, during the period 215–185 ka (MIS 7c–7a), a predominantly boreal forest consisting mainly of thermophilic deciduous species was established, whilst in the range of 170–152 ka, during the earlier half of MIS 6, hardly any pollen and less organic material have been preserved. The data point to changes in productivity and vegetation dynamics, which are reflected in the composition of the organic matter. The liptinite-rich intervals with higher fluorescence primarily characterise warmer subphases within MIS 7, whereas cool-humid conditions during the glacial MIS 6 favoured the formation of huminite-rich peats. The presence of calcareous layers in the 200–190 ka range indicates formerly wet conditions, suggesting MIS 7a. Palaeotemperature calibrations were analysed by brGDGT and provide the temperature of MAF comparable to Holocene levels. The data from the WD1 core (Eifel) confirm the climatic conditions during MIS 7a as inferred from other European archives, add a new region to the picture, and, because of their high resolution, enable the identification of climatic fluctuations that could not be detected in previous studies. We reconstruct a tephrostratigraphic chronology as well as the palaeoclimatic evolution of the period 220–132 ka in the Walsdorfer maar.</jats:p>",
+      "authors": [
+        "Dominik Hezel",
+        "Fiona Schenk",
+        "Frank Sirocko",
+        "Paul D. Zander",
+        "Thorsten Bauersachs"
+      ],
+      "doi": "10.3390/quat9050067",
+      "id": "doi:10.3390/quat9050067",
+      "publication_date": "2026-09-29",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《萨勒冰期后半段（MIS 7/6）德国西埃菲尔火山群瓦尔斯多夫玛珥的古气候演变与地层学》：研究通过87米岩芯WD1的岩性与火山灰分析，识别出11层此前未在埃菲尔地区描述的原始火山灰层，重建约220至132千年的火山活动与古气候演变，并揭示MIS 7c至7a以喜温落叶树种为主的北方森林及MIS 6早期的植被与有机质变化，值得关注其对欧洲古气候记录的区域补充与…",
+      "title": "Palaeoclimatic Development and Stratigraphy of the Walsdorfer Maar (West Eifel Volcanic Field, Germany) During the Latter Half of the Saalian Glacial Period (MIS 7/6)",
+      "topics": [
+        "stratigraphy"
+      ],
+      "url": "https://doi.org/10.3390/quat9050067",
+      "venue": "Quaternary",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    The Sanjiang Plain, characterized by thick Quaternary sedimentary sequences and limited anthropogenic disturbance, represents an ideal archive for regional paleoenvironmental reconstruction. While extensive studies have focused on Holocene variability, the Pleistocene climatic evolution of this region remains inadequately constrained. Here, we present a tentative paleoclimate record spanning approximately the past 868 ka, retrieved from borehole BWZK03 in the southern Sanjiang Plain. A chronological framework was established using a combination of AMS\n                    <jats:sup>14</jats:sup>\n                    C, optically stimulated luminescence, and ESR dating. Pollen analysis and magnetic susceptibility were analyzed to reconstruct vegetation and climate changes. Our results reveal a persistent alternation between forest-steppe and steppe-dominated landscapes, reflecting repeated shifts between cold-dry and warm-humid climatic phases. These alternating patterns broadly correspond to glacial-interglacial cycles, Marine Isotope Stages, Northern Hemisphere summer insolation, and global sea-level fluctuations, indicating that orbital-scale forcing of the East Asian summer monsoon was the primary driver of regional climate change. Notably, after the Mid-Pleistocene Transition glacial (cold-dry) phases became markedly longer and more stable, suggesting an enhanced positive feedback of high-latitude ice-sheet expansion and Tibetan Plateau uplift on the East Asian winter monsoon. This record provides new regional evidence for understanding orbital-scale monsoon dynamics and its sensitivity to high-latitude forcing since the middle Pleistocene.\n                  </jats:p>",
+      "authors": [
+        "Fanpeng Kong",
+        "Hongwen Zhang",
+        "Jian Zhao",
+        "Xiangxi Lv",
+        "Yandong Pei"
+      ],
+      "doi": "10.3389/feart.2026.1914016",
+      "id": "doi:10.3389/feart.2026.1914016",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《中国东北三江平原南部初步孢粉与磁化率记录：对中更新世以来轨道尺度季风变率的启示》：研究基于BWZK03钻孔约86.8万年的孢粉与磁化率记录，重建了森林草原与草原交替的植被气候演变，发现其与冰期—间冰期旋回、海洋同位素阶段及北半球夏季太阳辐射等对应，指示轨道尺度东亚夏季风驱动；值得阅读以了解中更新世以来区域季风动态及其对高纬强迫的敏感性。",
+      "title": "A preliminary palynological and magnetic susceptibility record from the southern Sanjiang Plain, NE China: implications for orbital-scale monsoon variability since the Middle Pleistocene",
+      "topics": [
+        "ESR dating",
+        "Middle Pleistocene",
+        "paleoenvironment"
+      ],
+      "url": "https://doi.org/10.3389/feart.2026.1914016",
+      "venue": "Frontiers in Earth Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Svenja Schray",
+        "Nicholas J. Conard"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106087",
+      "id": "doi:10.1016/j.jasrep.2026.106087",
+      "publication_date": "2026-09-29",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《利用石器拼合评估德国西南部盖森克勒斯特洞穴奥瑞纳文化的年代地层》：该研究通过石器拼合方法检验盖森克勒斯特洞穴奥瑞纳文化遗存的年代地层序列，可供关注旧石器时代考古、地层学与石器技术研究的读者参考。",
+      "title": "Using lithic refits to assess the chronostratigraphy of the Aurignacian at Geißenklösterle Cave, SW Germany",
+      "topics": [
+        "stratigraphy"
+      ],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106087",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Roheyatou Ceesay",
+        "Matthew C. Reilly",
+        "Chrislyn Laurie Laurore",
+        "Craig Stevens",
+        "Stephen K. Foday",
+        "John Lissa",
+        "Taylor Grandfield",
+        "Marine Frouin"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106060",
+      "id": "doi:10.1016/j.jasrep.2026.106060",
+      "publication_date": "2026-09-29",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《利比里亚普罗维登斯岛人类活动的光释光测年年代序列分析》：该研究运用光释光测年技术，对普罗维登斯岛的人类活动进行年代序列分析，为理解该岛 occupation 历史提供年代学框架，适合关注西非考古与释光测年方法的读者参考。",
+      "title": "Chronological Analysis of Occupation on Providence Island, Liberia, by Luminescence Dating",
+      "topics": [
+        "luminescence dating"
+      ],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106060",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:p xml:lang=\"en\">Variation in the timing and rate of development (heterochrony) is a key driver of morphological diversification. The African buffalo (Syncerus caffer (Sparrman, 1779)) is the sole surviving species of a once diverse Pleistocene clade and shows striking eco-morphological variability that may be the result of heterochronic shifts. Heterochrony has also been suspected to account for the past diversity of Syncerus, but the early evolution of this clade has remained obscure due to limited fossil evidence. Here we describe new material from the Shungura Formation (southern Ethiopia), including a nearly complete cranium dated to c. 2.6 Ma, which we designate as the type of a new species of Syncerus Hodgson, 1847. This species is small-bodied with short, divergent horns, resembling immature and small-bodied extant Sy. caffer (forest or “nanus” ecomorphs). Three-dimensional geometric morphometrics reveal that fossils of Ugandax Cooke &amp; Coryndon, 1970 and Syncerus (including the new cranium) broadly follow the ontogenetic size-shape allometry of Sy. caffer, suggesting cranial diversification along a conserved allometric trajectory, and that the new species may represent an ancestral form from which later Syncerus evolved. In contrast, the extreme horn length of the extinct giant buffalo Sy. antiquus (Duvernoy, 1851) departs from this pattern, indicating lineage-specific innovation. These findings provide the earliest well-preserved evidence of the African buffalo lineage and highlight the role of conserved allometry and heterochrony in the evolutionary history of Syncerus. They also underscore the importance of new fossil discoveries and comparative analyses for understanding the origins of morphological diversity.</jats:p>",
+      "authors": [
+        "Faysal BIBI",
+        "Jean-Renaud BOISSERIE"
+      ],
+      "doi": "10.5852/cr-palevol2026v25a18",
+      "id": "doi:10.5852/cr-palevol2026v25a18",
+      "publication_date": "2026-09-29",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《埃塞俄比亚舒古拉组一新化石水牛揭示异时发育在Syncerus Hodgson, 1847演化中的作用》：研究描述了约260万年前一件近乎完整的头骨并命名为Syncerus新种，用三维几何形态测量学比较Ugandax与Syncerus化石，发现其颅骨演化沿循现生非洲水牛保守的异速生长轨迹，而巨型水牛Sy. antiquus的极端角长则偏离该模式，为非洲水牛…",
+      "title": "A new fossil buffalo from the Shungura Formation (Ethiopia) reveals the role of heterochrony in the evolution of Syncerus Hodgson, 1847",
+      "topics": [
+        "geometric morphometrics"
+      ],
+      "url": "https://doi.org/10.5852/cr-palevol2026v25a18",
+      "venue": "Comptes Rendus Palevol",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Background: Freeze-thaw processes leave diagnostic traces in archaeological soils and sediments that are central to reconstructing past climates and understanding hominin adaptations to glacial environments. Frost features can be defined through soil micromorphology techniques using well-defined diagnostic criteria, but these traces can be subtle, variably expressed, and overlap with other pedogenic processes, making their identification time-consuming, expert-dependent, and subject to high inter-observer variability. Methods: We trained five convolutional neural network architectures on photomicrographs from eleven Plio-Pleistocene archaeological sites, implementing a two-stage classification approach by detecting first the presence of those features (binary classification) and then the feature type (multiclass classification), and validated model outputs against both interpretability analysis and a blind survey of practicing micromorphologists. Results: Results reveal a performance paradox: models achieve high performance but rely on spurious correlations rather than diagnostic criteria, while models that focus on micromorphologically relevant features show lower overall performance. Expert agreement on the same task is low, with uncertainty concentrated in feature detection rather than classification. Crucially, model and expert errors are largely independent, and each captures different aspects of frost feature recognition, establishing a basis for complementarity. Conclusions: These findings demonstrate that effective computational integration in micromorphology requires not only accurate classification but interpretability validation ensuring that model's reason from the same diagnostic criteria as experts. We propose a human-in-the-loop approach where models provide consistent first screening, while experts offer contextual interpretation and diagnostic validation. Additionally, we present an interactive open-access tool that implements this pipeline to facilitate adoption and repeatability.",
+      "authors": [
+        "Sofia Kouki",
+        "Li Li",
+        "Vera Aldeias"
+      ],
+      "doi": "10.12688/openreseurope.23697.2",
+      "id": "doi:10.12688/openreseurope.23697.2",
+      "publication_date": "2026-08-04",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《利用深度学习自动识别考古沉积物中的冻融特征》：研究用卷积神经网络从显微照片中分两阶段识别冻融特征，并揭示模型高分依赖虚假相关、专家一致性偏低且两者错误基本独立，值得关注其对人机互补识别流程与开放工具的讨论。",
+      "title": "Automated detection of freeze-thaw signatures in archaeological sediments using deep learning",
+      "topics": [
+        "hominin",
+        "micromorphology"
+      ],
+      "url": "https://doi.org/10.12688/openreseurope.23697.2",
+      "venue": "Open Research Europe",
+      "work_type": "article"
+    },
+    {
+      "abstract": "The Recent African Origin (RAO) model has been highly successful in explaining human genetic diversity and dispersal patterns in low-latitude tropical regions. However, when simplified into a “complete replacement” narrative and uncritically applied to mid-latitude Eurasia (35°–40°N), it faces tensions with fossil records, lithic technological continuity, and paleoclimatic reconstructions. This paper does not reject the RAO model but downscales it to a “low-latitude tropical diffusion system” and proposes a parallel “Mid-Latitude Seasonal Oscillation Hypothesis.” Based on high-resolution Chinese loess records — particularly the 20 Dansgaard-Oeschger events and 6 Heinrich events documented by Guan et al. (2007) demonstrating millennial‑centennial scale rapid climate fluctuations — the continuous hominin fossil and cultural sequence in East Asia (35°–40°N) from the Early Pleistocene to the Late Pleistocene, the persistent phenotypic continuity of shovel-shaped incisors and the Inca bone, and proteomic/genomic evidence of indirect molecular continuity (Welker et al., 2026 online first; Fu et al., 2020; Mao et al., 2021), we argue that high-frequency glacial-interglacial seasonal oscillations — rather than low-latitude constant warmth — selected for behavioral flexibility, broad-spectrum diets, long-distance mobility, and symbolic thinking, the core elements of behavioral modernity. Behavioral modernity may have emerged independently, convergently, or in parallel in different refugia (East Asia, the Levant) along the 35°–40°N latitudinal belt and became fully integrated after admixture with low-latitude populations in the Late Pleistocene. This hypothesis is falsifiable: if continuous behavioral modern remains are discovered outside the 35°–40°N belt (e.g., in low-latitude Africa) with dates demonstrably earlier than the earliest record of the East Asian mid-latitude refugia, the hypothesis would be falsified. The hypothesis awaits testing by ancient DNA, submerged shelf archaeology, numerical modeling, and cross-regional comparison.",
+      "authors": [
+        "Jing Zhang"
+      ],
+      "doi": "10.5281/zenodo.20582416",
+      "id": "doi:10.5281/zenodo.20582416",
+      "publication_date": "2026-06-07",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《中纬度季节性振荡假说：对晚近非洲起源模型的降尺度重新解释与行为现代性起源》：该文将晚近非洲起源模型降尺度为低纬度热带扩散系统，提出中纬度季节性振荡假说，认为高频冰期-间冰期振荡可能选择出行为灵活性、广谱饮食、长距离流动与象征思维，值得关注其可证伪的论证框架。",
+      "title": "Mid-Latitude Seasonal Oscillation Hypothesis: A Downscaled Reinterpretation of the Recent African Origin Model and the Origins of Behavioral Modernity",
+      "topics": [
+        "ancient DNA",
+        "hominin"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20582416",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "work_type": "article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Baenids are freshwater paracryptodiran turtles with a fossil record ranging from the Early Cretaceous to the Eocene. The baenid\n                    <jats:italic>Plesiobaena antiqua</jats:italic>\n                    is the most common turtle in the Campanian (Late Cretaceous) Dinosaur Park Formation in Canada, but the apparent intraspecific variation remains poorly understood. We apply micro‐computed tomography scanning technology (μCT scanning) and bone‐by‐bone segmentation to a sample of four crania and three mandibles representing different size classes. The available material allows us to rigorously document variation to the skull, of which most can be attributed to phenotypic or genetic variation, with exception of the jugal, which appears to insert itself into the margin of the orbit during ontogeny. It is unclear if the apparent variation to the presence of an epipterygoid is controlled by ontogeny or random variation. Notable variation found in the available mandibles can mostly be attributed to ontogenetic variation, consistent with a dietary shift towards durophagy. The detailed description of the skull anatomy of\n                    <jats:italic>Plesiobaena antiqua</jats:italic>\n                    combined with detailed documentation of variation is expected to provide new impulses for reconstructing baenid taxonomy and phylogeny.\n                  </jats:p>",
+      "authors": [
+        "Donald D. Brinkman",
+        "Scott Bellotti",
+        "Scott Bellotti, Donald D. Brinkman, Serjoscha W. Evers, Walter G. Joyce, Yann Rollot",
+        "Serjoscha W. Evers",
+        "Walter G. Joyce",
+        "Yann Rollot"
+      ],
+      "doi": "10.1002/ar.70352",
+      "id": "doi:10.1002/ar.70352",
+      "publication_date": "2026-09-28",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:The Anatomical Record"
+      ],
+      "summary": "《坎帕期贝尼龟Plesiobaena antiqua的种内颅骨变异评估》：该研究用微型CT扫描与逐骨分割技术，对代表不同体型等级的4件颅骨和3件下颌骨标本进行观察，记录了颅骨与下颌的变异，并探讨其与个体发育及食性转变的关系，可为贝尼龟类分类与系统发育重建提供新线索。",
+      "title": "Assessment of intraspecific skull variation in the Campanian baenid turtle\n                    <i>Plesiobaena antiqua</i>",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70352",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
