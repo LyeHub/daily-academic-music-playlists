@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-01",
+  "items": [
+    {
+      "artists": [
+        "Scary Harry"
+      ],
+      "release_date": "2026-10-01",
+      "release_type": "album",
+      "title": "Save a Stamp: Hell-O-Ween Edition 2026 (exploiting you since 1972)"
+    },
+    {
+      "artists": [
+        "Azure Rose"
+      ],
+      "release_date": "2026-10-01",
+      "release_type": "album",
+      "title": "Blue Drops"
+    },
+    {
+      "artists": [
+        "Tinashe"
+      ],
+      "release_date": "2026-09-25",
+      "release_type": "album",
+      "title": "Popstar"
+    },
+    {
+      "artists": [
+        "Sophiaaaahjkl;8901"
+      ],
+      "release_date": "2026-10-01",
+      "release_type": "album",
+      "title": "Alien Abduction"
+    },
+    {
+      "artists": [
+        "TV Buddha"
+      ],
+      "release_date": "2026-10-02",
+      "release_type": "album",
+      "title": "Hallelujah Anyway"
+    },
+    {
+      "artists": [
+        "Lime Garden"
+      ],
+      "release_date": "2026-09-28",
+      "release_type": "single",
+      "title": "Moving Target"
+    },
+    {
+      "artists": [
+        "Angèle",
+        "Caroline Polachek",
+        "SebastiAn"
+      ],
+      "release_date": "2026-09-29",
+      "release_type": "single",
+      "title": "Love Triangle"
+    },
+    {
+      "artists": [
+        "A Perfect Circle"
+      ],
+      "release_date": "2026-09-29",
+      "release_type": "single",
+      "title": "To Whom It May Concern"
+    },
+    {
+      "artists": [
+        "dnL"
+      ],
+      "release_date": "2026-09-30",
+      "release_type": "single",
+      "title": "maybe not today"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-10-01",
+  "schema_version": 1
+}

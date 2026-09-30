@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-01",
+  "items": [
+    {
+      "abstract": "<jats:p>Tropical rivers in Australia and New Guinea (Sahul) provide a rare natural experiment in vertebrate evolution: Unlike other continental systems, their freshwater ichthyofaunas are composed almost entirely of marine-derived lineages rather than primary freshwater fishes. This unique biogeographic setting enables replicated tests of why some marine-to-freshwater transitions give rise to extensive adaptive radiations whereas others remain species-poor, and whether these outcomes reflect ecological opportunity or temporally structured paleoenvironmental constraints. Using a densely sampled, time-calibrated phylogenomic framework spanning 2,303 teleost species, we identified 27–34 marine-to-freshwater transitions during the Cenozoic, including a pronounced Middle Miocene peak (16–11 Ma). Although ecological opportunity in Sahul rivers enabled repeated colonization in the absence of dominant primary freshwater incumbents, younger freshwater lineages nevertheless diversify faster than older ones, contradicting the expectation that early arrivers should undergo elevated diversification when accessing vacant niche space. Although some colonizations coincide with bursts of speciation consistent with adaptive radiation, many yielded few species despite long residence times. Functional trait analyses likewise revealed no consistent relationship between colonization timing, ecological breadth, or lineage diversification rate, although expanded functional space characterizes previously proposed Sahul adaptive radiations. Comparisons with paleoenvironmental curves indicate that colonization success correlates with sea-level minima and low-oxygen conditions, suggesting that Earth history dynamics modulated when ecological opportunity was accessible. Our results show that although ecological opportunity enabled repeated freshwater invasions into the Sahul region, diversification outcomes are governed by the interaction of paleoenvironmental dynamics and possibly lineage-specific traits, generating stark asymmetries in freshwater radiations.</jats:p>",
+      "authors": [
+        "Aaron Davis",
+        "Aintzane Santaquiteria",
+        "Alfred Ko’ou",
+        "Aline P. M. Medeiros",
+        "Christine E. Thacker",
+        "Dahiana Arcila",
+        "Devin Bloom",
+        "Jonathan Kim",
+        "Joshua P. Egan",
+        "Lily C. Hughes",
+        "Melissa Rincon-Sandoval",
+        "Ricardo Betancur-R",
+        "William B. Ludt"
+      ],
+      "doi": "10.1073/pnas.2601715123",
+      "id": "doi:10.1073/pnas.2601715123",
+      "publication_date": "2026-09-30",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《海洋到淡水鱼类反复过渡揭示古环境对适应性辐射的调控》：研究以涵盖2303种真骨鱼类的系统发育基因组学框架，识别出新生代27至34次海洋到淡水过渡及中新世中期高峰，发现尽管生态机会允许反复入侵，但多样化结果受古环境动态与谱系特性共同影响，值得关注。",
+      "title": "Repeated marine-to-freshwater fish transitions reveal paleoenvironmental modulation of adaptive radiation",
+      "topics": [
+        "paleoenvironment"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2601715123",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Youyang Qu",
+        "Jiashuo Zhang",
+        "Bohuai Huang",
+        "Chao Ning",
+        "Tianshu Li",
+        "Jian Li",
+        "Dawei Cai",
+        "Lishuang Sheng"
+      ],
+      "doi": "10.1016/j.jas.2026.106708",
+      "id": "doi:10.1016/j.jas.2026.106708",
+      "publication_date": "2026-09-29",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《古DNA揭示明清时期一个七代世系与昭穆制度》：研究通过古DNA重建了明清时期一个延续七代的家族世系，并探讨其与昭穆制度的关联，值得关注。",
+      "title": "Ancient DNA reveals a seven-generation lineage and the Zhao-Mu system in Ming-Qing China",
+      "topics": [
+        "ancient DNA"
+      ],
+      "url": "https://doi.org/10.1016/j.jas.2026.106708",
+      "venue": "Journal of Archaeological Science",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "In the archaeological record of Southwestern Germany, the Late Palaeolithic is considerably underrepresented. Most of the known finds derive from surface collections from disturbed deposits or open-air sites. Although preservation tends to be greater in cave sites and rock shelters, even from these contexts well-documented stratigraphic sequences with robust chronocultural data are rare. In this framework, the recent excavation of Kohlhau-Abri, a rock shelter site located near the Lone Valley in the Swabian Jura, provides an important stratigraphic archive for better understanding the Late Glacial period in this region. Initial research at the site revealed the presence of Magdalenian and Mesolithic archaeological layers in the lower part of the stratigraphic sequence. These were separated by deposits with sparse and largely undiagnostic lithic artefacts and faunal remains. Radiocarbon dating of two bone remains indicated an age corresponding to the end of the Late Pleistocene, but it remained unclear whether the lithic and bone remains could be subsumed into a Late Palaeolithic human occupation and which geological horizons made up this potential archaeological horizon. To disentangle the stratigraphic complexity of the site, we adopt a multidisciplinary approach including taphonomy, faunal refitting, lithic transformation analysis and spatial studies to trace the depositional history of the archaeological remains. To test the validity of our interpretations we use archaeometric and analytical methods such as ZooMs, radiocarbon dating and microfaunal data. In this way, we identify several large cervid remains with anthropogenic modifications dated to the Glacial Interstadial 1a and 1b (GI 1a-1b). Microfaunal data corroborate the Late Pleistocene origin of the deposits containing the large cervid remains confirming a human occupation of the site during the Late Palaeolithic. Furthermore, we can now also distinguish a lithic raw material unit assignable to the late Magdalenian/beginning of the Late Palaeolithic sandwiched between the Magdalenian and Mesolithic archaeological layers. Our study raises awareness on the underlying problems associated with the interpretation of archaeological palimpsests, especially in relation to Late Glacial archaeological sites in Southwestern Germany. Furthermore, we demonstrate that the combination of different analytical methods may provide a useful tool for dissecting these palimpsests. Careful consideration of these issues, particularly in the context of modern controlled excavations, is crucial for expanding and better understanding the Late Glacial period in this region as well as in Central Europe.",
+      "authors": [
+        "Claus-Joachim 1953- Kind",
+        "Claus-Joachim Kind",
+        "Elisa Luzi",
+        "Giulia Toniato",
+        "Hannah Huber",
+        "Samantha Brown",
+        "Yvonne Tafelmaier"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106095",
+      "id": "doi:10.1016/j.jasrep.2026.106095",
+      "publication_date": "2026-09-28",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《通过动物与石器遗存拼合科尔豪-阿布里旧石器时代晚期序列》：研究以德国西南部科尔豪-阿布里岩厦遗址为对象，结合埋藏学、动物遗存拼合、石器改造分析与空间研究，并借助ZooMS、放射性碳测年及微型动物群数据，厘清马格德林文化层与中石器时代层之间遗存的沉积历史，识别出经人类改造的大型鹿科动物遗存及可归入旧石器时代晚期的石器原料单元，对理解该地区及中欧晚冰期考古遗…",
+      "title": "Piecing together the Late Palaeolithic at Kohlhau-Abri through faunal and lithic remains",
+      "topics": [
+        "taphonomy"
+      ],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106095",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Ocean plate stratigraphy preserved in the Franciscan Complex records the Mesozoic plate tectonic evolution of the North American Cordillera and eastern Pacific basin, yet it has not been widely used to constrain plate tectonic reconstructions of these regions. New and published ocean floor and accretion ages for Jurassic−Cretaceous oceanic crust, derived from detrital zircons and radiolarians, indicate that eastward younging ocean floor existed between the Farallon and North American plates during the Mesozoic. Our new plate reconstruction shows that, to the south, this lithosphere subducted southward at an intraoceanic subduction zone beneath Caribbean lithosphere, which was still part of Farallon during the Early Cretaceous. The east-younging lithosphere was thus not the Farallon plate, but a separate Franciscan plate. Our kinematic model shows that it formed as part of a back-arc basin during the Mesozoic that must have been bounded by eastward-dipping subduction zones on both its western and eastern margins. The paleolatitude and age of the Wrangellia superterrane of the Northern Cordillera fit well with this prediction. A Late Cretaceous plate reorganization and formation of the north-moving Kula plate offer kinematic explanations for why the intraoceanic arc records formed at low latitude are currently found only from British Columbia northward.</jats:p>",
+      "authors": [
+        "Alexey Ulianov",
+        "Douwe J.J. van Hinsbergen",
+        "Goran Andjić",
+        "John Wakabayashi"
+      ],
+      "doi": "10.1130/g55100.1",
+      "id": "doi:10.1130/g55100.1",
+      "publication_date": "2026-09-30",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《中生代洋板块地层学揭示分隔法拉隆板块与北美板块的弗朗西斯科板块》：研究利用碎屑锆石与放射虫定年，重建中生代洋底年龄格局，提出法拉隆与北美之间存在独立的弗朗西斯科板块，并给出其弧后盆地成因与运动学模型，为理解科迪勒拉造山带及东太平洋板块演化提供了新框架。",
+      "title": "Mesozoic ocean plate stratigraphy reveals a Franciscan plate separating Farallon and North America",
+      "topics": [
+        "stratigraphy"
+      ],
+      "url": "https://doi.org/10.1130/g55100.1",
+      "venue": "Geology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yong Sun",
+        "Xinyuan Wang",
+        "Xiangke Xu",
+        "Lupeng Yu",
+        "Gang Hu",
+        "Chaolu Yi"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114247",
+      "id": "doi:10.1016/j.palaeo.2026.114247",
+      "publication_date": "2026-09-29",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《基于宇宙成因10Be和光释光测年初步结果的青藏高原中部藏色岗日晚第四纪冰川历史》：该研究利用宇宙成因核素10Be与光释光测年方法，重建藏色岗日地区晚第四纪冰川演化序列，为理解青藏高原中部冰川对气候变化的响应提供年代学证据，适合关注第四纪冰川与测年技术的读者阅读。",
+      "title": "Late Quaternary glacial history of Zangser Kangri in the central Tibetan Plateau based on initial results from cosmogenic 10Be and optically stimulated luminescence dating",
+      "topics": [
+        "luminescence dating"
+      ],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114247",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The leeward uplands of Kohala, Hawaiʻi Island, contain a dense network of ancient agricultural fields that were intensively cultivated by Native Hawaiians for centuries. Previous archaeological research in the region has focused on the Leeward Kohala Field System, where most agricultural infrastructure is found at or above the hypothesized minimum rainfall threshold (750 mm/year) required for intensively cultivating sweet potato. The South Kohala Field System, conversely, contains a dense network of fields that fall below this threshold (&lt; 750 mm/year), an anomaly which could be explained by multiple anthropogenic or natural factors. To assess the role of soil nutrients in the field system's agricultural patterning, we sampled soils from five geologically distinct substrates that contained varying densities of agricultural infrastructure. Soil pH, bioavailable nutrients, and total elemental concentrations were estimated and compared to the agricultural field density of each sample area. We observed that the high agricultural alignment density was not closely associated with high soil nutrient availability. However, the most nutrient‐poor sample area in our study had the lowest agricultural alignment density. These results suggest that planters in the SKFS prioritized factors other than soil fertility when making decisions about where to invest most intensively in constructing agricultural infrastructure.</jats:p>",
+      "authors": [
+        "Katherine Peck",
+        "Katherine Peck, Thomas Haensel, Noa Lincoln, Michael Graves",
+        "Michael Graves",
+        "Noa Lincoln",
+        "Thomas Haensel"
+      ],
+      "doi": "10.1002/gea.70074",
+      "id": "doi:10.1002/gea.70074",
+      "publication_date": "2026-09-30",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Geoarchaeology"
+      ],
+      "summary": "《夏威夷南科哈拉田野系统中的土壤养分与农业基础设施》：研究通过采样五种地质基质上的土壤，比较土壤pH值、生物可利用养分和总元素浓度与农业田块密度的关系，发现高农业设施密度与高土壤养分有效性关联不紧密，而养分最贫乏的样区农业设施密度最低，表明当地种植者在决定农业基础设施投入位置时优先考虑的因素并非土壤肥力。",
+      "title": "Soil Nutrients and Agricultural Infrastructure in the South Kohala Field System, South Kohala, Hawaiʻi",
+      "topics": [],
+      "url": "https://doi.org/10.1002/gea.70074",
+      "venue": "Geoarchaeology",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
