@@ -1,0 +1,284 @@
+{
+  "date": "2026-10-02",
+  "items": [
+    {
+      "abstract": "In this paper, we present new research results from the Bayuda Desert (Sudan) based on 2021–2022 surveys and excavations at two localities (BP424 and BP1316), complemented by sedimentological and luminescence dating results. At BP 424, a small lithic assemblage comprising 28 artefacts was discovered within a ceiling unit of disorganised gravel and sand. Optically Stimulated Luminescence (OSL) Dating results indicate that the layer is older than 59 ka. So far, this is only the second stratified site in the Bayuda Desert that dates back to the Pleistocene. This assemblage can be associated with the Middle Stone Age based on the presence of Levallois technology. The second site, BP 1316, located on the summit of the caldera known as Jebel Gheinab, is an example of a surface site heavily disturbed by aeolian processes, where numerous archaeological materials are scattered across the surface. What is more characteristic of these surface sites in the Sahara is that the phenomenon of cumulative palimpsest causes the mixing of technologically distinct elements that may relate to different episodes of settlement of the area. Technological analysis has shown that the material found here is primarily associated with the Middle Stone Age. The MSA sites discovered in the studied area are usually located directly on or in the immediate vicinity of the highest hills and high-quality raw material outcrops.",
+      "authors": [
+        "Grzegorz Michalec",
+        "Henryk Paner",
+        "Ju Yong Kim",
+        "Ju-Yong Kim",
+        "Mirosław Masojć",
+        "Patryk Muntowski",
+        "Piotr Moska",
+        "Stanislau Shtysik",
+        "Stanislau Shytsik"
+      ],
+      "doi": "10.1016/j.qeh.2026.100110",
+      "id": "doi:10.1016/j.qeh.2026.100110",
+      "publication_date": "2026-07-02",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《尼罗河之外：苏丹拜尤达沙漠距今超过5.9万年的地层与地表的中石器时代证据》：该研究基于2021至2022年在苏丹拜尤达沙漠两处地点的调查与发掘，结合沉积学与光释光测年，报道了BP424遗址出土的28件石器组合，测年显示其年代早于5.9万年前，并依据勒瓦娄哇技术将其归入中石器时代，同时分析了受风沙扰动的地表遗址BP1316。这是该沙漠迄今仅有的第二处更新世…",
+      "title": "Beyond the Nile: Stratified (&gt;59 ka) and surface Middle Stone Age evidence from the Bayuda Desert, Sudan",
+      "topics": [
+        "Levallois",
+        "luminescence dating",
+        "Middle Stone Age",
+        "OSL dating"
+      ],
+      "url": "https://doi.org/10.1016/j.qeh.2026.100110",
+      "venue": "Quaternary Environments and Humans",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Bone cylinders are a distinctive structure predominantly produced by durophagous carnivoran species during the consumption of long bones, in which the diaphyseal canal remains intact while both epiphyses are removed or consumed. This study evaluates the significance of this morphology, traditionally attributed to extant and extinct hyena species, as a valuable source of paleoecological and ethological information. Evidence suggests that their presence may also be associated with other carnivores influenced by ecological and behavioral factors. However, limited research has examined how external ecological factors such as competition, social behavior, or nutritional stress influence the bone modifications made by carnivores. Accordingly, the present paper not only reunites and assesses the data provided by bone cylinders but also reviews current taphonomic research, advocating for renewed interest in the discipline. By proposing technical and conceptual advancements related to bone cylinders, this study aims to refine interpretive methods and expand the methodological framework of zooarchaeology and taphonomy through the necessary integration of carnivore ethology.</jats:p>",
+      "authors": [
+        "Darío Herranz‐Rodrigo"
+      ],
+      "doi": "10.1002/oa.70167",
+      "id": "doi:10.1002/oa.70167",
+      "publication_date": "2026-10-01",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《谈谈骨圆柱体：食肉动物与人类的埋藏学》：论文重新评估了长骨被食肉动物啃食后形成的骨圆柱体结构，指出其不仅可能由鬣狗造成，也与其他食肉动物的生态和行为因素有关，并主张结合食肉动物行为学改进动物考古与埋藏学的解释方法，适合关注骨骼改造与古生态重建的研究者阅读。",
+      "title": "Let's Talk About Bone Cylinders. Taphonomy of Carnivores and Humans",
+      "topics": [
+        "bone modification",
+        "taphonomy",
+        "zooarchaeology"
+      ],
+      "url": "https://doi.org/10.1002/oa.70167",
+      "venue": "International Journal of Osteoarchaeology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Coalescent-based methods are widely used to infer population size histories, but existing analyses have limited resolution at deep time scales (&amp;gt;2 million years ago). Here, using new high-quality telomere-to-telomere genome assemblies, we extend the scope of such inference and reanalyze an ancient peak in human effective population size around 3–6 million years ago, showing that coalescent-based inference can reach much further into the past than previously thought. Furthermore, peaks at approximately the same time as in humans are also observed in chimpanzee and bonobo, but not in gorilla or orangutans. We show that this pattern is unlikely to be an artifact of model violations and discuss its potential implications for understanding hominin evolutionary history. It is known that such peaks can arise from ancestral genetic structure, and consequently we suggest that a parsimonious explanation for the contemporaneous peaks in humans, chimpanzees and bonobos would be a period of complex speciation before final separation of Homo from Pan, in contrast to a scenario where these lineages diverge cleanly from a panmictic common ancestor.</jats:p>",
+      "authors": [
+        "Regev Schweiger",
+        "Richard Durbin",
+        "Trevor Cousins"
+      ],
+      "doi": "10.1093/genetics/iyag271",
+      "id": "doi:10.1093/genetics/iyag271",
+      "publication_date": "2026-10-01",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《人亚科谱系的深度溯祖历史》：该研究利用新的高质量端粒到端粒基因组组装，将溯祖推断拓展至两百多万年前的深时尺度，重新分析人类有效种群规模在约三至六百万年前的古老峰值，并在黑猩猩和倭黑猩猩中观察到约同期峰值，而大猩猩与红毛猩猩没有，作者认为这难以用模型偏差解释，并提出人类与黑猩猩、倭黑猩猩的同期峰值可能源于人属与黑猩猩属最终分离前一段复杂的物种形成时期。",
+      "title": "Deep coalescent history of the hominin lineage",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://doi.org/10.1093/genetics/iyag271",
+      "venue": "GENETICS",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    The early evolutionary history of modern domestic horses (\n                    <jats:italic>\n                      <jats:styled-content style=\"fixed-case\">Equus caballus</jats:styled-content>\n                      /\n                      <jats:styled-content style=\"fixed-case\">Equus</jats:styled-content>\n                    </jats:italic>\n                    <jats:styled-content style=\"fixed-case\">\n                      <jats:italic>ferus caballus</jats:italic>\n                    </jats:styled-content>\n                    ), known as the DOM2 lineage, is well documented due to numerous archaeological and ancient DNA (aDNA) studies. Although many uncertainties remain in the domestication timeline, current evidence suggests that the domestication of modern horses began in the Pontic‐Caspian steppe at least ~2700 \n                    <jats:sc>bce</jats:sc>\n                    , or even earlier. However, it is not known how long remnant wild horse populations survived or when domestic horses were introduced into Northern Europe. In this study, we review the current knowledge of horse domestication, focusing on Northern Europe. We analyzed prehistoric horses from western Russia to assess the body sizes of wild horses from the Ivanovskaya site (5900–3800 \n                    <jats:sc>bce</jats:sc>\n                    ) in the Pontic‐Caspian steppe, and the body weight of one Lithuanian wild horse (4000–3800 \n                    <jats:sc>bce</jats:sc>\n                    ). Additionally, we analyzed body sizes of Late Bronze Age‐Early Roman Age horses (1100 \n                    <jats:sc>bce</jats:sc>\n                    –300 \n                    <jats:sc>ce</jats:sc>\n                    ) and reanalyzed body sizes and estimated rider weights of historic domestic horses from Lithuania (100–1400 \n                    <jats:sc>ce</jats:sc>\n                    ). We searched for pathological changes and signs of bit wear indicative of bridling. Furthermore, we investigated maternal genetic diversity by sequencing ancient mitochondrial DNA. We found that wild horses from Ivanovskaya were intermediate in body size between earlier and more recent horses of the Eurasian Steppe, and that the Lithuanian wild horse weighed only ~270 kg and Late Bronze Age‐Early Roman Age horses 200–300 kg. Lithuanian domestic horses were pony‐sized (&lt; 130 cm on average). Potential bit wear was confirmed by an equine veterinarian in one Lithuanian horse tooth dated to 799–570 cal \n                    <jats:sc>bce</jats:sc>\n                    . Another tooth showed signs of the Equine Odontoclastic Tooth Resorption and Hypercementosis (EOTRH) condition. Mitochondrial DNA was successfully amplified from one Ivanovskaya wild horse along with 25 other ancient samples, including Lithuania's oldest domestic horse. mtDNA diversity was high, revealing several maternal lineages.\n                  </jats:p>",
+      "authors": [
+        "Arthur Askeyev",
+        "Arthur O. Askeyev",
+        "Daniela Salazar",
+        "Dilyara N. Shaymuratova",
+        "Giedrė Piličiauskienė",
+        "Gulshat Sh. Asylgaraeva",
+        "Igor Askeyev",
+        "Igor V. Askeyev",
+        "Johanna Honka",
+        "Jouni Aspi",
+        "Jouni O. Aspi",
+        "Kristiina Mannermaa",
+        "Laura Kvist",
+        "Markku Niskanen",
+        "Noora Piipponen",
+        "Oleg Askeyev",
+        "Oleg V. Askeyev",
+        "Renat R. Valiev",
+        "Suvi Olli",
+        "Ренат Рафаилович Валиев"
+      ],
+      "doi": "10.1002/oa.70172",
+      "id": "doi:10.1002/oa.70172",
+      "publication_date": "2026-09-28",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《东波罗的海地区与俄罗斯西部古代马匹的体型、牙齿病理及母系遗传多样性》：研究分析了俄罗斯西部与立陶宛史前及历史时期马匹的体型、体重、牙齿病理与骑乘痕迹，并测序古线粒体DNA以考察母系遗传多样性，发现伊万诺夫斯科耶野马体型居中、立陶宛家马多为矮小型，且母系多样性较高，适合关注马匹驯化与古DNA的读者。",
+      "title": "Body Size, Dental Pathology, and Maternal Genetic Diversity of Ancient Horses in the Eastern Baltic Sea Region and Western Russia",
+      "topics": [
+        "ancient DNA"
+      ],
+      "url": "https://doi.org/10.1002/oa.70172",
+      "venue": "International Journal of Osteoarchaeology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "The evolution of habitual bipedalism was a defining milestone in human history, yet fossil evidence indicates substantial variation in how bipedality was practiced. Trabecular bone, which responds throughout life to joint loading and orientation, offers a powerful way to investigate these differences. Interpreting variation in fossil hominins, however, requires a reliable baseline of intraspecific variation in modern humans, accounting for differences in lifestyle, mobility, and habitual behaviors. Many modern skeletal collections derive from postindustrial populations whose activity patterns, footwear use, and health profiles differ markedly from past populations, potentially biasing interpretations. Thus, habitually shod, postindustrial humans may not be the best proxy for the loading environments experienced by early hominins, whereas unshod individuals provide a closer approximation of barefoot locomotion. To explore the effects of footwear on internal bone structure, we examined trabecular architecture in the talus of habitually shod (N = 40) modern humans (Homo sapiens) from recent donation-based skeletal collections and habitually unshod (N = 16) individuals from the Andaman Island, Khoisan, and Aka populations, representing diverse ecological and subsistence contexts, using high-resolution micro-computed tomographic scans. Trabecular parameters-including bone volume fraction (BV/TV), relative BV/TV (rBV/TV), trabecular thickness (Tb.Th), separation (Tb.Sp), number (Tb.N), and degree of anisotropy (DA)-were quantified using canonical holistic morphometric analysis (cHMA). Shod individuals exhibited higher mean BV/TV and greater variability in BV/TV, suggesting that the talus remains heavily loaded due to its central role in weight bearing during bipedal gait, and that different types of footwear create variable force distributions across the ankle. The spatial distribution of rBV/TV revealed further differences between the groups: shod individuals showed higher rBV/TV in the medial and posterior talus, consistent with more dorsiflexed and medially loaded ankle postures, whereas unshod individuals had elevated rBV/TV in the talar head and neck, potentially reflecting loading associated to squatting or climbing. Shod individuals also exhibited higher mean DA indicating more strongly organized and directionally constrained trabeculae. Mean BV/TV was likewise higher in the shod group and primarily driven by greater trabecular thickness, as trabecular separation and number were broadly similar between groups, suggesting loading differences associated with footwear primarily influence BV/TV and trabecular anisotropy. By establishing clear patterns of trabecular variation between shod and unshod modern humans, this study provides a robust comparative framework for interpreting locomotor behavior in fossil hominins, while highlighting the need to further disentangle the effects of footwear from differences in body size, stature, subsistence strategy, and other aspects of lifestyle among human populations. Recognizing how habitual behavior influences internal bone architecture is essential for reconstructing past movement patterns and understanding the evolutionary pathways of bipedalism.",
+      "authors": [
+        "H. Farrell",
+        "A. ; https://orcid.org/0009-0001-9843-336X Lukova",
+        "S. Bachmann",
+        "K. Spriggs",
+        "A. Synek",
+        "D. H. Pahr",
+        "Z. Tsegai"
+      ],
+      "doi": "",
+      "id": "openalex:w7213849061",
+      "publication_date": "2026-09-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《鞋履对人类距骨小梁结构的影响》：研究比较习惯穿鞋与习惯赤足现代人群的距骨小梁结构，发现穿鞋者骨体积分数更高、各向异性更强，赤足者距骨头颈部相对骨体积分数更高，为解读化石人类运动行为提供了对比框架，适合关注人类演化与骨骼功能形态的读者阅读。",
+      "title": "The impact of footwear on human talar trabecular architecture (advance online)",
+      "topics": [
+        "hominin",
+        "subsistence"
+      ],
+      "url": "https://hdl.handle.net/21.11116/0000-0013-92BA-4",
+      "venue": "MPG.PuRe (Max Planck Society)",
+      "work_type": "article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:79e098d598e5e926fc689e507515cff3a7cec04f444a4e6fb64718c49bdcc5c1",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《穆维拉铁器时代遗址的考古软体动物学：埋藏学与生计评估》：该研究以穆维拉铁器时代遗址的软体动物遗存为对象，从埋藏学角度评估其生计意义，适合关注铁器时代遗址动物遗存、埋藏过程与生计分析的读者阅读。",
+      "title": "Archaeomalacology of the Iron Age Site of Muweilah: Taphonomy and Sustenance Assessment",
+      "topics": [
+        "taphonomy"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://bibliographie.uni-tuebingen.de/xmlui/bitstream/handle/10900/183400/MuellerGarcia_Dissertation_Muweilah_2026.pdf%3Fsequence%3D1&hl=zh-CN&sa=X&d=1199610168685953483&ei=CQK-auyMGcK-ieoPsZbG4QY&scisig=ACTRDVHi-HBpxRV6XVhJJ4Tj_Rk3&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=2&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:b4e1384106e251de9973be4e564e4d8ba6978db0a0e28bc57fde1b6526ad4b47",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《牙齿形态对擦音[s]气动声学产生的影响：尼安德特人与现代人牙列的数值模拟比较》：研究通过数值模拟比较尼安德特人与现代人牙列，考察牙齿形态如何影响擦音[s]的气动声学产生，适合关注尼安德特人发音能力、牙形态与语音演化关系的读者阅读。",
+      "title": "Impact of Dental Morphology on the Aeroacoustic Production of the Fricative [s]: A Numerical Study Comparing Neanderthal and Modern Human Dentition",
+      "topics": [
+        "dental morphology",
+        "Neanderthal"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://hal.science/hal-05748922/&hl=zh-CN&sa=X&d=13615893472841802707&ei=CAK-apy2PN2qieoP6eCv-AY&scisig=ACTRDVHEW3H4_62WJAtJ1IO9WA3Z&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=8&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:cdb296ea9a2940c63ceadbb9ec9d39c8fd4cbc5a218ec5471f7e2c085e1f396d",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《尼安德特人世界的开端：探索海洋同位素阶段12、11和10的生态位动态与技术变异性》：该研究考察这三个阶段中尼安德特人的生态位动态与技术变异性，有助于理解其早期演化与环境适应。",
+      "title": "The onset of the Neanderthal world: Exploring ecological niche dynamics and technological variability across Marine Isotope Stages 12, 11 and 10",
+      "topics": [
+        "Neanderthal"
+      ],
+      "url": "https://www.researchsquare.com/article/rs-10930377/latest.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:25c8857cbd767f985e0f18d2838692cdb5612af1831912b4f3b228625b495379",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《穆韦拉铁器时代遗址的考古贝类学（阿联酋）：主要食物来源的环境来源与埋藏路径》：该研究考察穆韦拉遗址出土贝类遗存，分析其环境来源与埋藏过程，揭示贝类作为主要食物来源的利用方式，适合关注铁器时代阿拉伯半岛生计与遗址形成过程的读者阅读。",
+      "title": "3. Archaeomalacology of an Iron Age Site of Muweilah (United Arab Emirates): Environmental Provenance and Taphonomic Pathways of a Major Food Source",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://bibliographie.uni-tuebingen.de/xmlui/bitstream/handle/10900/183400/MuellerGarcia_Dissertation_Muweilah_2026.pdf%3Fsequence%3D1%23page%3D55&hl=zh-CN&sa=X&d=2515433677971005997&ei=CQK-auyMGcK-ieoPsZbG4QY&scisig=ACTRDVHX4QXKdDeypQeKNEWy3p_b&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=1&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:30baa686d26b3eba05f7df97b001441ca6b74548089fd320fe6a0b8e7cde1349",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《搅拌与搅乳作为保存过剩牛奶产量及将盈余转化为乳制品的一种解决方案：来自南黎凡特铜石并用时代晚期的案例研究》：该研究以南黎凡特铜石并用时代晚期为案例，探讨搅拌与搅乳如何被用作保存过剩牛奶产量并将盈余转化为乳制品的方式，适合关注古代乳制品加工与食物保存策略的读者阅读。",
+      "title": "Churns and Churning as a Solution for Preserving Excess Milk Yields and Surplus as Dairy Products: A Case Study from the Late Chalcolithic of the Southern Levant",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://link.springer.com/article/10.1007/s10814-026-09231-6&hl=zh-CN&sa=X&d=13258975071312273695&ei=CAK-apy2PN2qieoP6eCv-AY&scisig=ACTRDVHm9h6Zs-cKxU9yb1AKdUa2&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=2&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:b1bc7ff5bb1dfa1bbb01322eb0815204af584d5ddb484cedf17df0c4dabc590e",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《从射弹点几何到人类的认知—情感过程：来自伊朗旧石器时代石制尖状器的证据》：研究以伊朗旧石器时代石制尖状器为材料，探讨射弹点几何与人类认知—情感过程之间的关系，适合关注旧石器考古、石器形态与认知演化交叉研究的读者阅读。",
+      "title": "From Projectile-Point Geometry to Cognitive–Affective Processes in Homo: Evidence from Paleolithic Lithic Points in Iran",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.researchsquare.com/article/rs-10215584/latest.pdf&hl=zh-CN&sa=X&d=12801966621766642437&ei=CAK-apy2PN2qieoP6eCv-AY&scisig=ACTRDVEoviOUOhw7raHRFUMFsFb5&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=4&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:99d64e7c8a8a14ab55c12f63f491f21832730f741b9e0a683cf8c7608e82ee80",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《混合往昔：解读阿根廷干旱潘帕斯草原的考古-古生物叠压层（拉潘帕省石屋1号遗址）》：该研究考察阿根廷干旱潘帕斯草原石屋1号遗址中考古遗存与古生物遗存相互叠压的复杂地层，尝试厘清不同来源材料的混合过程与形成历史，适合关注南美草原考古、遗址形成过程及考古-古生物交叉研究的读者阅读。",
+      "title": "Mixing the Past: Unraveling the Archaeological-Paleontological Palimpsest at Argentinean Dry Pampa (Casa De Piedra 1, La Pampa Province)",
+      "topics": [],
+      "url": "https://www.preprints.org/frontend/manuscript/23d3dc4b1d1949d323d69ee1487ca2f9/download_pub",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:72f180c788c21e7393f5c7465958561129730a82e0459313f5049b279309d5a0",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《珠子在吸引力与地位感知中的作用》：该研究探讨珠子如何影响他人对吸引力和地位的判断，适合关注社会认知、装饰符号与身份信号的研究者阅读。",
+      "title": "The Role of Beads in Attractiveness and Status Perception",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.jecs.pl/index.php/jecs/article/view/1966&hl=zh-CN&sa=X&d=9163883960957786835&ei=CQK-auyMGcK-ieoPsZbG4QY&scisig=ACTRDVG-M7T7T2j56maV9AhYBNFZ&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=0&folt=cit",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
