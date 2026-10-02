@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-03",
+  "items": [
+    {
+      "abstract": "<jats:p>\n                    The ‘Out of Africa’ model that has dominated palaeoanthropology for nearly three decades was originally based on five elements: a recent ancestry to human populations; an African origin for the ancestral population; limited or no gene flow among archaic hominins and no admixture between modern humans and Neanderthals; a marked difference between the behaviour of modern humans and archaic populations; and a major role for dispersals. The first four of these have been significantly modified by accumulating fossil, genomic, and archaeological data. Dispersals, however, have remained central to the model, and have been extended to earlier phases of the evolution of\n                    <jats:italic>Homo</jats:italic>\n                    . Here we consider the evidence for dispersals in Pleistocene hominin evolution, and place these into the broader context of comparative evolutionary biology. We distinguish between dispersals that are essentially habitat tracking as climate or environment changes, and those conditioned by adaptive changes. Finally, we consider the consequences of dispersals for the structure of hominin populations, emphasizing the multiple potential outcomes of dispersals, the role of density dependence in structuring rates of divergence, and the role of centre‐edge models in understanding hominin diversity.\n                  </jats:p>",
+      "authors": [
+        "Marta Mirazón Lahr",
+        "Robert A. Foley"
+      ],
+      "doi": "10.1111/1467-9655.70215",
+      "id": "doi:10.1111/1467-9655.70215",
+      "publication_date": "2026-10-01",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《人族扩散：原因、条件与结果》：该文重新审视更新世人族演化中的扩散证据，区分随气候或环境变化发生的栖息地追踪型扩散与由适应性变化驱动的扩散，并讨论扩散对人族种群结构的影响，强调扩散的多种可能结果、密度依赖在分化速率中的作用以及中心—边缘模型对理解人族多样性的意义。",
+      "title": "Hominin dispersals: causes, conditions, and outcomes",
+      "topics": [
+        "hominin",
+        "hominin dispersal",
+        "Neanderthal"
+      ],
+      "url": "https://doi.org/10.1111/1467-9655.70215",
+      "venue": "Journal of the Royal Anthropological Institute",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "International audience",
+      "authors": [
+        "Jérémy Duveau",
+        "Erica Piccirilli",
+        "Christian A. Tryon",
+        "Emma Mbua",
+        "Katerina Harvati"
+      ],
+      "doi": "",
+      "id": "openalex:w7215299279",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《来自卡普图林组（中更新世，肯尼亚巴林戈）的早期人亚科第一跖骨》：该研究对肯尼亚巴林戈卡普图林组出土的中更新世早期人亚科第一跖骨进行描述与分析，作者包括Jérémy Duveau、Erica Piccirilli、Christian A. Tryon、Emma Mbua与Katerina Harvati，刊于HAL。适合关注人类演化与中更新世化石形态的读者…",
+      "title": "The hominin first metatarsal from the Kapthurin Formation (Middle Pleistocene, Baringo, Kenya)",
+      "topics": [
+        "hominin",
+        "Middle Pleistocene"
+      ],
+      "url": "https://hal.science/hal-05768898",
+      "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "work_type": "conference-paper"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Eduardo Méndez-Quintas",
+        "Manuel Santonja",
+        "Alfredo Pérez-González"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110242",
+      "id": "doi:10.1016/j.quascirev.2026.110242",
+      "publication_date": "2026-10-02",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《对García-Vadillo等人（2026）关于欧洲首个大型石片阿舍利文化——雷维列哈·德·瓦尔帕莱索遗址的评论》：该文围绕西班牙该遗址是否代表欧洲最早的大型石片阿舍利工业展开学术商榷，涉及年代、石器组合与技术特征等关键争议，适合关注早期人类迁徙与技术演化的研究者阅读。",
+      "title": "Comment to García-Vadillo et al. (2026) on the first Large Flake Acheulean in Europe at Revilleja de Valparaíso site",
+      "topics": [
+        "Acheulean"
+      ],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110242",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Suzanne E. Pilaar Birch"
+      ],
+      "doi": "10.5913/10.5913/2026412.08",
+      "id": "doi:10.5913/10.5913/2026412.08",
+      "publication_date": "2026-10-01",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《遗留收藏与遗留数据：动物考古学稳定同位素分析中研究设计与样本管理的最佳实践》：该文探讨如何利用旧有收藏与数据开展稳定同位素研究，并提出研究设计与样本管理的最佳实践，适合关注动物考古学与稳定同位素方法的读者参考。",
+      "title": "Legacy Collections and Legacy Data: Best Practices for Research Design and Sample Curation in Stable Isotope Analysis in Zooarchaeology",
+      "topics": [
+        "stable isotope",
+        "zooarchaeology"
+      ],
+      "url": "https://doi.org/10.5913/10.5913/2026412.08",
+      "venue": "Zooarchaeology",
+      "work_type": "book_chapter"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Sarah Whitcher Kansa"
+      ],
+      "doi": "10.5913/10.5913/2026412.09",
+      "id": "doi:10.5913/10.5913/2026412.09",
+      "publication_date": "2026-10-01",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《动物考古学中的数字数据管理：连接个体与社区实践》：该文探讨动物考古学领域数字数据管理如何衔接个人实践与社区实践，值得关注数据共享与协作研究的人阅读。",
+      "title": "Digital Data Stewardship in Zooarchaeology: Bridging Individual and Community Practices",
+      "topics": [
+        "zooarchaeology"
+      ],
+      "url": "https://doi.org/10.5913/10.5913/2026412.09",
+      "venue": "Zooarchaeology",
+      "work_type": "book_chapter"
+    }
+  ],
+  "schema_version": 1
+}
