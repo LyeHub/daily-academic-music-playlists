@@ -1,0 +1,557 @@
+{
+  "date": "2026-10-04",
+  "items": [
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:sec>\n                    <jats:title>Objectives</jats:title>\n                    <jats:p>This study investigates the environmental contexts that influenced the evolution of hominin foot morphology, focusing on when, where, and under what conditions key synapomorphies evolved. We test whether shifts in ecological conditions are associated with changes in locomotor function.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>We used phylogenetic and biogeographical analyses with paleoenvironmental data to evaluate the relationships between foot morphology and environmental context. Phylogenetic trees were inferred using the fossilized birth‐death model and time‐calibrated. Multiple topologies were used to explore alternative evolutionary hypotheses. Historical biogeography was reconstructed using BioGeoBEARS. Finally, environmental conditions at key ancestral nodes were inferred by linking reconstructed geographical regions with paleoenvironmental proxies.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      The results suggest that the origin of bipedalism likely occurred during intervals of increasing aridity. Later in hominin evolution, wetter environments became more important, and most derived traits evolved during wet or mixed environments. The last common ancestors (LCA) of most\n                      <jats:italic>Australopithecus</jats:italic>\n                      and\n                      <jats:italic>Paranthropus</jats:italic>\n                      species likely lived in wetter environments, and the LCA of Homo lived in both dry and wet environments. Across all trees, an average of 5.3 synapomorphies evolved in wet environments, 5.0 in dry and wet environments, and 4.3 in mixed environments. The results suggest that a considerable number of foot synapomorphies evolved during periods of ecological transition.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Ecological flexibility seems to be significant in hominin foot evolution, enabling synapomorphies to persist as hominins faced different environmental conditions. These findings illustrate how environments influenced the evolution of key adaptations in hominins.</jats:p>\n                  </jats:sec>",
+      "authors": [
+        "David Strait",
+        "Thomas Cody Prang",
+        "Yeganeh Sekhavati",
+        "Yeganeh Sekhavati, Thomas Cody Prang, David Strait"
+      ],
+      "doi": "10.1002/ajpa.70340",
+      "id": "doi:10.1002/ajpa.70340",
+      "publication_date": "2026-10-02",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:American Journal of Biological Anthropology"
+      ],
+      "summary": "《人亚科足部演化的环境背景》：该研究用系统发育与生物地理学分析结合古环境数据，检验生态条件变化是否与运动功能改变相关，发现双足行走起源可能出现在干旱加剧时期，而多数衍生特征演化于湿润或混合环境，生态灵活性在人亚科足部演化中作用显著，值得关注。",
+      "title": "Environmental Context of Hominin Foot Evolution",
+      "topics": [
+        "hominin",
+        "paleoenvironment"
+      ],
+      "url": "https://doi.org/10.1002/ajpa.70340",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Since its publication in 2021, the discovery of hominin hand- and footprints at the Quesang site on the Central Tibetan Plateau has attracted widespread attention and sparked intensive discussion within the archaeological community. The site preserves evidence of human activity from both the Middle Pleistocene and the Early-to-Middle Holocene, which serves as a critical milestone for understanding how humans expanded into and permanently occupied high-altitude extreme environments. Given the ongoing controversies regarding the chronology of the Quesang prints, this study presents a systematic review of the formation mechanisms of thermogenic travertine and its associated geochronological methodologies applicable to such deposits. Furthermore, we conducted a series of supplementary experiments to rigorously address and evaluate the major concerns raised regarding the reliability of previous age determinations. Our results demonstrate that the U-Th ages obtained from the Quesang travertine are robust and reliable, and are fully consistent with the available geochemical, petrographic and stratigraphic evidence. These findings provide strong support for the established chronology of the Quesang hand- and footprints and reinforce their significance for understanding early human occupation of the Tibetan Plateau.",
+      "authors": [
+        "Yuhai Gao",
+        "Haiwei Zhang",
+        "David D. Zhang",
+        "Leibin Wang",
+        "Shengda Zhang",
+        "Teng Li",
+        "Raorao Su",
+        "Qing Pei",
+        "Fahu Chen",
+        "Hai Cheng"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110284",
+      "id": "doi:10.1016/j.quascirev.2026.110284",
+      "publication_date": "2026-09-16",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《重新评估曲桑手印和脚印铀钍测年的可靠性》：系统梳理热成因钙华的形成机制与适用定年方法，并补充实验回应此前对测年可靠性的质疑，结果表明铀钍年龄稳健可靠，与地球化学、岩相学和地层学证据一致，适合关注青藏高原早期人类活动年代争议的读者。",
+      "title": "Reassessing the reliability of U-Th dating for the Quesang hand- and footprints",
+      "topics": [
+        "hominin",
+        "Middle Pleistocene"
+      ],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110284",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Southern South Africa houses some key archaeological sites, which document the behavioural and technological development of Homo sapiens . During Marine Isotope Stages (MIS) 5 and 4, this region experienced marked climate variability, particularly in temperature and precipitation. Therefore, this study advances on the region's past climate reconstructions to provide an environmental context for the archaeological findings. Radiogenic strontium (Sr) and neodymium (Nd) isotope, grain size and X-ray fluorescence (XRF) core scanning records from marine sediment core MD20-3591, located offshore the Palaeo-Agulhas Plain (PAP), southern Africa, document changes in sediment provenance between 90 and 50 ka, an interval within the Middle Stone Age period (MSA; 300 - 40 ka). The Nd isotope record reflects a combination of alternating riverine material from South African sources and that transported southwards by the Agulhas Current. Shifts in river discharge from the northern Limpopo to the southern South African endmembers likely resulted from local insolation changes, which caused latitudinal shifts in the Intertropical Convergence Zone (ITCZ). The Sr isotopes highlight additional contributions from southern South African sources on shorter timescales, reflecting local hydroclimate sensitivity. The XRF and Nd isotope record, together with climate model results, indicate an increased sediment contribution from the Limpopo River catchment during Southern Hemisphere (SH) summer insolation maxima, likely driven by southward shifts in the subtropical rain belts leading to increased runoff from this basin. Conversely, during SH summer insolation minima, sediment supply from the Limpopo River decreases. During MIS 4 (71-57 ka), a consistent pattern emerges of greater local South African sediment input at marine sediment core site MD20-3591, with coarser sediments likely being sourced from Southern Cape rivers due to a reduced distance from the palaeoshoreline at the sea-level low-stand, and enhanced sediment availability from the exposed continental shelf. This study is of interest for the regional anthropological record, as pulses of technological innovation may have been linked to fluctuations in hydroclimate and in exposure of the PAP, including the elaboration of complex toolkits and subsistence strategies by Homo sapiens .",
+      "authors": [
+        "E.J. Pryor",
+        "M.H. Simon",
+        "J.J.L. van der Lubbe",
+        "M. Andersen",
+        "Asia V. Alsgaard",
+        "O.M. Göktürk",
+        "Marzena Cendrowska",
+        "Antoine Muller",
+        "Karl Guy Roméo Purcell",
+        "Sophie M. Slater",
+        "A. Starr",
+        "I. R. Hall"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110202",
+      "id": "doi:10.1016/j.quascirev.2026.110202",
+      "publication_date": "2026-08-18",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《中石器时代（距今9万至5万年）南非南部海岸线变迁与水文气候变化：来自沉积物物源的启示》：研究利用南非南部古阿古拉斯平原外海沉积岩芯的锶钕同位素、粒度和X射线荧光记录，重建距今9万至5万年间沉积物来源变化，揭示当地河流径流与水文气候对热带辐合带和副热带雨带纬度移动的响应，并探讨其与中石器时代人类技术革新和生计策略的可能联系，为理解古人类行为演变的环境背景提…",
+      "title": "Shifting shorelines and hydroclimate changes in southern South Africa: Insights from sediment provenance during the Middle Stone Age (90-50 ka)",
+      "topics": [
+        "Middle Stone Age",
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110202",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Angeliki Théodoropoulou",
+        "Christophe Falguères",
+        "Gilles Courcimault",
+        "Hélène Tissoux",
+        "Jackie Despriée",
+        "Jean-Jacques Bahain",
+        "Jean‐Jacques Bahain",
+        "Marie-Hélène Moncel",
+        "Marie‐Hélène Moncel",
+        "Pierre Voinchet"
+      ],
+      "doi": "10.1016/j.anthro.2026.103472",
+      "id": "doi:10.1016/j.anthro.2026.103472",
+      "publication_date": "2026-07-01",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《中卢瓦尔盆地早中更新世（距今120万至40万年）人亚科存在的证据：法国中央-卢瓦尔河谷地区主要奥杜韦（模式1）与阿舍利遗址》：该研究梳理了该地区早期人类活动遗址的分布与年代，为理解欧洲早期人类定居与技术演变提供关键线索，适合关注旧石器考古与人类起源的读者阅读。",
+      "title": "Des témoins de la présence d’homininés dans le bassin de la Loire moyenne au Pléistocène inférieur et moyen (1,2 ma–400 ka). Les principaux sites oldowayens (Mode 1) et acheuléens en région Centre-Val de Loire (France)",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://doi.org/10.1016/j.anthro.2026.103472",
+      "venue": "L Anthropologie",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Alex J. Pelissero",
+        "April M. Tolley",
+        "April Tolley",
+        "Emily R. Orlikoff",
+        "Erin Gniewek",
+        "Isabell Osborne",
+        "Matthew V. Muttart",
+        "Merve Gümrükçü Uslu",
+        "Michael C. Pante",
+        "Salvatore D. Capaldo",
+        "Tewabe Negash",
+        "Trevor L. Keevil"
+      ],
+      "doi": "10.1016/j.jhevol.2026.103876",
+      "id": "doi:10.1016/j.jhevol.2026.103876",
+      "publication_date": "2026-08-11",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《埋藏学过程建模用实验生成骨骼表面改造开源数据库》：该研究构建了实验生成的骨骼表面改造开源数据库，用于埋藏学过程建模，值得考古学与古生物学研究者参考。",
+      "title": "TaphoSource: An open-source database of experimentally generated bone surface modifications for modeling taphonomic processes",
+      "topics": [
+        "bone surface modification"
+      ],
+      "url": "https://doi.org/10.1016/j.jhevol.2026.103876",
+      "venue": "Journal of Human Evolution",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "The discovery of Homo floresiensis at Liang Bua Cave, Flores Island, in 2003 stands as one of the most revolutionary breakthroughs in twenty-first-century paleoanthropology. This small-bodied hominin species sparked global scientific debate regarding both its species validity and the possibility of pathological conditions in the discovered individual. This study aims to analyze the development of paleoanthropological interpretations of Homo floresiensis at the Liang Bua and Mata Menge sites during the period 2016–2026. A qualitative method with a descriptive-analytical literature review approach was applied to relevant international scientific publications. The results show that redating of the Liang Bua site revised the age of H. floresiensis skeletal remains to 100,000–60,000 years ago, eliminating the possibility of significant interaction with Homo sapiens. Fossil discoveries at Mata Menge, dated to approximately 700,000 years ago, confirmed that small body size was already present long before the Liang Bua period, strengthening the insular dwarfism hypothesis derived from Homo erectus ancestry. Various phylogenetic studies rejected all pathological hypotheses and affirmed H. floresiensis as a valid hominin species. Its extinction approximately 50,000–60,000 years ago was multifactorial, involving climatic changes in the form of seasonal aridification and possible demographic pressure from the arrival of Homo sapiens. This study concludes that Homo floresiensis represents compelling evidence of the complexity of hominin evolution and dispersal in Southeast Asia.",
+      "authors": [
+        "Candra Agustin",
+        "Sahla Nabillah",
+        "Siti Zahra Indah Permata"
+      ],
+      "doi": "10.7454/multikultura.v5i3.1241",
+      "id": "doi:10.7454/multikultura.v5i3.1241",
+      "publication_date": "2026-07-30",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《梁布亚与马塔门格弗洛勒斯人古人类学研究（2016—2026）》：梳理这十年间对弗洛勒斯人的古人类学解读演变，涉及梁布亚遗址测年修正、马塔门格化石发现及系统发育研究对病理假说的否定，适合关注东南亚人类演化与岛屿侏儒化假说的读者。",
+      "title": "KAJIAN PALEOANTROPOLOGI HOMO FLORESIENSIS DI LIANG BUA DAN MATA MENGE TAHUN 2016-2026",
+      "topics": [
+        "hominin",
+        "Homo erectus"
+      ],
+      "url": "https://doi.org/10.7454/multikultura.v5i3.1241",
+      "venue": "MULTIKULTURA",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Micromammal assemblages offer valuable insights into local palaeoenvironmental conditions and contribute to refining biochronological frameworks in the Cradle of Humankind (CoH), South Africa. This study presents the taxonomic, taphonomic, and palaeoecological analysis of micromammalian remains recovered from newly excavated in situ deposits at the Gondolin GD2 locality. A total of 372 cranio-dental elements representing at least 124 individuals were identified, comprising 19 taxa across five mammalian orders. Rodents dominate the assemblage (≈78% of MNI), with Mystromys and Otomys being the most abundant genera, accompanied by representatives of Muridae, Nesomyidae, Bathyergidae, and Gliridae. Other mammalian orders are represented by Macroscelididae (Macroscelidea), Soricidae (Eulipotyphla), Chiroptera, and Chrysochloridae (Afrosoricida). Taphonomic analyses reveal high fragmentation rates and pervasive manganese coatings, but a very low frequency and weak intensity of digestive etching on incisors. These patterns closely match modern barn owl (Tyto alba) assemblages, indicating accumulation primarily by a Category 1 nocturnal raptor. This accumulation mode appears consistent with other CoH micromammal assemblages, strengthening the reliability of inter-site faunal comparisons. Faunal composition indicates a landscape dominated by grassland and open savanna habitats, with localised wet or riverine environments suggested by the occurrence of Dasymys. Overall taxonomic similarities with other regional assemblages support a degree of ecological stability in the CoH during the Early Pleistocene. This assemblage provides a new data point for understanding micromammal palaeobiodiversity, site formation processes, and palaeoenvironmental dynamics in southern Africa.",
+      "authors": [
+        "Aurore Val",
+        "Christiane Denys",
+        "Christine M. Steininger",
+        "Christine Steininger",
+        "Dominic Stratford",
+        "Job M. Kibii",
+        "Job Munube Kibii",
+        "Pierre Linchamps"
+      ],
+      "doi": "10.1080/08912963.2026.2723511",
+      "id": "doi:10.1080/08912963.2026.2723511",
+      "publication_date": "2026-10-01",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《南非贡多林GD2遗址（早更新世）的化石微哺乳动物》：研究对贡多林GD2新发掘原位堆积中的微哺乳动物遗存进行了分类、埋藏与古生态分析，共鉴定372件颅齿材料、至少124个个体、19个分类单元，埋藏特征与仓鸮聚集模式吻合，动物组合指示以草原和开阔稀树草原为主、局部存在湿地或河流环境。该研究为理解南非早期更新世微哺乳动物古生物多样性、遗址形成过程及古环境动态提…",
+      "title": "Fossil micromammals from Gondolin GD2 (Early Pleistocene, South Africa)",
+      "topics": [
+        "palaeoenvironment",
+        "site formation"
+      ],
+      "url": "https://doi.org/10.1080/08912963.2026.2723511",
+      "venue": "Historical Biology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Svenja Schray, Nicholas J. Conard",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:0e6137adaa759c2f01858074fe76c6e51c8a1fbdfcab791d41c2df4301595f41",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Journal of Archaeological Science: Reports",
+        "scholar_email"
+      ],
+      "summary": "《利用石器拼合评估德国西南部盖森克勒斯特勒洞穴奥瑞纳文化的年代地层》：该研究通过石器拼合方法检验该洞穴奥瑞纳文化遗存的年代地层序列，适合关注旧石器时代考古与地层学研究的读者参考。",
+      "title": "Using lithic refits to assess the chronostratigraphy of the Aurignacian at Geißenklösterle Cave, SW Germany",
+      "topics": [
+        "stratigraphy"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005225?dgcid=rss_sd_all",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Territories, defined here as areas of prehistoric resource acquisition, are difficult to identify in the remote past, particularly for the African Middle Stone Age (MSA) where assemblages are dominated by lithics. This study aims to (a) introduce a new protocol for the identification of territories in the archaeological record, and (b) using this protocol, investigate whether territories were present in the Middle Kalahari during the later MSA. We achieve this through a comparison of silcrete procurement patterns and provisioning strategies across eight excavated sites in northwest and central Botswana. Applying a mathematical approach to geochemical data (verified through petrography) shows that silcrete was moved c.220 km to Rhino Cave, c.210 km to ≠Gi and c.45 km to White Paintings Shelter in northwest Botswana during the later MSA. This contrasts with distances of <55 km for five later MSA sites on Ntwetwe Pan in the Makgadikgadi Basin. Reconstructed zones of silcrete procurement for the two regions do not overlap. Targeted chaîne opératoire analyses identify distinct approaches to silcrete provisioning: specific forms of long-distance acquisition and some direct procurement at the sites in northwest Botswana and an expanded version of local acquisition on Ntwetwe Pan. Silcrete movement has previously been constrained to c.82–67 ka and/or c.58–56 ka for the sites on Ntwetwe Pan. Bayesian age-depth modelling for securely provenanced artefacts from ≠Gi and White Paintings Shelter suggests that silcrete was moved to these sites during the earlier of these periods. The silcrete acquisition strategies we identify were therefore likely coeval across our sites and continued at c.58–56 ka for selected sites on Ntwetwe Pan. From this evidence, we propose that at least two spatially non-overlapping territories may have existed in the Middle Kalahari during the later MSA. Rhino Cave and ≠Gi were potentially part of one expansive territory, with populations sharing silcrete sources around Lake Ngami. White Paintings Shelter may have been part of this territory or could represent a smaller range within this territory. The sites on Ntwetwe Pan either formed part of a second smaller territory, or the western limit of a larger territory. Differences in silcrete types present at other recorded MSA sites in the Middle Kalahari support these interpretations. Our proposal can be viewed as a working hypothesis to guide future research in the Middle Kalahari.",
+      "authors": [
+        "Nash, David; id_orcid 0000-0002-7641-5857",
+        "Jake Ciborowski",
+        "Sheila D. Coulson",
+        "Sallie L. Burrough",
+        "Sarah Mothulatshipi",
+        "David C. Thomas"
+      ],
+      "doi": "",
+      "id": "openalex:w7140251610",
+      "publication_date": "2026-08-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《领土的痕迹？硅结岩获取策略与行为证据表明博茨瓦纳中卡拉哈里在中石器时代晚期存在领土》：该研究提出识别考古领土的新方法，通过对比博茨瓦纳西北部与中部八处遗址的硅结岩获取模式，发现两地获取区域不重叠，据此推测中石器时代晚期可能存在至少两个空间上互不重叠的领土，为未来中卡拉哈里研究提供了可检验的工作假设。",
+      "title": "Traces of territories? Silcrete procurement strategies and behavioural evidence suggest the presence of territories in the Middle Kalahari, Botswana, during the later Middle Stone Age",
+      "topics": [
+        "Middle Stone Age"
+      ],
+      "url": "https://research.brighton.ac.uk/en/publications/3ca71834-27fe-4f3d-9c3d-41a981fbc58f",
+      "venue": "University of Brighton Repository (University of Brighton)",
+      "work_type": "article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:9e77b4617cb029394472af15f6ee30920cc68ff0174afd52260b363c0cb06b4c",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《87Sr/86Sr作为记录人亚科化石产地图尔卡纳盆地岁差周期的新型气候代用指标》：该研究探讨锶同位素比值能否作为气候代用指标，记录图尔卡纳盆地的岁差周期，值得关注其对古气候与人类演化环境背景关联的潜在意义。",
+      "title": "3. 87Sr/86Sr as a novel climate proxy recording precessional cycles in the hominin-bearing Turkana Basin",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://www.academia.edu/download/134365624/chapter_1_tm_3.pdf.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:15258ffcaf18260129c891c3e4f27c2e6556644d4f15fc099c3ef147014d57bf",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《后记：人亚族使用水生资源的进化与社会意义》：该文探讨人亚族使用水生资源在进化与社会层面的意义，适合关注人类起源与水生资源利用的读者阅读。",
+      "title": "Epilogue: the evolutionary and societal relevance of aquatic resource use by hominins",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.academia.edu/download/134365624/chapter_1_tm_3.pdf.pdf%23page%3D88&hl=zh-CN&sa=X&d=9626665742045229247&ei=xHvAaov9Bcyp6rQPheW1-Aw&scisig=ACTRDVGRXCwdldQyuQkKykZ1AjTh&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=3&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:b3126a67f5594c4225f0bc2db5ed7f6ca028c5f39c7b7d23dc19f1cd7e36ff88",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《多尼亚纳新发现的尼安德特人足迹揭示伊比利亚半岛西南部长达中更新世的海岸记录》：该研究报道了多尼亚纳地区新发现的尼安德特人足迹，并据此揭示伊比利亚半岛西南部存在长期的中更新世海岸记录，适合关注古人类活动与海岸环境演化的读者阅读。",
+      "title": "New Neandertal footprints from Doñana reveal a long Middle Pleistocene coastal record in SW Iberia",
+      "topics": [
+        "Middle Pleistocene"
+      ],
+      "url": "https://hal.science/hal-05766997/document",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Vedat Onar, Akın Ersoy",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:4bf1a02cdb1971d7560bbeb2775c037b8823d38a6275fa185399d55c2ce76bfa",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Journal of Archaeological Science: Reports",
+        "scholar_email"
+      ],
+      "summary": "《土耳其伊兹密尔古城士麦那的动物遗存：动物考古学分析（公元前3世纪至公元4世纪）》：该研究对士麦那古城出土动物遗存开展动物考古学分析，时间跨度自公元前3世纪至公元4世纪，为了解该古城相关时期的动物利用与人类活动提供了实物证据，适合关注动物考古与古代城市生活的读者阅读。",
+      "title": "Animal remains of ancient city of Smyrna (İzmir, Türkiye): Zooarchaeological analysis (3rd century BCE–4th century CE)",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005365?dgcid=rss_sd_all",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: 15 December 2026 Source: Quaternary International, Volume 785 Author(s): George Murătoreanu, Mircea Anghelinu, Valentin Georgescu, Marc Händel, Daniel Veres, Roxana Cuculici, Frank Lehmkuhl",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:ac169ff0b0097d9cdb7c5c97da87447683ad71bc92851d9eb9160b7a3f3d8178",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Quaternary International",
+        "scholar_email"
+      ],
+      "summary": "《基于GIS与机器学习对比斯特里察盆地（东喀尔巴阡山）旧石器时代晚期遗址可预测性的建模》：该研究运用地理信息系统与机器学习方法，对东喀尔巴阡山比斯特里察盆地旧石器时代晚期遗址的分布可预测性进行建模，值得考古学、地理信息科学及机器学习交叉领域研究者阅读。",
+      "title": "Modelling the predictability of Upper Palaeolithic sites in the Bistrița Basin (Eastern Carpathians) through GIS and machine learning",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S1040618226003678?dgcid=rss_sd_all",
+      "venue": "Quaternary International",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Giulia Toniato, Elisa Luzi, Samantha Brown, Hannah Huber, Claus-Joachim Kind, Yvonne Tafelmaier",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:6898b9d3e01ed5089d9e7af080931025a58611b39774384dd9b8a762be8ae20e",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Journal of Archaeological Science: Reports",
+        "scholar_email"
+      ],
+      "summary": "《通过动物遗存与石器遗存拼合科尔豪-阿布里旧石器时代晚期面貌》：该研究以动物与石器遗存为线索，重建科尔豪-阿布里遗址旧石器时代晚期的活动面貌，适合关注该遗址及旧石器时代晚期考古的读者参考。",
+      "title": "Piecing together the Late Palaeolithic at Kohlhau-Abri through faunal and lithic remains",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005304?dgcid=rss_sd_all",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Rocío Pazos-García, Antonio Blanco-González, Esteban Álvarez-Fernández, Carlos Macarro-Alcalde",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:84abe6f9647946c464c59c4840a000c83acd9351bcbb9c037f2fedb3115bf055",
+      "publication_date": "",
+      "sources": [
+        "rss",
+        "rss:Journal of Archaeological Science: Reports",
+        "scholar_email"
+      ],
+      "summary": "《托尔梅斯河谷（西班牙萨拉曼卡）动物资源利用的转变与延续：从铁器时代到罗马时期（公元前350年至公元250年）》：该研究考察了这一时段内动物资源利用方式的变化与延续，适合关注伊比利亚半岛古代经济与生业模式的读者参考。",
+      "title": "Transformation and continuity in the exploitation of faunal resources in the Tormes Valley (Salamanca, Spain): From Iron Age to Roman Times (350 BCE-250 CE)",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005274?dgcid=rss_sd_all",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:aaa9f0f9b56ef862dd1bb4d5a6cf02777f14f2cb859a28025c51b824ebe8a751",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《卡塔布拉克动物稳定同位素分析所揭示的南中亚青铜时代放牧策略与粟利用新证据》：该研究通过动物遗存稳定同位素分析，探讨南中亚青铜时代的放牧策略与粟类作物利用情况，为理解该地区农牧互动提供了新的实证依据，适合关注中亚考古与生业模式的读者参考。",
+      "title": "New evidence for Bronze Age herding strategies and millet exploitation in Southern Central Asia from faunal stable isotope analysis at Kattabulak, Surkhan Darya ...",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://link.springer.com/article/10.1007/s12520-026-02573-8&hl=zh-CN&sa=X&d=16463720297097631735&ei=w3vAatOTK4uu6rQPg-3lWQ&scisig=ACTRDVGNpJYeNVP9dKWM9bHYwaKr&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=4&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:aefd7f038515334dce42c190f9d808c47d48237c322cc42713fe96cc100fa91c",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《阿尔塔米拉洞穴格拉维特时期的年代序列与生存策略》：该研究考察西班牙坎塔布里亚阿尔塔米拉洞穴在格拉维特时期的年代框架与生计方式，适合关注旧石器时代考古、史前人类适应策略及伊比利亚半岛早期现代人行为的读者阅读。",
+      "title": "Cronología y estrategias de subsistencia durante el Gravetiense en la cueva de Altamira (Santillana del Mar, Cantabria)",
+      "topics": [],
+      "url": "https://tp.revistas.csic.es/index.php/tp/article/view/1081",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:c4c17ab9ac7884a0cf628ee8a51fae3d6f9b5b888769dd89fc4cd12ffb3c5639",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《新石器时代长江下游沿海地区从海洋向农业的饮食转变：来自井头山遗址的同位素证据》：该研究利用同位素证据，揭示新石器时代长江下游沿海地区先民饮食由海洋资源转向农业。适合关注中国早期农业起源、沿海适应与同位素考古的读者阅读。",
+      "title": "Dietary shift from marine to agriculture in coastal Lower Yangtze Delta during Neolithic revealed by isotopic evidence from Jingtoushan",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.nature.com/articles/s40494-026-02986-7_reference.pdf&hl=zh-CN&sa=X&d=6012092982036565026&ei=w3vAatOTK4uu6rQPg-3lWQ&scisig=ACTRDVFgfoKknazcYmHBkW12ZbBv&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=2&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:d0733afee156e3264c9eb2f46bae449ddf46448c3950caabfe1708046ab0f7f2",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《伊比利亚东部阿利坎特哈韦亚福拉达达洞穴的早期旧石器时代晚期个人装饰品》：该研究考察了福拉达达洞穴出土的早期旧石器时代晚期个人装饰品，有助于了解该地区早期现代人的象征行为与装饰传统，适合关注旧石器时代考古和伊比利亚史前文化的读者阅读。",
+      "title": "Early Upper Palaeolithic personal ornaments from Foradada cave (Xàbia, Alacant, Eastern Iberia)",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://link.springer.com/article/10.1007/s12520-026-02555-w&hl=zh-CN&sa=X&d=14378993417089383956&ei=w3vAatOTK4uu6rQPg-3lWQ&scisig=ACTRDVFSjvtgUbSMM75wsrZzyRbX&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=1&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:e75d0a93d530596c16562fdb7893e577cd388d6c30580ccfaf9c71850011bac1",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《窃取历史：后真相时代的伪考古学、对过去的操纵与权威危机》：论文探讨后真相时代伪考古学如何操纵过去并引发权威危机，适合关注历史叙事与公共认知的读者。",
+      "title": "Furto di Storia. Fantarcheologia, manipolazione del passato e crisi dell'autorità nell'era della post‐verità",
+      "topics": [],
+      "url": "https://usiena-air.unisi.it/bitstream/11365/1326475/1/_QSI-69%20-%20Furto%20di%20storia%20-%20visto%20si%20stampi.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:20ba0c7cefaa7b8dc39cd86a8bcd5db44b4fdebe2f44b62944f7d2100986160e",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《亚美尼亚叶格吉斯-1遗址晚期铜石并用时代骨器工业的综合技术与ZooMS分析》：该研究结合技术分析与ZooMS方法，对叶格吉斯-1遗址晚期铜石并用时代骨器工业进行综合考察，值得关注其如何通过多方法整合揭示骨器制作与动物资源利用。",
+      "title": "Integrated technological and ZooMS analysis of late chalcolithic osseous industry from Yeghegis-1 (Armenia)",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S2352226726000693&hl=zh-CN&sa=X&d=5562569422179383474&ei=w3vAatOTK4uu6rQPg-3lWQ&scisig=ACTRDVEcoCK2WG6d3uRuYesAzpwc&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=8&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:8c872f1828128962ad69b2f0249fb67dd96fc0dbe042443a58ace9506b6628fe",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《罗马砂浆中陶瓷骨料的微观结构表征：萨加拉索斯（安纳托利亚西南部）的陶瓷废料回收与跨工艺实践》：该研究考察罗马砂浆中陶瓷骨料的微观结构，探讨陶瓷废料回收与跨工艺实践，适合关注古代建筑材料与工艺交流的读者。",
+      "title": "Microstructural Characterization of Ceramic Aggregates within Roman Mortars: Recycling ceramic waste and cross-craft practices from Sagalassos (SW Anatolia)",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S1296207426001846&hl=zh-CN&sa=X&d=4867913597469333351&ei=w3vAatOTK4uu6rQPg-3lWQ&scisig=ACTRDVFvez_l23dH5x00pge3dNVS&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=3&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:fa2ebfc2b044db51e9da64c4d63b84ab42c32a7558909aceed5241954025cebb",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《中国西北地区巨颏虎（食肉目：剑齿虎亚科）的新化石记录》：该研究报道了在中国西北地区发现的巨颏虎新化石材料，为认识这一剑齿虎类在东亚的分布与演化提供了新的实物证据，适合关注剑齿虎亚科分类与古地理的读者参考。",
+      "title": "New fossil records of Megantereon (Carnivora: Machairodontinae) from Northwestern China",
+      "topics": [],
+      "url": "https://www.researchsquare.com/article/rs-10998694/latest.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:e19b56269a22aaba8f033e9bd6d9543b38520782367cd615f788a423618e7dac",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《中印度温迪亚高原北部中松河谷边缘的旧石器时代遗址：初步调查》：该研究对中松河谷边缘的旧石器时代遗址展开初步调查，有助于了解该地区旧石器时代人类活动与遗址分布，适合关注南亚旧石器考古的读者参考。",
+      "title": "Palaeolithic sites in the periphery of the Middle Son Valley, Northern Vindhyan Plateau, Central India: Preliminary investigation",
+      "topics": [],
+      "url": "https://journals.ed.ac.uk/lithicstudies/article/download/9684/15180",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:59420681594e922de1ce95df1b2a8d927f30520da4beab2bfedc82128613b934",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《埃塞俄比亚下奥莫河谷的上新世-更新世木材：对古人类学与古生物学遗址古环境的启示》：该研究通过分析下奥莫河谷的木材化石，探讨其对相关古人类学与古生物学遗址古环境的重建意义，适合关注早期人类演化环境背景的读者参考。",
+      "title": "Plio-Pleistocene wood from the Lower Omo Valley, Ethiopia: paleoenvironnemental implications for paleoanthropological and paleontological sites",
+      "topics": [],
+      "url": "https://bioone.org/journals/geodiversitas/volume-48/issue-18/geodiversitas2026v48a18/Plio-Pleistocene-wood-from-the-Lower-Omo-Valley-Ethiopia/10.5252/geodiversitas2026v48a18.full",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:788869d4f9e29df0b7d29b5bcdd233d5261efd42d39cff662fef3694cb89abbd",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《西北非从旧石器时代晚期到新石器时代物理行为的转变》：该研究考察西北非旧石器时代晚期至新石器时代物理行为的转变，值得关注该地区这一关键过渡阶段的行为变化。",
+      "title": "Transitions of Physical Behaviour from the Later Stone Age to the Neolithic in Northwest Africa",
+      "topics": [],
+      "url": "https://biblio.ugent.be/publication/01M3M5PKG9SBBX28CHGT0C7YYC",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
