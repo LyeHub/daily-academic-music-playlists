@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-07",
+  "items": [
+    {
+      "artists": [
+        "Leon Majcen"
+      ],
+      "release_date": "2026-09-04",
+      "release_type": "album",
+      "title": "The Leaving Kind"
+    },
+    {
+      "artists": [
+        "Buddy DML"
+      ],
+      "release_date": "2026-10-07",
+      "release_type": "single",
+      "title": "Trenchkid Love"
+    },
+    {
+      "artists": [
+        "Jess Williamson"
+      ],
+      "release_date": "2026-10-09",
+      "release_type": "album",
+      "title": "A Mile South of Heaven"
+    },
+    {
+      "artists": [
+        "Various Artists"
+      ],
+      "release_date": "2026-10-02",
+      "release_type": "album",
+      "title": "Energy Planet"
+    },
+    {
+      "artists": [
+        "Milieu"
+      ],
+      "release_date": "2026-10-01",
+      "release_type": "single",
+      "title": "Then Minerva Said"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-10-07",
+  "schema_version": 1
+}
