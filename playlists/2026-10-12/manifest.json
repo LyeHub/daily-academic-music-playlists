@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-12",
+  "items": [
+    {
+      "artists": [
+        "Antibody",
+        "Simon Carter",
+        "Fabsi"
+      ],
+      "release_date": "2026-10-09",
+      "release_type": "single",
+      "title": "Divination"
+    },
+    {
+      "artists": [
+        "One Dimensional Creatures"
+      ],
+      "release_date": "2026-10-10",
+      "release_type": "album",
+      "title": "Tolerance Paradox Limited Edition"
+    },
+    {
+      "artists": [
+        "The Pineapple Thief"
+      ],
+      "release_date": "2026-10-09",
+      "release_type": "album",
+      "title": "Far and Wide"
+    },
+    {
+      "artists": [
+        "Macroblank"
+      ],
+      "release_date": "2026-10-09",
+      "release_type": "album",
+      "title": "夢の中に現れた"
+    },
+    {
+      "artists": [
+        "NORTH OF SILENCE"
+      ],
+      "release_date": "2026-10-11",
+      "release_type": "single",
+      "title": "You Went First"
+    },
+    {
+      "artists": [
+        "Eden Future"
+      ],
+      "release_date": "2026-10-08",
+      "release_type": "single",
+      "title": "Hyper Terrestrial"
+    },
+    {
+      "artists": [
+        "Jennifer Haze",
+        "Didi Chung"
+      ],
+      "release_date": "2026-10-09",
+      "release_type": "single",
+      "title": "Lunar Lucid"
+    },
+    {
+      "artists": [
+        "RoBKTA"
+      ],
+      "release_date": "2026-10-09",
+      "release_type": "album",
+      "title": "Ridge Racer Eternal"
+    },
+    {
+      "artists": [
+        "Ane Brun",
+        "Röyksopp"
+      ],
+      "release_date": "2026-10-09",
+      "release_type": "single",
+      "title": "Eat the Fruit"
+    },
+    {
+      "artists": [
+        "BULLETSHELL"
+      ],
+      "release_date": "2026-10-11",
+      "release_type": "single",
+      "title": "SOPHOPHOBIA"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-10-12",
+  "schema_version": 1
+}
