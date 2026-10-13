@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-14",
+  "items": [
+    {
+      "artists": [
+        "Sophia Stel"
+      ],
+      "release_date": "2026-10-16",
+      "release_type": "album",
+      "title": "the greatest album of all time"
+    },
+    {
+      "artists": [
+        "Buddy DML"
+      ],
+      "release_date": "2026-10-14",
+      "release_type": "album",
+      "title": "Buddy DML World"
+    },
+    {
+      "artists": [
+        "World News"
+      ],
+      "release_date": "2026-10-13",
+      "release_type": "single",
+      "title": "Vinegar Swimming Pool"
+    },
+    {
+      "artists": [
+        "Juley"
+      ],
+      "release_date": "2026-10-14",
+      "release_type": "ep",
+      "title": "My Dream"
+    },
+    {
+      "artists": [
+        "XIII"
+      ],
+      "release_date": "2026-10-13",
+      "release_type": "album",
+      "title": "NeverBORN"
+    },
+    {
+      "artists": [
+        "Alcestice"
+      ],
+      "release_date": "2026-10-13",
+      "release_type": "single",
+      "title": "Heart-Shaped Box"
+    },
+    {
+      "artists": [
+        "NORTH OF SILENCE"
+      ],
+      "release_date": "2026-10-13",
+      "release_type": "single",
+      "title": "Say It Again"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-10-14",
+  "schema_version": 1
+}
