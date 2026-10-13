@@ -1,0 +1,521 @@
+{
+  "date": "2026-10-13",
+  "items": [
+    {
+      "abstract": "Boreas, EarlyView.",
+      "authors": [
+        "Helen Essell, Gill Plunkett"
+      ],
+      "doi": "10.1111/bor.70090",
+      "id": "doi:10.1111/bor.70090",
+      "publication_date": "2026-10-12",
+      "sources": [
+        "rss:Boreas"
+      ],
+      "summary": "《高地地区的现代花粉雨：花粉传播对解读古环境记录的意义》：该研究探讨高地地区现代花粉雨，分析花粉传播对解释古环境记录的影响，适合关注古环境重建与花粉分析的研究者参考。",
+      "title": "Modern pollen rain of an upland area: implications of pollen dispersal for interpreting palaeoenvironmental records",
+      "topics": [
+        "palaeoenvironment"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/bor.70090?af=R",
+      "venue": "Boreas",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Abstract Inhibitors of sodium glucose cotransporter-2 (SGLT2i) demonstrate strong symptomatic and mortality benefits in the treatment of heart failure but appear to do so independently of SGLT2. The relevant pharmacologic target of SGLT2i remains unclear. We show here that SGLT2i directly activate pantothenate kinase 1 (PANK1), the rate-limiting enzyme that initiates the conversion of pantothenate (vitamin B5) to coenzyme-A (CoA), an obligate co-factor for all major pathways of fuel use in the heart. Using stable-isotope infusion studies, we show that SGLT2i promote pantothenate consumption, activate CoA synthesis, rescue decreased levels of CoA in human failing hearts, and broadly stimulate fuel use in ex vivo perfused human cardiac blocks from patients with heart failure. Furthermore, we show that SGLT2i bind to PANK1 directly at physiological concentrations and promote PANK1 enzymatic activity in assays with purified components. Novel in silico dynamic modeling identified the site of SGLT2i binding on PANK1 and indicated a mechanism of activation involving prevention of allosteric inhibition of PANK1 by acyl-CoA species. Finally, we show that inhibition of PANK1 prevents SGLT2i-mediated increased contractility of isolated adult human cardiomyocytes. In summary, we demonstrate robust and specific off-target activation of PANK1 by SGLT2i, promoting CoA synthesis and efficient fuel use in human hearts, providing a likely explanation for the remarkable clinical benefits of SGLT2i.",
+      "authors": [
+        "Nicholas Forelli",
+        "Trace Thome",
+        "Deborah Eaton",
+        "Kollin C. Schultz",
+        "Jiten D. Patel",
+        "Caitlyn E. Bowman",
+        "Ryo Kawakami",
+        "Jae Woo Jung",
+        "Ivan A. Kuznetsov",
+        "Kristina Li",
+        "Jialiu A. Liang",
+        "Kirsten Branch",
+        "Claire Brady",
+        "Kenneth C Bedi",
+        "Yijun Yang",
+        "Kaustubh Koya",
+        "Nesrine Bouhrira",
+        "Emily Megill",
+        "Daniel S. Kantner",
+        "Louis G. Smith",
+        "Cristin F. MacIntosh",
+        "Kushol Gupta",
+        "Gregory R. Bowman",
+        "Nathaniel W. Snyder",
+        "Jonathan Edwards",
+        "Kenneth B. Margulies",
+        "Zoltan Pierre Arany"
+      ],
+      "doi": "10.1126/science.aeh4856",
+      "id": "doi:10.1126/science.aeh4856",
+      "publication_date": "2026-08-27",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《SGLT2抑制剂激活人心脏中的泛酸激酶》：研究通过稳定同位素输注等手段，揭示SGLT2抑制剂可直接激活限速酶PANK1，促进辅酶A合成并改善衰竭人心脏的燃料利用，为解释其临床获益提供了新机制，值得关注。",
+      "title": "SGLT2 inhibitors activate pantothenate kinase in the human heart",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.1126/science.aeh4856",
+      "venue": "Science",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Excavations at Grotta Guattari (Italy; 66–65 ka) in the previously unexplored Antro del Laghetto area uncovered numerous morphologically unidentified skeletal remains from both the cave’s internal (aquatic) and external (dry) sectors, providing an opportunity to investigate how contrasting depositional environments influence protein preservation. Taxonomic identifications were attempted using MALDI-ToF ( n = 200) and LC-MS/MS (n = 490 ). LC-MS/MS provided limited taxonomic identifications for specimens from aquatic environments, whereas MALDI-ToF generated no reliable taxonomic identifications for the same environment. However, it should be noted that the proteomic analysis was performed on randomly selected bone specimens from different locations throughout the cave, so direct performance comparisons between MALDI-ToF and LC-MS/MS cannot be made. The protein aggregation capture (PAC) extraction method failed to generate taxonomic results, whereas a consecutive acid and ammonium bicarbonate (Ambic) extraction combined with LC-MS/MS yielded validated genus-level assignments for 142 specimens. Among these, four specimens were assigned to the genus Homo following additional validation, while acknowledging the limitations imposed by false discovery rate filtering and the absence of a Neanderthal proteome in the reference database. These findings highlight the importance of tailored proteomic workflows for highly degraded archaeological assemblages.",
+      "authors": [
+        "Angelica Ferracci",
+        "Dorothea Mylopotamitaki",
+        "Emanuela Salviati",
+        "Florian Harking",
+        "Florian S. Harking",
+        "Frido Welker",
+        "Gaudry Troché",
+        "Jean-Jacques Hublin",
+        "Jean‐Jacques Hublin",
+        "Jesper V. Olsen",
+        "Mario F. Rolfo",
+        "Matteo Romandini",
+        "Maurizio Gatta",
+        "Pietro Campiglia",
+        "Sara Silvestrini",
+        "Stefano Benazzi"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106015",
+      "id": "doi:10.1016/j.jasrep.2026.106015",
+      "publication_date": "2026-08-20",
+      "sources": [
+        "openalex",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《意大利瓜塔里洞穴骨骼遗存的古蛋白质组学分析》：研究对瓜塔里洞穴约6.6万至6.5万年前未鉴定骨骼遗存开展古蛋白质组学分析，比较洞穴内部水生与外部干燥环境对蛋白质保存的影响，并尝试用MALDI-ToF与LC-MS/MS进行物种鉴定，其中连续酸与碳酸氢铵提取结合LC-MS/MS获得属级鉴定，四件标本被归入人属。适合关注尼安德特人、古蛋白质组学与降解考古材料鉴…",
+      "title": "Palaeoproteomic analysis of skeletal remains from Grotta Guattari (Italy)",
+      "topics": [
+        "Neanderthal"
+      ],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106015",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:5f75366f5f81c7d0e75897dfdaa84e30abd3a3f6fbd0c19934e234dae56da861",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《尼安德特人在阿布里罗马尼的木材加工：对木材在中旧石器时代家域背景中作用的洞察》：该研究考察了阿布里罗马尼遗址中旧石器时代中期尼安德特人的木材加工活动，并探讨木材在当时家域生活背景中扮演的角色，适合关注尼安德特人技术与行为及中旧石器时代生计方式的读者阅读。",
+      "title": "Neanderthal woodworking at Abric Romaní: Insights into the role of wood in a Middle Palaeolithic domestic context",
+      "topics": [
+        "Middle Palaeolithic",
+        "Neanderthal"
+      ],
+      "url": "https://www.science.org/doi/full/10.1126/sciadv.aeh2287",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "This study reviews and compares palaeoecological information derived from fossil micromammal assemblages spanning the last ~100 ka BP from South African Middle and Later Stone Age contexts. Multiple statistical approaches were used to assess how micromammal assemblage composition is structured across sites and whether broader chronological patterns can be recognised within the Cape region and the South African interior, two regions currently characterised by markedly different biomes. Furthermore, we explored the impact of local environmental heterogeneity, assemblage size and taphonomic processes on taxon abundance. Results indicate that micromammal composition is strongly structured by site identity in both regions, although the degree of within-site variability differs between them. The interior assemblages generally form coherent site-specific groups, whereas some Cape sequences show greater internal compositional variability. The ordination and clustering analyses provide only limited evidence for broader chronological organisation across sites. Palaeoecological reconstructions reveal that interior sites show pronounced shifts between forest and semi-arid weighted components, some of which align with climatic pulses inferred from local pollen records. In contrast, Cape sequences show variable degrees of internal environmental change, with some shifts corresponding broadly to climatic episodes such as the Last Glacial Maximum and, potentially, the 4.2 ka event. These results demonstrate that using micromammals as palaeoecological indicators may be more complex than previously appreciated as they provide reliable information on local palaeoenvironmental trajectories and important contextual evidence for human–environment interactions, but less consistently record coherent regional change through time.",
+      "authors": [
+        "Andri C. van Aardt",
+        "F.J. Fernández",
+        "L.K. Horwitz",
+        "Louis Scott",
+        "M. Avery",
+        "P. de la Peña",
+        "S. García-Morato",
+        "Yolanda Fernández–Jalvo"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114163",
+      "id": "doi:10.1016/j.palaeo.2026.114163",
+      "publication_date": "2026-08-25",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《揭示南非中石器时代至晚石器时代小型哺乳动物的环境与时间模式》：该研究比较了过去约十万年间南非中石器与晚石器时代遗址的化石小型哺乳动物组合，用多种统计方法分析组合组成如何受遗址身份、局部环境差异、样本量与埋藏过程影响，并评估能否识别区域性和时间性模式。值得阅读，因为它揭示了小型哺乳动物作为古生态指标比以往认识更复杂，能可靠反映局部环境轨迹，却较难一致记录区…",
+      "title": "Unravelling environmental and temporal patterns in South African Middle to Later Stone Age micromammals",
+      "topics": [
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114163",
+      "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Throughout human deep history, lithic tool components became periodically very small. Such microlithic tools are the signature artefacts of the European Mesolithic in general, and the iconic Danish Mesolithic in particular. Sandwiched between the end of the Pleistocene and the emergence of agricultural lifeways, the Danish Mesolithic is characterised by marked changes in microlith design from lanceolates to geometrics and finally to transversal forms with wide front edges. These changes are synonymous with the transitions between the traditionally defined cultures of the Early, Middle and Late Mesolithic, yet the forces shaping them remain opaque. Here we present lithic, faunal, and a combination of archaeobotanical and palaeobotanical proxies, suggesting that the use of arrow poison was a likely driver for microlithic design change. An analysis of ballistically relevant morphometric attributes of lithics found in direct association with hunted prey suggests that the use of poison was prevalent during the Early Mesolithic when targeted game animals were also largest. Thereafter, lithic projectile points became larger and game animals smaller, likely reflecting Holocene faunal downsizing alongside changing hunting strategies. Palaeobotanical evidence from Denmark and southern Sweden suggests that a wide range of toxic plants were available throughout the Holocene. Cumulatively, these lines of evidence suggest that the use of arrow poison may have been widespread during the Early Mesolithic and declined thereafter despite readily available toxins.",
+      "authors": [
+        "Felix Riede",
+        "Marlize Lombard",
+        "Renée Enevold",
+        "Signe S. Termansen",
+        "Sofie F. Hellerøe",
+        "Welmoed A. Out"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106110",
+      "id": "doi:10.1016/j.jasrep.2026.106110",
+      "publication_date": "2026-10-07",
+      "sources": [
+        "openalex",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《丹麦早中石器时代的毒箭：以动物与考古植物数据检验石器弹道形态计量学》：研究结合石器形态、动物遗存及考古与古植物证据，提出箭毒使用可能是丹麦中石器时代细石器设计变化的重要驱动因素，并分析早中石器时代毒箭使用与猎物大小的关系。适合关注中石器时代狩猎技术、细石器功能与人类行为演变的读者阅读。",
+      "title": "Poisoned arrows in the Danish Early Mesolithic: Testing lithic ballistic morphometrics against faunal and archaeobotanical data",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106110",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Archaeomagnetism, the application of paleomagnetic methods to archaeological materials, can be used not only for chronological dating but also to address unresolved questions in cultural heritage research and archaeology by investigating ancient technologies. In this study, we focus on a longstanding unresolved question in Roman ceramic production: the loading configuration and stacking patterns of vessels inside kilns. We apply archaeomagnetic methods to 11 Italian Terra Sigillata (ITS) plate fragments. The samples were excavated from the Q15 Well at Largo Amba Aradam (Rome), span from the late 1 st century BCE to the early 2 nd century CE and are typologically attributed to Central Italian workshops. Rock magnetic analyses indicate that the primary magnetic carrier is cation substituted magnetite, likely titanomagnetite, and predominant pseudo-single-domain grain sizes. Reliable characteristic remanent magnetization (ChRM) inclinations were successfully recovered from 8 of the 11 fragments. Strikingly, all reliable fragments yielded consistently negative inclinations ranging from 37° and −57°. Given that the Earth’s magnetic field maintained a positive inclination in this region throughout the Roman period, the negative inclinations provide a strong geophysical constraint that these plates were fired in an inverted, face-down (base-up) position. This uniform orientation across fragments from different regional workshops may indicate that Roman potters employed highly standardized technological procedures. Stacking plates upside down likely maximised kiln space for maximum structural stability while simultaneously protecting the high-quality, stamped internal faces of the vessels from falling kiln debris and ash. This study highlights how an interdisciplinary approach can successfully resolve ambiguous archaeological hypotheses regarding ancient industrial workflows.",
+      "authors": [
+        "Anita Di Chiara",
+        "Claudia Pandolfi",
+        "Elena Arbolino",
+        "Fabio Florindo",
+        "Gianluca Soricelli",
+        "Raquel Bonilla-Alba",
+        "Simona Morretta",
+        "Viola Federico"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106104",
+      "id": "doi:10.1016/j.jasrep.2026.106104",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "openalex",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《意大利陶器烧制方向的地磁考古重建》：研究用古地磁方法分析11件意大利陶器残片，发现可靠样品均呈负磁倾角，据此推断这些陶盘以倒扣方式烧制，并探讨罗马陶工标准化工艺及倒扣堆叠在节省窑炉空间、保护器面方面的可能用意，适合关注考古科技与古代制陶工艺的读者。",
+      "title": "Archaeomagnetic reconstruction on the firing orientation of Italian Terra Sigillata ware",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106104",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 10 October 2026 Source: L'Anthropologie Author(s): Isis Mesfin, Maria-Helena Benjamim, Ernesto Paulino Benjamim, Luis Chambel, Charles Dehut, Pierre Guillemot, Raphaël Hanon, Alberto Antônio Ventura",
+      "authors": [
+        "Alberto Antônio Ventura",
+        "Charles Dehut",
+        "Ernesto Paulino Benjamim",
+        "Isis Mesfin",
+        "Luis Chambel",
+        "Luís Chambel",
+        "Maria-Helena Benjamim",
+        "Pierre Guillemot",
+        "Raphaël Hanon"
+      ],
+      "doi": "10.1016/j.anthro.2026.103526",
+      "id": "doi:10.1016/j.anthro.2026.103526",
+      "publication_date": "2026-10-01",
+      "sources": [
+        "openalex",
+        "rss",
+        "rss:L'Anthropologie"
+      ],
+      "summary": "《安哥拉纳米贝省奇通杜-胡鲁更新世与全新世考古遗址的首次评估》：该研究对奇通杜-胡鲁地区更新世与全新世考古遗址进行首次评估，为了解该地区史前人类活动提供了新资料，适合关注非洲西南部考古与史前研究的读者阅读。",
+      "title": "First assessment of Pleistocene and Holocene archaeological sites at Tchitundu-Hulu, Namibe Province, Angola",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.anthro.2026.103526",
+      "venue": "L Anthropologie",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Charred cereal-based food remains are frequently classified as amorphous charred objects (ACOs) because their internal structure is difficult to characterise using conventional two-dimensional approaches. Here, we evaluate the potential of micro-CT as a non-destructive tool for analysing the internal structure of archaeological cereal-food remains from the Early Neolithic level of El Portalón de Cueva Mayor (Burgos, Spain). Five ACO fragments and a range of modern fresh and charred bread samples were examined using stereomicroscopy, FE-SEM and micro-CT, and their pore architecture was quantified using 3D image analysis. The analysed archaeological specimens show high porosity (61.24 - 74.84%), very high connectivity index values (0.995 - 0.996), connectivity density values between 42.25 and 106.25 mm −3 , fractal dimensions between 2.689 and 2.786, and average wall thickness values of 0.105 - 0.111 mm. Together, these parameters reveal a highly developed and interconnected pore network that is compatible with a bread-like matrix and may be consistent with fermentation. However, the 2D pore-size distributions, calculated from image analysis following previously proposed methodologies, are dominated by small to medium pores and, on their own, do not allow an unambiguous classification as fermented dough. We therefore interpret the specimens as plausible remains of fermented, bread-like products. Our results show that micro-CT provides useful quantitative data for the structural characterisation of archaeological cereal preparations, especially when combined with SEM observations and ingredient identification.",
+      "authors": [
+        "Carlota Pintado-Laguna",
+        "Diego Soto Gómez",
+        "Diego Soto-Gómez",
+        "Eneko Iriarte",
+        "José Miguel Carretero",
+        "José-Miguel Carretero"
+      ],
+      "doi": "10.1016/j.jas.2026.106705",
+      "id": "doi:10.1016/j.jas.2026.106705",
+      "publication_date": "2026-09-22",
+      "sources": [
+        "openalex",
+        "rss",
+        "rss:Journal of Archaeological Science"
+      ],
+      "summary": "《填补过去的空白：微型CT作为表征考古谷物食物遗存结构的工具》：研究利用微型CT无损分析西班牙早期新石器时代遗址出土的炭化谷物食物遗存，结合立体显微与FE-SEM观察及三维孔隙分析，发现其高孔隙率与高连通性等特征与面包类基质相容，或与发酵有关。该研究展示了微型CT在考古谷物制品结构表征中的潜力，适合关注考古科学、食物遗存分析与无损检测方法的读者阅读。",
+      "title": "Crumbing the past: micro-CT as a tool for characterising the structure of archaeological cereal-food remains",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jas.2026.106705",
+      "venue": "Journal of Archaeological Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Gabriel E.J. López",
+      "authors": [
+        "Gabriel E. J. López",
+        "Gabriel E.J. López"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106014",
+      "id": "doi:10.1016/j.jasrep.2026.106014",
+      "publication_date": "2026-08-20",
+      "sources": [
+        "openalex",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《安第斯高地的人群定居：以阿根廷西北部与智利北部对比的年代学与考古学方法》：该研究通过年代学与考古学方法，比较阿根廷西北部与智利北部，探讨安第斯高地的人群定居过程，适合关注南美史前人类迁徙与区域比较的读者。",
+      "title": "The peopling of the Andean highlands: A chronological and archaeological approach from Northwestern Argentina in comparison with Northern Chile",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106014",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: September–October 2026 Source: L'Anthropologie, Volume 130, Issue 4 Author(s): Justin Guibert",
+      "authors": [
+        "Justin Guibert"
+      ],
+      "doi": "10.1016/j.anthro.2026.103502",
+      "id": "doi:10.1016/j.anthro.2026.103502",
+      "publication_date": "2026-07-27",
+      "sources": [
+        "openalex",
+        "rss",
+        "rss:L'Anthropologie"
+      ],
+      "summary": "《加龙河谷中更新世人类群体的新证据：法国丰索尔布马丁内特平原遗址简报》：基于《人类学》2026年9-10月第130卷第4期的发表信息，该文以法国丰索尔布马丁内特平原遗址为对象，为加龙河谷中更新世人类群体活动增添新证据，适合关注旧石器时代人类分布与区域考古的研究者参阅。",
+      "title": "Un nouveau témoignage des groupes humains du Pléistocène moyen dans la vallée de la Garonne : note sur le site de la Plaine de la Martinette (Fonsorbes, France)",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.anthro.2026.103502",
+      "venue": "L Anthropologie",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "ABSTRACT Objectives C.G. Turner divided the “Mongoloid” dental complex into Sinodonty and Sundadonty, but it remains unclear if the latter is a distinct complex or the product of Holocene gene flow between East Asians and the earlier inhabitants of Southeast Asia. Materials and Methods Dental data for 863 individuals representing 16 populations from East Asia, Southeast Asia, Australo‐Melanesia, and the Pacific were investigated. Three methods were employed: rASUDAS2 analysis based on a naïve Bayesian algorithm to classify individuals into clusters, the R‐matrix approach to obtain d ij distances, F ST , and r ij values among regional samples, and matrix correlation analysis to evaluate competing population history scenarios. Results The rASUDAS2 analysis revealed that Southeast Asians showed high variation and an indistinct dental complex, divided by East Asians (50.3%) and Australo‐Melanesians (49.7%). The d ij distances indicate that Southeast Asians share similarities with Australo‐Melanesians and East Asians, while the Pacific groups are closer to Australo‐Melanesians. The F ST obtained was 0.067, while the r ii values were: Southeast Asia = 0.027; Pacific = 0.057; Australo‐Melanesia = 0.076, and East Asia = 0.110. The matrix correlation analysis identified the migration scenario as the best‐supported model. Discussion Sundadonty does not represent a discrete or evolutionarily independent dental complex but rather results from admixture between Neolithic East Asian agriculturalists and Australo‐Melanesians. Southeast Asians are the most biologically heterogeneous populations investigated, coinciding with archaeological, linguistic and paleogenomic evidence showing multiple migrations and population events (admixture, replacement), which occurred during the past 5000 years. This supports a complex population history and diverse ancestral components in Southeast Asia.",
+      "authors": [
+        "George Richard Scott",
+        "Joel D. Irish",
+        "Arielle J. Pastore",
+        "Hannes Rathmann",
+        "Miguel Delgado"
+      ],
+      "doi": "10.1002/ajpa.70349",
+      "id": "doi:10.1002/ajpa.70349",
+      "publication_date": "2026-08-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《巽他齿型再探：牙齿证据支持东南亚人具有东亚与澳美拉尼西亚混合祖先》：研究用863例牙齿数据检验巽他齿型是否为独立齿型复合体，结果显示其更可能源于新石器时代东亚农业人群与澳美拉尼西亚人群的混合，东南亚人是所研究人群中最具生物异质性者，适合关注东南亚人群迁徙与混合历史的读者阅读。",
+      "title": "Sundadonty Revisited: Dental Evidence Supports a Mixed East Asian and Australo‐Melanesian Ancestry for Southeast Asians",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ajpa.70349",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Within lithic analysis, the distinction between artefacts and naturally occurring lithic material within a site context is a crucial step before further interpretation. In general, natural lithic material is considered separately from archaeological finds. It is most likely regarded as significant for taphonomic or diagenetic aspects of the sites, while no significance is attributed to them in relation to human activity. Among lithic artefacts, the Palaeolithic open-air site of Feldberg “Steinacker” in Southwestern Germany yielded a high number of gelifractured siliceous fragments within the archaeological layers that, at first glance, seem to belong to the natural depositional context at the site. The aim of the study was to examine the potential role of these natural fragments in the local human activities alongside the documented knapping activity. To address this question, knapped lithics as well as natural fragments were sampled for traceological analysis focusing on surface preservation and potential human use. Use-wear analysis shows that natural lithic remains, alongside knapped artefacts, exhibit macro and micro traces of use. This reveals an ad hoc use of natural lithic material. Our study highlights that human engagement with lithics does not follow a strict ontological separation between anthropogenic and natural and therefore requires a deeper exploration of variability within this framework.",
+      "authors": [
+        "Lisa Bauer",
+        "João Marreiros",
+        "Marcel Bradtmöller"
+      ],
+      "doi": "10.1016/j.jasrep.2026.105951",
+      "id": "doi:10.1016/j.jasrep.2026.105951",
+      "publication_date": "2026-07-22",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《通过使用痕迹分析评估天然石片碎屑对古人类的意义——以费尔德贝格“施泰纳克”旧石器时代遗址为例》：研究以德国西南部该露天遗址出土的天然硅质碎屑为对象，通过痕迹分析检验其是否曾被人类使用，结果显示这些天然石片与打制石器一样留有宏观和微观使用痕迹，表明存在即兴利用天然石料的行为；适合关注旧石器时代石器分析、遗址形成过程及人与石料关系的读者阅读。",
+      "title": "Evaluating the significance of natural lithic fragments for past humans through use-wear analysis − A case study of the Palaeolithic site of Feldberg “Steinacker”",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.105951",
+      "venue": "Journal of Archaeological Science Reports",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Colouring materials, serving versatile functions, are common in Upper Palaeolithic sites. At Pincevent, Level IV0, these materials were used both to produce pigment powders and to manufacture a unique type of artefact: perforated discs. This specific production likely influenced the strategies for acquiring colouring materials. A comparison of provenance studies from levels IV0 and IV20 at Pincevent, dating to the Late Magdalenian (15–14 ka cal BP) and separated by less than a century, reveals complex strategies of acquisition, selection, and use, reflecting both local adaptation and long-distance exchange networks. The comprehensive petrological approach adopted here enables precise provenance identification and offers a framework for broader investigations of resource acquisition across both time and space. It demonstrates a dual procurement system combining locally sourced ferruginous sandstones from Ypresian formations with non-local raw materials—such as oolitic hematites, ferruginised crinoidal limestones, and massive hematites—transported over distances exceeding 200 km either north-west towards Normandy or south-east towards the Saone-Rhône valleys. Moreover, the selection of colouring materials appears to have been guided less by geographic proximity than by mechanical and textural properties of the rock types. This pattern indicates a deliberate and informed approach to resource management that varied through time depending on the use of the colouring materials, rather than opportunistic acquisitions.",
+      "authors": [
+        "Aurélie Chassin de Kergommeaux",
+        "Magali Rossi",
+        "Caroline Peschaux",
+        "Émilie Chalmin",
+        "Wafaa Bouits",
+        "Hélène Salomon"
+      ],
+      "doi": "10.1016/j.jas.2026.106636",
+      "id": "doi:10.1016/j.jas.2026.106636",
+      "publication_date": "2026-07-03",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《在潘斯旺露天遗址寻找红黄颜料：法国潘斯旺遗址IV20与IV0层的延续与断裂》：研究对比了相隔不到百年的晚马格德林期两个层位中着色原料的来源，发现既有本地伊普尔期含铁砂岩，也有远距离运输逾200公里的鲕状赤铁矿等非本地原料，且选料更看重岩石的力学与质地特性而非地理远近，为理解旧石器时代晚期资源获取策略的延续与变化提供了细致框架。",
+      "title": "Searching for reds and yellows at a Magdalenian open-air site: continuities and discontinuities at Pincevent (France) levels IV20 and IV0",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jas.2026.106636",
+      "venue": "Journal of Archaeological Science",
+      "work_type": "article"
+    },
+    {
+      "abstract": "ABSTRACT Objectives Root surface morphology has been used to examine functional signals related to diet and taxonomic affinities in primates with varying degrees of success. The aim of this study is to determine if the use of the functionally significant root cervix can enhance our understanding of these relationships in catarrhines. Materials and Methods Two‐dimensional (2D) semilandmark points were collected using cross sections taken from the cervix of all three mandibular molar positions in a sample of extant catarrhines ( n = 68). Multivariate regression was used to examine the influence of size on Procrustes aligned data. Standard and phylogenetic principal component analyses were performed for each molar position. Phylogenetic generalized least squares (PGLS) were used to correct for nonindependence. Results Allometric effects were statistically significant ( p < 0.05) but weak for each position ( M 1 = 0.096, M 2 = 0.064, M 3 = 0.062). Phylogenetic signal, multivariate K , was significant for each molar but less than expected under Brownian motion ( K mult < 1). PGLS removed all functional signal related to dietary ecology at M 1 for phylogenetically aligned PCA (PACA) and phylogenetic PCA (pPCA) components. These signals were diminished but not eliminated at M 2 (PACA) and M 3 (pPCA). Conclusions The influence of size on the morphology of the root cervix is limited and does not impact functional signals related to either phylogeny or diet. Observed morphological variation of the root cervix is driven in part by both phylogeny and diet. However, these variables share a strong relationship, and more work is needed to disentangle the two.",
+      "authors": [
+        "Zana R Sims"
+      ],
+      "doi": "10.1002/ajpa.70321",
+      "id": "doi:10.1002/ajpa.70321",
+      "publication_date": "2026-07-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《异速生长、系统发育与食性在下颌磨牙颈部间的相互关系》：该研究以68例现存狭鼻猴类下颌磨牙颈部横截面二维半标志点数据，检验尺寸对形态的影响，并用系统发育广义最小二乘等方法分析系统发育信号与食性信号在各磨牙位置的保留情况，发现尺寸影响有限，颈部形态变异部分由系统发育和食性共同驱动，但二者关系密切、尚需进一步区分，适合关注灵长类牙齿功能形态与演化关系的读者阅读。",
+      "title": "The Interrelation Among Allometry, Phylogeny, and Diet in the Molar Cervix",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ajpa.70321",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Justin Coppe",
+        "Noora Taipale",
+        "Solène Escarguel",
+        "Veerle Rots"
+      ],
+      "doi": "10.1016/j.jasrep.2026.105956",
+      "id": "doi:10.1016/j.jasrep.2026.105956",
+      "publication_date": "2026-07-25",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《原材料对投射物分析所用断裂特征的影响：台架试验的初步结果》：该研究通过台架试验考察原材料如何影响投射物分析中的断裂特征，值得关注以了解实验考古中断裂判读的原材料变量。",
+      "title": "The influence of raw material on fracture attributes used in projectile analysis: First results from a bench test experiment",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.105956",
+      "venue": "Journal of Archaeological Science Reports",
+      "work_type": "article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Frank L'Engle Williams",
+        "Christopher W. Schmidt",
+        "Ashley Remy"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114063",
+      "id": "doi:10.1016/j.palaeo.2026.114063",
+      "publication_date": "2026-07-13",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《南非上新世至更新世狒狒兽属饮食行为的历时变化》：该研究考察南非狒狒兽属在上新世至更新世期间饮食行为的历时变化，值得阅读以了解这一地史时期灵长类食性演化。",
+      "title": "Diachronic change in dietary behavior of Plio-Pleistocene Theropithecus from South Africa",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114063",
+      "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+      "work_type": "article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:1f5e82bc779c9bb0dff759204c3f4dc9d179aff666677b0d22a502f55e91c9cc",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《波兰奇米耶卢夫95号遗址马格德林文化复合黏合剂团块的特征：对晚更新世树脂固化技术的启示》：该研究分析了一枚马格德林文化复合黏合剂团块，探讨其成分与制作方式，并据此讨论晚更新世树脂固化技术。适合关注旧石器时代技术、材料利用与史前工艺的读者阅读。",
+      "title": "Characterization of a Magdalenian Composite Adhesive Lump From the Ćmielów 95 Site, Poland: Implications for Late Pleistocene Resin‐Curing Technology",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://onlinelibrary.wiley.com/doi/abs/10.1111/arcm.70234&hl=zh-CN&sa=X&d=3613066124723102964&ei=mjzNauyfEpHuieoP9_PwoQU&scisig=ACTRDVGCHA2Mh7iQlNOT6e_-QFVV&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=2&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:2e4acae0ab817fe76604afb799a23d9b37dee72364dc58e87d6090da0d18845f",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《从灰烬到丧葬仪式：识别火葬墓葬并探索中国南方新石器时代晚期的死亡观念》：该研究聚焦中国南方新石器时代晚期，旨在识别火葬墓葬并探讨当时的死亡观念，适合关注史前丧葬实践与死亡认知的读者阅读。",
+      "title": "From ashes to mortuary rituals: Identifying cremation burials and exploring concepts of death in late Neolithic Southern China",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S0305440326002414&hl=zh-CN&sa=X&d=16747895485415909724&ei=mjzNauyfEpHuieoP9_PwoQU&scisig=ACTRDVFgmHLfFKX6LFLXxSBUYa5H&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=0&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:4b31e6d460d9bc3a952513cae627ac2735433a18f96025176dba8ac78a088761",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《活技术：雪橇犬涌现的理论视角》：该文从理论层面探讨雪橇犬这一“活技术”如何涌现，适合关注技术哲学、人与动物关系及驯化研究的读者参考。",
+      "title": "Living Technology: Theoretical Perspectives on the Emergence of Sled Dogs",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.mdpi.com/2076-2615/16/19/3148&hl=zh-CN&sa=X&d=18344925868576339719&ei=mjzNavSmKq7N6rQP3IrzgQM&scisig=ACTRDVHuMatPaBFvlm37NK6_ww3a&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=0&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:41b9d0f00ef00fd9942dd9c82461511af537f1d40d559b25ac40ee6ca2e12e8b",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《丹麦早期中石器时代的有毒箭矢：以动物与考古植物数据检验石器弹道形态计量学》：研究通过动物遗存和考古植物数据检验石器弹道形态计量学，探讨丹麦早期中石器时代有毒箭矢问题，适合关注史前狩猎技术与石器功能分析的读者阅读。",
+      "title": "Poisoned arrows in the Danish Early Mesolithic: Testing lithic ballistic morphometrics against faunal and archaeobotanical data",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S2352409X26005456&hl=zh-CN&sa=X&d=4704707077309250080&ei=mjzNauyfEpHuieoP9_PwoQU&scisig=ACTRDVEwRshdeaIKYhiyAOEW0ujl&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=5&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:8e9ba7f6ab37b8628e45edb61a787800683d2ca028d2f4d92b369b4b57b61bc6",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《roadDB：一个用于探索早期人类史前史与环境的R包，基于ROCEEH走出非洲数据库》：该文献介绍了一个名为roadDB的R语言软件包，旨在利用ROCEEH走出非洲数据库来探索早期人类史前史与环境。对于从事人类起源、迁徙及古环境研究的学者，该工具可能提供便捷的数据访问与分析途径，值得关注。",
+      "title": "roadDB: An R package for exploring early human prehistory and environments with the ROCEEH Out of Africa Database",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0359952&hl=zh-CN&sa=X&d=12488814448033050529&ei=mjzNauyfEpHuieoP9_PwoQU&scisig=ACTRDVHg66aeKvfiTIypOpQcipyL&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=7&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:8dee8d5142280ed3e02e5e4a46a0e804ad6f5007c666df33e9118d04e8679f4f",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《基于ZooMS参考的博物馆象牙振动分类标记分析评估》：该研究以ZooMS为参照，评估博物馆象牙中振动分类标记的可靠性，适合关注文物鉴定与光谱分析的研究者参考。",
+      "title": "ZooMS-referenced analytical assessment of vibrational taxonomic markers in museum ivory",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S0026265X26031619&hl=zh-CN&sa=X&d=14039688464872474074&ei=mjzNavSmKq7N6rQP3IrzgQM&scisig=ACTRDVHKANCVmEyrgfj1B_ZXCV1U&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=2&folt=cit",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
