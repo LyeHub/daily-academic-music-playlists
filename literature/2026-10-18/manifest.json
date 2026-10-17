@@ -1,0 +1,384 @@
+{
+  "date": "2026-10-18",
+  "items": [
+    {
+      "abstract": "Abstract Shanidar Cave has long featured in debates concerning Neanderthal cognitive capacity and behaviour, including evidence for care and intentional burial. By identifying additional individuals, including Shanidar A reported here, new excavations have expanded a burial cluster first identified in 1960. Shanidar A, an older adult, was deposited around 75,000 years ago, decayed, and their skeletal remains were subsequently disturbed by a flash flood. Our findings raise the minimum number of individuals in this unparalleled cluster to five, supporting interpretations of complex, potentially meaningful Neanderthal mortuary behaviour. Shanidar A also demonstrates major non-fatal trauma to the face and rare evidence of perimortem penetrating trauma among Neanderthals. Trauma among Middle and Upper Palaeolithic Neanderthals and modern humans, and subsequent survival, is common. However, the facial injury was severe and unusual. It suggests care from group members, the evolutionary origins of which are also contentious. The nature of the perimortem penetrating traumatic injury adds to a small corpus of such injuries in the hominin fossil record. The morphology of this scapula perforation is consistent with injury from a wooden spear, providing valuable (albeit indirect) evidence for the use of wooden implements in the Middle Palaeolithic, which is often difficult to demonstrate given the rare preservation of organic materials.",
+      "authors": [
+        "Ana Pantoja Pérez",
+        "Chris O. Hunt",
+        "Duncan Pirrie",
+        "Emma Pomeroy",
+        "Graeme Barker",
+        "James Holman",
+        "Jessica Twyman",
+        "Lucía López‐Polín",
+        "Nohemi Sala",
+        "Paul Bennett",
+        "Ross Lane",
+        "Tim Reynolds"
+      ],
+      "doi": "10.1038/s41598-026-69193-z",
+      "id": "doi:10.1038/s41598-026-69193-z",
+      "publication_date": "2026-10-15",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《来自沙尼达尔洞穴一新尼安德特人个体的丧葬行为与致命创伤证据》：该研究报道了约7.5万年前沙尼达尔A老年个体的骨骼遗存，其面部严重非致命创伤提示群体照料，肩胛骨穿孔形态与木矛所致损伤相符，为旧石器时代中期木制工具使用提供间接证据，并将该墓葬群最少个体数增至五个，值得关注尼安德特人认知与行为的研究者阅读。",
+      "title": "Evidence for funerary behaviour and lethal trauma in a new Neanderthal individual from Shanidar Cave",
+      "topics": [
+        "hominin",
+        "Middle Palaeolithic",
+        "Neanderthal"
+      ],
+      "url": "https://doi.org/10.1038/s41598-026-69193-z",
+      "venue": "Scientific Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "A. Arteaga-Brieba",
+        "A. Pablos",
+        "J.-X Zhao",
+        "L.J. Arnold",
+        "M. Arriolabengoa",
+        "M. Duval",
+        "N. Sala",
+        "V. Martínez-Pillado"
+      ],
+      "doi": "10.1016/j.quageo.2026.101779",
+      "id": "doi:10.1016/j.quageo.2026.101779",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《不止于年龄：铀系与电子自旋共振测年揭示西班牙瓜达拉哈拉马拉利亚岩址化石牙齿的沉积后过程》：该研究运用铀系与电子自旋共振测年方法分析化石牙齿，揭示遗址的沉积后过程，适合关注ESR测年与铀系年代学及遗址形成过程的研究者参考。",
+      "title": "More than just an age: U-series/ESR dating of fossil teeth reveals post-depositional processes at Abrigo de la Malia site (Guadalajara, Spain)",
+      "topics": [
+        "ESR dating",
+        "U-series"
+      ],
+      "url": "https://doi.org/10.1016/j.quageo.2026.101779",
+      "venue": "Quaternary Geochronology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Hamoudi Khalaily",
+        "Jacob Vardi",
+        "Lidar Sapir-Hen",
+        "Nimrod Katzir"
+      ],
+      "doi": "10.1016/j.jas.2026.106713",
+      "id": "doi:10.1016/j.jas.2026.106713",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《前陶新石器时代B期大型遗址生存策略与不同命运勘误：猪的集约化养殖是定居点延续至公元前七千纪的关键》：该文为原研究的勘误，涉及前陶新石器时代B期大型遗址生存策略及猪集约化养殖与定居点延续关系的论述，可供关注相关原始研究及勘误内容的读者查阅。",
+      "title": "Corrigendum to “Subsistence strategy and the divergent fates of PPNB megasites: Pig intensification as a key to settlement persistence into the seventh millennium BC” [J. Archaeol. Sci. 194 (2026) 106683]",
+      "topics": [
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1016/j.jas.2026.106713",
+      "venue": "Journal of Archaeological Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Joel Grima",
+      "authors": [
+        "Joel Grima"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106134",
+      "id": "doi:10.1016/j.jasrep.2026.106134",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《马耳他车辙的年代学：对现有断代证据的批判性评估》：Joel Grima在这篇发表于《考古科学杂志：报告》的论文中，系统梳理并批判性评估了马耳他车辙现有断代证据，值得关注地中海考古年代学问题的读者阅读。",
+      "title": "The chronology of the Maltese cart ruts: a critical evaluation of the available dating evidence",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106134",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    <jats:italic>Ardea alba</jats:italic>\n                    (Linnaeus, 1758) is widely distributed, yet knowledge of its ocular morphology remains limited. This study described the morphometry and morphology of the eyeball and its accessory glands in six specimens using radiography, morphometry, light and scanning electron microscopy, and 3D scanning. The eyeballs showed similar descriptive morphometric values in the right and left eyes, accounting for approximately 11.2% of head mass and 12.12% of total skull length. The eye was classified as the flat type, a morphology previously associated in the literature with diurnal birds, featuring a yellow iris and a circular pupil. The scleral ring consists of 14 bilateral type A ossicles associated with hyaline scleral cartilage. Histologically, the cornea showed a well‐defined Bowman's membrane, and the retina had 10 distinct layers. The pleated type pecten emerged from the optic nerve and extended toward the vitreous body. The accessory glands were characterized as follows: the Harderian gland (type II) was the most developed; the lacrimal gland was “hockey‐stick” shaped; and the nasal gland (salt gland) was supraorbital in location and pyramidal in appearance. These results provide a robust anatomical basis for comparative avian ophthalmology.\n                  </jats:p>",
+      "authors": [
+        "Ana Rita de Lima",
+        "Antônio Basílio Guerreiro Junior",
+        "Elane Guerreiro Giese",
+        "Iara Fernanda Lima do Espírito Santo",
+        "Julia Vaz Feio",
+        "Julia Vaz Feio, Max Alex Santos Ferreira, Iara Fernanda Lima do Espírito Santo, Elane Guerreiro Giese, Érika Branco, Antônio Basílio Guerreiro Junior, Ana Rita de Lima",
+        "Max Alex Santos Ferreira",
+        "Érika Branco"
+      ],
+      "doi": "10.1002/ar.70379",
+      "id": "doi:10.1002/ar.70379",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:The Anatomical Record"
+      ],
+      "summary": "《大白鹭眼部形态与形态计量学：一项全面的解剖学描述》：该研究利用X射线摄影、形态计量、光镜与扫描电镜及三维扫描，对六例大白鹭眼球及其附属腺进行描述，发现眼球约占头重的11.2%、颅长的12.12%，属扁平型，虹膜黄色、瞳孔圆形，巩膜环由14枚双侧A型小骨与透明软骨构成，并详述角膜、视网膜十层结构及栉膜、哈氏腺、泪腺与鼻腺特征，为比较鸟类眼科学提供了解剖学基…",
+      "title": "Ocular morphology and morphometry of the great egret (\n                    <i>Ardea alba</i>\n                    ): A comprehensive anatomical description",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70379",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Interglobular dentin (IGD) has been used as a biomarker for vitamin D deficiency (VDD) in past populations. However, an evidence‐based threshold for the levels of serum vitamin D associated with IGD occurrence has not been established. Here, we explore the association between perinatal serum vitamin D levels, presence of IGD, and biological sex in the deciduous teeth of modern children from Otago, New Zealand. Ground sections were created from the deciduous central or lateral mandibular incisors of 54 five to 6‐year‐old children (27 M, 27 F) with known perinatal blood vitamin D levels. Vitamin D levels at birth were classified as deficient (≤ 30 nmol/L), insufficient (&gt; 30mn/L–&lt; 50 nmol/L), or sufficient (≥ 50 nmol/L), and scanned slides were scored blind by two observers for IGD presence or absence. Thirty‐seven individuals (68.5%) exhibited IGD. The distribution of IGD was similar across vitamin D levels considered deficient (35.1%), insufficient (32.4%), and sufficient (32.4%), with no significant association between IGD presence and vitamin D status (\n                    <jats:italic>p</jats:italic>\n                     = 0.97) or IGD presence and sex (\n                    <jats:italic>p</jats:italic>\n                     = 0.77). Our findings do not support an association between IGD formation in deciduous teeth and vitamin D levels at birth. The prevalence of IGD across the sample, particularly in secondary dentin, suggests IGD may represent a normal developmental feature. However, it is important to note that cord blood vitamin D levels do not reflect the individual's vitamin D status during the entire period of deciduous incisor formation. Further longitudinal clinical research is required to better understand the relationship between VDD and the formation of IGD.\n                  </jats:p>",
+      "authors": [
+        "Anne Marie Sohler‐Snoddy",
+        "Anne Marie Sohler‐Snoddy, Stephanie Chan, Rebecca Weastell, Victoria Chen, Benjamin J. Wheeler, Deanna Beckett, Carolina Loch",
+        "Benjamin J. Wheeler",
+        "Carolina Loch",
+        "Deanna Beckett",
+        "Rebecca Weastell",
+        "Stephanie Chan",
+        "Victoria Chen"
+      ],
+      "doi": "10.1002/ajpa.70370",
+      "id": "doi:10.1002/ajpa.70370",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:American Journal of Biological Anthropology"
+      ],
+      "summary": "《出生时血清维生素D水平与现代新西兰儿童乳牙球间牙本质形成无关》：该研究对54名有围产期血维生素D记录的5至6岁儿童乳切牙进行磨片盲法评分，考察出生时维生素D水平、球间牙本质（IGD）及生物性别之间的关联，结果显示68.5%个体存在IGD，其分布在不同维生素D水平组间无显著差异，提示IGD可能是正常发育特征，值得关注维生素D缺乏生物标志物研究的读者阅读。",
+      "title": "Serum Vitamin D Levels at Birth Are Not Associated With the Formation of Interglobular Dentin in Deciduous Teeth of Modern New Zealand Children",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ajpa.70370",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "S. Danise",
+        "M. Taviani",
+        "J. Steger",
+        "P.G. Albano"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110334",
+      "id": "doi:10.1016/j.quascirev.2026.110334",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《末次间冰期地中海软体动物生物多样性综述》：该文对末次间冰期地中海软体动物的生物多样性进行综述，值得关注该时期海洋生物多样性状况的读者阅读。",
+      "title": "A review of molluscan biodiversity in the Mediterranean Sea during the Last Interglacial",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110334",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Lisa Yeomans",
+        "Camilla Mazzucato",
+        "Riccardo Alba",
+        "Dan Chamberlain",
+        "Beatrice Demarchi"
+      ],
+      "doi": "10.1016/j.jaa.2026.101823",
+      "id": "doi:10.1016/j.jaa.2026.101823",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《计数乌鸦：鸦科动物对人造环境的适应表明行为生态学如何改进对多物种共文化的解读》：论文探讨鸦科动物如何适应人造环境，并论证行为生态学对理解多物种共文化的价值，适合关注人类与动物共处及跨学科方法的读者。",
+      "title": "Counting crows: Corvid adaptations to anthropogenic environments demonstrate how behavioural ecology improves interpretation of multispecies co-culture",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jaa.2026.101823",
+      "venue": "Journal of Anthropological Archaeology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Amy Thomas",
+        "Attila Nemes",
+        "David Robinson"
+      ],
+      "doi": "10.1016/j.catena.2026.110657",
+      "id": "doi:10.1016/j.catena.2026.110657",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《有机碳在环境梯度上主导土壤孔隙度，有机碳—黏土指标提供次要洞见》：该研究考察有机碳在环境梯度上对土壤孔隙度的主导作用，并评估有机碳—黏土指标提供的次要洞见，可供关注土壤结构与碳黏土相互作用的读者参考。",
+      "title": "Organic carbon dominates soil porosity across environmental gradients, with organic carbon–clay metrics providing secondary insight",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.catena.2026.110657",
+      "venue": "CATENA",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "E. Sreevidya",
+        "R.A. Sebastian",
+        "M.B.L. Mascarenhas-Pereira",
+        "B. Nagender Nath",
+        "R. Mohan",
+        "A.V. Sijinkumar"
+      ],
+      "doi": "10.1016/j.quaint.2026.110500",
+      "id": "doi:10.1016/j.quaint.2026.110500",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《翼足类保存状况揭示中更新世转型期碳酸盐溶解及安达曼海埃姆间冰期保存峰值》：该研究利用翼足类化石保存状况，重建中更新世转型期的碳酸盐溶解历史，并识别出埃姆间冰期的保存峰值，为理解该区域古海洋环境变化提供了新证据，值得相关研究者阅读。",
+      "title": "Pteropod preservation reveals carbonate dissolution across the Mid-Pleistocene Transition and an Eemian preservation spike in the Andaman Sea",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quaint.2026.110500",
+      "venue": "Quaternary International",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:a75daa0f5c50a79a64a2392a486a37f4a5bdab7302d16fb88f208d7b419eb672",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《晚格拉维特文化初期：奥地利Grub-Kranawetberg I多层格拉维特露天遗址的更新年代学与地层学研究》：该研究更新了该遗址的年代学与地层框架，为理解晚格拉维特文化初期提供关键年代与地层依据，适合关注旧石器时代考古与地层学的读者参考。",
+      "title": "At the onset of the Late Gravettian: An updated chronology and stratigraphy for the multi-layered Gravettian open-air site Grub-Kranawetberg I (Austria)",
+      "topics": [
+        "stratigraphy"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S2352409X26005511&hl=zh-CN&sa=X&d=17477669653967731069&ei=UvvSas9xg6eJ6g_P7r_ZBg&scisig=ACTRDVGPWVoY2Sf9OSE5bzWfa2rb&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=6&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:9d35333c940c8f0b1aab5cc8cdaee8893055f0af79d0f7dd4ff6370aa73fb206",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《牙齿微磨痕揭示伊比利亚半岛中新世松鼠进食生态的环境控制》：该研究利用牙齿微磨痕分析，探讨伊比利亚半岛中新世松鼠的进食生态如何受环境因素控制，适合关注古生态与微磨痕方法的读者阅读。",
+      "title": "Dental microwear unveils environmental control of feeding ecology in Miocene squirrels from the Iberian Peninsula",
+      "topics": [
+        "dental microwear"
+      ],
+      "url": "https://link.springer.com/article/10.1007/s10914-026-09846-y",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:4261cdfbaea60e33b654980f5db42053fee60330e5d67f65cc47d25af39475f3",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《坦桑尼亚奥杜威峡谷第二层火山石工具的功能：FC东、西遗址案例研究》：该研究以奥杜威峡谷第二层FC东、FC西遗址的火山石工具为对象，探讨其功能，值得关注早期石器用途与遗址行为的读者阅读。",
+      "title": "The Function of Volcanic Stone Tools from Bed II at Olduvai Gorge, Tanzania: A Case Study From the FC East and FC West Sites",
+      "topics": [
+        "Olduvai"
+      ],
+      "url": "https://link.springer.com/article/10.1007/s41982-026-00273-2",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:b246245f59cb418157686af9719e545dc84f6184be4feb59123ead0f0060e155",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《从旧石器时代末期到铜石并用时代的西里西亚黑曜岩交换：位于安纳托利亚中部与黎凡特之间的证据》：该研究考察西里西亚地区在上述时期黑曜岩交换的情况，有助于了解安纳托利亚中部与黎凡特之间的史前联系。",
+      "title": "Cilicia between Central Anatolia and the Levant: Evidence of obsidian exchange from the Epipalaeolithic to the Chalcolithic periods",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://hal.science/hal-05794110/&hl=zh-CN&sa=X&d=18206743102029729366&ei=UvvSas9xg6eJ6g_P7r_ZBg&scisig=ACTRDVFYUsGJ5-PIl_DdTJZ9xLFL&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=3&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:7bc7f821189fc7a9ff9842a973237389bd78baaae144d6076861e0b18de08ebe",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《库拉-阿拉克斯时期阿拉拉特平原古代人群的黑曜石获取策略：以沃斯克布卢尔发掘为例》：该研究以沃斯克布卢尔发掘为例，考察库拉-阿拉克斯时期阿拉拉特平原古代人群的黑曜石获取策略，适合关注史前资源利用与区域交流的读者参考。",
+      "title": "Obsidian procurement strategies of ancient populations in the Ararat Plain during the Kura-Araxes; example from the Voskeblur excavation",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://hal.science/hal-05794067/&hl=zh-CN&sa=X&d=14247697667661609376&ei=UvvSas9xg6eJ6g_P7r_ZBg&scisig=ACTRDVGF_57d3kM-1t4N1BFOfVUw&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=7&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:c9c6088b2750caca7f87fec15857e1ffe66a0b870b0c485b98a71638be4d12fe",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《有机残留物与文化记忆：重建古代饮食方式与仪式实践中考古化学证据的系统综述》：该文系统梳理考古化学证据在重建古代饮食方式与仪式实践中的应用，适合关注食物考古、仪式研究与文化遗产的读者了解相关研究进展。",
+      "title": "Organic Residues and Cultural Memory: A Systematic Review of Archaeochemical Evidence in Reconstructing Ancient Foodways and Ritual Practices",
+      "topics": [],
+      "url": "https://www.preprints.org/frontend/manuscript/9d9283a121cad4983eeab1decb9100ab/download_pub",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:267307fb84d02aafe4329ea6f28fba6f8f2d73571103bde7ab0f52908417c568",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《Fynbos植物和土壤中的植硅体：对南非考古与古生态研究的意义》：该论文探讨Fynbos植物和土壤中的植硅体及其对南非考古与古生态研究的意义，值得关注植硅体分析与南非相关研究的人阅读。",
+      "title": "Phytoliths in Fynbos plants and soils: Implications for South African archaeological and palaeoecological research",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S0034666726002484&hl=zh-CN&sa=X&d=4351304147133387171&ei=UvvSas9xg6eJ6g_P7r_ZBg&scisig=ACTRDVHc5m1G4t4HZhgjg34_fZ_J&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=1&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:9b80898a47b7844d46f39b001844b56b08e3e06e439a0330f8d7fa93b8a0bcd1",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《北非早期智人的技术组织与居住行为：摩洛哥比兹穆恩洞穴的阿泰尔文化occupation》：该研究考察摩洛哥比兹穆恩洞穴阿泰尔文化occupation所反映的早期智人技术组织与居住行为，值得关注北非早期智人行为研究的读者阅读。",
+      "title": "Technological organization and residential behavior among early Homo sapiens in North Africa: The Aterian occupation of Bizmoune Cave, Morocco",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S0047248426000965&hl=zh-CN&sa=X&d=7791969911332309968&ei=UvvSati9GtK2ieoP5a2TgQE&scisig=ACTRDVHNGdw-Ctg65R-CH7e6APsj&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=0&folt=cit",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
