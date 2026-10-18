@@ -1,0 +1,621 @@
+{
+  "date": "2026-10-19",
+  "items": [
+    {
+      "abstract": "Artificial intelligence (AI) holds great potential in medical diagnosis owing to its remarkable accuracy and efficiency. We previously proposed a deep learning-based tooth wear severity grading system (TWGS) based on intraoral photographs (PT). This study aims to extend its application to intraoral scans (IOS), improve model accuracy through sample expansion and class balancing, and compare the performance of models trained on diverse datasets. Full-arch occlusal/incisal images (268 IOS and 257 PT) were input into the segmentation model (mask region-based convolutional neural network + self-attention + U-Net algorithm) for training. Subsequently, 3195 IOS and 3117 PT individual tooth images output from the segmentation task were incorporated into the classification model (vision transformer + ResNet algorithm), annotated with Tooth Wear Index (TWI), and randomized into training, validation, and test sets in a 4:1:1 ratio. Class imbalance was addressed through targeted data augmentation strategies. The performance of TWGS was evaluated using several metrics: mean average precision (mAP), accuracy, precision, recall, F1-score, and weighted kappa coefficient. Comparative analysis of classification performance was conducted between anterior and posterior tooth segments, as well as maxillary and mandibular arches. Cross-dataset analysis was performed to evaluate the model’s generalization capability. The accuracy and time required for AI analysis was assessed and compared with that of manual diagnosis. For IOS datasets, the segmentation and classification models demonstrated superior performance, achieving an mAP of 0.91 and a mean accuracy of 0.89. IOS demonstrated superior segmentation performance over PT (mAP: 0.91 vs. 0.85), whereas both modalities yielded comparable accuracy in tooth wear classification (IOS: 0.89; PT: 0.88). After class balancing, the model’s ability to recognize TWI-3 significantly improved, with the mean F1-score increased from 0.84 to 0.89 in IOS, and 0.86 to 0.89 in PT. Comparable diagnostic accuracy was observed across tooth positions and arch locations ( P > 0.05 for both comparisons). Cross-dataset validation showed significant declines in segmentation (mAP: 0.78–0.80) and classification (F1-score: 0.61–0.66) accuracies. TWGS achieved superior grading accuracy compared to junior and mid-level clinicians, while dramatically reducing assessment time from 2.70 ± 1.78 s to 0.08 ± 0.01 s ( P < 0.01). TWGS exhibits superior accuracy and efficiency in determining occlusal/incisal wear degree in both IOS and PT datasets. The class balancing technique significantly improves the performance of TWGS in grading severe wear. TWGS represents a promising adjunct for two-dimensional image‑based assessment of tooth wear severity.",
+      "authors": [
+        "Jian-Guo Tan",
+        "Ling-Xiao Zhang",
+        "Lingxiao Zhang",
+        "Ming-Yue Liu",
+        "Xin-Shu Dong",
+        "Xin-Yu Mao",
+        "Xun Sheng",
+        "Ya-Ning Pang",
+        "Yang Du"
+      ],
+      "doi": "10.1186/s12903-026-09772-8",
+      "id": "doi:10.1186/s12903-026-09772-8",
+      "publication_date": "2026-09-11",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《基于深度学习的口内扫描牙齿磨损严重程度自动评估系统评价》：该研究将牙齿磨损严重程度分级系统扩展至口内扫描数据，通过样本扩充与类别平衡提升模型精度，并比较不同数据集训练模型的表现；结果显示该系统在口内扫描数据集上分割与分类性能较优，类别平衡后对重度磨损识别明显改善，分级准确率优于初中级临床医生且评估时间大幅缩短，值得关注。",
+      "title": "Evaluation of a deep learning-based system for automated assessment of tooth wear severity on intraoral scans",
+      "topics": [
+        "孤立牙齿与多视图识别"
+      ],
+      "url": "https://doi.org/10.1186/s12903-026-09772-8",
+      "venue": "BMC Oral Health",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "By using 3D teeth segmentation via Intraoral scan, digitized dentistry becomes possible and easy. 3D instance segmentation is complex due to the complicated architecture of intraoral scan teeth, lack of boundary between adjacent teeth, and point cloud data noise. Primary methods cannot simultaneously obtain local and global connection data to the dental arches in areas with overlapping archform and crowded arch dimensions, resulting in the errors that are found there. To address the multi-scale representation gap and overcome the limitation of single-scale feature learning, dual-Graph Fusion Network (DGF-Net) can be used to reduce the gap between multi-scale and single-scale graph feature learning. A key feature of DGF-Net is its dual-graph design, which comprises of two channels for graph processing. Global graph channels are active in collecting topology and semantics, while local graph channels are active in collecting high resolution geometry. Under a trained fusion module both channels provide different feature detail information which is fused together. On comprehensive clinical dentistry point cloud dataset, the DGF-Net achieved 98.54% accuracy in segmentation and 97.89% Dice coefficient, outperforming state-of-the-art approaches. Through the accurate and stable nature of the DGF-Net model, various dental treatment scenarios can be efficiently realized, such as automated orthodontic simulation or precision manufacturing of patient-specific surgical guides, which enhances the efficiency and personalized nature of dental treatment.",
+      "authors": [
+        "Chen Yang",
+        "Ezzeddine Touti",
+        "Ezzedine Touti",
+        "Han Wu",
+        "Hongyan Wu",
+        "Mourad Elloumi",
+        "Ping Guo",
+        "Weiqian Wang",
+        "Yuanyuan Lu",
+        "Zhe Zhao",
+        "Zhengyi Zhao"
+      ],
+      "doi": "10.1038/s41598-026-63571-3",
+      "id": "doi:10.1038/s41598-026-63571-3",
+      "publication_date": "2026-07-27",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《用于牙科三维点云模型分割的双通道图神经网络》：该研究提出双图融合网络DGF-Net，以全局与局部双通道分别提取拓扑语义和高分辨率几何特征并融合，在临床牙科点云数据集上取得98.54%分割准确率和97.89%Dice系数，值得关注三维牙齿自动形态分析与数字化口腔应用的研究者阅读。",
+      "title": "Dual-channel graph neural network for dental 3D point cloud model segmentation",
+      "topics": [
+        "三维自动形态分析"
+      ],
+      "url": "https://doi.org/10.1038/s41598-026-63571-3",
+      "venue": "Scientific Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "This study aimed to construct a machine learning model for automatic grading of the degree of wear of each tooth. Intraoral scan models from 200 patients (4,556 teeth) were retrospectively collected and independently annotated by three calibrated dentists using the 2001 Lobbezoo tooth wear classification system. After exclusions, 4,256 teeth were used for model training and 300 for testing (balanced 100 per wear grade: no, mild, moderate)AQ. The SnowflakeNet method with point cloud deep learning was applied to extract morphological features and construct a three-class classification model. The SnowflakeNet method with snowflake point deconvolution was used to generate point clouds, extract the morphological features of each tooth, and construct a machine-learning model. The performance of the classification model was evaluated using a confusion matrix; receiver operating characteristic and precision recall curves; and area under the curve (AUC). The overall accuracy of the Point-MAE model with pre-training was 73.7%. Class-wise performance varied: moderate wear achieved the highest precision (91.4%) and specificity (96.5%), while mild wear—the most clinically critical category for early intervention—showed lower precision (61.6%) and F1-score (0.65). The area under the curve (AUC) values were 0.88, 0.80, and 0.92 for no, mild, and moderate wear, respectively. In external validation on 50 patients (1,363 teeth), the weighted kappa coefficient for agreement between AI and dentists was 0.827 (95% CI: 0.802–0.852), indicating strong consistency. The point cloud learning model could achieve automatic intraoral scan model grading, demonstrating potential as an assistive tool that requires further optimization and validation for grading teeth with no, mild, and moderate wear. However, its grading efficacy must be further optimizeAQd.",
+      "authors": [
+        "Chenxi Jin",
+        "Huiting Deng",
+        "Jing Guo",
+        "Wei Shen",
+        "Weilun Dai",
+        "Yang Lei",
+        "Yuxin Shi"
+      ],
+      "doi": "10.1186/s12903-026-09333-z",
+      "id": "doi:10.1186/s12903-026-09333-z",
+      "publication_date": "2026-07-24",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《基于点云深度学习的牙齿磨损自动分级系统》：该研究利用口内扫描模型与点云深度学习方法构建牙齿磨损三分类模型，在外部验证中与牙医评分的加权kappa系数达0.827，显示较强一致性，可为牙齿磨损自动分级辅助工具的研发提供参考。",
+      "title": "Point cloud deep learning-based automatic grading system for tooth wear",
+      "topics": [
+        "三维自动形态分析"
+      ],
+      "url": "https://doi.org/10.1186/s12903-026-09333-z",
+      "venue": "BMC Oral Health",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>魏凯\n南京高精齿轮集团有限公司，江苏南京\n摘要：工业齿轮箱是重载传动设备的核心部件，断齿是其最具破坏性的常见故障之一，准确提取断齿故障的振动特征是实现早期故障诊断的关键。本文首先分析了断齿故障的产生机理，明确了断齿位置、工况参数对齿轮箱振动响应的影响规律，在此基础上搭建了多工况断齿故障模拟试验平台，设计了不同工况下的断齿故障模拟试验方案，提出了融合时频分析与深度学习的断齿故障振动特征提取方法，通过对比试验验证了该方法的准确率与稳定性。</jats:p>",
+      "authors": [
+        "魏凯"
+      ],
+      "doi": "10.62836/gse.v3i2.1276",
+      "id": "doi:10.62836/gse.v3i2.1276",
+      "publication_date": "2026-06-30",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《工业齿轮箱断齿故障模拟试验及振动特征提取方法验证》：该文分析断齿故障产生机理及断齿位置、工况参数对振动响应的影响规律，搭建多工况断齿故障模拟试验平台并设计试验方案，提出融合时频分析与深度学习的振动特征提取方法，通过对比试验验证其准确率与稳定性，可供关注齿轮箱早期故障诊断的读者参考。",
+      "title": "工业齿轮箱断齿故障模拟试验及振动特征提取方法验证",
+      "topics": [
+        "孤立牙齿与多视图识别"
+      ],
+      "url": "https://doi.org/10.62836/gse.v3i2.1276",
+      "venue": "环球科学与工程",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    Small mammals are highly sensitive bioindicators widely used to reconstruct paleoenvironmental conditions. This study analyzes modern and archeological assemblages from Northern Córdoba province (central Argentina) to evaluate changes in community structure from the Holocene to the present. Modern data derive from raptor pellet samples across different environmental units (Espinal, Mountain Chaco and Arid Chaco), while archeological data span ca. 6000–400 years BP and come from the Mountain Chaco. Taxonomic richness, diversity, and evenness were assessed, and assemblage composition was examined in relation to environmental and taphonomic factors. Archeological assemblages show moderate to high diversity and reflect heterogeneous landscapes, with gradual compositional changes through time. The presence of taxa such as\n                    <jats:italic toggle=\"yes\">Holochilus brasiliensis</jats:italic>\n                    in currently unsuitable environments suggests past conditions of greater moisture. In contrast, modern assemblages are dominated by opportunistic and introduced species, indicating a marked ecological reorganization. These results suggest long-term stability during the Holocene, followed by recent, human-drive changes linked to land-use intensification, habitat transformation, and biotic homogenization.\n                  </jats:p>",
+      "authors": [
+        "Carla Chirino",
+        "Carlos A. Luna",
+        "Celina Travaglino",
+        "José Coda",
+        "Julián Mignino",
+        "Luca Crivelli",
+        "Luís Humberto Aguilar"
+      ],
+      "doi": "10.1177/09596836261494543",
+      "id": "doi:10.1177/09596836261494543",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《阿根廷中部科尔多瓦北部晚全新世及近期小型哺乳动物群落变化：来自考古记录与猫头鹰食团的证据》：研究利用猛禽食团现生样本与约6000至400年前考古组合，评估该地区全新世以来小型哺乳动物群落结构变化，发现考古组合多样性中等至较高并反映异质景观，现生组合则由机会主义种和引入种主导，指示近期人类驱动的生态重组，可供关注古环境重建与生物多样性变化的读者参考。",
+      "title": "Late-Holocene and recent changes in small mammal communities of Northern Córdoba (central Argentina): Evidence from archeological records and owl pellets",
+      "topics": [
+        "paleoenvironment"
+      ],
+      "url": "https://doi.org/10.1177/09596836261494543",
+      "venue": "The Holocene",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "The Santa Isabel de Ranero (SIR) assemblage is one of the most significant collections of Ursus deningeri in the Iberian Peninsula. This study aims to characterise the formation processes of the site using a combined palaeobiological, geological and taphonomic approach. Fossil remains were recovered from four different sectors of the cave: Entrance and Esparta, which produced small surface collections, Bear, and Lion. The Bear Sector has provided evidence of, at least, 16 U. deningeri individuals and one lion dated to c. 300 ka (MIS 8). Two thirds of the bears are either late juveniles or early prime adults, and the sex of nine of these individuals has been determined: seven females and two males. Based on the presence of all anatomical parts, the absence of anthropogenic marks, and the low percentage of carnivore modifications, humans and hyaenas can be ruled out as the primary accumulating agents. Based on the demographic profile and the absence of shed deciduous dentition, we can also rule out the possibility that this accumulation is related to mortality during birthing or hibernation. We propose that this bear accumulation is the result of a natural endokarstic trap, probably originating from the upper conduit where the Esparta Sector is located. The Lion Sector yielded a limited assemblage from the Late Pleistocene, associated with allochthonous anorthic ferruginous nodules, which would suggest a natural trap directly connected to the exterior. The SIR assemblage highlights the important role of natural traps in reconstructing Pleistocene ecosystems in the Cantabrian region.",
+      "authors": [
+        "Asier Gómez‐Olivencia",
+        "Martín Arriolabengoa",
+        "Nohemi Sala",
+        "Adrián Pablos",
+        "Virginia Martínez-Pillado",
+        "Paloma López-Guerrero",
+        "Adriana Oliver",
+        "Mónica Villalba de Alvarado",
+        "ALVAR MANJÓN-GARCÍA",
+        "Harkaitz Eguiraun",
+        "Laura García Boullosa",
+        "JAVIER MORENO",
+        "ANDRÉS NEILA",
+        "JAIME ORTIZ",
+        "Mikel Arlegi"
+      ],
+      "doi": "10.54103/2039-4942/30597",
+      "id": "doi:10.54103/2039-4942/30597",
+      "publication_date": "2026-10-16",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《圣伊莎贝尔·德·拉内罗古生物遗址（中更新世；卡兰察，比斯开，伊比利亚半岛北部）的新地质背景与遗址形成过程》：该研究结合古生物学、地质学和埋藏学方法，分析该洞穴遗址中丹氏熊等化石的堆积过程，提出熊类化石可能源于自然喀斯特陷阱，并探讨自然陷阱在重建坎塔布连地区更新世生态系统中的作用，值得对中更新世遗址形成与古生态感兴趣的读者阅读。",
+      "title": "NEW GEOLOGICAL CONTEXT AND SITE FORMATION PROCESSES OF THE SANTA ISABEL DE RANERO PALAEONTOLOGICAL SITE (MIDDLE PLEISTOCENE; KARRANTZA, BISCAY, NORTHERN IBERIAN PENINSULA)",
+      "topics": [
+        "Middle Pleistocene",
+        "site formation"
+      ],
+      "url": "https://doi.org/10.54103/2039-4942/30597",
+      "venue": "RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Accurate 3D landmark detection on point clouds of high-variance biological anatomical structures, such as Intraoral Scans (IOS), remains a challenging task in computer vision and pattern recognition. Prior methods struggle with geometric irregularities and require computationally expensive preprocessing like tooth segmentation. In this work, we present CHaRM (Conditioned Heatmap Regression Methodology), a segmentation-free, end-to-end deep learning approach for 3D tooth landmark detection that explicitly models tooth presence, enabling robust detection on complex IOS with missing teeth. CHaRM integrates four components: 1) a point cloud encoder, 2) a decoder with a heatmap regression head, 3) a teeth-presence classification head, and 4) the novel CHaR module that leverages teeth-presence information to adapt to missing teeth, improving detection accuracy in complex dentition. Unlike two-stage workflows that segment teeth before landmarking, CHaRM operates directly on IOS point clouds, reducing complexity, avoiding error propagation, and lowering computational cost. Given the lack of public datasets for landmark detection in 3D IOS (see Table 1), we evaluated CHaRM with five point cloud learning backbones on IOSLandmarks-1k, a new dataset of 1,214 annotated 3D dental models. Both the dataset and code will be publicly released to address the scarcity of open data in orthodontics and foster reproducible research. CHaRM with PointMLP, named CHaRNet, achieved the best accuracy and efficiency. We evaluate under a presence-aware protocol in which a landmark counts as correct only if its supporting tooth is correctly determined present and its predicted position lies within the 1 mm clinical tolerance. CHaRNet attains an F1@1 mm of 88.98 on standard dental models and 68.34 macro-averaged across all dentition types. Compared to state-of-the-art methods (TSMDL and ALIIOS), CHaRM overcomes the best of the two baselines by a median of 8.75 F1@1 mm points per scan on incomplete dentitions and provides statistically similar results on complete dentitions. Besides, CHaRM delivers up to 14.8 × faster inference on GPU. This end-to-end approach streamlines orthodontic workflows, enhances the precision of 3D IOS analysis, and enables efficient computer-assisted treatment planning.",
+      "authors": [
+        "José Rodríguez-Ortega",
+        "Francisco Pérez-Hernández",
+        "Siham Tabik"
+      ],
+      "doi": "10.1016/j.eswa.2026.134592",
+      "id": "doi:10.1016/j.eswa.2026.134592",
+      "publication_date": "2026-09-30",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《CHaRM：用于复杂口内扫描三维地标精准检测的无分割深度学习方法》：该研究提出一种无需牙齿分割的端到端深度学习方法，通过显式建模牙齿存在性来应对缺牙等复杂情况，并在新构建的1214个标注三维牙颌模型数据集上验证，在缺牙牙列上较现有方法中位提升8.75个F1@1毫米点且GPU推理最高快14.8倍，值得关注三维口内扫描自动分析的研究者阅读。",
+      "title": "CHaRM: Segmentation-free deep learning methodology for accurate 3D landmark detection on complex intraoral scans",
+      "topics": [
+        "三维自动形态分析"
+      ],
+      "url": "https://doi.org/10.1016/j.eswa.2026.134592",
+      "venue": "Expert Systems with Applications",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Build orientation for selective laser melting (SLM) manufacturing of dental parts is usually chosen manually by technicians. We treat orientation prediction as supervised machine learning of the part's up-axis from technician-labeled production data, and test which rotation representations produce the best results. Using $n\\approx2400$ patient-specific dental parts, we trained a ResNet-50 multi-view image backbone and a PointNeXt-S point-cloud backbone, both pretrained and fine-tuned end-to-end, on 13 up-axis representations spanning six classical $SO(3)$ parameterizations and seven representations defined directly on the unit sphere $S^2$. We report the geodesic angular error between predicted and ground-truth up-axis on a test set, with and without test-time augmentation (TTA) over $K=21$ known rotations. With TTA, the octahedral map achieves the lowest mean angular error ($10.6^\\circ$, ResNet-50). The three lowest-error results overall are direct $S^2$ representations, though this may reflect label noise in the unsupervised in-plane component of the $SO(3)$ targets rather than a topological advantage. von Mises-Fisher collapses to a near-constant prediction when trained with PointNeXt-S but not with ResNet-50. TTA reduces mean angular error by 31-73 % across almost every representation and backbone. Overall, test-time augmentation over a small set of known rotations is the most consistent driver of accuracy, whereas the best-performing representation is strongly backbone-dependent.",
+      "authors": [
+        "Felix Schmalzel",
+        "Reimar Waitz",
+        "Moritz Kronberger",
+        "Thorsten Schöler"
+      ],
+      "doi": "",
+      "id": "openalex:w7213373124",
+      "publication_date": "2026-09-14",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《预测SLM牙科零件的构建方向：旋转表示与直接向量回归的比较》：该研究将牙科零件SLM构建方向预测视为基于技师标注数据的监督学习，比较13种上轴表示在ResNet-50与PointNeXt-S骨干上的角误差，发现测试时增强在几乎所有表示下稳定降低误差31%至73%，而最佳表示高度依赖骨干，可供关注三维形态分析与增材制造自动化的读者参考。",
+      "title": "Predicting build orientation for SLM dental parts: a comparison of rotation representations and direct vector regression",
+      "topics": [
+        "三维自动形态分析"
+      ],
+      "url": "https://arxiv.org/abs/2609.15710",
+      "venue": "arXiv (Cornell University)",
+      "work_type": "preprint"
+    },
+    {
+      "abstract": "3D dental segmentation is a key task in digital dentistry. In real intraoral scans data (IOS), occlusion, scanning noise, and reconstruction artifacts often break down the geometric separation structure between teeth, resulting in adjacent teeth being incorrectly merged or a single tooth being over-segmented. Since existing point cloud or mesh-based methods usually rely on local neighborhood consistency, when there are spurious geometric connections, features will diffuse across instances along geometric shortcuts, resulting in instance-level error propagation. To address this issue, we propose VGDM (Visual-Guided Diffusion Modulation), which serves as a bridge between extrinsic visual localization cues and intrinsic surface features under detection settings, enabling the extrinsic cues to regulate the propagation of intrinsic surface features. Instead of global propagation on the entire intraoral scan mesh, VGDM uses the single-view 2D detection results to roughly localize the tooth region and construct local 3D surface patches based on it. Within the patch, we soft-constrain feature propagation by visual cues to suppress the cross-instance propagation generated along spurious geometric connections, and introduce a dual-stream diffusion structure to improve the overall robustness. Experimental results on the largest public intraoral dataset(Teeth3DS) show that VGDM can significantly improve the segmentation rate of tooth instances and effectively reduce the merging and over-segmentation of adjacent teeth.",
+      "authors": [
+        "Hanbin Fang",
+        "Shidong Yang",
+        "Fan Duan",
+        "Shuo Wang",
+        "Yanheng Zhou",
+        "Li Chen"
+      ],
+      "doi": "10.24963/ijcai.2026/745",
+      "id": "doi:10.24963/ijcai.2026/745",
+      "publication_date": "2026-09-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《视觉定位引导的基于外部与内部桥接的三维牙齿分割》：该研究针对口内扫描中遮挡、噪声和重建伪影导致相邻牙齿错误合并或单颗牙过度分割的问题，提出视觉引导扩散调制方法，利用单视图二维检测定位牙齿区域并构建局部三维表面块，以视觉线索软约束特征传播，抑制跨实例错误扩散，值得关注三维牙齿分割研究进展的读者阅读。",
+      "title": "VGDM: Visual Localization-Guided 3D Dental Segmentation via Extrinsic–Intrinsic Bridging",
+      "topics": [
+        "三维自动形态分析"
+      ],
+      "url": "https://doi.org/10.24963/ijcai.2026/745",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "work_type": "conference-paper"
+    },
+    {
+      "abstract": "OBJECTIVE: To evaluate the effect of airborne-particle abrasion (APA) with aluminum oxide on superficial dentin sclerosis, surface topography, and bonding performance of a universal adhesive in natural non-carious cervical lesions (NCCLs), using dentin classification by the North Carolina Index (NCI) and Optical Coherence Tomography Index (OCT). METHODS: Forty-eight premolars with natural NCCLs were distributed according to dentin sclerosis classification (non-sclerotic or sclerotic) by NCI and OCT, with concordant and discordant (dentin types) classifications into four APA treatment groups (n = 8), and two untreated groups (control, n = 8, non-sclerotic and sclerotic, for adhesive testing). Pre- and post-treatment analyses included stereomicroscopy, OCT, microcomputed tomography (volume and thickness loss), and 3D optical profilometry (surface roughness). Adhesive performance of a universal adhesive was assessed by microtensile bond strength (μTBS), nanoleakage (scanning electron microscopy), and chemical mapping (micro-Raman spectroscopy). Data were analyzed with parametric and non-parametric tests (α = 0.05). RESULTS: ; thickness loss: 34 μm) and significantly increased surface roughness (p < 0.001), without dentin-type differences (p = 0.38). Adhesive performance was substrate-dependent: APA improved μTBS in sclerotic dentin (per OCT) and reduced it in non-sclerotic dentin (per OCT). Nanoleakage did not differ among groups (p > 0.05). CONCLUSION: APA modified dentin surface topography without removing superficial dentin sclerosis, while the effect on bonding was substrate-dependent. CLINICAL SIGNIFICANCE: APA-induced surface modification, including volume loss and increased surface roughness, improved bonding performance in sclerotic NCCL dentin without completely removing the sclerotic layer.",
+      "authors": [
+        "Nathalie Murielly Rolim de Abreu",
+        "Romina Ñaupari‐Villasante",
+        "Pedro Henrique de Aguiar Moreira",
+        "Alessandro Dourado Loguércio",
+        "Frederico Barbosa de Sousa"
+      ],
+      "doi": "10.1111/jerd.70251",
+      "id": "doi:10.1111/jerd.70251",
+      "publication_date": "2026-08-31",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《氧化铝颗粒空气喷砂对非龋性颈部病变的影响：对硬化表层、表面形貌及修复粘接性能的作用》：该研究评估氧化铝喷砂对天然非龋性颈部病变中牙本质硬化、表面形貌及通用粘接剂粘接性能的影响，发现喷砂改变表面形貌但未去除硬化层，粘接效果因基质类型而异，值得关注其临床意义。",
+      "title": "Air‐Abrasion With Aluminum Oxide Particles in Non‐Carious Cervical Lesions: Impact on Sclerotic Superficial Layer, Surface Topography, and Restorative Adhesive Performance",
+      "topics": [
+        "CT／EDJ 分类与处理"
+      ],
+      "url": "https://doi.org/10.1111/jerd.70251",
+      "venue": "Journal of Esthetic and Restorative Dentistry",
+      "work_type": "article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    An enigmatic, yellowish‐brown, variably branched organic‐walled microfossil (palynomorph) marks the Late Glacial Maximum of Upper Pleistocene sediments in the Marmara Sea. This taxon, previously called a\n                    <jats:italic>Multiplicisphaeridium</jats:italic>\n                    ‐type acritarch, a putative algal cyst, or a possible chytrid fungus, virtually disappears at the end of the Ponto‐Caspian lacustrine phase, making it a valuable marker for regional ecostratigraphic correlation. However, uncertainty surrounding its biological affinity limits interpretations of its taxonomy, palaeoecology, evolutionary history, and broader geographic significance. We document the morphology and variability of well‐preserved cf. \n                    <jats:italic>Multiplicisphaeridium</jats:italic>\n                    specimens from Marmara and Black Sea sediment cores using interference light microscopy and scanning electron microscopy. Detailed morphological comparisons with visually similar acritarchs, chytrids and dinoflagellates indicate a plausible, though non‐definitive, affinity with chytrid fungi and exclude pre‐Quaternary sedimentary reworking. Compositional analyses using attenuated total reflection Fourier transform infrared microspectroscopy reveal a close biomacromolecular match between cf. \n                    <jats:italic>Multiplicisphaeridium</jats:italic>\n                    and co‐occurring chytrid sporangia, including evidence of wall melanization potentially characteristic of chytrids but distinct from other fungal clades. Additional comparative analyses of sporangia from extant marine\n                    <jats:italic>Rhizophydium</jats:italic>\n                    further contextualize chytrid wall taphonomy. The combined morphological and molecular evidence favours a chytrid‐like affinity and demonstrates distinction from true\n                    <jats:italic>Multiplicisphaeridium</jats:italic>\n                    acritarchs, but does not justify assignment to a known chytrid lineage (extant\n                    <jats:italic>Arkaya</jats:italic>\n                    is identified as a potential close analogue). We therefore erect a new genus and species within the Acritarcha,\n                    <jats:italic>Palaeoarkaya similis</jats:italic>\n                    , and discuss its potential significance in low‐salinity glacial palaeoenvironments. This integrative morpho‐molecular approach confirms earlier evidence of possible fungal affinity among acritarchs.\n                  </jats:p>",
+      "authors": [
+        "André Rochon",
+        "Kathryn L. Roberts",
+        "Peta J. Mudie",
+        "Pjotr Meyvisch"
+      ],
+      "doi": "10.1111/pala.70069",
+      "id": "doi:10.1111/pala.70069",
+      "publication_date": "2026-07-01",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《马尔马拉海更新世疑源类Multiplicisphaeridium型微体化石：具壶菌样新分类单元形态学与光谱学证据》：研究对马尔马拉海和黑海沉积岩芯中保存良好的疑源类标本进行形态学与红外光谱分析，发现其生物大分子组成与共存壶菌孢子囊接近，据此建立疑源类新属新种Palaeoarkaya similis，并讨论其在低盐度冰期古环境中的潜在意义，可供关注微体化石…",
+      "title": "Enigmatic\n                    <i>Multiplicisphaeridium</i>\n                    ‐type acritarch from the Pleistocene of Marmara Sea: morphological and spectroscopic evidence for a chytrid‐like new taxon",
+      "topics": [
+        "palaeoenvironment",
+        "taphonomy"
+      ],
+      "url": "https://doi.org/10.1111/pala.70069",
+      "venue": "Palaeontology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jürgen Kriwet",
+        "Mathias Harzhauser",
+        "Theodor E. Marx",
+        "Ursula B. Göhlich"
+      ],
+      "doi": "10.1080/02724634.2026.2701156",
+      "id": "doi:10.1080/02724634.2026.2701156",
+      "publication_date": "2026-10-09",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《埃及法尤姆晚始新世（普里阿邦期）萨加鲸（鲸目，龙王鲸科）及其他古鲸类的形态学、埋藏学与系统发育新数据》：基于埃及法尤姆晚始新世新材料，重新审视萨加鲸及其他古鲸类的形态、埋藏与系统发育关系，为鲸类早期演化研究提供新证据，值得古生物学与鲸类演化研究者阅读。",
+      "title": "New data on the morphology, taphonomy, and phylogeny of\n                    <i>Saghacetus osiris</i>\n                    (Cetacea, Basilosauridae) and other archaeocetes from the late Eocene (Priabonian) of Fayoum, Egypt",
+      "topics": [
+        "taphonomy"
+      ],
+      "url": "https://doi.org/10.1080/02724634.2026.2701156",
+      "venue": "Journal of Vertebrate Paleontology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Abstract Understanding Neanderthal interactions with Late Pleistocene ecosystems requires examining the dynamic interplay between climate, faunal communities, and potential zoonotic exposures. This study analyses 42 Neanderthal-bearing fossil assemblages across Eurasia, focusing on stratigraphic units directly associated with skeletal remains and considering only extant mammal taxa or their close relatives to infer plausible pathogen risks. By integrating palaeoclimate reconstructions with contemporary host–pathogen data, we reconstruct site-specific environmental conditions, distributions of invertebrate vectors, and the presence of mammalian reservoir hosts. Rodents, ungulates, wild suids, and carnivores frequently emerge as potential pathogen carriers, while vector-borne transmission via ticks and sand flies appears climate-dependent. Substantial variation in species richness and inferred pathogen diversity reflects local ecological context and host composition. These results provide an ecologically grounded framework for understanding how environmental and climatic factors shaped Neanderthal exposures to zoonotic agents may have, highlighting the broader role of ecological interactions in hominin health and habitat use, and underscoring the need for further paleopathological evidence to validate predicted patterns.",
+      "authors": [
+        "Attila J. Trájer"
+      ],
+      "doi": "10.1007/s10745-026-00794-y",
+      "id": "doi:10.1007/s10745-026-00794-y",
+      "publication_date": "2026-09-17",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《欧亚大陆尼安德特人相关遗址中哺乳动物宿主—病原体暴露的古气候与生态决定因素》：该研究分析欧亚大陆42处含尼安德特人化石的遗址组合，结合古气候重建与现生宿主—病原体数据，重建遗址环境、无脊椎媒介分布及哺乳动物宿主存在情况，并推断病原体多样性随生态背景的差异；适合关注尼安德特人生态、人兽共患病风险与古病理学的读者阅读。",
+      "title": "Palaeoclimatic and Ecological Determinants of Mammalian Host–Pathogen Exposure in Neanderthal-Associated Sites Across Eurasia",
+      "topics": [
+        "hominin",
+        "Neanderthal"
+      ],
+      "url": "https://doi.org/10.1007/s10745-026-00794-y",
+      "venue": "Human Ecology",
+      "work_type": "article"
+    },
+    {
+      "abstract": "ABSTRACT Paleoenvironmental records indicate that Neotropical regions near the Equator experienced reduced rainfall during the Last Glacial Maximum (LGM). However, some records show conflicting environmental signals. To address these discrepancies, previous studies have proposed two demographic/genetic scenarios for cloud forests based on contrasting precipitation regimes. Here, we apply a multiproxy approach to extinct proboscideans, commonly referred to as gomphotheres, from Ecuador to assess the extent to which wet‐ and dry‐forest models shaped environmental conditions on the coast and in the Inter‐Andean Valley during the Late Pleistocene. Fossil molars were analyzed using stable isotope analysis, dental microwear analysis, and radiocarbon dating. Radiocarbon dates obtained from the sampled gomphotheres span ca . 31,820–23,830 cal yr. BP. Enamel bioapatite δ 13 C values, ranging from −14.82‰ to −0.78‰, indicate that these proboscideans occupied a broad range of environments, although the overall isotopic signal points to a predominance of more open and relatively dry habitats. Dental microwear data support this interpretation, indicating substantial grass consumption. Reconstructed meteoric water δ 18 O values derived from enamel bioapatite reveal a clear altitudinal effect on gomphothere distribution. Moreover, these values are comparable to those recorded at present‐day meteorological stations in Ecuador. We therefore infer that, at least during the lifetimes of the sampled individuals, there were no major differences in the δ 18 O signature of atmospheric circulation between the Late Pleistocene and today in this region. Although substantial chronological gaps remain in paleoenvironmental reconstructions, our results suggest that processes consistent with the Dry Refuge Model (DRM) had a strong influence on Ecuadorian landscapes during the Late Pleistocene. In this scenario, cloud forests were displaced and compressed into refugia due to the combined effects of aridity and cooling.",
+      "authors": [
+        "Erwin González-Guarda",
+        "Iván Ramírez‐Pedraza",
+        "Carlos Tornero",
+        "Lidiane Asevedo",
+        "Natalia A. Villavicencio",
+        "Sebastián Escobar",
+        "Jose Luis Roman",
+        "Melissa Hidalgo",
+        "Esteban Benalcazar",
+        "Florent Rivals"
+      ],
+      "doi": "10.1002/ece3.74099",
+      "id": "doi:10.1002/ece3.74099",
+      "publication_date": "2026-08-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《检验干旱避难所模型：厄瓜多尔晚更新世嵌齿象的古生态学启示》：研究利用稳定同位素分析、牙齿微磨痕分析和放射性碳测年，分析厄瓜多尔晚更新世嵌齿象化石，以检验湿润森林与干旱森林模型对海岸和安第斯山谷环境条件的影响，值得关注。",
+      "title": "Testing the Dry Refuge Model: Paleoecological Insights From Late Pleistocene Gomphotheres in Ecuador",
+      "topics": [
+        "dental microwear",
+        "paleoenvironment",
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.1002/ece3.74099",
+      "venue": "Ecology and Evolution",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Publication date: 31 December 2026 Source: CATENA, Volume 275 Author(s): Ghulam Abbas, Seifeddine Jomaa, Arlena Brosinsky, Uwe-Karsten Schkade, Axel Bronstert, Michael Rode",
+      "authors": [
+        "Arlena Brosinsky",
+        "Axel Bronstert",
+        "Ghulam Abbas",
+        "Michael Rode",
+        "Seifeddine Jomaa",
+        "Uwe-Karsten Schkade"
+      ],
+      "doi": "10.1016/j.catena.2026.110693",
+      "id": "doi:10.1016/j.catena.2026.110693",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:CATENA"
+      ],
+      "summary": "《河岸对德国黄土土壤集水区产沙量的显著贡献》：该论文研究德国黄土土壤集水区中河岸对产沙量的贡献，值得关注河流泥沙来源与流域管理的研究者阅读。",
+      "title": "Riverbanks contribute substantially to sediment yield in German loess-soil catchments",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.catena.2026.110693",
+      "venue": "CATENA",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: 31 December 2026 Source: CATENA, Volume 275 Author(s): Annan Yang, Baoyuan Liu",
+      "authors": [
+        "Annan Yang",
+        "Baoyuan Liu"
+      ],
+      "doi": "10.1016/j.catena.2026.110690",
+      "id": "doi:10.1016/j.catena.2026.110690",
+      "publication_date": "2026-10-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:CATENA"
+      ],
+      "summary": "《东北黑土区不同地形条件下各类切沟的沟道形态与面积—体积关系》：论文研究不同地形条件下各类切沟的沟道形态及面积—体积关系，可为该区域切沟侵蚀评估提供参考，值得相关研究者阅读。",
+      "title": "Gully morphology and area–volume relationships across gully types under different topographic conditions in the Mollisol region of Northeast China",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.catena.2026.110690",
+      "venue": "CATENA",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: 31 December 2026 Source: CATENA, Volume 275 Author(s): Gulnura Issanova, Nazgul Ospan, Azamat Kaldybayev, Kuralay Tynybayeva",
+      "authors": [
+        "Azamat Kaldybayev",
+        "Gulnura Issanova",
+        "Kuralay Tynybayeva",
+        "Nazgul Ospan"
+      ],
+      "doi": "10.1016/j.catena.2026.110680",
+      "id": "doi:10.1016/j.catena.2026.110680",
+      "publication_date": "2026-10-17",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:CATENA"
+      ],
+      "summary": "《基于实地观测、地球化学分析、遥感与机器学习的咸海干涸海床土壤盐渍化动态综合评估》：该研究整合实地观测、地球化学分析、遥感与机器学习方法，对咸海干涸海床土壤盐渍化动态开展综合评估，多源手段结合的研究思路值得关注。",
+      "title": "Integrated assessment of soil salinity dynamics on the dried Aral Seabed based on field observations, geochemical analysis, remote sensing, and machine learning",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.catena.2026.110680",
+      "venue": "CATENA",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:50f8e2ff7958ec68b005f7e2dd59bc768495698685e30908e4556653887cf21d",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《南欧古人类行为、策略与环境条件（海洋同位素阶段17–15）：诺塔尔基里科遗址距今70万至60万年的10万年序列》：该研究聚焦意大利诺塔尔基里科遗址距今70万至60万年的连续序列，探讨南欧古人类行为、策略与环境条件，值得关注。",
+      "title": "Hominin behavior, strategies, and environmental conditions in Southern Europe (Marine Isotope Stage 17–15): The 100-ka sequence of Notarchirico (Italy, 700–600 ...",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S0047248426000916",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:71a029c3d93f79af9273d5f1ca3025ee2ee49985693764fbe9486b414a5c9886",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《人科动物与石器时代文化的协同演化》：该文探讨人科动物与石器时代文化如何协同演化，适合关注人类起源与文化演进关系的读者阅读。",
+      "title": "The co-evolution of hominins and Stone Age culture",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://royalsocietypublishing.org/rspb/article/293/2080/20260772/483651&hl=zh-CN&sa=X&d=18226939067467825197&ei=6KXUaob6OJHuieoPwt_NKQ&scisig=ACTRDVFYTRu93jYIlGuprmKzNghw&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=5&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:184d9ff8cdb52790dd34c2a170904642bd92eb038fa17724416a7dd9d02a6ef5",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《熊的行为是否影响了尼安德特人和现代人在洞穴中的象征活动？综合考古、生态与民族志证据》：该文整合考古、生态与民族志证据，探讨熊的行为对尼安德特人和现代人洞穴象征活动的可能影响，适合关注尼安德特人象征行为与洞穴考古的读者阅读。",
+      "title": "Did bear behavior influence neanderthal and modern human symbolic activities in caves? integrating archaeological, ecological, and ethnographic evidence",
+      "topics": [
+        "Neanderthal"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S0278416526000747",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:50b21be4d04ba3d007734cb7a969e652feada1b10f4ceb6039c07b16890c4c80",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《利用三维重建与几何形态测量学区分打击坑与食肉动物齿坑》：论文比较打击坑与食肉动物齿坑的三维重建和几何形态测量特征，值得关注其区分两种坑痕的方法。",
+      "title": "RESEARCH ARTICLE Differentiating percussion pits and carnivore tooth pits using 3D reconstructions and geometric morphometrics",
+      "topics": [
+        "geometric morphometrics"
+      ],
+      "url": "https://gredos.usal.es/server/api/core/bitstreams/2f79b64d-cdc0-4376-a140-b06ee1c36bb4/content",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:cff5f547d8b33e13f49400cfa35dea1930496cc2dc5721599dcec3d275ac8a82",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《古代因纽特犬符合短腿表型，在生物力学上有利于拉雪橇》：该研究考察古代因纽特犬的短腿表型及其在拉雪橇中的生物力学优势，值得关注古代犬种功能适应与雪橇活动关系的研究者阅读。",
+      "title": "Ancient Inuit dogs conform to a short-legged phenotype biomechanically advantageous for sledding",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.cell.com/iscience/fulltext/S2589-0042(26)02983-4&hl=zh-CN&sa=X&d=3660320443327317268&ei=6aXUasL9FaaY6rQP1fP1-Q4&scisig=ACTRDVGBWPfHODLDAYmjWsXSRtR9&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=1&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:2e894d6fd98ee35e4be0fb59f0d626e987c62202e8ab41e99da3abf9fc8c95d7",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《东南托罗斯山麓的陶器组合：晚期新石器时代传统向早期铜石并用时代的延续》：该研究考察东南托罗斯山麓陶器组合，探讨晚期新石器时代传统如何延续至早期铜石并用时代，适合关注该地区史前文化传承与陶器演变的读者阅读。",
+      "title": "Ceramic Assemblages from the Southeastern Taurus Foothills: Continuity of Late Neolithic Traditions into the Early Chalcolithic",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://avesis.kocaeli.edu.tr/yayin/6831c0fe-ad92-4f4d-8428-fff08e9f1e4b/ceramic-assemblages-from-the-southeastern-taurus-foothills-continuity-of-late-neolithic-traditions-into-the-early-chalcolithic&hl=zh-CN&sa=X&d=3338943730225253962&ei=6KXUaob6OJHuieoPwt_NKQ&scisig=ACTRDVEX7NOnryY9WBsKGm0kipIg&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=9&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:dae668743b5d907a38b99ca13cd86c990c06409eb9cf958f2e40d83d7a3e07a7",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《旧石器时代东地中海接触区》：该研究探讨旧石器时代东地中海地区的接触区，值得关注其对该区域交流与互动的分析。",
+      "title": "Eastern Mediterranean Contact Area in the Paleolithic",
+      "topics": [],
+      "url": "https://reff.f.bg.ac.rs/handle/123456789/8596",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:3759e056d397d9453ed6ececf8a661bf570327adb925d78baa63247d58e1d24e",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《约13800年前白令陆桥早期营地亮点：Shég'Xdaltth'í'与阿拉斯加晚更新世人类定居》：论文考察约13800年前白令陆桥早期营地Shég'Xdaltth'í'及阿拉斯加晚更新世人类定居，值得关注。",
+      "title": "Highlights from an early base camp in Beringia 13,800 years ago: Shég'Xdaltth'í'and the Late Pleistocene peopling of Alaska",
+      "topics": [],
+      "url": "https://www.science.org/doi/pdf/10.1126/sciadv.aeh0802",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:f2ea142f78fb30c7e77a7af018873f4d511225c799dc3fe197cca71166b94c74",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《米格尔·安赫尔·马特-冈萨雷斯等作者研究》：该论文作者团队包括米格尔·安赫尔·马特-冈萨雷斯、朱莉娅·阿拉门迪、何塞·伊拉韦德拉、鲁思·布拉斯科、乔尔迪·罗塞尔和迭戈·冈萨雷斯-阿吉莱拉，值得关注其研究内容。",
+      "title": "MIGUEL ANGEL MATE-GONZALEZ∗,†, JULIA ARAMENDI‡, JOS EYRAVEDRA‡, § , RUTH BLASCO‖, JORDI ROSELL#,∗∗, D IEGO GONZALEZ-AGUILERA∗ &",
+      "topics": [],
+      "url": "https://gredos.usal.es/server/api/core/bitstreams/a043d067-3385-4e38-b50c-9221fa3d79c0/content",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:75592094767d5f2ecd9cfaba60344fef3874c37b2fb6e335a1dc6af1d7884b02",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《旧石器时代人类在阿尔泰阿努伊河流域利用生物资源的结构》：该研究考察了旧石器时代人类在阿尔泰阿努伊河流域所利用生物资源的构成，值得关注其对这一区域古人类生计方式的揭示。",
+      "title": "The Structure of Bioresources Exploited by Paleolithic Humans in the Anui River Basin, Altai",
+      "topics": [],
+      "url": "https://journal.archaeology.nsc.ru/jour/article/view/2523",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:21784fff9823b384b35952150f184c25775167f63641e719941ccd166175477a",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《为什么人类学家应该研究狗》：文章探讨人类学为何应将狗纳入研究视野，适合关注人类学学科边界与跨物种研究的读者了解其研究主张。",
+      "title": "Why Anthropologists Should Study Dogs",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://onlinelibrary.wiley.com/doi/pdf/10.1002/evan.70050&hl=zh-CN&sa=X&d=16332898484554696400&ei=6aXUasL9FaaY6rQP1fP1-Q4&scisig=ACTRDVFIj9PXW27xir2WRtB2q6yp&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=2&folt=cit",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
