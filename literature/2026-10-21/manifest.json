@@ -1,0 +1,503 @@
+{
+  "date": "2026-10-21",
+  "items": [
+    {
+      "abstract": "",
+      "authors": [
+        "Ao Yan",
+        "Jiangyong Wang",
+        "Dongmei Jie",
+        "Guizai Gao",
+        "Honghao Niu",
+        "Jie Ma",
+        "Kai Liu"
+      ],
+      "doi": "10.1016/j.jas.2026.106721",
+      "id": "doi:10.1016/j.jas.2026.106721",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《净初级生产力作为中国北方农牧交错带新石器时代生计多样化与聚落脆弱性的生物物理中介》：该研究探讨净初级生产力如何在新石器时代北方农牧交错带的生计多样化与聚落脆弱性之间发挥生物物理中介作用，值得关注人地关系与早期农业适应性的读者阅读。",
+      "title": "Net primary productivity as a biophysical mediator of Neolithic subsistence diversification and settlement vulnerability in the northern Chinese farming–pastoral ecotone",
+      "topics": [
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1016/j.jas.2026.106721",
+      "venue": "Journal of Archaeological Science",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "Background/Objectives: This study evaluates the adaptation of a novel filling material (Odne®Fill, Switzerland) to the walls of the shaped root canal using micro-computed tomography. Methods: Fourteen extracted human molars (6 maxillary and 8 mandibular), comprising a total of 32 root canals, were included. After canal preparation, all canals were filled with Odne®Fill according to the manufacturer’s instructions. Periapical radiographs and micro-computed tomography were used to assess the extent of canal wall coverage by the filling material. Surface coverage was quantified by image segmentation and statistically analyzed. Results: The percentage of canal wall coverage ranged from 93.31% to 99.98%. The mean coverage rate was 97.63% (SD 1.70%) and the median was 98.23%, indicating a high degree of adaptation of the filling material to the ex vivo prepared canal walls. Conclusions: Under the conditions of this ex vivo study Odne®Fill demonstrated high canal wall adaptation values. These findings should be interpreted with caution and further com-parative and long-term studies are required before clinical relevance can be established.",
+      "authors": [
+        "Peter Kiefner",
+        "Mirela Gules",
+        "Marina Bunea",
+        "Michael Ban"
+      ],
+      "doi": "10.3390/dj14080501",
+      "id": "doi:10.3390/dj14080501",
+      "publication_date": "2026-08-08",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《新型填充材料对根管壁的适应性：一项显微CT离体评估》：该研究利用显微CT评估新型填充材料Odne®Fill在32个离体牙根管中与管壁的贴合程度，结果显示管壁覆盖率均值达97.63%，提示其具有较高的适应性；结论同时提醒需谨慎解读并开展进一步对比与长期研究，适合关注根管充填材料性能的读者参考。",
+      "title": "Root Canal Wall Adaptation of a Novel Filling Material: A Micro-CT Ex Vivo Evaluation",
+      "topics": [
+        "CT／EDJ 分类与处理"
+      ],
+      "url": "https://doi.org/10.3390/dj14080501",
+      "venue": "Dentistry Journal",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Mandibular reconstruction restores facial continuity and oral function after segmental resection. Patient-specific cutting guides transfer a computed tomography (CT)-based plan to the operating room with three-dimensional information, but printed guides add cost and lead time, cannot adapt after fabrication, and may interrupt surgery if sterility is lost. We investigate a markerless augmented reality (AR) alternative that registers a virtual cutting guide to the exposed mandible from surface geometry. The method extends surface-based registration for the transoral setting, where teeth form the most distinctive visible surface. After camera calibration, a HoloLens 2 time-of-flight camera captures a partial intraoperative point cloud. The user supplies a rough head-based alignment only to crop the region of interest. A teeth-weighted global stage computes correspondences and solves a truncated least-squares rigid alignment. An asymmetric point-to-plane iterative closest point (ICP) stage refines the complete CT mandible against the partial depth cloud target. The guide-to-mandible transform places the guide in the HoloLens world frame, while pose updates and interpolation follow target motion. We define a blinded phantom protocol with 30 target registration error (TRE) points under full, intermediate, and teeth-only exposure, plus a motion-to-display latency test. Our median TRE is 4.05, 6.10, and 7.10 mm respectively, and median latency is 0.805 s. These values support the feasibility of using AR to replace physical prints. The workflow removes mounted fiducials and manual landmark selection and provides a testable path toward transoral cutting guidance.",
+      "authors": [
+        "Yue Yang",
+        "Jie Ying Wu"
+      ],
+      "doi": "10.48550/arxiv.2608.06599",
+      "id": "doi:10.48550/arxiv.2608.06599",
+      "publication_date": "2026-08-06",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《面向下颌骨重建手术的虚拟术前截骨导板表面配准研究》：论文研究一种无需标记物的增强现实方案，利用牙齿等表面几何将虚拟截骨导板配准到暴露的下颌骨，并在模型实验中报告了不同暴露条件下的配准误差与延迟数据；该工作为经口截骨导航提供了可检验的技术路径，适合关注颌面重建与增强现实手术导航的研究者阅读。",
+      "title": "Toward surface-based registration of a virtual preoperative cutting guide onto the mandible for reconstruction surgery",
+      "topics": [
+        "三维自动形态分析"
+      ],
+      "url": "https://arxiv.org/abs/2608.06599",
+      "venue": "arXiv (Cornell University)",
+      "work_type": "preprint"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jinhe Li",
+        "Xin Gao",
+        "Ziheng Ji"
+      ],
+      "doi": "10.1109/metms70800.2026.11706053",
+      "id": "doi:10.1109/metms70800.2026.11706053",
+      "publication_date": "2026-08-01",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《基于点云的高精度齿轮齿面检测》：该研究探讨利用点云数据实现齿轮齿面的高精度检测，属于三维自动形态分析方向，可供关注齿轮测量与点云处理技术的读者参考。",
+      "title": "Point Cloud-Based High-Precision Gear Tooth Surface Inspection",
+      "topics": [
+        "三维自动形态分析"
+      ],
+      "url": "https://doi.org/10.1109/metms70800.2026.11706053",
+      "venue": "2026 6th International Conference on Mechanical, Electronics and Electrical and Automation Control (METMS)",
+      "work_type": "proceedings_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:sec>\n                    <jats:title>Introduction</jats:title>\n                    <jats:p>The three‐dimensional (3D) facial soft tissue response to premolar extraction remains unclear, particularly in relation to vertical skeletal changes.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>Thirty‐three adult women who underwent orthodontic treatment with the extraction of four premolars were included. Homologous facial models were generated from facial soft‐tissue surface data derived from CBCT images acquired before and after treatment. Principal component analysis (PCA) was performed to characterise variation in facial form using homologous model coordinates. Receiver operating characteristic (ROC) analysis was used to evaluate components nominally associated with pre‐ and post‐treatment configurations within each vertical skeletal subgroup.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Each vertical skeletal subgroup included 11 subjects. In the decreased‐FMA group, PC5 showed the largest nominal AUC (0.79), followed by PC3 and PC11 (both 0.75), with morphological variation concentrated in the lower facial region. In the increased‐FMA group, PC7 and PC12 showed nominal AUCs of 0.76 and 0.73, respectively, and were associated with lateral facial narrowing and facial slimming. No meaningful nominal discrimination was identified in the stable‐FMA group. These findings indicated distinct group‐level morphological tendencies depending on the direction of vertical skeletal change.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Three‐dimensional facial soft‐tissue changes following premolar extraction showed group‐level patterns that appeared to vary according to the direction of vertical skeletal change. Patients with decreased FMA tended to show lower facialreorganisation, whereas patients with increased FMA tended to show lateral facial narrowing and facial slimming. Given the modest subgroup size and multiple nominal ROC comparisons, these findings warrant confirmation in larger cohorts.</jats:p>\n                  </jats:sec>",
+      "authors": [
+        "Ayumi Okada",
+        "Jae Hyun Park",
+        "Kazuki Nakatsuji",
+        "Kiyoshi Tai",
+        "Mo Hyeon Lee",
+        "Mo‐Hyeon Lee",
+        "Seiji Lida"
+      ],
+      "doi": "10.1111/ocr.70185",
+      "id": "doi:10.1111/ocr.70185",
+      "publication_date": "2026-09-27",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《前磨牙拔除后的三维面部软组织反应：基于几何形态测量学分析垂直骨性变化的影响》：研究对33名拔除四颗前磨牙的成年女性，用几何形态测量学分析正畸前后三维面部软组织变化，并按垂直骨性变化方向分组比较，发现FMA减小者以下面部形态重组为主、FMA增大者以面部侧方变窄和变瘦为主，值得关注正畸软组织效应与垂直骨性因素关系的读者阅读。",
+      "title": "Three‐Dimensional Facial Soft Tissue Response to Premolar Extraction: Influence of Vertical Skeletal Change Analysed Using Geometric Morphometrics",
+      "topics": [
+        "geometric morphometrics",
+        "冠面轮廓与形态分类"
+      ],
+      "url": "https://doi.org/10.1111/ocr.70185",
+      "venue": "Orthodontics &amp; Craniofacial Research",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The article presents first insights to radiocarbon dating of taxonomically diverse Pleistocene faunal assemblage recovered from Graniczna Cave in the Kraków-Częstochowa Upland. The material represents one of the most heterogeneous cave bone accumulations in the region, comprising remains of large and small mammals. Thirteen bone samples representing different taxa were selected for AMS radiocarbon dating, and one sediment sample was analyzed using optically stimulated luminescence (OSL) to provide an independent chronological reference. The study primarily focuses on the variable preservation state of bone collagen, which plays a critical role in the reliability of radiocarbon dating. This study highlights the inherent difficulties of dating cave-derived bone assemblages and emphasizes the need for rigorous pre-screening criteria, including collagen quality assessment and elemental composition.</jats:p>",
+      "authors": [
+        "Adrian Hyrc",
+        "Agnieszka Bolik",
+        "Agnieszka Bolik-Głuszek",
+        "Alicja Ustrzycka",
+        "Andrea Pereswiet-Soltan",
+        "Andrea Pereswiet‐Soltan",
+        "Fatima Pawełczyk",
+        "Grzegorz J. Poręba",
+        "Grzegorz Poręba",
+        "Jarosław Wilczyński",
+        "Maciej Tomasz Krajcarz",
+        "Michał Gizler",
+        "Natalia Piotrowska",
+        "Paweł Michalski",
+        "Paweł Sojka",
+        "Sylwia Pospuła",
+        "Szymon Kowalski",
+        "Tomasz Pawłowski"
+      ],
+      "doi": "10.1017/rdc.2026.10267",
+      "id": "doi:10.1017/rdc.2026.10267",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《波兰克拉科夫-琴斯托霍瓦高地从格兰尼奇纳洞穴出土的高度多样更新世动物群放射性碳定年》：该研究对格兰尼奇纳洞穴出土的分类多样性丰富的更新世动物群骨骼组合进行放射性碳定年，选取13件不同类群骨骼样品做AMS测年，并对1件沉积物样品做光释光分析以提供独立年代参照，重点探讨骨胶原保存状态对测年可靠性的影响，指出洞穴来源骨骼组合定年的固有困难及严格预筛标准的必要性…",
+      "title": "Radiocarbon dating of highly diverse Pleistocene faunal assemblage from Graniczna Cave (Kraków-Częstochowa Upland, Poland)",
+      "topics": [
+        "faunal assemblage"
+      ],
+      "url": "https://doi.org/10.1017/rdc.2026.10267",
+      "venue": "Radiocarbon",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    <jats:list>\n                      <jats:list-item>\n                        <jats:p>Geometric morphometrics (GM) is widely used to study phenotypic variation in ecological and evolutionary research, but the throughput of manual landmark digitization limits how large morphometric datasets can practically become, especially in field studies that would benefit from rapid on‐site feedback.</jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:p>\n                          We introduce\n                          <jats:italic>Theia</jats:italic>\n                          , an edge‐AI mobile framework that performs end‐to‐end GM workflows directly on‐device, including image acquisition, automated landmark detection and morphometric analysis. The system integrates a dual‐stage deep‐learning pipeline with an offline analytical engine implementing generalized procrustes analysis (GPA) and principal component analysis (PCA), enabling field‐based analyses on low‐cost mobile hardware.\n                        </jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:p>\n                          Validation against the geomorph R package demonstrated near‐perfect computational fidelity (|\n                          <jats:italic>r</jats:italic>\n                          | &gt; 0.999). Comparisons with expert manual digitization across 268 held‐out specimens showed close morphospace concordance, with biological variation accounting for 92.9% of total shape variance and the method effect (AI vs. manual) for 0.5%. The method effect is small, so the shape ordination used in downstream analysis is preserved.\n                        </jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:p>\n                          <jats:italic>Theia</jats:italic>\n                          enables standardized, reproducible morphometric data collection directly in the field. It complements established desktop workflows and suits studies that need portability and on‐site quality control, such as large‐scale spatial sampling and long‐term monitoring.\n                        </jats:p>\n                      </jats:list-item>\n                    </jats:list>\n                  </jats:p>",
+      "authors": [
+        "Cristobal Bragagnolo",
+        "Andrés Ferreira‐Rodríguez",
+        "Mohamed Abdelaziz",
+        "A. Jesús Muñoz‐Pajares"
+      ],
+      "doi": "10.1111/2041-210x.70416",
+      "id": "doi:10.1111/2041-210x.70416",
+      "publication_date": "2026-10-05",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《Theia：面向高通量野外表型分析与设备端几何形态测量的端到端边缘人工智能移动框架》：该研究提出一套在移动设备上直接完成图像采集、自动地标检测与形态测量分析的边缘人工智能框架，其计算与geomorph R包高度一致，与专家人工标记的形态空间结果接近，适合需要便携性与现场质量控制的野外采样和长期监测研究。",
+      "title": "<i>Theia</i>\n                    : An end‐to‐end edge‐\n                    <scp>AI</scp>\n                    mobile framework for high‐throughput field phenotyping and on‐device geometric morphometrics",
+      "topics": [
+        "geometric morphometrics"
+      ],
+      "url": "https://doi.org/10.1111/2041-210x.70416",
+      "venue": "Methods in Ecology and Evolution",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "Publication date: 30 December 2026 Source: Quaternary International, Volume 786 Author(s): Angela Rizzo, Giovanni Barracane, Stefania Nunzia Lisco, Isabella Serena Liso, Corrado Sasso, Giovanni Scardino, Roberta Trani, Alessandro Abate, Mario De Tullio, Teresa Fracchiolla, Lorenzo Gaudiano, Michele Lastilla, Caterina Longo, Laura Magarielli, Francesco Miscioscia, Massimo Moretti, Mario Parise, Arcangelo Piscitelli, Antonella Schiavo, Giovanni Scicchitano",
+      "authors": [
+        "Alessandro Abate",
+        "Angela Rizzo",
+        "Antonella Schiavo",
+        "Arcangelo Piscitelli",
+        "Caterina Longo",
+        "Caterina Serino",
+        "Corrado Sasso",
+        "Francesco Miscioscia",
+        "Giovanni Barracane",
+        "Giovanni Scardino",
+        "Giovanni Scicchitano",
+        "Giuseppe Mastronuzzi",
+        "Isabella Serena Liso",
+        "Laura Magarielli",
+        "Lorenzo Gaudiano",
+        "Mario De Tullio",
+        "Mario Parise",
+        "Massimo Moretti",
+        "Michele Lastilla",
+        "Roberta Trani",
+        "Stefania Nunzia Lisco",
+        "Teresa Fracchiolla"
+      ],
+      "doi": "10.1016/j.quaint.2026.110486",
+      "id": "doi:10.1016/j.quaint.2026.110486",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Quaternary International"
+      ],
+      "summary": "《从海洋到陆地：对一个脆弱海岸系统的多学科表征作为海平面上升影响评估的基础》：该研究对脆弱海岸系统开展多学科表征，为评估海平面上升影响提供依据，适合关注海岸带与气候变化影响的读者参考。",
+      "title": "From sea to land: Multidisciplinary characterization of a vulnerable coastal system as a basis for sea-level rise impacts assessment",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quaint.2026.110486",
+      "venue": "Quaternary International",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Adriana Leite, Frido Welker, Ricardo Miguel Godinho, Viridiana Villa-Islas, Zandra Fagernäs",
+      "authors": [
+        "Adriana Leite",
+        "Frido Welker",
+        "Ricardo Miguel Godinho",
+        "Viridiana Villa-Islas",
+        "Zandra Fagernäs"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106138",
+      "id": "doi:10.1016/j.jasrep.2026.106138",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《超越乳制品：古代人类牙结石中牙釉蛋白的鉴定》：该研究在古人类牙结石中鉴定出牙釉蛋白，值得关注其方法路径与结论对古人类饮食及口腔微环境研究的参考价值。",
+      "title": "Beyond dairy: Identification of dental enamel proteins in ancient human dental calculus",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106138",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 19 October 2026 Source: Palaeogeography, Palaeoclimatology, Palaeoecology Author(s): Kunio Kaiho, Barry Roser, Dhiman Kumer Roy, Atsushi Kamei, Zhong-Qiang Chen, Jinnan Tong, Satoshi Takahashi, Aymon Baud, Atena Shizuya",
+      "authors": [
+        "Atena Shizuya",
+        "Atsushi Kamei",
+        "Aymon Baud",
+        "Barry Roser",
+        "Dhiman Kumer Roy",
+        "Jinnan Tong",
+        "Kunio Kaiho",
+        "Satoshi Takahashi",
+        "Zhong-Qiang Chen"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114292",
+      "id": "doi:10.1016/j.palaeo.2026.114292",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Palaeogeography Palaeoclimatology Palaeoecology"
+      ],
+      "summary": "《大陆风化与古纬度约束下的马里诺冰期后极端高温》：该研究利用大陆风化记录与古纬度信息，约束马里诺冰期之后的极端高温气候，值得关注前寒武纪—寒武纪气候演变的研究者阅读。",
+      "title": "Extreme post-Marinoan warmth constrained by continental weathering and paleolatitude",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114292",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 19 October 2026 Source: L'Anthropologie Author(s): Dominique Gommery, Lazarus Kgasi, Johann Schnyder, Brian Kuhn, Frank Sénégas, Marco Pavia, Martin Pickford, Boitshepo Motsodisa, Véronique Pois, Nonhlanhla Vilakazi",
+      "authors": [
+        "Boitshepo Motsodisa",
+        "Brian Kuhn",
+        "Dominique Gommery",
+        "Frank Sénégas",
+        "Johann Schnyder",
+        "Lazarus Kgasi",
+        "Marco Pavia",
+        "Martin Pickford",
+        "Nonhlanhla Vilakazi",
+        "Véronique Pois"
+      ],
+      "doi": "10.1016/j.anthro.2026.103534",
+      "id": "doi:10.1016/j.anthro.2026.103534",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:L'Anthropologie"
+      ],
+      "summary": "《南非人类摇篮世界遗产地布里奇洞穴“豹属区域”地点初步报告》：论文对布里奇洞穴（博尔特农场）内“豹属区域”地点进行初步呈现，涉及该遗址的相关研究材料，可供关注南非人类摇篮古生物学与洞穴遗址的研究者参考。",
+      "title": "Preliminary presentation of the locus ‘<em>Panthera</em> area’ of the site Bridge Cave (Bolt’s Farm, Cradle of Humankind World Heritage, South Africa)",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.anthro.2026.103534",
+      "venue": "L'Anthropologie",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Recent studies have shown that murine and avian Meissner‐like corpuscles are innervated by two distinct mechanoreceptor afferents with different functional properties. In addition, there is evidence that one subpopulation of Meissner corpuscles of monkeys is doubly innervated by mechanoreceptors and nociceptors. In humans, however, most Meissner corpuscles are supplied by a single axon. In the present study, different techniques were used (silver impregnation, immunohistochemistry for axon markers, axonal 3D reconstruction, and double immunofluorescence associated with confocal laser microscopy) to analyze whether human digital Meissner's corpuscles have double innervation. The percentage of Meissner corpuscles with apparent double innervation was minimal, about 2%, but these data were not confirmed when sections processed for double immunofluorescence for peripherin plus neurofilament proteins or TrkB plus Ret were analyzed. In fact, TrkB co‐localized with Ret in the axon of Meissner's corpuscles. In the 3D axonal reconstructions, there was no evidence of double innervation but the single axon had different calibers along its path and very fine collateral protrusions. The present results demonstrate that most human digital Meissner's corpuscles (around 95–98%) are innervated by a single axon in which TrkB and Ret co‐localize, instead of being supplied by two independent TrkB‐ and Ret‐positive axons as occurs in other species.</jats:p>",
+      "authors": [
+        "Ana M. Abreu‐Velez",
+        "Iván Suazo",
+        "Jorge Feito",
+        "Jorge García‐Piqueras",
+        "José A. Vega",
+        "Marta Alonso‐Guervós",
+        "Olivia García‐Suárez",
+        "Patricia Cuendias",
+        "Patricia Cuendias, Yolanda García‐Mesa, Iván Suazo, Marta Alonso‐Guervós, Jorge García‐Piqueras, Ana M. Abreu‐Velez, Olivia García‐Suárez, Jorge Feito, José A. Vega",
+        "Yolanda García‐Mesa"
+      ],
+      "doi": "10.1002/ar.70361",
+      "id": "doi:10.1002/ar.70361",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:The Anatomical Record"
+      ],
+      "summary": "《人类指部迈斯纳小体并非双重神经支配》：该研究采用银染、轴突标记免疫组化、轴突三维重建及共聚焦双免疫荧光等技术，分析人类指部迈斯纳小体是否存在双重支配，发现仅约2%呈疑似双重支配且未被双免疫荧光证实，TrkB与Ret在同一轴突共定位，约95–98%由单一轴突支配，值得关注以了解人类与其他物种的差异。",
+      "title": "Human digital Meissner's corpuscles are not doubly innervated",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70361",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yu Zhang",
+        "Long Li",
+        "Hairu Li",
+        "Xiaohui Jia",
+        "Shangxuan Zhang",
+        "Yanan Ren"
+      ],
+      "doi": "10.1016/j.catena.2026.110696",
+      "id": "doi:10.1016/j.catena.2026.110696",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《坡向相关的冻融期土壤热状况差异与相位敏感介电响应》：该论文研究季节性冻融期不同坡向土壤热状况的差异及相位敏感介电响应，值得关注土壤冻融过程与介电特性关系的读者阅读。",
+      "title": "Aspect-associated contrasts in soil thermal regimes and phase-sensitive dielectric responses during seasonal freeze–thaw periods",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.catena.2026.110696",
+      "venue": "CATENA",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yue Li",
+        "Mengfei Shi",
+        "Fei Zhang",
+        "Brian Alan Johnson",
+        "Gowhar Meraj",
+        "Jaime Carlos Macuácua",
+        "Pankaj Kumar",
+        "Yuanfang Chai",
+        "Hongtao Xu",
+        "Xu Ma"
+      ],
+      "doi": "10.1016/j.catena.2026.110691",
+      "id": "doi:10.1016/j.catena.2026.110691",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《莫桑比克土地覆盖变化与土壤盐渍化：2001—2022年二十年间的反事实分析》：该研究用反事实分析方法考察莫桑比克二十余年间土地覆盖变化与土壤盐渍化的关系，值得关注土地退化与遥感监测的研究者阅读。",
+      "title": "Land cover change and soil salinization in Mozambique: A counterfactual analysis over two decades (2001−2022)",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.catena.2026.110691",
+      "venue": "CATENA",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yuan Li",
+        "Hui Zhao",
+        "Xiaozhong Huang",
+        "Yu Hu",
+        "Min Zheng",
+        "Xiuxiu Ren",
+        "Chuanqi Hu",
+        "Haipeng Wang"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110344",
+      "id": "doi:10.1016/j.quascirev.2026.110344",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《从自然火到人为火：博斯腾湖两千年火历史》：该研究重建了中国西北博斯腾湖过去两千年的火历史，区分自然火与人为火的影响，值得关注区域火活动演变与人类活动关系的读者阅读。",
+      "title": "From natural to anthropogenic fire in NW China: A two-millennium fire history of Bosten Lake",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110344",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Lei Zhang",
+        "Chenzhang Duan",
+        "Fan Zhai",
+        "Ying Wu",
+        "Shan Chang",
+        "Yan Ye"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114300",
+      "id": "doi:10.1016/j.palaeo.2026.114300",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《华南下岩家河组磷酸盐化角质层碎片的多样性与埋藏学研究》：该研究分析下岩家河组磷酸盐化角质层碎片的多样性并开展埋藏学研究，值得关注早期动物角质层保存与埋藏过程的读者阅读。",
+      "title": "Diversity of phosphatized cuticle fragments from the Lower Yanjiahe Formation, South China, and their taphonomic study",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114300",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Cheng Huang",
+        "Haoran Song",
+        "Michael M. Joachimski",
+        "Xin Wen",
+        "Anqi Zhou"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114303",
+      "id": "doi:10.1016/j.palaeo.2026.114303",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《华南吉维特期-弗拉期过渡期的生物-环境事件：对理解晚泥盆世大灭绝的启示》：该研究聚焦华南吉维特期至弗拉期过渡期的生物与环境事件，探讨其对认识晚泥盆世大灭绝的意义，值得关注晚泥盆世生物危机的研究者阅读。",
+      "title": "Biotic-environmental events during the Givetian-Frasnian transition in South China: Implications for understanding the Late Devonian mass extinction",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114303",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yuping Zhou",
+        "Yong Li",
+        "Thomas J. Algeo",
+        "Xiao-Fang He",
+        "Zhenhua Jing"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114297",
+      "id": "doi:10.1016/j.palaeo.2026.114297",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《汞同位素对中三叠世幕式火山活动多尺度湖泊响应的制约》：该研究利用汞同位素探讨中三叠世幕式火山活动在湖泊环境中的多尺度响应，值得关注火山活动与湖泊生态系统相互作用的研究者阅读。",
+      "title": "Mercury isotopic constraints on the multiscale lacustrine response to Middle Triassic episodic volcanism",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114297",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Zitong Wang",
+        "Chaoqun Cao",
+        "Lina Song",
+        "Fangru Liu",
+        "Xianyong Cao"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114298",
+      "id": "doi:10.1016/j.palaeo.2026.114298",
+      "publication_date": "2026-10-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《青藏高原东部全新世最冷月温度重建中现代花粉校准的海拔约束考量》：该研究探讨在现代花粉校准中纳入海拔约束以重建青藏高原东部全新世最冷月温度，值得关注花粉-气候校准与高原古温度重建的读者阅读。",
+      "title": "Accounting for elevational constraints in modern pollen calibration for reconstructing Holocene coldest month temperature on the eastern Tibetan Plateau",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114298",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    }
+  ],
+  "schema_version": 1
+}
