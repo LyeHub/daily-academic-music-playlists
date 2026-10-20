@@ -1,0 +1,585 @@
+{
+  "date": "2026-10-20",
+  "items": [
+    {
+      "abstract": "",
+      "authors": [
+        "Chunxue Wang",
+        "Yuwei Du"
+      ],
+      "doi": "10.1007/s41826-026-00135-4",
+      "id": "doi:10.1007/s41826-026-00135-4",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《中国中更新世古人类的生存策略：古人类与动物的互动》：论文考察中国中更新世古人类与动物的互动关系，探讨其生存策略，适合关注古人类生计与动物资源利用的读者阅读。",
+      "title": "The interactions between hominins and animals: Subsistence strategies of Middle Pleistocene hominins in China",
+      "topics": [
+        "hominin",
+        "Middle Pleistocene",
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1007/s41826-026-00135-4",
+      "venue": "Asian Archaeology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    The terrestrial sediment archives of northern Germany provide important insights into Late Pleistocene climate variability, but continuous and well‐dated records remain rare. In particular, the age and stratigraphic position of the Oerel and Glinde interstadials within the Early Weichselian to pleniglacial transition remain poorly constrained. These interstadials are commonly attributed to MIS 3, but this assignment is uncertain due to limited numerical dating, reliance on biostratigraphic correlation and the limitations of radiocarbon dating near its upper range. This study presents a new, high‐resolution multi‐proxy record (sedimentology, geochemistry, palynology) from two sediment cores at Lichtenberg, Lower Saxony, positioned directly next to a multi‐phased Middle Palaeolithic archaeological site and supported by a robust chronology based on new optically stimulated luminescence (OSL) ages. The record documents the vegetation and landscape dynamics from the late Eemian interglacial into the Weichselian pleniglacial, capturing major climatic transitions and the onset of cold, periglacial conditions. Within this sequence, we identify two previously unresolved climatic oscillations (Dangenstorf I and II), characterised by expansions of\n                    <jats:italic>Betula nana</jats:italic>\n                    ‐shrub tundra and increased organic accumulation. Based on pollen assemblages and OSL dating, these oscillations are correlated with the Oerel and Glinde interstadials, which are themselves stratigraphically positioned between the Odderade interstadial and the onset of the Weichselian pleniglacial. Furthermore, our OSL chronology places them firmly within the MIS 5a/4 transition. We assign them to the Greenland interstadials (GI) 20 and 19.2, respectively, rather than to MIS 3 as previously assumed. The Lichtenberg record thus provides a continuous, well‐dated archive that redefines the chronostratigraphy of the Early Weichselian to pleniglacial transition in northern Germany and strengthens its correlation with North Atlantic climate variability.\n                  </jats:p>",
+      "authors": [
+        "Alexis Badai Samudra",
+        "Brigitte Urban",
+        "David Colin Tanner",
+        "Marcel Weiss",
+        "Martin Theuerkauf",
+        "Michael Hein",
+        "Neda Rahimzadeh"
+      ],
+      "doi": "10.1111/bor.70078",
+      "id": "doi:10.1111/bor.70078",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《德国利希滕贝格从埃姆间冰期晚期到魏克塞尔冰期盛冰期的环境动态与年代：对奥雷尔和格林德间冰阶的启示》：该研究基于利希滕贝格两个沉积岩芯的高分辨率多指标记录与光释光测年，重建了从埃姆间冰期晚期至魏克塞尔盛冰期的植被与景观变化，并将奥雷尔和格林德间冰阶重新定位至MIS 5a/4过渡期、对应格陵兰间冰阶20和19.2，而非此前认为的MIS 3，为理解北德晚更新世…",
+      "title": "Environmental dynamics and timing of the late Eemian interglacial to the Weichselian pleniglacial at Lichtenberg, Germany: implications for the Oerel and Glinde interstadials",
+      "topics": [
+        "Middle Palaeolithic",
+        "OSL dating",
+        "stratigraphy"
+      ],
+      "url": "https://doi.org/10.1111/bor.70078",
+      "venue": "Boreas",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Benteng Ma",
+        "Ying Liu",
+        "Yu Liu"
+      ],
+      "doi": "10.1007/978-981-92-3378-6_27",
+      "id": "doi:10.1007/978-981-92-3378-6_27",
+      "publication_date": "2026-07-20",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《通过结构耦合操作不确定性以实现可靠的三维牙齿点云分割》：该论文研究如何通过结构耦合来操作不确定性，以提升三维牙齿点云分割的可靠性，值得关注三维自动形态分析与点云分割的读者阅读。",
+      "title": "Operationalizing Uncertainty via Structural Coupling for Reliable 3D Dental Point Cloud Segmentation",
+      "topics": [
+        "三维自动形态分析"
+      ],
+      "url": "https://doi.org/10.1007/978-981-92-3378-6_27",
+      "venue": "Lecture Notes in Computer Science",
+      "work_type": "book_chapter"
+    },
+    {
+      "abstract": "Prototype-based networks provide inherently interpretable classification by linking predictions to learned exemplars, but their use in 3D point clouds and clinical surface-pair reasoning remains limited. We introduce ProtoPointNet, a prototype-based model for dental occlusion classification from registered upper--lower intraoral arch pairs. Each point is encoded by a 14-dimensional descriptor combining local surface geometry, curvature, and explicit inter-arch displacement and clearance, exposing occlusal relationships to prototype matching. A shared multi-task point-cloud backbone learns axis-specific prototype heads for sagittal-left, sagittal-right, vertical, transverse, and midline classification. To support limited clinical data, we train prototypes from scratch using auxiliary supervision and encoder-freeze hand-off. On Bits2Bites, ProtoPointNet achieves mean test macro-F1 of 0.724 and AUROC of 0.825, with strongest performance on vertical (F1 0.828) and sagittal-left classification (F1 0.807). Projected prototype activations localise to anatomically plausible regions, including posterior molars and premolars for cross-bite evidence and anterior incisors for bite-depth evidence. These results support prototype-based reasoning as a transparent, spatially grounded alternative to black-box 3D classifiers for dental surface-pair analysis.",
+      "authors": [
+        "George V. Jose",
+        "Thao Liang Chiam",
+        "Toby Hughes",
+        "Dilan Patel",
+        "Alan Brook",
+        "Lyle J. Palmer",
+        "Nikhil Cherian Kurian"
+      ],
+      "doi": "10.48550/arxiv.2607.12335",
+      "id": "doi:10.48550/arxiv.2607.12335",
+      "publication_date": "2026-07-14",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《ProtoPointNet：基于原型的三维牙科点云可解释分类与可验证空间激活》：该研究提出基于原型的ProtoPointNet模型，从配准的上下牙弓对中分类咬合关系，通过14维点描述符结合局部几何与牙弓间位移，并学习多任务原型头；在Bits2Bites上取得平均宏F1为0.724、AUROC为0.825，原型激活可定位到解剖学上合理的区域，为牙科表面分析…",
+      "title": "ProtoPointNet: Prototype-Based Interpretable Classification of 3D Dental Point Clouds with Verifiable Spatial Activations",
+      "topics": [
+        "三维自动形态分析"
+      ],
+      "url": "https://arxiv.org/abs/2607.12335",
+      "venue": "arXiv (Cornell University)",
+      "work_type": "preprint"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:146dee55b11de9ce6f9b916c89b561f6f9a414350a27d4fd4267366c841b1c01",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《“制造还是改造，这是个问题”：晚旧石器时代早期与中旧石器时代早期之间修整的相关性》：论文探讨旧石器时代晚期早期向中石器时代早期过渡阶段石器修整行为的意义，值得关注旧石器技术演变与人类行为适应研究的读者阅读。",
+      "title": "Construct or modify this is the question: the relevance of retouch between final Lower Palaeolithic and early Middle Palaeolithic",
+      "topics": [
+        "Lower Palaeolithic",
+        "Middle Palaeolithic"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005626",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "<jats:p>Ancient pathogen genomics and palaeoproteomics have transformed archaeological research on infectious disease by enabling the detection of pathogens, reconstruction of extinct lineages, and investigation of host responses in past populations. Yet pathogen identification alone addresses only part of retrospective diagnosis: whether an individual experienced disease, which tissues were affected, and how infection contributed to morbidity or death. Palaeoproteomics extends this enquiry through the recovery of pathogen proteins, host immune proteins, and tissue-associated molecules from ancient human remains and associated materials. This review evaluates its diagnostic contribution within the broader reconstruction of ancient disease ecology. Dental calculus provides a particularly rich record of oral host–microbe interactions, combining microbial signals with inflammatory and dietary proteins. Studies of mummified skin, muscle and other soft tissues, dental pulp, skeletal lesions, historical bloodstains, coprolites, and latrine residues further extend the range of evidence available for retrospective diagnosis. Protein-based investigations of intestinal infection also illustrate the need to distinguish antibody-based antigen detection from sequence-based proteomics. Published studies support several levels of inference, ranging from tissue identification and inflammatory processes to specific infection and, more cautiously, clinical disease. They also reveal continuing challenges involving peptide specificity, contamination, source attribution, and the interpretation of disease-associated proteins. Retrospective diagnosis is strongest when molecular findings are consistent with anatomical, archaeological, and historical evidence and help discriminate among plausible alternative diagnoses. Protein evidence therefore contributes not only to individual palaeopathological diagnosis but also to broader reconstructions of relationships among infection, diet, sanitation, care, and social conditions. Future progress will depend on comparative samples with and without independently supported pathological evidence, archaeological validation of diagnostic markers, transparent reporting, broader regional coverage, and sampling of finite human remains.</jats:p>",
+      "authors": [
+        "Hantong Xie",
+        "Bowen Yuan"
+      ],
+      "doi": "10.3389/fevo.2026.1944061",
+      "id": "doi:10.3389/fevo.2026.1944061",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《通过病原体基因组学与古蛋白质组学重建古代疾病生态》：该文评估古蛋白质组学在回溯性诊断中的贡献，梳理牙结石、木乃伊软组织、牙髓、骨骼病变、历史血迹、粪化石等材料中的病原体蛋白、宿主免疫蛋白与组织相关分子证据，并讨论肽段特异性、污染、来源归属及疾病相关蛋白解释等挑战，值得关注古代疾病生态重建的读者阅读。",
+      "title": "Reconstructing ancient disease ecology through pathogen genomics and palaeoproteomics",
+      "topics": [
+        "palaeoproteomics"
+      ],
+      "url": "https://doi.org/10.3389/fevo.2026.1944061",
+      "venue": "Frontiers in Ecology and Evolution",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Humans routinely keep souvenirs objects retained for the memories they evoke, yet the evolutionary and cognitive consequences of mnemonic collecting remain unclear. Existing discussions of curated objects concentrate on later prehistory and modern humans and view such objects at the social level, as carriers of shared cultural meaning or as markers of status. Here, we address an earlier time period and locate the phenomenon at the personal rather than the social level. By integrating archaeology with theories of extended memory and niche construction, we synthesize evidence consistent with systematic curation of items beyond purely utilitarian needs from the terminal Lower Palaeolithic (~500 kya) onward, including transported distinctive stones, fossils, and the prolonged retention of patinated “old” stone tools whose earlier surfaces were deliberately preserved. We propose that curated keepsakes functioned as portable external memory devices. Beyond cueing recall, they may have helped authenticate self‐relevant past events by providing durable material traces that support source monitoring—distinguishing experienced from imagined events. As such practices became routine, they could have created a “souvenir niche” in which individuals who better integrated internal recollection with external tokens gained fitness benefits. The token's reference is personal, but its consequences can be social, supporting tasks like tracking alliances, reciprocity, and place‐based obligations. These benefits may have strengthened selection on neural systems facilitating the development of autobiographical memory and sense of self via gene–culture coevolution. We outline archaeological, developmental, and experimental predictions that distinguish this mnemonic‐authentication account from aesthetic or economic explanations and suggest approaches for testing them. Viewing curated objects as memory technology links early material culture to the evolutionary shaping of human autobiographical memory.</jats:p>",
+      "authors": [
+        "Bar Efrati",
+        "Ella Assaf",
+        "Liad Mudrik",
+        "Ran Barkai",
+        "Tal Simon",
+        "Yoav Ram"
+      ],
+      "doi": "10.1002/evan.70051",
+      "id": "doi:10.1002/evan.70051",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《记忆之物：纪念品与自传体记忆及自我的演化》：论文整合考古学与延展记忆、生态位构建理论，提出约五十万年前旧石器时代晚期起人类系统收藏并携带特殊石块、化石及保留旧有表面的石制品，作为便携式外部记忆装置，既触发回忆又通过持久物质痕迹帮助区分亲历与想象事件，并推测这种“纪念品生态位”经基因—文化协同演化强化了自传体记忆与自我感的选择，值得关注早期物质文化与记忆演…",
+      "title": "Homo Memorabiliaxis: Souvenirs and the Evolution of Autobiographical Memory and Self",
+      "topics": [
+        "Lower Palaeolithic"
+      ],
+      "url": "https://doi.org/10.1002/evan.70051",
+      "venue": "Evolutionary Anthropology: Issues, News, and Reviews",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Ontogenetic change is a major source of phenotypic variation among members of a species and is often of greater magnitude than the anatomical differences that distinguish closely related species. Ontogeny has therefore become a problematic confounding variable in vertebrate paleontology, especially in study systems distant from extant crown clades, rendering taxonomic hypothesis testing (a fundamental process in evolutionary biology) rife with difficulty. Paleontologists have adopted quantitative methods to compensate for the perception that juvenile specimens lack diagnostic apomorphies seen in their adult conspecifics. Here, I critically evaluate these methods and the assumptions that guide their interpretation using a μCT dataset comprising growth series of American and Chinese alligator. I find that several widespread assumptions are scientifically unjustifiable and that two popular methods—geometric morphometrics and cladistic analysis of ontogeny—have unacceptably high rates of type II error and present numerous procedural difficulties. However, I also identify a suite of ontogenetically invariant characters that differentiate the living species of\n                    <jats:italic>Alligator</jats:italic>\n                    throughout ontogeny. These characters overwhelmingly correspond to anatomical systems that develop before (and play a signaling role in) the development of the cranial skeleton itself, suggesting that their ontogenetic invariance is a consequence of the widely conserved vertebrate developmental program. These observations suggest that the architecture of the cranium is fixed early in embryonic development and that ontogenetic remodeling does not alter the topological relationships of the cranial bones or the soft tissue structures they house. I propose a general model for future taxonomic hypothesis tests in the fossil record, in which the hypothesis that two specimens are different ontogenetic stages of a single species can be falsified by the discovery of character differences that cannot be attributed plausibly to ontogenetic variation.\n                  </jats:p>",
+      "authors": [
+        "James G. Napoli"
+      ],
+      "doi": "10.1017/pab.2026.10105",
+      "id": "doi:10.1017/pab.2026.10105",
+      "publication_date": "2026-07-02",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《解决脊椎古生物学中的“个体发育问题”》：该研究利用美洲鳄与中国鳄的生长序列μCT数据，批判性评估了补偿幼年标本缺乏诊断特征的定量方法，发现几何形态测量学与个体发育支序分析这两类流行方法具有过高的第二类错误率，并识别出一组贯穿个体发育不变的特征，进而提出化石记录中未来分类学假设检验的一般模型，值得古生物学与几何形态测量学研究者阅读。",
+      "title": "Resolving the “ontogeny problem” in vertebrate paleontology",
+      "topics": [
+        "geometric morphometrics"
+      ],
+      "url": "https://doi.org/10.1017/pab.2026.10105",
+      "venue": "Paleobiology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:68164466cb5c658afb1feb05107c28d08f005678c0aff27ba2982d36776ccf55",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《以不同视角看奥杜瓦伊：基库莱特瓦作为春季避难所、安全睡眠地点与古人类景观利用的现代类比》：该研究以基库莱特瓦为现代类比，探讨春季避难所、安全睡眠地点与古人类景观利用，为理解奥杜瓦伊古人类行为提供新视角，值得关注。",
+      "title": "Seeing Olduvai Differently: Kikuletwa as a Modern Analog for Spring Refugia, Safe Sleeping Sites, and Hominin Landscape Use",
+      "topics": [
+        "hominin",
+        "Olduvai"
+      ],
+      "url": "https://www.researchgate.net/profile/Ian-G-Smith/publication/415824338_Seeing_Olduvai_Differently_Kikuletwa_as_a_Modern_Analog_for_Spring_Refugia_Safe_Sleeping_Sites_and_Hominin_Landscape_Use/links/6acfc3dbb45e90028df9cc00/Seeing-Olduvai-Differently-Kikuletwa-as-a-Modern-Analog-for-Spring-Refugia-Safe-Sleeping-Sites-and-Hominin-Landscape-Use.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "Publication date: 1 December 2026 Source: Quaternary Science Reviews, Volume 393 Author(s): Daniel Ballesteros, Carlos Pérez-Mejías, Manuel I. de Paz-Álvarez, Juncal A. Cruz, Marcos Moreno-Sánchez, Darío Fidalgo, Hai Cheng, Esperanza Fernández-Martínez",
+      "authors": [
+        "Carlos Pérez-Mejías",
+        "Daniel Ballesteros",
+        "Darío Fidalgo",
+        "Esperanza Fernández-Martínez",
+        "Hai Cheng",
+        "Juncal A. Cruz",
+        "Manuel I. de Paz-Álvarez",
+        "Marcos Moreno-Sánchez"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110333",
+      "id": "doi:10.1016/j.quascirev.2026.110333",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Quaternary Science Reviews"
+      ],
+      "summary": "《西班牙北部洞穴记录与河流异常揭示的第四纪构造再活动》：该研究利用洞穴记录与河流异常探讨西班牙北部第四纪构造再活动，值得关注其如何以洞穴沉积和河流地貌异常为线索识别构造活动。",
+      "title": "Quaternary tectonic reactivation from cave records and river anomalies in northern Spain",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110333",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:b14227852f4655753fc4d465aa133e57555fc716cda376e88aa398ac3097b800",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《技术拼图：苏丹努比亚（东北非）中更新世晚期人群动态的年代学与石器证据》：该研究综合年代学与石器证据，探讨东北非苏丹努比亚地区中更新世晚期的人群动态，适合关注中更新世人类演化与非洲考古的读者参考。",
+      "title": "A mosaic of technologies: Chronological and lithic evidence for late Middle Pleistocene population dynamics in Sudanese Nubia (Northeast Africa)",
+      "topics": [
+        "Middle Pleistocene"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S1040618226003733",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:6f6b1d7ea718ba223d2ab22f553182fd89f6e69813bfdb77ab20f39e39ca4c94",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《燧石之外：伊比利亚中部旧石器时代中期采石场中的石英岩工具》：该研究聚焦伊比利亚中部旧石器时代中期采石场中的石英岩工具，值得关注其对传统以燧石为中心的工具技术认识所作的补充。",
+      "title": "Beyond the flint: quartzite tools in the middle Paleolithic quarries of the central Iberia",
+      "topics": [
+        "Middle Paleolithic"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005560",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:1da921e42a69664ac756417c0b5974c13035dced976b70072814fc264937505d",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《过去动物考古学与流动性：从旧石器时代到现代伊比利亚半岛的人与动物互动——专刊导言》：该文作为专刊导言，围绕伊比利亚半岛从旧石器时代至现代的人与动物互动，探讨动物考古学视角下的流动性问题，适合关注动物考古、人与动物关系及伊比利亚区域研究的读者参考。",
+      "title": "Zooarchaeology and Mobility in the Past: Human–Animal Interaction in the Iberian Peninsula from the Palaeolithic to Modern Times. Introduction to the Special Issue",
+      "topics": [
+        "zooarchaeology"
+      ],
+      "url": "https://gredos.usal.es/entities/publication/b260a838-81d6-4cc5-8528-2b7f007a972c",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Laura Lopera Congote",
+        "Molly D. O'Beirne",
+        "Josef P. Werne",
+        "Donald Rodbell",
+        "Mark B. Abbott"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110341",
+      "id": "doi:10.1016/j.quascirev.2026.110341",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《双生物标志物δ2H和δ13C记录可解耦末次盛冰期以来胡宁湖沉积物中的降水与蒸发信号》：该研究利用氢、碳同位素双指标，分离湖泊沉积物中降水与蒸发两种气候信号，为古气候重建提供更精细的解译方法，值得相关研究者阅读。",
+      "title": "Dual biomarker δ2H and δ13C records allow deconvolution of precipitation and evaporation signals in Lake Junin sediments since the last glacial maximum",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110341",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Xiao Bian",
+        "Guoxiao Zhou",
+        "Jing Lu",
+        "Minfang Yang",
+        "Lusheng Yin",
+        "Peixin Zhang",
+        "Kai Zhou",
+        "Ye Wang",
+        "Zhen He",
+        "Longyi Shao",
+        "Jason Hilton",
+        "David P.G. Bond"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114291",
+      "id": "doi:10.1016/j.palaeo.2026.114291",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《峨眉山大火成岩省衰退期喷发与吴家坪期（晚二叠世）碳循环波动及气候变化的关系》：该研究探讨峨眉山大火成岩省衰退阶段火山喷发如何与晚二叠世吴家坪期碳循环波动和气候变化相联系，可供关注大火成岩省环境效应与二叠纪气候演变的研究者参考。",
+      "title": "Emeishan Large Igneous Province waning stage eruptions linked to Wuchiapingian (late Permian) carbon cycle fluctuations and climate change",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114291",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jiasheng Chen"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114290",
+      "id": "doi:10.1016/j.palaeo.2026.114290",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《中国东南部148.6百万年前精确测年的陆地碳同位素偏移：对晚侏罗世环境变化的启示》：该研究基于中国东南部陆相记录，对约148.6百万年前的碳同位素偏移进行精确测年，并据此探讨晚侏罗世环境变化，可供关注侏罗纪气候与环境演化的读者参考。",
+      "title": "A precisely dated terrestrial carbon-isotope excursion at 148.6 Ma from southeastern China: Insights into latest Jurassic environmental change",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114290",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Chang Zhao",
+        "Baoming Du",
+        "Ari Jumpponen",
+        "David A. Wardle",
+        "Noel Caridad Bruguera Amarán",
+        "Enrique González Pendás",
+        "Vidal Pérez Hernández",
+        "Nan Hui"
+      ],
+      "doi": "10.1016/j.catena.2026.110699",
+      "id": "doi:10.1016/j.catena.2026.110699",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《松科植物与外生菌根真菌共生驱动热带采矿生态系统恢复中的土壤有机碳异质性》：该研究探讨松科植物与外生菌根真菌共生如何驱动热带采矿生态系统恢复过程中土壤有机碳的空间异质性，值得关注生态恢复与土壤碳动态的研究者阅读。",
+      "title": "Pinaceae-EMF symbiosis drives soil organic carbon heterogeneity in tropical mining ecosystem restoration",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.catena.2026.110699",
+      "venue": "CATENA",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Haoze Sun",
+        "Li Luo",
+        "Wenzhao Guo",
+        "Weishuai Zhong",
+        "Jie Zhu",
+        "Sihan Zhao",
+        "Zhe Wang"
+      ],
+      "doi": "10.1016/j.catena.2026.110706",
+      "id": "doi:10.1016/j.catena.2026.110706",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《植被恢复重建了径流路径，但浅层地下流并未成为中国黄土高原沟坡的主要泥沙输移路径》：该研究探讨植被恢复对沟坡径流路径的重建作用，并检验浅层地下流是否成为主要泥沙输移通道，可为黄土高原沟坡水文过程与水土保持研究提供参考。",
+      "title": "Revegetation reconstructs runoff pathways but shallow subsurface flow does not become a major sediment-transport pathway on gully slopes of the Chinese loess Plateau",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.catena.2026.110706",
+      "venue": "CATENA",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Jinlong Ma",
+        "Yanfen Yang",
+        "Guobin Liu",
+        "Xiaobing Yu",
+        "Jiajia Mo",
+        "Bing Wang"
+      ],
+      "doi": "10.1016/j.catena.2026.110702",
+      "id": "doi:10.1016/j.catena.2026.110702",
+      "publication_date": "2026-10-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《中国黄土丘陵沟壑区土地利用类型间土壤抗蚀性变化及其对土壤深度的依赖》：该研究考察不同土地利用类型下土壤抗蚀性的变化及其与土壤深度的关系，值得关注黄土区土壤侵蚀机理与土地管理的读者阅读。",
+      "title": "Variation of soil anti-scourability across land-use types and its dependence on soil depth in the loess hilly-gully region, China",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.catena.2026.110702",
+      "venue": "CATENA",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:0370c9691c3b80f1d22481b3a3c9511a73f731b59570636ddc051f465932db70",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《尼安德特洞穴遗址中的河狸与旱獭：西班牙布尔戈斯省瓦尔德戈瓦洞穴的小型猎物消费研究》：该研究以瓦尔德戈瓦洞穴遗址为对象，考察尼安德特人对河狸与旱獭等小型猎物的消费情况，为理解尼安德特人的觅食行为与遗址形成过程提供了具体案例，值得关注旧石器时代人类生态的研究者阅读。",
+      "title": "Beavers and marmots in a Neanderthal cave palimpsest: small-prey consumption at Valdegoba Cave (Burgos, Spain)",
+      "topics": [
+        "Neanderthal"
+      ],
+      "url": "https://www.researchsquare.com/article/rs-11319217/latest",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:c83912b8d3c05407c42e7787054ff818619686a4eed91880d436175dd96b380c",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《来自沙尼达尔洞穴的新尼安德特人个体中葬礼行为与致命创伤的证据》：该研究报道了沙尼达尔洞穴新发现的尼安德特人个体，并提供其葬礼行为与致命创伤的证据，值得关注尼安德特人行为与古病理的研究者阅读。",
+      "title": "Evidence for funerary behaviour and lethal trauma in a new Neanderthal individual from Shanidar Cave",
+      "topics": [
+        "Neanderthal"
+      ],
+      "url": "https://www.nature.com/articles/s41598-026-69193-z",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:caffc73b41fb6556b96241e93cef2e013472f234b32ecc674bae7323ff050fd8",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《伊比利亚半岛南部内华达山脉拉古纳塞卡高山湿地近1.58万年的晚更新世与全新世古环境数据》：该研究基于拉古纳塞卡高山湿地的古环境数据，重建该地区近1.58万年的环境演变，可供关注伊比利亚半岛南部晚更新世至全新世古环境变化的读者参考。",
+      "title": "Latest Pleistocene and Holocene paleoenvironmental data of Laguna Seca alpine wetland (Sierra Nevada, southern Iberian Peninsula) over the last 15.8 kyr",
+      "topics": [
+        "paleoenvironment"
+      ],
+      "url": "https://produccioncientifica.ucm.es/documentos/6abe989a8cbbb90d2a03a3a9",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:913b6c16081e1a13686724609fce0ccaa32ce5cf06b8f04d25e93a45300faf8a",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《针尖般精细：通过石器拼合重建圣塔利尼亚大岩洞马格达林期边缘细石叶生产与情境完整性》：该研究以石器拼合方法重建马格达林期细石叶的生产过程与情境完整性，适合关注旧石器时代石器技术、打制实验与遗址形成过程的读者阅读。",
+      "title": "Needle-thin: reconstructing on-edge microblade production and contextual integrity through lithic refitting in the Magdalenian of Cova Gran de Santa Linya (SE ...",
+      "topics": [
+        "lithic refitting"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600564X",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:e167476d102cf34d0d2c059429604e7211ed0220cd1a4b25d6e4242d2e8cfe11",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《热处理技术与薪材密度塑造硅结砾岩石片刃缘几何形态》：该研究考察热处理技术与薪材密度如何影响硅结砾岩石片刃缘的几何形态，值得关注石制品技术分析与实验考古的读者阅读。",
+      "title": "Heat treatment technique and fuelwood density shape silcrete flake-edge geometry",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005432",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:5c374f7c3d2e340f3ecd6e2dc84eace50e7cc1e8843f03cc6fe0a007ebdeac25",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《隐藏在历史资料中：在艺术、档案与文化知识中重新发现刺牡蛎（Spondylus gaederopus Linnaeus, 1758）》：该研究通过艺术、档案与文化知识三条线索重新追踪刺牡蛎的历史踪迹，适合关注历史文献与物质文化交叉研究的读者阅读。",
+      "title": "Hidden in historical sources: Rediscovering the thorny oyster (Spondylus gaederopus Linnaeus, 1758) in art, archives, and cultural knowledge",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0356273&hl=zh-CN&sa=X&d=710693040799517385&ei=xVLWaomNKdK2ieoP5a2TgQE&scisig=ACTRDVEme41TRSMlmcxro88O46_I&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=0&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:3816306a48b87fccbb7ca30abf58aaeb1206b94cedd66c16184166368be137cc",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《劳氏懒兽与箭齿兽亚科牙齿内碳氧同位素记录：巴西东北部晚更新世古生态初探》：该研究通过牙齿序列的δ13C与δ18O分析，重建这两种大型哺乳动物的摄食与饮水行为，为理解晚更新世热带美洲动物群的环境适应提供新证据。",
+      "title": "Intra-tooth carbon (δ13C) and oxygen (δ18O) isotope records of Eremotherium laurillardi (Lund, 1842) and Toxodontinae from the Late Pleistocene of northeastern ...",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S1040618226003812&hl=zh-CN&sa=X&d=13218258202094035696&ei=xVLWapPkENK2ieoP5a2TgQE&scisig=ACTRDVElGBi4BJ3IFcgQvc2Iumvv&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=6&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:3fcdb7134609d5ec94ffd1cb882a6af4ba5608e919dc81425352611f9a1d0865",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《刮削技术是东西方旧石器时代技术演化差异的驱动力吗？一个新假说》：论文提出新假说，探讨刮削技术是否构成东西方旧石器时代技术演化差异的驱动力，可供关注旧石器技术演化与区域比较的研究者参考。",
+      "title": "Is Hafting Technology a Driving Force of Difference in Paleolithic Technological Evolution Between East and West? A Novel Hypothesis",
+      "topics": [],
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/01977261.2026.2747599",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:b83be7b3cdc45d402654e40c0637df1101b64284d18e99b01802a9a84084e6a4",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《非花粉孢粉型微体化石及其在重建土耳其西南部塞基-埃杰莱尔土丘全新世古气候中的作用》：该研究探讨非花粉孢粉型微体化石在重建该遗址全新世古气候中的作用，可供关注孢粉学与古气候重建的读者参考。",
+      "title": "Non-pollen palynomorphs (NPPs) and their role in reconstructing the paleoclimate of the Seki-Eceler Höyük during the Holocene in southwestern Türkiye",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S1040618226003745&hl=zh-CN&sa=X&d=15692353160690817327&ei=xVLWapPkENK2ieoP5a2TgQE&scisig=ACTRDVHClJmGq4wjiqQeuGZ35pEO&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=0&folt=rel",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
