@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-26",
+  "items": [
+    {
+      "artists": [
+        "Petit Biscuit"
+      ],
+      "release_date": "2026-10-21",
+      "release_type": "album",
+      "title": "insomnia"
+    },
+    {
+      "artists": [
+        "Lil Gotit"
+      ],
+      "release_date": "2026-10-23",
+      "release_type": "album",
+      "title": "B4EON"
+    },
+    {
+      "artists": [
+        "Astrophysics"
+      ],
+      "release_date": "2026-10-21",
+      "release_type": "single",
+      "title": "antagonist"
+    },
+    {
+      "artists": [
+        "Sasha Alex Sloan"
+      ],
+      "release_date": "2026-10-23",
+      "release_type": "album",
+      "title": "And The Crowd Goes Mild"
+    },
+    {
+      "artists": [
+        "Lennon Stella"
+      ],
+      "release_date": "2026-10-23",
+      "release_type": "album",
+      "title": "Sleeping Lion"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-10-26",
+  "schema_version": 1
+}
