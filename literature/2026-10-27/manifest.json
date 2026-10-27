@@ -1,0 +1,509 @@
+{
+  "date": "2026-10-27",
+  "items": [
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    This work aims to investigate the formation processes of the charcoal assemblage from level Ra at Abric Romaní, a well-preserved Middle Palaeolithic rock shelter in north-eastern Spain that was occupied by Neanderthals. To this end, we adopted an anthracological approach that combines both taxonomic and taphonomic observations. Spatial patterns and potential formation processes were explored through spatial analysis using Kernel Density Estimation and the Moran’s index across the excavated layer. These analyses were performed using the Cartesian coordinates of the archaeological charcoal fragments recovered in the level and included their taxonomic identification and documented taphonomic modifications. The correlations between alterations were also tested to identify possible interactions among the phenomena that affected the charcoal fragments. Finally, we integrated these findings with data from other previously studied archaeological levels in the archaeological sequence. Our findings, contextualized at the beginning of MIS 3, indicate a dominance of\n                    <jats:italic>Pinus sylvestris</jats:italic>\n                    , indicating the continuity of well-established mountain pine forests at elevations below their current boundary. Our taphonomic observations suggest low to moderate postdepositional processes affecting specific areas of the rock shelter, mainly related to small waterflows. After controlling for different taphonomic processes, differences in charcoal fragment distributions between the northern and southern sectors suggest distinct human activities, which are interpreted as signs of differences in use and potentially representing waste-management events. The results suggest the potential of integrating spatial studies of archaeological charcoal fragments in order to gain valuable insights into hearth-related assemblage formation.\n                  </jats:p>",
+      "authors": [
+        "Bàrbara Mas",
+        "Ethel Allué",
+        "Josep Vallverdú",
+        "M. Gema Chacón",
+        "Palmira Saladié",
+        "Tomás Fernández-Iriarte"
+      ],
+      "doi": "10.1007/s41982-026-00277-y",
+      "id": "doi:10.1007/s41982-026-00277-y",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《尼安德特人营地中空间的使用：来自西班牙巴塞罗那罗曼尼岩棚Ra层木炭遗存空间与埋藏学分析的证据》：该研究结合分类学与埋藏学观察，运用核密度估计和莫兰指数分析木炭碎片的分布，探讨Ra层木炭组合的形成过程，并据此推断遗址南北区域可能存在不同的人类活动与废弃物管理方式，值得关注旧石器时代篝火相关遗存研究的读者阅读。",
+      "title": "The Use of Space in Neanderthal Campsites: Evidence from Spatial and Taphonomic Analyses of Charcoal Remains from Level Ra of Abric Romaní (Barcelona, Spain)",
+      "topics": [
+        "hearth",
+        "Middle Palaeolithic",
+        "Neanderthal"
+      ],
+      "url": "https://doi.org/10.1007/s41982-026-00277-y",
+      "venue": "Journal of Paleolithic Archaeology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>The distribution and abundance of species is a product of the interplay of climatic and environmental factors, both past and present, natural, and anthropogenic. In the most recent stage of the Anthropocene, these changes have been extremely rapid and abrupt. The objective of this work is to discuss some socio-environmental problems of northern Patagonia by comparing micromammal archeological and paleontological sequences attributable to the final Late-Holocene and post-Hispanic period with current samples from the region. Several sites in northern Patagonia, from the Andean forest, the Steppe and Monte regions, and their ecotone, were selected as study cases. The comparison of the species composition from the final Late-Holocene and post-Hispanic assemblages with local small mammal communities indicates species extinctions, considerable reductions in their distributional ranges, and an increase in the abundance of opportunistic taxa. The causes have been attributed to the accelerated deterioration of natural ecosystems due to anthropogenic factors, including habitat destruction caused by the expansion of agriculture and livestock farming, the introduction of exotic plant and animal species, soil compaction, and other factors. Paleoecology, as a historical science of nature, inevitably requires the use of modern analogues in its interpretations, a situation that became increasingly difficult and challenging in the times of the Anthropocene, where current communities are constantly changing due to anthropogenic causes.</jats:p>",
+      "authors": [
+        "Analia Andrade",
+        "Pablo Teta"
+      ],
+      "doi": "10.1177/09596836261494541",
+      "id": "doi:10.1177/09596836261494541",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《小型哺乳动物动物考古学与古生态学对理解北巴塔哥尼亚近期人类影响所致生态系统变化的贡献》：该文通过比较北巴塔哥尼亚晚全新世末期与后西班牙时期的小型哺乳动物考古和古生物序列与当前样本，探讨该地区的社会环境问题，指出物种灭绝、分布范围大幅缩减及机会主义类群丰度上升，并将其归因于农业牧业扩张、外来物种引入等人类因素导致的生态系统加速退化，可供关注人类世生态变迁的…",
+      "title": "Contributions of zooarchaeology and paleoecology of small mammals to understanding recent ecosystem modifications in northern Patagonia due to human impact",
+      "topics": [
+        "zooarchaeology"
+      ],
+      "url": "https://doi.org/10.1177/09596836261494541",
+      "venue": "The Holocene",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Research on Palaeolithic bone tools has increasingly emphasised methodological refinement and interdisciplinary approaches, yet systematic quantitative assessments of scholarly attention and bias remain limited. This study presents a quantitative synthesis of 137 publications aimed at analysing patterns in tool-type focus, geographic coverage, and methodological change in European Palaeolithic bone-tool research. Within the Middle Palaeolithic context, retouchers emerge as the continuously foregrounded discrete category, while other artefact categories, often characterised by subtler traces or more ambiguous manufacturing and use traces, remain marginal. Using descriptive statistics, Fisher’s exact tests, and logistic regression, we identify a pronounced and persistent attention bias: retouchers constitute a dominant focus and are more likely to be analysed with functional methods (use-wear, experimentation, 3D imaging). Geographically, research is heavily concentrated in Western Europe, with France and Italy accounting for nearly half of all studies, while Spain shows a distinct association with retoucher-focused work. Temporally, we document a measurable shift from typological description toward techno-functional and interdisciplinary analysis, a trend that is statistically significant but unevenly distributed across tool types and regions. These findings underscore how research priorities, validation strategies, and regional academic traditions shape the archaeological narrative of early bone technology. Over time, this imbalance may narrow reconstructions of Palaeolithic bone technology toward activities closely aligned with lithic production, inadvertently downplaying other domains of bone use such as hide processing, plant working, composite tool manufacture, or percussive tasks unrelated to stone-tool maintenance. The issue is therefore not simply one of bias, but of epistemic filtering: certain behaviours become more visible because they align with dominant validation strategies, while others remain under-represented. We argue that future studies should extend high-resolution functional analyses beyond retouchers, broaden geographic and chronological representation, and adopt more standardised reporting to advance a more balanced understanding of Palaeolithic bone-tool behaviours.</jats:p>",
+      "authors": [
+        "Eva Francesca Martellotta",
+        "Kalangi Rodrigo",
+        "Marco Peresani"
+      ],
+      "doi": "10.1007/s12520-026-02588-1",
+      "id": "doi:10.1007/s12520-026-02588-1",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《以修理器为中心：量化欧洲旧石器时代中期骨工具研究中的关注偏差与方法变迁》：该研究对137篇文献做定量综合，分析工具类型关注、地理覆盖与方法变化，发现修理器持续占据主导且更常被功能分析，研究集中于西欧，并记录了从类型描述向技术功能与跨学科分析的转变，值得关注考古研究偏差的读者阅读。",
+      "title": "Retouchers at the centre: quantifying attention bias and methodological change in middle palaeolithic bone-tool research in Europe",
+      "topics": [
+        "Middle Palaeolithic"
+      ],
+      "url": "https://doi.org/10.1007/s12520-026-02588-1",
+      "venue": "Archaeological and Anthropological Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Northeast China and Russian Primorye lie at the confluence of the East Asian summer monsoon, Siberian High, and Pacific maritime circulation. The region experienced pronounced glacial-interglacial variability and served as a corridor for human dispersal among Siberia, East Asia, and the Americas. This review synthesises palaeoecological and archaeological evidence, principally from the past ca. 50 ka. Environmental records trace a transition from the cold, arid steppe of the Last Glacial Maximum (ca. 26.5–19.0 ka BP) to warmer, more forested Holocene landscapes, while revealing strong spatial heterogeneity and abrupt events. Although the ≥146 ka Harbin cranium predates the main review interval, it establishes a Middle Pleistocene hominin presence; securely dated archaeological sequences considered here begin in the Late Pleistocene. These records document developments from Upper Palaeolithic lithic industries to Neolithic sedentism, millet agriculture, and Bronze Age sociopolitical complexity. A central limitation is the spatial separation of most palaeoclimatic archives and archaeological sites. Their differing chronological resolution further restricts direct causal attribution, leaving many proposed climate-culture relationships as working hypotheses. We therefore advocate co-located multiproxy transects, improved chronological control, and tephrochronological correlation. A site-by-site appraisal of radiocarbon, OSL, and U-series chronologies identifies relationships that are currently testable. The Boisman-Krounovka sequence suggests that resource breadth and specialisation may mediate vulnerability to environmental change, although the roles of social organisation, mobility, and demography remain unresolved. Northeast Asia thus offers a framework for generating and testing hypotheses about climatic variability, demographic processes, and cultural change rather than demonstrating simple climate-driven causation.",
+      "authors": [
+        "Xinrong Zhang",
+        "Jing Xu",
+        "Alexandra Romanova",
+        "Yuri Mikishin",
+        "Yuri Vostretsov",
+        "Peter Jia",
+        "John Dodson"
+      ],
+      "doi": "10.1016/j.ancene.2026.100593",
+      "id": "doi:10.1016/j.ancene.2026.100593",
+      "publication_date": "2026-10-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《晚第四纪东北亚的气候变率与人类适应：对中国东北和俄罗斯滨海边疆区古环境与考古记录的批判性综述》：文章系统梳理约五万年来该地区从末次盛冰期寒冷干旱草原到全新世温暖森林景观的环境变迁，以及从旧石器时代晚期石器工业到新石器时代定居、粟作农业和青铜时代社会复杂化的考古序列，并指出古气候档案与考古遗址空间分离、年代分辨率不一限制了直接因果推断，值得关注区域人地关系…",
+      "title": "Climate Variability and Human Adaptation in Late Quaternary Northeast Asia: A critical review of paleoenvironmental and archaeological records from Northeast China and Primorye of Russia",
+      "topics": [
+        "hominin",
+        "Middle Pleistocene",
+        "paleoenvironment",
+        "U-series"
+      ],
+      "url": "https://doi.org/10.1016/j.ancene.2026.100593",
+      "venue": "Anthropocene",
+      "work_type": "article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Alexandria R. Orozco",
+        "Tosha Dupras",
+        "Laurynas Kurila",
+        "Giedrė Piličiauskienė",
+        "Rūta Brindzaitė",
+        "John Schultz",
+        "Jovita Kadikinaitė",
+        "Emily Zavodny",
+        "Rimantas Jankauskas",
+        "Scott Branting"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106136",
+      "id": "doi:10.1016/j.jasrep.2026.106136",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《动荡时代的稳定同位素：立陶宛普林凯加利斯遗址的饮食与社会组织研究》：该论文运用稳定同位素分析，探讨立陶宛普林凯加利斯遗址人群的饮食结构与社会组织，值得对波罗的海地区古代社会考古感兴趣的读者阅读。",
+      "title": "Stable isotopes in an unstable time: understanding diet and social organization at Plinkaigalis, Lithuania",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106136",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s): Omar Larentis, Annaluisa Pedrotti, Barbara Grassi, Stefano Grimaldi, Ilaria Gorini, Cristina Longhi",
+      "authors": [
+        "Annaluisa Pedrotti",
+        "Barbara Grassi",
+        "Cristina Longhi",
+        "Ilaria Gorini",
+        "Omar Larentis",
+        "Stefano Grimaldi"
+      ],
+      "doi": "10.1016/j.jas.2026.106732",
+      "id": "doi:10.1016/j.jas.2026.106732",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science"
+      ],
+      "summary": "《碎片化指数作为“文化咬痕”：解析意大利西北部青铜时代与铁器时代火葬骨骼碎片化的生物性与年代性成分》：该研究以碎片化指数为切入点，区分火葬骨骼碎片化中的生物性与年代性因素，值得关注考古遗存解读方法的读者阅读。",
+      "title": "The fragmentation index as a 'cultural bite': Disentangling biological and chronological components of skeletal fragmentation in Bronze and Iron Age cremations from north-western Italy",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jas.2026.106732",
+      "venue": "Journal of Archaeological Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s): Wim Van Neer, Bea De Cupere, Claudio Ottoni",
+      "authors": [
+        "Bea De Cupere",
+        "Claudio Ottoni",
+        "Wim Van Neer"
+      ],
+      "doi": "10.1016/j.jas.2026.106733",
+      "id": "doi:10.1016/j.jas.2026.106733",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science"
+      ],
+      "summary": "《古埃及为制作木乃伊而养猫：来自贝尼哈桑的骨骼学证据》：该研究基于贝尼哈桑的骨骼学证据，探讨古埃及为制作木乃伊而养猫的做法，值得关注考古动物学与古埃及丧葬实践的读者阅读。",
+      "title": "Keeping cats for mummification in ancient Egypt: osteological evidence from Beni Hassan",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jas.2026.106733",
+      "venue": "Journal of Archaeological Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: 15 December 2026 Source: Quaternary Science Reviews, Volume 394 Author(s): Jiangtao Gao, Chuanyu Gao, Dongxue Han, Jinxin Cong, Yunlong Gao, Guangxin Li, Guoping Wang, Ming Jiang",
+      "authors": [
+        "Chuanyu Gao",
+        "Dongxue Han",
+        "Guangxin Li",
+        "Guoping Wang",
+        "Jiangtao Gao",
+        "Jinxin Cong",
+        "Ming Jiang",
+        "Yunlong Gao"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110346",
+      "id": "doi:10.1016/j.quascirev.2026.110346",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Quaternary Science Reviews"
+      ],
+      "summary": "《正构烷烃记录揭示热喀斯特湖陆化过程中泥炭沼泽向藓类沼泽演替及泥炭碳稳定性增强》：该研究利用正构烷烃记录，探讨热喀斯特湖陆化过程中从泥炭沼泽向藓类沼泽的演替，并揭示泥炭碳稳定性随之增强，可供关注湿地碳循环与古环境演变的研究者参考。",
+      "title": "n-Alkane records reveal fen-to-bog succession with increasing peat carbon stability during thermokarst lake terrestrialization",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110346",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Alberto E. Pérez, Eduardo Crivelli Montero, Jacobo Hernández-Montelongo",
+      "authors": [
+        "Alberto E. Pérez",
+        "Eduardo Crivelli Montero",
+        "Jacobo Hernández-Montelongo"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106112",
+      "id": "doi:10.1016/j.jasrep.2026.106112",
+      "publication_date": "2026-10-25",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《阿根廷里奥内格罗省利迈河中游流域皮奇莱乌富溪奥尔加石屋遗址晚全新世黑曜石pXRF分析》：论文以便携式X射线荧光光谱分析该遗址晚全新世黑曜石，值得关注其方法路径与区域黑曜石来源讨论。",
+      "title": "pXRF obsidian analysis from Casa de Piedra de Ortega, Pichileufú stream, Middle Limay River Basin (Río Negro, Argentina) during the Late Holocene",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106112",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:e075701185d2accd23f273fc8198bd65a26abdd1b31df1fa82666cdb881b5012",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《纳莱迪人约84万年前的平均年代及其与全球气候变化、中更新世转型和古人类高灭绝概率的关系》：该研究探讨纳莱迪人的年代测定及其与全球气候变化和中更新世转型的关联，并分析古人类灭绝的高概率，值得关注。",
+      "title": "A Mean Date of 840 kya for Homo naledi in Relation to Global Climatic Change, the MPT Mid-Pleistocene Transition, and a High Probability of Hominin Extinction",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://www.preprints.org/frontend/manuscript/81b5dae63e427e2c7085bc5b7096e016/download_pub",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    This study presents the first detailed description of bioerosion traces produced by insects in bones from the Santa Cruz Sequence (early Carnian, Santa Maria Supersequence, Brazil). An array of traces is reported, consisting of notches, a tube, trails of grooves attributed to the ichnotaxon\n                    <jats:italic>Osteocallis mandibulus</jats:italic>\n                    and ornamented depressions attributed to a new ichnotaxon\n                    <jats:italic>Osteograptus thanatobios</jats:italic>\n                    igen. nov. et isp. nov. The traces were likely produced by insects, but a less inclusive taxonomic attribution is currently not possible. The ethological interpretation for the bioerosion structures is that they represent feeding traces. This report increases the contrast between the Middle and Late Triassic bioerosion record, since the latter is significantly more diverse and abundant. Hypotheses related to the onset of the Carnian Humid Episode as well as taphonomic biases are discussed as possible explanations for this contrast.\n                  </jats:p>",
+      "authors": [
+        "Francesco Battista",
+        "Heitor Francischini",
+        "Lucca S. Cunha"
+      ],
+      "doi": "10.1002/ar.70377",
+      "id": "doi:10.1002/ar.70377",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《晚三叠世骨骼中的生物侵蚀痕迹揭示昆虫利用尸体行为多样性增加》：该研究首次详细描述了巴西圣克鲁斯序列（卡尼期早期）骨骼中昆虫产生的生物侵蚀痕迹，包括凹口、管状痕迹、归入Osteocallis mandibulus的沟槽痕迹以及归入新遗迹分类单元Osteograptus thanatobios的装饰性凹坑，并解释为取食痕迹；研究还讨论了卡尼期湿润事件开始与埋…",
+      "title": "Bioerosion traces in bones reveal an increase in ethological diversity in the insect exploitation of carcasses in the late Triassic",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70377",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    The Arctic is warming faster than any other region on Earth. As sea ice diminishes, the surface boundary conditions, such as roughness and air–sea coupling, change and open‐water fetch increases. This may enhance wind forcing on Arctic coasts. Lake sediments can record these changes through the deposition of wind‐blown grains and elements, offering insights into past wind and climate dynamics. We reconstruct\n                    <jats:italic>c</jats:italic>\n                    . 8200 years of wind and climate variability using laminated sediments from a closed‐basin lake in central Spitsbergen, Svalbard archipelago, High Arctic. By integrating geochemical, visual and granulometric fingerprints within a multiproxy geostatistical framework, we link aeolian minerogenic input to specific catchment sources. Our findings show that iron (Fe)‐rich coarse silt‐sized clasts originate from distinct dolerite outcrops west and northwest of the lake, upwind of the dominant summer westerlies. This reveals a locally filtered westerly input that aligns with valley‐fjord channelling. We identify four phases of enhanced aeolian activity during the Mid‐ and Late Holocene, which occurred when local boundary conditions were favourable for entraining and transporting sediment into the basin. Major shifts in sediment sources and depositional conditions coincide with the end of the Holocene Thermal Maximum and the gradual onset of the Neoglacial. However, the reconstructed wind signal demonstrates a comparatively stable long‐term behaviour, with no clear correspondence to regional palaeoclimate records.\n                  </jats:p>",
+      "authors": [
+        "Ingunn H. Thorseth",
+        "Jan Kavan",
+        "Mark F. A. Furze",
+        "Mateusz C. Strzelecki",
+        "Willem G. M. van der Bilt",
+        "Zofia Stachowska"
+      ],
+      "doi": "10.1111/bor.70089",
+      "id": "doi:10.1111/bor.70089",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《斯瓦尔巴群岛内峡湾湖泊沉积物记录的8200年西风变率地球化学与粒度指纹》：研究利用高北极斯匹次卑尔根中部一个封闭盆地湖泊的纹层沉积物重建约8200年风与气候变率，将风成矿物输入与特定集水区源区相联系，识别出全新世中期和晚期四个风成活动增强阶段，并发现沉积物源与沉积条件的重大转变与全新世热盛期结束及新冰期逐渐开始相吻合，值得关注高北极风尘记录与区域古气候对…",
+      "title": "Geochemical and granulometric fingerprints of 8200 years of westerly wind variability in inner‐fjord lake sediments from Svalbard",
+      "topics": [],
+      "url": "https://doi.org/10.1111/bor.70089",
+      "venue": "Boreas",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Rodrigo García-Martín",
+        "Antonio Pineda",
+        "María Concepción Martín-Chamoso"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106146",
+      "id": "doi:10.1016/j.jasrep.2026.106146",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《晚期古代动物尸体利用的贝叶斯建模：来自西班牙萨拉曼卡塞利塞斯埃尔奇科罗马别墅的洞见》：该研究以贝叶斯建模分析该罗马别墅的动物尸体利用模式，值得关注其如何借统计方法揭示晚期古代资源利用策略。",
+      "title": "Bayesian modelling of Late Antiquity carcass exploitation: insights from the roman villa of Saelices el Chico (Salamanca, Spain)",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106146",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Atsushi Uemine"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106140",
+      "id": "doi:10.1016/j.jasrep.2026.106140",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《日本中部狩猎采集者的石料原料勘探与选择：汤峰山周边遗址的初步研究》：该研究基于汤峰山周边遗址，初步探讨狩猎采集者的石料原料勘探与选择，值得关注早期人类资源利用策略的读者阅读。",
+      "title": "Hunter-gatherer lithic raw material exploration and selection in central Japan: Preliminary insight from the sites around Mt. Yugamine",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106140",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Shangkun Li",
+        "Zhifu Wei",
+        "Yongli Wang",
+        "Gen Wang",
+        "Xueyun Ma",
+        "Kaikang Liang",
+        "Kebin Wei",
+        "Jianzhen Chen"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114315",
+      "id": "doi:10.1016/j.palaeo.2026.114315",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《柴达木盆地咸化湖相系统有机质富集对气候变化的响应机制》：该研究探讨柴达木盆地咸化湖相沉积中有机质积累如何响应气候变化，值得关注咸化湖相烃源岩与古气候研究的读者阅读。",
+      "title": "Mechanisms of organic matter accumulation responses to climate change in a saline lacustrine system, Qaidam Basin",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114315",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Yun Cai",
+        "Jingran Zhang",
+        "Liangqing Cheng",
+        "Xianqiang Meng",
+        "Liang Yi",
+        "Hao Long"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110343",
+      "id": "doi:10.1016/j.quascirev.2026.110343",
+      "publication_date": "2026-10-26",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《18.5 ka以来祁连山中段降水变化的高纬与低纬强迫》：该研究探讨祁连山中段降水变化受高纬与低纬强迫的影响，值得关注。",
+      "title": "High- and low-latitude forcing on precipitation variations over the central Qilian Mountains since 18.5 ka",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110343",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:9075041895fdd7dff4a8513f44ed0d1ce315f78d25e1e44a0befd5d5c4218245",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《整合稳定同位素、脂质残留与陶器操作链：斯洛伐克Čičarovce遗址新石器时代晚期生计与韧性（公元前5000—4500年）》：该研究结合稳定同位素、脂质残留与陶器操作链分析，探讨该遗址新石器时代晚期的生计方式与韧性，适合关注稳定同位素考古及史前生计研究的读者阅读。",
+      "title": "Integrating stable isotopes, lipid residues, and pottery chaîne opératoire: Late Neolithic Lifeways and resilience at Čičarovce, Slovakia (5000-4500 cal BC)",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.muni.cz/en/research/publications/2593667&hl=zh-CN&sa=X&d=6369159901933724013&ei=2X7fareFCvaUieoPlbSlsQ8&scisig=ACTRDVGLP8rmoHBIqj1poeaVgXLn&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=6&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:11a9e62ed615f56b5c6054165e65cf09af8c25eb871cfb66e848171339703357",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《公元前一千纪早期多瑙河下游的生存策略：巴巴达格聚落的动物考古与植物考古证据》：该研究结合动物考古与植物考古证据，考察巴巴达格聚落先民的生计方式，值得关注早期铁器时代多瑙河下游地区农业与家畜利用的读者阅读。",
+      "title": "Subsistence Strategies in the Lower Danube During the Early First Millennium BC: Archaeozoological and Archaeobotanical Evidence from the Babadag Settlement ...",
+      "topics": [
+        "subsistence"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.mdpi.com/2571-550X/9/6/72&hl=zh-CN&sa=X&d=8150717482543264746&ei=2X7fareFCvaUieoPlbSlsQ8&scisig=ACTRDVGbIbs5T4HzusYfnZrnafzZ&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=3&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:f40126ef855665dc02d725bd245262c2dc3623c178357175c5b34ec8f45f6a01",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《“墙上的另一块砖”：孔布-格雷纳勒基纳莫斯特文化层（17-26层）玄武岩卵石的生态-技术-功能研究》：论文分析该遗址玄武岩卵石的生态、技术与功能特征，值得关注旧石器时代石器研究。",
+      "title": "«Another Brick in the wall»: Eco-Techno-Fonctionality of basalt pebbles from the Combe-Grenal Quina Mousterian (lvl 17-26)",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005602",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:9a90324171839bf9fa07c498878732381424283482b6699fd8c88c0a5764cdc8",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《雌性在野生倭黑猩猩脊椎动物捕猎中塑造狩猎行为》：该研究探讨雌性在野生倭黑猩猩捕猎脊椎动物过程中的作用，值得关注其如何揭示雌性对群体狩猎行为的影响。",
+      "title": "Females shape hunting of vertebrates in wild bonobos",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.cell.com/current-biology/fulltext/S0960-9822(26)01325-4&hl=zh-CN&sa=X&d=10619665703219201593&ei=2X7fasCyGOS0ieoP99PDsQo&scisig=ACTRDVED5UdjvWfpHKNH3SkcrESe&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=0&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:f299e4309c467f63fedffec462040f75ce856f773add1a720641f47b5e2c66ef",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《假说：约30万年前的一次现代人类分布范围扩张在尼安德特人起源中起了关键作用》：该文提出这一假说，探讨现代人类分布范围扩张与尼安德特人起源之间的关系，可供关注人类演化与古人类起源问题的读者参考。",
+      "title": "Hypothesis: A modern human range expansion~ 300,000 years ago had a critical role in Neandertal origins",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://contravex.com/wp-content/uploads/2026/10/Hypothesis-A-modern-human-range-expansion-300000-years-ago-had-a-critical-role-in-Neandertal-origins-David-Reich.pdf&hl=zh-CN&sa=X&d=3530479573490223378&ei=2X7fareFCvaUieoPlbSlsQ8&scisig=ACTRDVG7deQbJlDRZhsvKAxNUmjJ&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=8&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:45769286d72013377f5b91851b839e39a1cd11a521e43dda4069ad7496872f4c",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《意大利格拉维特文化扩散的新见解：里帕罗莫基（巴尔齐罗西）遗址最早的诺阿耶文化证据》：该研究报道了里帕罗莫基遗址最早的诺阿耶文化证据，为探讨格拉维特文化在意大利的扩散提供了新的线索，值得关注。",
+      "title": "New insights into the diffusion of the Gravettian in Italy: the earliest Noaillian evidence at Riparo Mochi (Balzi Rossi)",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005663",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:59f3548ce273c8cbc8f167484e706586032d6c7c69bdb9f8507f8c5f39a0119f",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《罗西奥·帕索斯-加西亚与安东尼奥·布兰科-冈萨雷斯》：该文作者信息可供学术联络参考，适合关注相关研究者的读者查阅。",
+      "title": "Rocío Pazos-García rocio_pazos_garcia@ usal. es Antonio Blanco-González ablancoglez@ usal. es",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://gredos.usal.es/server/api/core/bitstreams/54fd347e-aed9-4aad-aced-96ca216cd23e/content&hl=zh-CN&sa=X&d=16549896019794700561&ei=2X7fasCyGOS0ieoP99PDsQo&scisig=ACTRDVE0HgNqh-D-kNoYsAawOwqO&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:ACTRDVFtGpl0LbLdYmEHzXJDs5BA&html=&pos=1&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:563b83193db26f9922471807dd7a801d21733a5bd6617b0a795c39747cd276b3",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《黎凡特中青铜时代开端：来自米吉多的新证据》：该研究依据米吉多的新证据探讨黎凡特中青铜时代开端，值得关注其考古材料与年代学讨论。",
+      "title": "The Beginning of the Middle Bronze Age in the Levant: New Evidence from Megiddo",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.tandfonline.com/doi/pdf/10.1080/00310328.2026.2736989&hl=zh-CN&sa=X&d=2320032016657324104&ei=2X7fareFCvaUieoPlbSlsQ8&scisig=ACTRDVF2TYYhfzzdGsnNa1V4QaFV&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:ACTRDVH84jcPNpsTXm1dPzvSnUrA&html=&pos=5&folt=rel",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
