@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-28",
+  "items": [
+    {
+      "abstract": "<jats:p>The end-Permian mass extinction was the most severe biotic crisis of the Phanerozoic, yet temporal synchrony between marine and terrestrial extinctions remains debated due to correlation uncertainties. Here, we present an integrated magnetostratigraphic, cyclostratigraphic, and carbon-isotope and mercury (Hg) chemostratigraphic record from the fluvial Upper Shihhotse, Sunjiagou, and Liujiagou formations at the Sigou section, North China. We identify 14 magnetozones spanning the late Changhsingian to late Olenekian, constrained by a floating timescale based on gamma-ray cyclostratigraphy and subsequently anchored through magnetostratigraphic correlation. Our chronostratigraphy reveals a Hg peak at 252.4 Ma, aligning with the main eruptive phase of the Siberian Traps Large Igneous Province, while the carbon isotope excursion onset (252.1 Ma) and minimum (252.0 Ma) are synchronous with the Meishan Global Stratotype Section and Point. Furthermore, the Induan–Olenekian boundary is positioned below magnetozone SG4n, constraining the Induan Stage duration to 1.6 to 1.8 My. These findings establish a high-resolution chronostratigraphic framework for the Permian–Triassic boundary in North China, supporting a synchronous extinction zenith across marine and low–middle latitude terrestrial ecosystems, with latitudinal diachroneity relative to high-latitude and tropical landmasses.</jats:p>",
+      "authors": [
+        "Baochun Huang",
+        "Haotian Zhang",
+        "Hongliang Lu",
+        "Josep M. Parés",
+        "Mingsong Li",
+        "Qian Zhao",
+        "Qingqing Jiang",
+        "Xiang Li",
+        "Yi Xue",
+        "Yilian Liao",
+        "Zhaowen Pei"
+      ],
+      "doi": "10.1073/pnas.2538105123",
+      "id": "doi:10.1073/pnas.2538105123",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《华北低中纬度陆相与海相二叠纪末大灭绝同步达到顶峰》：该研究整合磁性地层、旋回地层及碳同位素与汞化学地层记录，建立华北四沟剖面高分辨率年代地层框架，识别出252.4百万年汞峰值与西伯利亚大火成岩省主喷发期对应，碳同位素异常与煤山全球界线层型剖面同步，为海陆大灭绝同步性及纬度差异提供新证据，值得地层学与古生物学者阅读。",
+      "title": "Synchronous end-Permian mass extinction zenith in marine and low–middle latitude terrestrial North China",
+      "topics": [
+        "stratigraphy"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2538105123",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Abstract Lower-limb alignment is central to human bipedal locomotion and a key determinant of joint kinematics and osteoarthritis risk in modern clinical practice. However, its significance in hominins, and therefore its evolutionary implications, remain poorly understood. Advances in robotic-assisted total knee arthroplasty (TKA) provide highly precise measurements of lower-limb alignment, joint morphology and soft-tissue balance that can elucidate these understudied aspects of hominin functional morphology. Here, we perform a proof-of-concept robotic-assisted TKA on an anatomically accurate model of the Spy II Neandertal. Using a robotic-assistance system, we registered bony morphology and replicated soft-tissue laxity extrapolated from a modern patient with a comparable alignment phenotype. We confirmed a pronounced constitutional varus alignment, classifying Spy II as a CPAK type I knee. This phenotype resembles that of modern athletes engaged in significant weight-bearing sports or intense physical activity during growth. The demonstration of constitutional varus in a hominin fossil thus suggests a deep evolutionary origin for this alignment pattern in modern humans, contextualizing normal knee variation and supporting an individualized alignment approach to modern TKA.",
+      "authors": [
+        "Hendrik Pott",
+        "Peter Savov",
+        "Ricarda D. Stauss",
+        "Lara Watson",
+        "Ottmar Kullmer",
+        "Max Ettinger",
+        "Nicole M. Webb",
+        "Tara Chapman"
+      ],
+      "doi": "10.1038/s41598-026-77544-z",
+      "id": "doi:10.1038/s41598-026-77544-z",
+      "publication_date": "2026-10-25",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《机器人辅助膝关节置换术为尼安德特人步态及现代人膝关节变异的进化起源提供线索》：研究对Spy II尼安德特人解剖模型实施机器人辅助全膝关节置换术，确认其存在明显先天性膝内翻，归类为CPAK I型，类似现代高强度负重运动人群，提示该力线模式在现代人中具有深层进化起源，值得关注。",
+      "title": "Robotic-assisted knee arthroplasty methods provide insight into Homo neanderthalensis gait and the evolutionary origins of modern human knee variation",
+      "topics": [
+        "hominin",
+        "Neanderthal"
+      ],
+      "url": "https://doi.org/10.1038/s41598-026-77544-z",
+      "venue": "Scientific Reports",
+      "work_type": "article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s): Maia Casna, Derek A. Boyd, Alex A. Tutwiler, Sarah A. Schrader",
+      "authors": [
+        "Alex A. Tutwiler",
+        "Derek A. Boyd",
+        "Maia Casna",
+        "Sarah A. Schrader"
+      ],
+      "doi": "10.1016/j.jas.2026.106716",
+      "id": "doi:10.1016/j.jas.2026.106716",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science"
+      ],
+      "summary": "《近代早期荷兰儿童烟草消费的贝叶斯分析》：该研究运用贝叶斯方法分析近代早期荷兰的儿童烟草消费情况，值得对历史考古与物质消费研究感兴趣的读者阅读。",
+      "title": "A Bayesian analysis of childhood tobacco consumption in early-modern Netherlands",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jas.2026.106716",
+      "venue": "Journal of Archaeological Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Pratima M. Kessarkar",
+        "Lina L. Fernandes",
+        "Maria Brenda Luzia Mascarenhas-Pereira",
+        "Concy Gomes",
+        "Sambhabana Lenka",
+        "Pankaj Kumar",
+        "Rajveer Sharma"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110299",
+      "id": "doi:10.1016/j.quascirev.2026.110299",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《晚第四纪阿拉伯海氧气最小带内氧合变化：来自环境岩石磁学性质的推断》：该研究利用环境岩石磁学性质推断晚第四纪阿拉伯海氧气最小带的氧合变化，值得关注。",
+      "title": "Changes in oxygenation within the Arabian Sea's oxygen minimum zone during the late quaternary: Inferences from environmental rock magnetic properties",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110299",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Huiyong Ouyang",
+        "Xiaoning Guo",
+        "Liangcheng Tan",
+        "Xue Shang"
+      ],
+      "doi": "10.1016/j.jas.2026.106720",
+      "id": "doi:10.1016/j.jas.2026.106720",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《 weathering the crisis：关中盆地龙山晚期农业多样化与东西二元水稻利用分化》：该研究探讨关中盆地龙山晚期农业多样化及水稻利用的东西分化，值得关注早期农业适应策略的读者阅读。",
+      "title": "Weathering the crisis: Agricultural diversification and the east-west binary differentiation of rice exploitation in late Longshan Guanzhong Basin, China",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jas.2026.106720",
+      "venue": "Journal of Archaeological Science",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Mikael Fauvelle",
+        "Mikkel Nørtoft"
+      ],
+      "doi": "10.1016/j.jaa.2026.101824",
+      "id": "doi:10.1016/j.jaa.2026.101824",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《新石器时代渔民采集者的社会不平等：瑞典哥特兰岛三处坑陶文化墓地的随葬品统计分析》：该研究通过统计分析三处坑陶文化墓地的随葬品，探讨新石器时代渔民采集者群体中的社会不平等，值得关注。",
+      "title": "Social inequality among Neolithic fisher-foragers: Statistical analysis of grave goods from three Pitted Ware Culture cemeteries on Gotland, Sweden",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jaa.2026.101824",
+      "venue": "Journal of Anthropological Archaeology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Francesca Manclossi",
+        "Lorena Lombardi",
+        "Adelaide Marsilio",
+        "Federica Ugliano",
+        "Giulio Lucarini"
+      ],
+      "doi": "10.1016/j.jaa.2026.101819",
+      "id": "doi:10.1016/j.jaa.2026.101819",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《打造复杂性：埃及前王朝时期赫利奥波利斯的石器生产与社会经济转型（公元前第四千年）》：该研究考察赫利奥波利斯前王朝时期石器生产与社会经济转型的关系，值得关注早期复杂社会技术组织与经济变迁的读者阅读。",
+      "title": "Crafting complexity: blade production and socio-economic transitions in Predynastic Heliopolis, Egypt (fourth millennium BCE)",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jaa.2026.101819",
+      "venue": "Journal of Anthropological Archaeology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "10.1016/s0031-0182(26)00775-3",
+      "id": "doi:10.1016/s0031-0182(26)00775-3",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《编辑委员会》：这是《古地理学、古气候学、古生态学》期刊的编辑委员会信息，可供了解该刊编辑团队构成。",
+      "title": "Editorial Board",
+      "topics": [],
+      "url": "https://doi.org/10.1016/s0031-0182(26)00775-3",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "10.1016/s0047-2484(26)00110-7",
+      "id": "doi:10.1016/s0047-2484(26)00110-7",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《编辑委员会》：这是《人类进化杂志》的编辑委员会信息，未提供具体研究内容或摘要，无法判断其学术价值，不建议作为研究文献阅读。",
+      "title": "Editorial Board",
+      "topics": [],
+      "url": "https://doi.org/10.1016/s0047-2484(26)00110-7",
+      "venue": "Journal of Human Evolution",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}

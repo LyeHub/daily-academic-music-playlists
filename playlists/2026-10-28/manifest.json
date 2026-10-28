@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-28",
+  "items": [
+    {
+      "artists": [
+        "DIIV"
+      ],
+      "release_date": "2026-10-30",
+      "release_type": "album",
+      "title": "ZIRP!"
+    },
+    {
+      "artists": [
+        "Freeze the Fall"
+      ],
+      "release_date": "2026-10-28",
+      "release_type": "single",
+      "title": "The Burial"
+    },
+    {
+      "artists": [
+        "Lous and The Yakuza",
+        "Suki Waterhouse"
+      ],
+      "release_date": "2026-10-23",
+      "release_type": "single",
+      "title": "Close my eyes"
+    },
+    {
+      "artists": [
+        "Arrester Bed"
+      ],
+      "release_date": "2026-10-26",
+      "release_type": "single",
+      "title": "Under the Bed"
+    },
+    {
+      "artists": [
+        "David Bowie"
+      ],
+      "release_date": "2026-10-27",
+      "release_type": "album",
+      "title": "Stage"
+    },
+    {
+      "artists": [
+        "Johnny Marr"
+      ],
+      "release_date": "2026-10-02",
+      "release_type": "album",
+      "title": "The Age of Everything"
+    },
+    {
+      "artists": [
+        "One Dimensional Creatures"
+      ],
+      "release_date": "2026-10-28",
+      "release_type": "single",
+      "title": "Please Bleed in Silence"
+    },
+    {
+      "artists": [
+        "Danny LyriCa"
+      ],
+      "release_date": "2026-10-28",
+      "release_type": "album",
+      "title": "Lalalandia"
+    },
+    {
+      "artists": [
+        "Eguana"
+      ],
+      "release_date": "2026-10-23",
+      "release_type": "album",
+      "title": "Frozen Expanse"
+    },
+    {
+      "artists": [
+        "Surprise Chef"
+      ],
+      "release_date": "2026-10-23",
+      "release_type": "album",
+      "title": "Frogs in a Pond"
+    },
+    {
+      "artists": [
+        "John Legend"
+      ],
+      "release_date": "2026-10-23",
+      "release_type": "album",
+      "title": "Muse"
+    },
+    {
+      "artists": [
+        "Orchestra Baobab"
+      ],
+      "release_date": "2026-10-23",
+      "release_type": "album",
+      "title": "Made In Senegal"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-10-28",
+  "schema_version": 1
+}
