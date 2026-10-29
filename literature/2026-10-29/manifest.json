@@ -1,0 +1,647 @@
+{
+  "date": "2026-10-29",
+  "items": [
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The habitual and controlled use of fire among Neanderthal groups, together with the residential use of caves and rock shelters, represents a major turning point in the emergence of Paleolithic camp bases. In Middle Paleolithic sites, the interrelation between shelter geomorphology, fire-use locations and activity areas has been interpreted as evidence of spatial organization. Hearths are, therefore, valuable for investigating site structure. The Abric Romaní offers an exceptional case study due to the preservation and extensive excavation strategy of numerous combustion structures across several archaeological units. This study analyses fire-use spatial organization in units Nb, Oa, Ob, P, Qa and R (ca. 60–54 ka) to explore how Neanderthals structured their living spaces. Using spatial statistical methods (i.e., covariate analysis, spatial modelling, and mark analysis), we evaluate the influence of distance from the back wall on fire-use location and distribution. We then isolate this effect to examine micro-scale patterns and compare the morphological and functional characteristics of combustion structures between wall-adjacent and wall-distanced sectors and across the archaeological sequence. Our findings show a relationship between fire-use locations and the back wall, defining preferential zones for fire placement. Fire use reflects a structured spatial zoning, separating combustion structures in sleeping and resting areas from those in communal activity areas. The morphology of combustion structures remained stable across units, while fire use varied flexibly within a stable spatial framework. Overall, these findings suggest that late Neanderthal occupations at Abric Romaní exhibited structured spatial cultural patterns comparable to those documented in modern hunter-gatherer campsites.</jats:p>",
+      "authors": [
+        "Albert López-Bonet",
+        "Amanda Merino-Pelaz",
+        "Eudald Carbonell",
+        "Josep Vallverdú",
+        "Lila Warnitz",
+        "Lucía Cobo-Sánchez",
+        "M. Gema Chacón",
+        "Palmira Saladié"
+      ],
+      "doi": "10.1007/s41982-026-00276-z",
+      "id": "doi:10.1007/s41982-026-00276-z",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《通过燃烧结构空间组织识别中旧石器时代居住单元》：该研究以西班牙巴塞罗那阿布里克罗曼尼遗址约6万至5.4万年前的多个考古单元为对象，运用空间统计方法分析火塘位置与后壁距离的关系，发现火的使用呈现有结构的空间分区，睡眠休息区与公共活动区的燃烧结构相分离，为理解尼安德特人居住空间组织提供了新证据。",
+      "title": "Identifying Middle Paleolithic Residential Units Through the Spatial Organization of Combustion Structures at Abric Romaní (Barcelona, Spain)",
+      "topics": [
+        "fire use",
+        "hearth",
+        "Middle Paleolithic",
+        "Neanderthal",
+        "use of fire"
+      ],
+      "url": "https://doi.org/10.1007/s41982-026-00276-z",
+      "venue": "Journal of Paleolithic Archaeology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    This study investigates the ecology of the extinct European\n                    <jats:italic>Hippopotamus</jats:italic>\n                    from the late Early–Middle Pleistocene (\n                    <jats:italic>c</jats:italic>\n                    . 900–400 ka) sequence of the Megalopolis Basin, a glacial microrefugium for temperate taxa in southern Greece. Using stable carbon (δ\n                    <jats:sup>13</jats:sup>\n                    C) and oxygen (δ\n                    <jats:sup>18</jats:sup>\n                    O) isotope analyses and microwear analyses of\n                    <jats:italic>Hippopotamus</jats:italic>\n                    dental elements, we reconstruct dietary variability, past habitat conditions and hydrological or climatic changes at intra‐annual, multi‐annual and millennial scales. The results indicate the dominance of C\n                    <jats:sub>3</jats:sub>\n                    woodland/mesic grassland environments throughout the examined period and jointly suggest a broader aridification trend from MIS 16 to MIS 12. The studied individuals followed a browsing to mixed‐feeding diet and exhibited seasonally variable dietary habits. They also record potential short‐term climatic or hydrological shifts, which likely further impacted habitat or resource availability in the area. The incidence of enamel hypoplasia in early Middle Pleistocene specimens, which is tentatively correlated to cooler conditions, shows that the taxon survived in the region even during stressful, less optimal periods. These findings provide a crucial framework to better understand the ecological niche of the species, as well as the impact of dynamic ecosystems on adaptations of large mammals, including hominins, in the European Middle Pleistocene.\n                  </jats:p>",
+      "authors": [
+        "Athanassios Athanassiou",
+        "Effrosyni Roditi",
+        "Effrosyni Roditi, Gabriele Russo, Hervé Bocherens, George E. Konidaris, Athanassios Athanassiou, Florent Rivals, Vangelis Tourloukis, Eleni Panagopoulou, Panagiotis Karkanas, Katerina Harvati",
+        "Eleni Panagopoulou",
+        "Florent Rivals",
+        "Gabriele Russo",
+        "George E. Konidaris",
+        "Hervé Bocherens",
+        "Katerina Harvati",
+        "Panagiotis Karkanas",
+        "Vangelis Tourloukis"
+      ],
+      "doi": "10.1111/bor.70094",
+      "id": "doi:10.1111/bor.70094",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "crossref",
+        "openalex",
+        "rss",
+        "rss:Boreas"
+      ],
+      "summary": "《希腊迈加洛波利斯盆地早更新世晚期至中更新世古河马生态变异性：冰期微型避难所中动态栖息地的证据》：研究利用碳氧稳定同位素与牙齿微磨痕分析，重建约90万至40万年前当地古河马的食性、栖息环境及水文气候变化，揭示其以C3林地与中生草地为主、自MIS 16至MIS 12趋于干旱，并具季节性食性与短期环境波动记录，为理解该物种生态位及大型哺乳动物在动态生态系统中的…",
+      "title": "Ecological variability of\n                    <i>Hippopotamus antiquus</i>\n                    from the late Early–Middle Pleistocene of Megalopolis Basin (Greece): Evidence for dynamic habitats in a glacial microrefugium",
+      "topics": [
+        "hominin",
+        "Middle Pleistocene"
+      ],
+      "url": "https://doi.org/10.1111/bor.70094",
+      "venue": "Boreas",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    Benthic suspension feeders have long been thought to depend solely on particulate organic matter (POM) for their nutritional needs. Our research, conducted in the Gulf of Aqaba (Red Sea), shows that the available concentration of planktonic carbon in the reef water is too low to meet the metabolic demands (measured through in situ oxygen uptake) of common bivalves (\n                    <jats:italic toggle=\"yes\">Spondylus</jats:italic>\n                    sp. and\n                    <jats:italic toggle=\"yes\">Chama pacifica</jats:italic>\n                    ) and ascidians (\n                    <jats:italic toggle=\"yes\">Polycarpa mytiligera</jats:italic>\n                    and\n                    <jats:italic toggle=\"yes\">Halocynthia spinosa</jats:italic>\n                    ). In situ measurements confirmed a concentration-dependent uptake of bulk dissolved organic carbon (DOC) and protein-like dissolved organic compounds (fDOM, analyzed via spectrofluorometry) by\n                    <jats:italic toggle=\"yes\">Spondylus</jats:italic>\n                    sp. and\n                    <jats:italic toggle=\"yes\">P. mytiligera</jats:italic>\n                    , suggesting that DOC uptake may balance their carbon budgets. Stable isotope (δ\n                    <jats:sup>13</jats:sup>\n                    C) mixing models indicate that reef-derived DOC (mean δ\n                    <jats:sup>13</jats:sup>\n                    C = −18.4 ± 0.7‰) emerges as the primary carbon source for bivalves (57% of their body composition), far surpassing contributions from particulate sources (26% from POC &gt; 100 µm and 14% from POC &lt; 100 µm). While ascidians still rely primarily on POM (60 to 71%), DOC plays an essential role as a supplementary food source (23 to 29%). These results challenge the prevailing assumption that POM is the exclusive food source for these organisms. Given the widespread presence of bivalves and ascidians in benthic habitats, our findings highlight their ability to bypass the microbial loop and directly utilize dissolved organic compounds, prompting a reevaluation of current benthic carbon budgets.\n                  </jats:p>",
+      "authors": [
+        "Amatzia Genin",
+        "Benjamin Mueller",
+        "Craig A. Carlson",
+        "Gitai Yahel",
+        "Rei Diga",
+        "Tal Amit"
+      ],
+      "doi": "10.1073/pnas.2606052123",
+      "id": "doi:10.1073/pnas.2606052123",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《溶解有机质吸收平衡红海双壳类和海鞘类的碳收支》：研究在红海亚喀巴湾发现浮游碳浓度不足以满足常见双壳类和海鞘类的代谢需求，原位测量证实它们能浓度依赖性地吸收溶解有机碳和类蛋白溶解有机物，稳定同位素混合模型显示礁源溶解有机碳是双壳类的主要碳源、对海鞘类起补充作用，挑战了颗粒有机物是唯一食物来源的固有假设，值得关注其对底栖碳收支的重新评估。",
+      "title": "Dissolved organic matter uptake balances carbon budgets of Red Sea bivalves and ascidians",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2606052123",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Apichaya Englong",
+        "Paramita Punwong",
+        "Akkaneewut Jirapinyakul",
+        "Rob Marchant",
+        "Paweena Traiperm",
+        "Prae Chirawatkul",
+        "Nathsuda Pumijumnong",
+        "Pasin Maprasop"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114317",
+      "id": "doi:10.1016/j.palaeo.2026.114317",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《泰国湾东部象岛红树林7200年古环境重建》：该研究基于象岛红树林沉积记录重建泰国湾东部7200年来的古环境演变，值得关注东南亚红树林长期环境变化与海平面研究的读者阅读。",
+      "title": "A 7200-year palaeoenvironmental reconstruction from Chang Island mangroves, eastern Gulf of Thailand",
+      "topics": [
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114317",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Understanding how foraging behavior and diet influence individual reproductive success is a key interest in evolutionary ecology. This is particularly true for capital breeding species where the accumulation and storage of energy to support offspring is critical, often following the “bigger‐is‐better” hypothesis. Using data collected from female gray seals (\n                    <jats:styled-content style=\"fixed-case\">\n                      <jats:italic>Halichoerus grypus</jats:italic>\n                    </jats:styled-content>\n                    ) at Sable Island, Canada, between 1995 and 2018, we tested the hypothesis that differences in foraging effort and diet prior to the breeding season, estimated through satellite telemetry, stable isotope (SI) signatures, and quantitative fatty acid signature analysis (QFASA), respectively, affect reproductive success. There was no relationship between dominant prey type, the energy density of estimated diets, and maternal postpartum mass (MPPM). Females consuming a diet of lower diversity and with more positive δ\n                    <jats:sup>13</jats:sup>\n                    C estimates, possibly indicating more benthic foraging, had higher MPPM. MPPM was the best predictor of offspring mass at weaning. However, metrics of maternal foraging effort and diet alone did not influence pup weaning mass when MPPM was included in the model. These results suggest that different foraging strategies and diets can lead to sufficient body energy storage that enables reproductive success in a capital breeder. Considering this colony was increasing rapidly during the study period, the influence of foraging effort and diet might differ in a stable or declining population where intraspecific competition may be more evident.\n                  </jats:p>",
+      "authors": [
+        "C. E. den Heyer",
+        "M. Henry‐Adams",
+        "S. J. Iverson",
+        "S. L. C. Lang",
+        "W. D. Bowen"
+      ],
+      "doi": "10.1002/ece3.74536",
+      "id": "doi:10.1002/ece3.74536",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《觅食努力与饮食对灰海豹母体能量储备及后代断奶体重的影响》：研究基于1995至2018年加拿大塞布尔岛雌性灰海豹的卫星遥测、稳定同位素和定量脂肪酸特征分析数据，检验繁殖季前觅食努力与饮食差异是否影响繁殖成功；结果显示优势猎物类型和估计饮食能量密度与母体产后体重无关，而摄食多样性较低且δ13C估计更偏正的雌性母体产后体重更高，母体产后体重是幼崽断奶体重的最佳…",
+      "title": "Influence of Foraging Effort and Diet on Maternal Energy Stores and Offspring Weaning Mass in Gray Seals (\n                    <i>Halichoerus grypus</i>\n                    )",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.1002/ece3.74536",
+      "venue": "Ecology and Evolution",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: 15 December 2026 Source: Quaternary Science Reviews, Volume 394 Author(s): Lionel de Montmollin, Lieveke van Vugt, Christoph Schwörer, Erika Gobet, Sina C. Aregger, Valentine Paquet, Johannes Muhs, Adrianus Damanik, Hendrik Vogel, Flavio Anselmetti, Boris Vannière, Willy Tinner",
+      "authors": [
+        "Adrianus Damanik",
+        "Boris Vannière",
+        "Christoph Schwörer",
+        "Erika Gobet",
+        "Flavio Anselmetti",
+        "Hendrik Vogel",
+        "Johannes Muhs",
+        "Lieveke van Vugt",
+        "Lionel de Montmollin",
+        "Sina C. Aregger",
+        "Valentine Paquet",
+        "Willy Tinner"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110302",
+      "id": "doi:10.1016/j.quascirev.2026.110302",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Quaternary Science Reviews"
+      ],
+      "summary": "《安多罗米亚湖（意大利阿尔卑斯山奥索拉）晚冰期与全新世植被动态对气候、土地利用和火灾的响应》：该研究基于意大利阿尔卑斯山奥索拉地区安多罗米亚湖的沉积记录，探讨晚冰期与全新世植被动态如何响应气候、土地利用和火灾，适合关注阿尔卑斯山古生态与人类活动长期影响的研究者阅读。",
+      "title": "Late-glacial and Holocene vegetation dynamics in response to climate, land use and fire at Lago di Andromia (Ossola, Italian Alps)",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110302",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Dragana Vulović, Nataša Miladinović-Radmilović",
+      "authors": [
+        "Dragana Vulović",
+        "Nataša Miladinović-Radmilović"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106142",
+      "id": "doi:10.1016/j.jasrep.2026.106142",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《龋齿病变作为塞尔维亚晚古时期城市与非城市遗址未成年人饮食与健康的指标》：该研究以龋齿病变为线索，考察塞尔维亚晚古时期城市与非城市遗址中未成年人的饮食与健康状况，值得关注历史时期儿童健康与生活条件的读者阅读。",
+      "title": "Carious lesions as an indicator of diet and health in non-adults from urban and non-urban sites in Late Antique Serbia",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106142",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 28 October 2026 Source: Quaternary Environments and Humans Author(s): Antonio Benítez-Burraco",
+      "authors": [
+        "Antonio Benítez-Burraco"
+      ],
+      "doi": "10.1016/j.qeh.2026.100121",
+      "id": "doi:10.1016/j.qeh.2026.100121",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Quaternary Environments and Humans"
+      ],
+      "summary": "《语言作为史前现代行为的代理与触发因素》：文章探讨语言在史前现代行为中兼具代理与触发作用，值得关注其如何理解语言与行为演化的关系。",
+      "title": "Language as both a proxy and a trigger of modern behavior in prehistory",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.qeh.2026.100121",
+      "venue": "Quaternary Environments and Humans",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    The mouse (\n                    <jats:italic>Mus musculus</jats:italic>\n                    ) pelvis features an elongated ilium and triangular pubis and ischium characteristic of a small quadruped, whereas humans possess a short, broad, bowl‐shaped pelvis specialized for bipedal locomotion and childbirth. Mice are widely used to model osteoporosis, hip dysplasia, and other pelvic pathologies, yet\n                    <jats:italic>in utero</jats:italic>\n                    mouse pelvic development has been incompletely characterized, limiting cross‐species interpretation. Here, we integrate 3D micro‐CT and histology to generate a comprehensive atlas of mouse pelvic development from embryonic days 12.5–18.5 (E12.5–E18.5), focusing on the ilium, hip joint, and sacroiliac joint. We show that E14.5 is a critical stage, when the hip and sacroiliac joints form. We identify a sequential developmental program in mice in which joint cartilage forms first, followed by muscle‐cartilage interaction, and, subsequently, extensive blood vessel growth. In contrast to the transversely oriented, developmentally delayed iliac growth and ossification described in recent studies of the human bipedal pelvis, the mouse ilium follows an earlier, centrally initiated, longitudinal ossification pattern. Overall, our atlas provides an essential quadrupedal reference for interpreting human pelvic development, evolution, and disease models.\n                  </jats:p>",
+      "authors": [
+        "Anika Liv Christensen",
+        "Gayani Senevirathne",
+        "Mark A. Wright",
+        "Nina St. Hillaire",
+        "Serena C. Fernandopulle",
+        "Serena C. Fernandopulle, Mark A. Wright, Nina St. Hillaire, Anika Liv Christensen, Stephanie E. Pierce, Gayani Senevirathne, Terence D. Capellini",
+        "Stephanie E. Pierce",
+        "Terence D. Capellini"
+      ],
+      "doi": "10.1002/ar.70359",
+      "id": "doi:10.1002/ar.70359",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:The Anatomical Record"
+      ],
+      "summary": "《小鼠骨盆带的3D发育：对肌肉骨骼系统与血管系统的洞察》：该研究整合三维微型CT与组织学，构建了小鼠胚胎第12.5至18.5天骨盆发育的全面图谱，聚焦髂骨、髋关节与骶髂关节，识别出E14.5为关节形成的关键阶段及“关节软骨—肌肉软骨相互作用—血管生长”的序贯发育程序，并对比了小鼠与人类髂骨骨化模式的差异，为解读人类骨盆发育、演化及疾病模型提供了四足动物参考。",
+      "title": "<scp>3D</scp>\n                    development of the mouse pelvic girdle: Insights into the musculoskeletal system and vasculature",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70359",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:e5c560cbb7028d68837e7a75dc28608b973ccf7a5e9165f70e147ba320807716",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《来自斯瓦特克兰斯洞穴的首批灵长类锁骨：对部分早更新世南非古人类惯常树栖行为的进一步指示》：该研究通过分析斯瓦特克兰斯洞穴出土的灵长类锁骨化石，为部分早更新世南非古人类存在惯常树栖行为提供了进一步证据，适合关注古人类运动方式与演化适应研究者阅读。",
+      "title": "First Primate Clavicles From Swartkrans Cave: Further Indications of Habitual Arboreal Behavior in Some Early Pleistocene South African Hominins",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.70367",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:6822d277b24f751bccf516938bcfb276f6170e2a484e331ed658db6c4964c3f6",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《最早象征行为的证据》：梳理旧石器时代研究者近十年来关于古人类象征行为最早证据的讨论，适合关注人类认知与符号起源的读者了解该议题的研究脉络。",
+      "title": "IN TRO DUC TION The first ev i dence of sym bolic be hav ior among hominins has re peat edly been ad dressed by prehistorians dur ing the last de cade (see eg ...",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://gredos.usal.es/server/api/core/bitstreams/8786d0ca-4a55-4f3a-9d8c-577d3b53b675/content&hl=zh-CN&sa=X&d=9819716219755295356&ei=bsThasrzCJHuieoP1PSsqAo&scisig=AIL1Nv6rcHR51ey1N_um3kyrM4nC&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:AIL1Nv6dQC8TKJSa2ezRDYmsx_xF&html=&pos=1&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Lake Woods, Jurrkulu, is northern Australia's largest freshwater lake filled today in strong Indo–Australian summer monsoons (IASM) to maximum depths of ~5 m. On the western margins of the lake, two large arcuate ridges occur 20 to 40 m above the lake floor and inset within these are other mid‐elevation lake deposits, such as depositional ridges, which suggest past filling events much higher than the modern maximum. We have undertaken the analysis of 20 samples for single‐grain optically stimulated luminescence (OSL) from shoreline and lake‐floor deposits and supplemented this chronology with an analysis of the basin hypsometry, basin‐wide erosion rates and rare earth elements to ascertain the dominant source of the large source‐bordering ridges. The outer and inner arcuate ridges represent both aeolian accumulation and inferred lake‐level highstands due to the presence of fine gravel facies and gastropods contained within them. We document two lake highstands at 195 ± 16 ka and at 98 ± 7 ka (20 and 15 m above the lake floor, respectively; the lake floor is 197 m Australian Height Datum, AHD). We also present a third but undated filling event 18.5 m above the lake floor (215.5 m AHD) but that is bracketed by two OSL ages of 91 ± 5 and 52 ± 3 ka, with a Bayesian modelled boundary age for lake filling of 95.9 to 53.8 ka (95% credible interval; C.I.). We find no evidence of the previously reported late Marine Isotope Stage [MIS] 3 highstand deposits and the prevalence of gully‐filled structureless sediments, dated to the mid to late Holocene, many of which contain archaeological artefacts that do not allow for the quantification of any accurate Holocene lake‐filling episodes. The lake floor is characterised by deeply cracking silts and clays, with single‐grain OSL results supporting significant post‐depositional mixing (maximum ages are &lt;143 ka). Denudation rate data from detrital stream sediment samples indicate some of the lowest rates of denudation in northern Australia, of between 2.05 ± 0.51 and 0.83 ± 0.23 m/Myr, with the latter rate stemming from the dominant catchment area in the Barkly Tablelands. Sediment provenance data indicate that the slowly eroding Barkly Tablelands is the dominant source for the clays and silts in the lake basin. Despite being the largest lake in northern Australia, the slow rates of catchment‐wide erosion coupled with the intermittent filling have only produced a discontinuous record of the IASM, but one that shows exceptional episodic filling in MIS 5 to 4.</jats:p>",
+      "authors": [
+        "Alex F. Wall",
+        "Alexandru Codilean",
+        "Caitlyn Scobie",
+        "Fabian Boesl",
+        "Haidee Cadd",
+        "Klaus M. Wilcken",
+        "Laura Mogensen",
+        "Matthew S. Forbes",
+        "Nicola Stromsoe",
+        "Réka H. Fülöp",
+        "Sam Marx",
+        "Tim J. Cohen",
+        "William Reynolds",
+        "Xue Rui",
+        "Zenobia Jacobs"
+      ],
+      "doi": "10.1002/jqs.70130",
+      "id": "doi:10.1002/jqs.70130",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《澳大利亚北部最大淡水湖晚第四纪的湖面充盈与干涸》：该研究利用单颗粒光释光测年等方法，重建了伍兹湖约19.5万年前和9.8万年前两次高湖面事件，并发现全新世湖面填充记录难以量化，为理解印度-澳大利亚夏季风间歇性变化提供了新证据。",
+      "title": "Late Quaternary lake filling and drying in northern Australia's largest freshwater lake",
+      "topics": [],
+      "url": "https://doi.org/10.1002/jqs.70130",
+      "venue": "Journal of Quaternary Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Phoebe A. Cohen",
+        "Kate Pippenger",
+        "Gwyn Chilcoat"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114316",
+      "id": "doi:10.1016/j.palaeo.2026.114316",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《将阿巴拉契亚盆地上凯尔瓦瑟事件中的底栖与远洋化石记录同灭绝动态相联系》：该研究把底栖与远洋化石记录同该事件的灭绝动态联系起来，值得关注其如何整合两类化石记录来考察灭绝过程。",
+      "title": "Linking benthic and pelagic fossil records to extinction dynamics in the Upper Kellwasser Event in the Appalachian Basin",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114316",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Emmanuelle Honoré",
+        "Soafara Ondie F. Rakotomahanina"
+      ],
+      "doi": "10.1016/j.anthro.2026.103538",
+      "id": "doi:10.1016/j.anthro.2026.103538",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《马达加斯加武希马尔（公元750—1550年）区域占领动态：非洲—欧亚世界体系中的城邦？》：该文考察武希马尔作为城邦在非洲—欧亚世界体系中的区域占领动态，值得关注印度洋城邦与跨区域联系的研究者阅读。",
+      "title": "Dynamiques d'occupation régionale de Vohemar (Madagascar, 750-1550 CE), cité-État au sein du système-monde afro-eurasien?",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.anthro.2026.103538",
+      "venue": "L'Anthropologie",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Zsolt Végvári"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110345",
+      "id": "doi:10.1016/j.quascirev.2026.110345",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《欧亚留鸟分布范围在末次间冰期与末次盛冰期的高稳定性》：该研究考察欧亚留鸟分布范围在末次间冰期至末次盛冰期的变化，值得关注其对鸟类分布长期稳定性的分析。",
+      "title": "High stability of distribution ranges of Eurasian resident birds across the last interglacial and the last glacial maximum",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110345",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Mingxia Xie",
+        "Xiangzhong Li",
+        "Guangxin Liu",
+        "Fang Li",
+        "Die Bai",
+        "Tianyu Du"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110359",
+      "id": "doi:10.1016/j.quascirev.2026.110359",
+      "publication_date": "2026-10-28",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《青藏高原东北部水文条件各异湖泊过去千年有机碳对气候变率响应的差异》：该研究对比了青藏高原东北部水文条件不同的湖泊中有机碳对过去千年气候变率的响应，值得关注以了解不同水文背景下湖泊碳循环对气候变化的差异化响应。",
+      "title": "Contrasting organic carbon responses to climate variability over the past millennium in hydrologically diverse lakes on the northeastern Tibetan Plateau",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110359",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Astrid Rosenberg",
+        "Anne Sofie Søndergaard",
+        "Mads Faurschou Knudsen",
+        "Nicolaj Krog Larsen"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110342",
+      "id": "doi:10.1016/j.quascirev.2026.110342",
+      "publication_date": "2026-10-27",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《基于原位14C和10Be核素模拟的海洋同位素阶段3格陵兰冰盖缩减证据》：该研究通过模拟原位宇宙成因核素数据，探讨海洋同位素阶段3期间格陵兰冰盖是否出现缩减，值得关注其对冰盖历史变化的重建意义。",
+      "title": "Evidence of a reduced Greenland Ice Sheet during Marine Isotope Stage 3 based on modelling of in situ 14C and 10Be nuclides",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110342",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Agnès Lamotte",
+        "Zsolt Mester"
+      ],
+      "doi": "10.1016/j.jasrep.2026.105867",
+      "id": "doi:10.1016/j.jasrep.2026.105867",
+      "publication_date": "2026-08-11",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "summary": "《匈牙利绍约巴博尼同名露天遗址（巴博尼文化）的石制品拼合：解决考古疑难问题的关键技术》：该研究围绕绍约巴博尼遗址的石制品拼合展开，探讨这一技术如何用于解决考古学疑难问题，可供关注旧石器时代石器技术与遗址形成过程的研究者参考。",
+      "title": "Lithic refits in the eponymous open-air site of Sajóbábony (Bábonyian) (Hungary): A key technique to resolve archaeological problematics",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.105867",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Résumé La Caune de l’Arago est un site emblématique du Pléistocène moyen en Europe occidentale car il a livré un grand nombre de restes humains associés à une industrie lithique très riche et à un assemblage faunique varié et abondant, unique pour la période comprise entre 560 et 400 ka. Les variations stratigraphiques, granulométriques, minéralogiques, pétrographiques, géochimiques, microstructurales et de susceptibilité magnétique permettent de subdiviser ce puissant remplissage en quatre Complexes stratigraphiques, eux-mêmes subdivisés en Séquences et Ensembles. De nombreuses datations effectuées sur ce remplissage finement stratifié ont contribué à l’établissement d’un cadre chronostratigraphique solide tenant compte des différentes phases d’altération et de la composition des niveaux successifs d’occupation humaine. C’est l’un des seuls sites où les datations peuvent être comparées à une faune très riche permettant de contraindre les âges ou à tout le moins de les assimiler à des périodes froides et sèches ou tempérées et humides.",
+      "authors": [
+        "Christian Perrenoud",
+        "Christophe Falguères",
+        "Henry de Lumley"
+      ],
+      "doi": "10.1016/j.anthro.2026.103503",
+      "id": "doi:10.1016/j.anthro.2026.103503",
+      "publication_date": "2026-07-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《阿拉戈洞穴（法国托塔韦尔）中更新世堆积的岩性与年代地层学综合研究》：该研究通过地层学、粒度、矿物学、岩石学、地球化学、微观结构及磁化率等多指标分析，将这一厚层堆积划分为四个地层复合体并建立精细的年代地层框架，结合丰富动物群约束冷暖干湿期，对理解西欧中更新世人类活动背景具有参考价值。",
+      "title": "Synthèse litho- et chronostratigraphique du remplissage pléistocène moyen de la Caune de l’Arago (Tautavel, France)",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.anthro.2026.103503",
+      "venue": "L Anthropologie",
+      "work_type": "article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:0f07e797bdf998938ed3571388ce8e0fe3af18a21faa120dab39860230cc321c",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《从网络科学视角研究伊比利亚东南部青铜时代考古》：该文尝试用网络科学方法分析伊比利亚东南部青铜时代考古材料，为理解该地区史前社会关系提供新思路，适合关注考古学与网络分析交叉研究的读者参阅。",
+      "title": "An Approach from Networks Science to Bronze Age Archaeology in Southeast Iberia",
+      "topics": [],
+      "url": "https://link.springer.com/article/10.1007/s10816-026-09837-6",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:f48c7f620c769e2a1e26d7419ad85558636659a25c12bb4d4a6b72e56892fe64",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《南方古猿与早期人属大脑组织解剖差异的计算神经解剖学研究》：该研究运用计算神经解剖学方法比较南方古猿与早期人属的大脑组织解剖差异，值得关注人类脑演化相关议题的读者阅读。",
+      "title": "Anatomical differences in the brain organization between Australopithecus and early Homo based on computational neuroanatomy",
+      "topics": [],
+      "url": "https://www.nature.com/articles/s42003-026-11212-w_reference.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:de7c0188547b1b9ef25e70c57a4724e8ed02dee738917e22397e37cd39e3978f",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《从遗址到系统》：该文探讨从遗址到系统的相关问题，值得关注。",
+      "title": "Del sitio al sistema",
+      "topics": [],
+      "url": "https://www.researchgate.net/profile/Martin-Palma-Usuriaga-2/publication/416688429_Del_sitio_al_sistema/links/6adb365a7b91621e003800ca/Del-sitio-al-sistema.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:3d7deb271f4e33a397e443dffda06b897b6b90dc89436704f5c077aa4894fe12",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《西欧早期格拉维特文化基因组数据揭示末次盛冰期前的人群流动》：该研究基于西欧早期格拉维特文化的基因组数据，探讨末次盛冰期之前的人群迁移，为理解该时段人口动态提供遗传学证据，值得关注。",
+      "title": "Early Gravettian genomic data from Western Europe reveal population movements before the LGM",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.science.org/doi/full/10.1126/sciadv.aeh6128&hl=zh-CN&sa=X&d=17793163354921015161&ei=bcThau__Kb-I6rQPnpHdkAg&scisig=AIL1Nv4CPLN2cSiQbTsdy5Ugp6y6&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=5&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:9856405ae0a7a41c1d65a407e451394522d2cdb1c20692b4f7fca477a12f53c8",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《如何避免错误地思考我们的过去》：该文探讨人们应如何避免以错误方式理解自身过去，值得阅读以反思历史认知中的常见误区。",
+      "title": "How Not to Think About Our Past",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://link.springer.com/article/10.1007/s13752-026-00557-4&hl=zh-CN&sa=X&d=822618018535016765&ei=bsThasrzCJHuieoP1PSsqAo&scisig=AIL1Nv6BJZbGhPKOANJ4ah6NcGs5&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:AIL1Nv6dQC8TKJSa2ezRDYmsx_xF&html=&pos=0&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:f5fc2a6be4dad5d8b9829e94047628f7b56522e55e1dca7c192773c4dbbfa2a8",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《坎塔布连地区旧石器时代的社会》：论文以坎塔布连地区旧石器时代社会为研究对象，结合阿尔科B洞猛犸象刻纹等考古材料展开探讨，可供关注旧石器时代考古与史前社会研究的读者参考。",
+      "title": "LAS SOCIEDADES DEL PALEOLÍTICO EN LA REGIÓN CANTÁBRICA Foto de portada: Figura grabada de mamut de la cueva de Arco B. Foto cortesía de César ...",
+      "topics": [],
+      "url": "https://gredos.usal.es/server/api/core/bitstreams/ea2347ee-5f4b-40fe-9459-edd395c99f24/content",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:ee06eeaffc55be09ff242301a4605cfa7d0016ff53a4846fe741fd2d507b8d29",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《华南旧石器时代晚期新里坡顶遗址（距今2.5万至0.9万年）的细石器化、赭石利用与复合工具》：该研究围绕新里坡顶遗址的细石器化、赭石利用和复合工具展开，为认识华南旧石器时代晚期技术演变提供了具体材料，值得相关研究者阅读。",
+      "title": "Lithic miniaturization, ochre utilization and composite tools at the Late Paleolithic Xinlipoding site, South China (25− 9 ka)",
+      "topics": [],
+      "url": "https://link.springer.com/article/10.1007/s12520-026-02590-7",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:2424dee3eda0a4b884ccd99cbfc92ce5d35a5cbbf8d816b489b613cd937fd236",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《中新世水獭Tyrrhenolutra的镶嵌型颅后演化与水生适应：形态功能分析的启示》：该研究通过形态功能分析探讨中新世水獭Tyrrhenolutra颅后骨骼的镶嵌式演化及其水生适应特征，值得关注水獭演化与水生适应的读者阅读。",
+      "title": "Mosaic postcranial evolution and aquatic adaptation in the Miocene otter Tyrrhenolutra: Insights from morpho-functional analysis",
+      "topics": [],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919806/",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:e733aea1a28d406510803efbfb20479eebb1db77faa9561394076881e6f0e19c",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《匈牙利盾齿龙类（蜥形纲，鳍龙超目）新化石材料及欧洲盾齿龙类的摄食生态》：该研究报道了匈牙利发现的盾齿龙类新化石材料，并探讨欧洲盾齿龙类的摄食生态，可供关注海生爬行动物演化与古生态的读者参考。",
+      "title": "New remains of Placodontia (Sauropsida, Sauropterygia) from Hungary and the feeding ecology of the European placodonts",
+      "topics": [],
+      "url": "https://edit.elte.hu/bitstream/132ddb31-6a39-4909-add4-035486e5230d/download",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:4b83eae0b5ae6e5c5b1367955f8cbbd6610c99dba4a85b4340d9cb1248d49449",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《二维与三维几何形态测量方法在切痕识别与分类中的准确性检验》：该开放获取论文比较二维与三维几何形态测量方法用于切痕识别和分类的准确性，适合关注切痕分析及几何形态测量应用的研究者阅读。",
+      "title": "OPEN ACCESS Testing accuracy in 2D and 3D geometric morphometric methods for cut mark identification and classification",
+      "topics": [],
+      "url": "https://gredos.usal.es/server/api/core/bitstreams/3df342b4-797d-4ca8-8c01-298e3a249459/content",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:e1937f79c41ca981e4f562361fb1b002d0a2412af7728ab74d92c930e0c8f29a",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《伊比利亚新石器时代转型中的区域人口动态：基于校准日期加和分析的结果》：该研究运用校准日期加和分析，考察伊比利亚新石器时代转型期间的区域人口动态，值得关注其如何从年代数据揭示人口变化。",
+      "title": "Regional Demographic Dynamics in the Neolithic Transition in Iberia: Results from Summed Calibrated Date Analysis B. Lee Drake1 & Antonio Blanco-González2 &",
+      "topics": [],
+      "url": "https://gredos.usal.es/server/api/core/bitstreams/c6598ad1-ffb3-43e3-8f24-1a94292f7314/content",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:fafbf86c305baff41fd289e2c5eac40e7a3aafb963336f5534f9a43858a736ed",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《球状体在行动：通过实验考古学与痕迹学研究石灰岩球状体的功能》：该研究结合实验考古学与痕迹学，探讨石灰岩球状体的可能用途，值得关注其对早期人类工具行为与技术传统的启示。",
+      "title": "Spheroids in action: investigating the functions of limestone spheroids through experimental archaeology and traceology",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005791",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
