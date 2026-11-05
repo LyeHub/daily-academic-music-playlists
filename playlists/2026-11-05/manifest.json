@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-05",
+  "items": [
+    {
+      "artists": [
+        "Shygirl"
+      ],
+      "release_date": "2026-11-03",
+      "release_type": "single",
+      "title": "Eternal"
+    },
+    {
+      "artists": [
+        "Aphex Twin"
+      ],
+      "release_date": "1996-11-04",
+      "release_type": "album",
+      "title": "Richard D. James Album"
+    },
+    {
+      "artists": [
+        "Hannah Jadagu"
+      ],
+      "release_date": "2026-11-04",
+      "release_type": "single",
+      "title": "Curse"
+    },
+    {
+      "artists": [
+        "Billy Boyo"
+      ],
+      "release_date": "2026-11-04",
+      "release_type": "album",
+      "title": "Zim Zim"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-11-05",
+  "schema_version": 1
+}
