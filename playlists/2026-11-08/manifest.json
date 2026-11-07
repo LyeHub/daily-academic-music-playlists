@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-08",
+  "items": [
+    {
+      "artists": [
+        "Ghostbirds"
+      ],
+      "release_date": "2026-11-06",
+      "release_type": "ep",
+      "title": "Forest Lung"
+    },
+    {
+      "artists": [
+        "Doombia"
+      ],
+      "release_date": "2026-11-06",
+      "release_type": "album",
+      "title": "Doombia Vol. 2: El Diablo Que Conoces"
+    },
+    {
+      "artists": [
+        "XRUSTALIC"
+      ],
+      "release_date": "2026-11-06",
+      "release_type": "album",
+      "title": "UNF0ЯGNVИNG"
+    },
+    {
+      "artists": [
+        "Purl"
+      ],
+      "release_date": "2026-11-06",
+      "release_type": "ep",
+      "title": "children without childhood"
+    },
+    {
+      "artists": [
+        "Slayyyter"
+      ],
+      "release_date": "2026-11-06",
+      "release_type": "single",
+      "title": "hey boyyy"
+    },
+    {
+      "artists": [
+        "Lindstrøm"
+      ],
+      "release_date": "2026-11-06",
+      "release_type": "single",
+      "title": "Not The End Of It All"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-11-08",
+  "schema_version": 1
+}
