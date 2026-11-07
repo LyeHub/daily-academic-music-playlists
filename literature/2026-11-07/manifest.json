@@ -1,0 +1,269 @@
+{
+  "date": "2026-11-07",
+  "items": [
+    {
+      "abstract": "Dental microwear analysis is a widely used non-destructive method that provides insights into the adoption of specific diets, food preparation methods, and the conduction of paramasticatory activities using the mouth through the examination of dental features on the enamel surfaces. Recent methodological trends in the analysis of human dental wear have enriched the possibilities of the discipline, yet scarcely provide insights into the comparability of the values obtained from different microscopes on the same dental features. In this study, we microscopically observe the dental wear patterns of labial and buccal surfaces from 4 populations of the Iberian Late Prehistory, aiming to understand the level of intermicroscopy variability between the values of an optical microscope (ZEISS Axioscope A1 metallographic) and a 3D digital microscope (Hirox KH-8700). Within this framework, we adopt a dual microscopy approach, combining the existing methodological steps of the two microscopes, aiming to explore the level of agreement among the values obtained from both pieces of equipment. In this context, we provide, to our knowledge, the first ground for the quantification of diet-related wear patterns on human teeth using a Hirox KH-8700 3D digital microscope, underscoring its possibilities and observing discrepancies in the methodological implementation of the specific equipment in examining microscopic diet-related dental striations.",
+      "authors": [
+        "Aristeidis Strimenopoulos",
+        "Esther Medina",
+        "Francesc Florensa",
+        "Josep Maria Vergès",
+        "Josep María Vergès",
+        "José Manuel Espejo",
+        "Marina Lozano",
+        "Sergi Segura",
+        "Ángel Rubio Salvador"
+      ],
+      "doi": "10.1016/j.quaint.2026.110526",
+      "id": "doi:10.1016/j.quaint.2026.110526",
+      "publication_date": "2026-11-04",
+      "sources": [
+        "crossref",
+        "openalex",
+        "rss",
+        "rss:Quaternary International"
+      ],
+      "summary": "《光学显微镜与三维数字显微镜在人类牙齿饮食相关条纹定量中的显微镜间变异性理解》：该研究对伊比利亚史前晚期4个人群牙齿唇颊面磨耗模式进行显微观察，比较光学显微镜与三维数字显微镜所获数值的显微镜间变异性，并首次为使用Hirox KH-8700量化人类牙齿饮食相关磨耗模式提供依据，值得关注牙齿微磨耗分析方法可比性的读者阅读。",
+      "title": "Understanding the intermicroscopy variability between Optical and 3D Digital microscopy in the quantification of human dental diet-related striations",
+      "topics": [
+        "dental microwear"
+      ],
+      "url": "https://doi.org/10.1016/j.quaint.2026.110526",
+      "venue": "Quaternary International",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 5 November 2026 Source: Palaeogeography, Palaeoclimatology, Palaeoecology Author(s): Jiahao He, Qian Huang, Dujie Hou, Xinde Xu",
+      "authors": [
+        "Dujie Hou",
+        "Jiahao He",
+        "Qian Huang",
+        "Xinde Xu"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114333",
+      "id": "doi:10.1016/j.palaeo.2026.114333",
+      "publication_date": "2026-11-06",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Palaeogeography Palaeoclimatology Palaeoecology"
+      ],
+      "summary": "《北部湾盆地涠西南凹陷湖相油页岩形成中热液与古环境耦合控制研究》：论文探讨热液活动与古环境因素如何共同控制该区湖相油页岩的形成，值得关注油页岩成因与古环境研究的读者阅读。",
+      "title": "Coupled hydrothermal and paleoenvironmental controls on the formation of lacustrine oil shale in the Weixinan Depression, Beibuwan Basin",
+      "topics": [
+        "paleoenvironment"
+      ],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114333",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Abstract The discovery of the Taung child, the holotype of Australopithecus africanus , marked a turning point in palaeoanthropology and stimulated the search for hominin fossils in Africa. Despite numerous Plio-Pleistocene hominin discoveries, particularly in eastern and southern Africa, Taung’s evolutionary position and relationship to other hominins remains unclear. Here we explore whether an eco-evolutionary range dynamics framework can help explain early hominin diversity in southern Africa. Focusing on the Taung child -the only unequivocal A. africanus specimen- we first reassess the site’s chronological age and examine the fossil’s dental and brain development, and M 1 dentino-enamel junction variation. These analyses confirm that A. africanus is a poorly defined taxon. Based on new palaeoclimatic and palaeoenvironmental evidence, combined with considerations about South Africa’s geographic position and the Zambezian–southern African biogeographic boundary, we propose that complex population dynamics, including drift and hybridisation, probably underpin hominin morphological diversity in southern Africa during the Plio-Pleistocene.",
+      "authors": [
+        "Gabriele A. Macho",
+        "Simon Neubauer",
+        "Clément Zanolli",
+        "Pieter Vermeesch",
+        "Kevin L. Kuykendall",
+        "Andreas Koutsodendris",
+        "Laurin S. Kolb",
+        "T. Caley"
+      ],
+      "doi": "10.1038/s44513-026-00008-2",
+      "id": "doi:10.1038/s44513-026-00008-2",
+      "publication_date": "2026-11-05",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《汤恩幼儿与南部非洲古人类多样性的生物地理及古气候驱动因素》：论文重新评估汤恩遗址年代，分析汤恩幼儿牙齿与大脑发育及M1齿质釉质界变异，结合古气候与古环境证据，提出复杂种群动态可能解释南部非洲上新世至更新世古人类形态多样性，值得关注。",
+      "title": "The Taung child and the biogeographic and palaeoclimatic drivers of southern African hominin diversity",
+      "topics": [
+        "hominin",
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.1038/s44513-026-00008-2",
+      "venue": "npj Palaeoecosystems",
+      "work_type": "article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:4eba6e58a94c799313b61eaee02c86b116770dd9f7b51c5d77d54267e9513679",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《寻找尼安德特人在西班牙瓜达拉哈拉哈拉马六号中旧石器时代遗址携带的搬运物的功能》：该研究探讨尼安德特人在哈拉马六号遗址携带搬运物的可能功能，值得关注中旧石器时代人类行为与遗址利用的读者阅读。",
+      "title": "Searching for the function of the manuports carried by Neanderthals in the Middle Palaeolithic site of Jarama VI (Guadalajara, Spain)",
+      "topics": [
+        "Middle Palaeolithic",
+        "Neanderthal"
+      ],
+      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=10962546",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "Publication date: Available online 6 November 2026 Source: Palaeogeography, Palaeoclimatology, Palaeoecology Author(s): Richard Lojka, Magdaléna Koubová, Stanislav Opluštil, Zbyněk Šimůnek, Ladislav Strnad",
+      "authors": [
+        "Ladislav Strnad",
+        "Magdaléna Koubová",
+        "Richard Lojka",
+        "Stanislav Opluštil",
+        "Zbyněk Šimůnek"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114332",
+      "id": "doi:10.1016/j.palaeo.2026.114332",
+      "publication_date": "2026-11-06",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Palaeogeography Palaeoclimatology Palaeoecology"
+      ],
+      "summary": "《石炭纪—二叠纪过渡期东盘古大陆古热带地区日益增强的季节性干旱：来自古土壤的证据（约301.5—298百万年前，西波希米亚盆地）》：该研究基于西波希米亚盆地古土壤证据，探讨约301.5至298百万年前东盘古大陆古热带地区季节性干旱增强的过程，可供关注晚古生代古气候与古土壤记录的读者参考。",
+      "title": "Increasingly dry seasonality during the Carboniferous-Permian transition in the eastern Pangea paleotropics: Evidence from paleosols (~301.5–298 Ma, Western Bohemian Basins)",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114332",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Traversodontids were diverse non‐mammaliaform cynodonts that occupied herbivorous and omnivorous niches during the Middle and Late Triassic. In Brazil, they are particularly well represented in the Santa Maria Supersequence, although the taxonomic status of some historically described taxa remains uncertain. Among them, “\n                    <jats:italic>Traversodon</jats:italic>\n                    (?)\n                    <jats:italic>major”</jats:italic>\n                    von Huene, 1936 was established on the basis of isolated cranial, mandibular, and postcranial remains from the Chiniquá region of southern Brazil. Here, we reassess the anatomy and taxonomic affinities of the specimens historically assigned to this species. A left maxilla (GPIT‐PV‐61005, here designated as lectotype) is the most informative specimen. It exhibits a combination of a broad maxillary platform, a maxillary recess, and strongly shouldered postcanine alveoli, supporting traversodontid affinities but not the original assignment to the genus\n                    <jats:italic>Traversodon.</jats:italic>\n                    These features are typical of deeply nested gomphodontosuchines, but do not form a unique combination of diagnostic characters that would allow a confident referral to any particular genus. The remaining specimens have no association or anatomical overlap with the lectotype and are here treated independently: the mandibular fragment is referred to Traversodontidae indet., the humerus to Eucynodontia indet., and the scapulocoracoid to an indeterminate non‐cynodont amniote. Accordingly, “\n                    <jats:italic>Traversodon</jats:italic>\n                    (?)\n                    <jats:italic>major”</jats:italic>\n                    is retained as a\n                    <jats:italic>nomen dubium</jats:italic>\n                    : its lectotype lacks autapomorphies, and the remaining specimens cannot be reliably referred to the same taxon.\n                  </jats:p>",
+      "authors": [
+        "Ingmar Werneburg",
+        "Leonardo Kerber",
+        "Leonardo Kerber, Ingmar Werneburg"
+      ],
+      "doi": "10.1002/ar.70385",
+      "id": "doi:10.1002/ar.70385",
+      "publication_date": "2026-11-05",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:The Anatomical Record"
+      ],
+      "summary": "《对巴西中三叠世犬齿兽类“Traversodon (?) major”冯·休内1936年的分类学与解剖学评述》：该研究重新评估了巴西钦基夸地区历史上归入该种的颅骨、下颌及颅后标本，将左上颌骨指定为选模并确认其横齿兽科特征但不足以归入任何属，其余标本分别归入横齿兽科未定属、真犬齿兽类未定属及非犬齿兽类羊膜动物，最终将该种保留为疑名；适合关注三叠纪犬齿兽类分类…",
+      "title": "Taxonomic and anatomical comments on “\n                    <i>Traversodon</i>\n                    (?)\n                    <i>major</i>\n                    ” von Huene, 1936 (Cynodontia) from the Middle Triassic of Brazil",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70385",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Sean G. Dolan"
+      ],
+      "doi": "10.1016/j.jaa.2026.101826",
+      "id": "doi:10.1016/j.jaa.2026.101826",
+      "publication_date": "2026-11-06",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《作为受管理的多物种公地的墨西哥奇瓦瓦州帕基梅，公元1200—1450年》：论文探讨帕基梅在1200至1450年间如何作为多物种公地受到管理，值得关注其对人地关系与公共资源治理的讨论。",
+      "title": "Paquimé as a managed multispecies commons in Chihuahua, Mexico, 1200–1450 CE",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jaa.2026.101826",
+      "venue": "Journal of Anthropological Archaeology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:7a100908d8e4b45b438b1f35d1247e7545ea88e3ffd415d0c581f0575a63c19b",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《部分关节连接的亚成年Malpolon cf. monspessulanus（蛇类：Psammophiidae）颅骨骨学及个体发育评估》：该研究对一件来自早更新世、部分关节连接的亚成年个体进行颅骨骨学描述与个体发育评估，值得古生物学与蛇类演化研究者阅读。",
+      "title": "Cranial osteology and ontogenetic assessment of a partially articulated sub-adult Malpolon cf. monspessulanus (Serpentes: Psammophiidae) from the Early ...",
+      "topics": [],
+      "url": "https://academic.oup.com/zoolinnean/article-abstract/208/3/zlag164/9005971",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:80b62e7310a16530e290561c807fc126cb55c5cd282054c123201dbc134bda7d",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《评估洞穴鬣狗粪化石的古生态学意义：波兰比希尼克洞穴晚更新世孢粉学证据》：该研究以波兰比希尼克洞穴晚更新世孢粉证据评估洞穴鬣狗粪化石的古生态学意义，值得关注其如何借粪化石孢粉材料探讨古生态问题。",
+      "title": "Evaluating the palaeoecological significance of cave hyaena coprolites: palynological evidence from the Upper Pleistocene of Biśnik Cave (Poland)",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S1040618226004027&hl=zh-CN&sa=X&d=15032536891709319212&ei=iRvuav_iMKO36rQPkvmxiQI&scisig=AIL1Nv59mJk0kOjb3M6j1dqNVtN8&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=0&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:36f276fdae4a4b47ba1e5fe11cc87d1832aa09ed2a27e481c5e78ee4834346fe",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《跨越时空的化石传说：从希腊到 magna graecia 的神话生成与埋藏学背景》：该论文探讨古希腊至大希腊地区化石发现如何催生神话传说，并结合埋藏学背景分析其形成机制，适合对神话学与古生物学交叉研究感兴趣的读者。",
+      "title": "Fossil Tales Across Time and Space: Mythogenesis and Taphonomic Contexts from Greece to Magna Graecia",
+      "topics": [],
+      "url": "https://www.mdpi.com/2813-6284/4/4/31",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:b911f3a8aa55b9d136a841040e108aae08ca38c5e6c299998fc77a375689be7e",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《氏族作为社会组织单位的全球分布是否属于趋同演化？》：该论文围绕氏族这一社会组织单位在全球范围内的分布是否可用趋同演化解释展开探讨，值得关注社会组织演化问题的读者阅读。",
+      "title": "Is the global distribution of the clan as a unit of social organisation convergent evolution?",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.academia.edu/download/133243972/Clans.pdf&hl=zh-CN&sa=X&d=16003027938761029714&ei=ihvuaqi8D4K26rQPmbDC0AY&scisig=AIL1Nv4apkqQD5eTa6yjT805PzZp&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:AIL1Nv6dQC8TKJSa2ezRDYmsx_xF&html=&pos=1&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:35ce23a80b072a56477dee7272a049fe4958ee5ed7f8fb9732487929d8fed3b8",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《南斯堪的纳维亚新石器时代晚期铜斧：表面成分的多方法综合分析》：论文对南斯堪的纳维亚新石器时代晚期铜斧的表面成分进行多方法综合分析，适合关注史前铜器工艺与来源的读者阅读。",
+      "title": "Late Neolithic Copper Axes from South Scandinavia: A combined multi approach analysis of surface components",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://publicera.kb.se/fornvannen/article/download/64024/54639&hl=zh-CN&sa=X&d=6579580381707976813&ei=iRvuav_iMKO36rQPkvmxiQI&scisig=AIL1Nv54-aHm3GYpROq8xW20lCyf&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=5&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:0aa255c15295494f148494f4f87e421bcd9c868ece2345d6e5fbbf974383b81a",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《现场、亚年际气候记录将新石器时代扩张与气候不稳定解耦》：该研究利用现场、亚年际气候记录，探讨新石器时代扩张与气候不稳定之间的关系，值得关注其如何将两者解耦。",
+      "title": "On-site, subannual climate records decouple Neolithic expansion from climate instability",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.pnas.org/doi/pdf/10.1073/pnas.2607859123&hl=zh-CN&sa=X&d=11402943456343536990&ei=ihvuaqi8D4K26rQPmbDC0AY&scisig=AIL1Nv4EkRfDNK6kLYUkoRjDa0du&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:AIL1Nv6dQC8TKJSa2ezRDYmsx_xF&html=&pos=0&folt=cit",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
