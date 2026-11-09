@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-09",
+  "items": [
+    {
+      "abstract": "During the Holocene, human activity increasingly influenced small mammal population dynamics and geographic distribution. Despite their relevance, studies on Middle and Late Holocene (8.2 - 2 kyr BP) small mammal assemblages remain limited, particularly in the Western Mediterranean region, where anthropogenic translocations played a key role in species dispersal. Within a research framework addressing the introduction of commensal and wild rodents, we developed a multidisciplinary approach to analyse assemblages from key Late Holocene sites: Cueva del Estrecho and Cueva de Nerja (Spain), and Rirha (Morocco). Our methodology integrates 2D Geometric Morphometrics (GMM) of murine molars with Machine Learning (ML) classification techniques to resolve taxonomic uncertainties. These analyses are complemented by ancient DNA (aDNA) and direct radiocarbon dating (14C) of rodent mandibles, providing both taxonomic validation and a robust chronological framework. We focus specifically on species of the genus Mus, particularly Mus musculus domesticus and Mus spretus, both known to have been accidentally translocated by humans during the Recent Prehistory. Their dispersal is closely linked to the expansion of maritime activity and trade networks across the Mediterranean realm (1). Accurate identification of Mus remains provides robust evidence for reconstructing the details of the introduction of M. spretus into the Iberian Peninsula from North Africa, as well as the arrival of the house mouse on both shores of the western Mediterranean basin from the Levant (2, 3). Our findings contribute understanding early biological invasions, now a major threat to global biodiversity. The house mouse represents a model for studying human-mediated dispersal processes. This study highlights the value of integrating archaeological, palaeontological, and molecular approaches to investigate the origins of anthropogenic environmental change.",
+      "authors": [
+        "Ángel Domínguez-García",
+        "Abel Moclán",
+        "César Laplana",
+        "Paloma Sevilla",
+        "José Utge",
+        "Xavier Gallet",
+        "Antoine Zazzo",
+        "Olivier Tombret",
+        "Emmanuelle Stoetzel"
+      ],
+      "doi": "",
+      "id": "openalex:w7214513417",
+      "publication_date": "2026-09-09",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《追踪西地中海地区小鼠物种早期人类介导的扩散》：该研究整合鼠类臼齿二维几何形态测量与机器学习分类，并结合古DNA和放射性碳定年，分析西班牙与摩洛哥晚全新世遗址中鼠属遗存，以厘清家鼠与阿尔及利亚鼠的物种鉴定及人类介导的扩散过程，值得关注生物入侵与人类活动关系的研究者阅读。",
+      "title": "Tracing early human-mediated dispersal of mouse species in the Western Mediterranean",
+      "topics": [
+        "ancient DNA",
+        "geometric morphometrics",
+        "冠面轮廓与形态分类",
+        "牙齿图像自动鉴定"
+      ],
+      "url": "https://hal.science/hal-05762780v1",
+      "venue": "HAL",
+      "work_type": "conference-paper"
+    },
+    {
+      "abstract": "Additive manufacturing (AM) technologies have often been utilized for fast fabrication of structures with complex geometries. The first step for process planning and geometric evaluation is the effective segmentation of features of interest from geometric measurements (i.e., point clouds) of as-deposited parts. These features can range from local distortions introduced by process parameter fluctuations to decomposing the whole geometry into a several freeform shapes. However, manual segmentation of large point cloud data is time consuming and often inaccurate. This study proposes an unsupervised framework for automatic segmentation of geometric features caused by freeform designs or excessive material accumulation. The algorithm starts by transforming the point cloud coordinates to a space for which height corresponds to material accumulation. In this space, the quantile function of the transformed height encodes information of the amount of local regions with material accumulation. The quantile function is used to obtain thresholds for contour generation and iterative shape segmentation. A case study involving four Wire Arc Additive Manufacturing (WAAM) printed cylindrical components and one Stereolithography (SLA) printed dental part demonstrates the method's robustness and interpretability. The results illustrate the effectiveness of the proposed framework in the presence of complex geometries.",
+      "authors": [
+        "Tasbirul Alam Zihan",
+        "Cesar Ruiz"
+      ],
+      "doi": "10.1109/case69030.2026.11704124",
+      "id": "doi:10.1109/case69030.2026.11704124",
+      "publication_date": "2026-08-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《基于分位数的增材制造零件几何特征自动分割阈值方法》：该研究提出一种无监督框架，用于自动分割增材制造点云中由自由曲面设计或材料过度堆积形成的几何特征，通过坐标变换与分位函数生成阈值进行轮廓提取和迭代形状分割，并以四个电弧增材制造圆柱件和一个光固化牙科件验证了方法的稳健性与可解释性，值得关注增材制造几何检测与自动形态分析的研究者阅读。",
+      "title": "Quantile-Based Thresholding for Automated Segmentation of Geometric Features in Additive Manufactured Parts",
+      "topics": [
+        "三维自动形态分析"
+      ],
+      "url": "https://doi.org/10.1109/case69030.2026.11704124",
+      "venue": "IEEE International Conference on Automation Science and Engineering (CASE)",
+      "work_type": "conference-paper"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Małgorzata Kot, Greta Brancaleoni, Magdalena Moskal-del Hoyo, Piotr Moska, Adrian Marciszak, Aleksandra Kropczyk, Katarzyna Pyżewicz, Alessandra Livraghi, Claudio Berto",
+      "authors": [
+        "Adrian Marciszak",
+        "Aleksandra Kropczyk",
+        "Alessandra Livraghi",
+        "Claudio Berto",
+        "Greta Brancaleoni",
+        "Katarzyna Pyżewicz",
+        "Magdalena Moskal-del Hoyo",
+        "Małgorzata Kot",
+        "Piotr Moska"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106171",
+      "id": "doi:10.1016/j.jasrep.2026.106171",
+      "publication_date": "2026-11-07",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《迈向中欧晚格拉维特文化的高度多样性——波兰Pod Oknem洞穴的细石器组合》：论文考察了波兰Pod Oknem洞穴出土的细石器组合，为理解中欧晚格拉维特文化的多样性提供了新证据，适合关注旧石器时代晚期考古的研究者阅读。",
+      "title": "Towards high Late Gravettian diversity in Central Europe – Microlithic assemblage from Pod Oknem Cave, Poland",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106171",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:7ac6967a889c26f57a37f69b6993fb318c7c4a1bb5d0ec703090e8a839b2a4af",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《生物亲缘关系、丧葬习俗与亲属关系：对样本量的反思》：该文以法国新石器时代为背景，探讨生物亲缘关系、丧葬实践与亲属结构，并反思样本量对相关推论的影响，适合关注史前亲属关系与埋葬行为研究者阅读。",
+      "title": "Biological relatedness, funerary practices and kinship in Neolithic France: reflections on sample size",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.google.com/books%3Fhl%3Dzh-CN%26lr%3D%26id%3D-mwkEgAAQBAJ%26oi%3Dfnd%26pg%3DRA1-PT69%26ots%3DI9z4e_WYNy%26sig%3DDIHV0-yfXZrp08mpLNpw04M3Xl4&hl=zh-CN&sa=X&d=8318848761713560598&ei=kr_vaouVD4q86rQP7sj1yAo&scisig=AIL1Nv7LZaY7smjAUTqPoSP29gOB&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=3&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:f110669def1d7254af2e449349656b69a46bc22aa96cade70bc2d8fccf48343b",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《皮卡里三期露天遗址米科克文化与奥瑞纳文化遗存的年代锚定（波兰克拉科夫）》：该研究对皮卡里三期露天遗址的米科克文化和奥瑞纳文化遗存进行年代锚定，有助于了解这两种文化在该遗址的占据时间及相互关系，值得关注。",
+      "title": "Chrono-grounding of the Micoquian and Aurignacian occupations at Piekary III open-air site (Krakow, Poland)",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A019895BDDCC50525047ABD77B46157B/S0033822226102604a.pdf/div-class-title-chrono-grounding-of-the-micoquian-and-aurignacian-occupations-at-piekary-iii-open-air-site-krakow-poland-div.pdf&hl=zh-CN&sa=X&d=7464499234369745768&ei=kr_vaouVD4q86rQP7sj1yAo&scisig=AIL1Nv4xM1r95JDPliR3p5Pxf1XK&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=4&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:2f8482b7ffa0aef8c8b7c4f4bebbd60c770c03143504880c8ede186a90e2c4c9",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《解读逝者：对英国科尔切斯特罗马-不列颠火葬遗存联合应用锶和铅同位素分析的新研究》：该论文将锶与铅同位素分析相结合，用于研究科尔切斯特的罗马-不列颠火葬遗存，值得关注其方法创新与考古解读。",
+      "title": "Decoding the dead: new combined application of strontium and lead isotope analysis to Romano-British cremations from Colchester (UK)",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://royalsocietypublishing.org/rsos/article/13/11/260591/483995&hl=zh-CN&sa=X&d=2484470381267782149&ei=kr_vaouVD4q86rQP7sj1yAo&scisig=AIL1Nv6IeiIjwUmB-5o80pD7lyh6&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=5&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:f8d42c2e0d530b6ca168f9532150b065d3799cfc9f16f67e3689e5583622e035",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《旧石器时代狩猎采集者是否穿越冰面？基于贝叶斯方法估算冰川移动成本的探讨》：论文以贝叶斯方法估算冰川移动成本，探讨旧石器时代狩猎采集者能否穿越冰面，适合关注史前人类活动与冰川环境关系的读者阅读。",
+      "title": "DID PALAEOLITHIC HUNTER-GATHERERS CROSS THE ICE? A BAYESIAN APPROACH TO THE ESTIMATION OF GLACIER MOVEMENT COSTS IN THE ...",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://complexrome.com/abstracts/DID%2520PALAEOLITHIC%2520HUNTER-GATHERERS%2520CROSS%2520THE%2520ICE%2520A%2520BAYESIAN%2520APPROACH%2520TO%2520THE%2520ESTIMATION%2520OF%2520GLACIER%2520MOVEMENT%2520COSTS%2520IN%2520THE%2520PYRENEES.pdf&hl=zh-CN&sa=X&d=3270154284744445662&ei=kr_vaouVD4q86rQP7sj1yAo&scisig=AIL1Nv7yXNTuETGpBudrPjY5G3Bu&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=2&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:100221f7a3465a566199aa5152a2a2a8c60afc8c1c381fa385d9a3cc63fa7e57",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《中国南方瓦窑里遗址晚期新石器时代酿造与过滤技术初探：陶器残留物分析》：该研究通过陶器残留物分析，探讨瓦窑里遗址晚期新石器时代的酿造与过滤技术，为认识早期酿造工艺提供实物线索，值得关注。",
+      "title": "Investigating early brewing and filtering technology in late Neolithic: pottery residue analysis of the Wayaoli site in Southern China",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://link.springer.com/article/10.1007/s12520-026-02595-2&hl=zh-CN&sa=X&d=532483489963817541&ei=kr_vaouVD4q86rQP7sj1yAo&scisig=AIL1Nv7rIlAeqNF1HvVO7wGORf_a&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=0&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:c21ff382892c8c94c7d3fc7196cbe202d49bb8de8f367e7bbb7bba64e3f3afb8",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《新石器时代早期奥克尼群岛的亲属关系：房屋与墓葬的作用》：该论文探讨房屋与墓葬在新石器时代早期奥克尼群岛亲属关系中的作用，值得关注。",
+      "title": "Kinship in Early Neolithic Orkney: the role of houses and tombs",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.google.com/books%3Fhl%3Dzh-CN%26lr%3D%26id%3DFm0kEgAAQBAJ%26oi%3Dfnd%26pg%3DPA115%26ots%3D4NXYY3-JvC%26sig%3DUitHFhjP9OGvoctgvQ3Z96OJgAc&hl=zh-CN&sa=X&d=16832503416899333540&ei=kr_vaouVD4q86rQP7sj1yAo&scisig=AIL1Nv7gw7MBM78pEUnPc5z3Swbz&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=6&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:3c9b3a43cd4708b177158b8eac7d3c15c00f8867bd2c699af7b0a5004a863a74",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《学术考古学中的开放研究：理解态度与行动之间的差距》：该文探讨学术考古学中开放研究的态度与实际行动之间的落差，值得关注开放科学实践的研究者阅读。",
+      "title": "Open Research in Academic Archaeology: Understanding the Gap between Attitudes and Actions",
+      "topics": [],
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2B8C7EA09D7D7BA4F821DEA48327CD4D/S2326376826101843a.pdf/open_research_in_academic_archaeology_understanding_the_gap_between_attitudes_and_actions.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:b1d9734dc503cd312d53bf16d8343fc34e757e30e105b5ff2b9889e6a66050e1",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《在基巴斯（阿巴尼亚，穆尔西亚）的独特发现：最古老的伊比利亚猞猁骨架》：该研究报道了在西班牙穆尔西亚基巴斯遗址发现的伊比利亚猞猁最古老骨架，值得关注其对该物种演化历史的意义。",
+      "title": "Un hallazgo singular en Quibas (Abanilla, Murcia): el esqueleto más antiguo de Lynx pardinus",
+      "topics": [],
+      "url": "https://repositorio.upct.es/bitstreams/9506be2b-a328-483e-87be-f00316dc5e7b/download",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:caaa22a76413ab56140168b74f944a51b9b2ba0449df83a56780d89330130902",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《光学显微镜与三维数字显微镜在人类牙齿饮食相关条纹定量中的显微镜间差异比较》：该研究比较两种显微镜在定量人类牙齿饮食相关条纹时的差异，值得阅读以了解方法选择对结果的影响。",
+      "title": "Understanding the intermicroscopy variability between Optical and 3D Digital microscopy in the quantification of human dental diet-related striations",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S104061822600412X",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}

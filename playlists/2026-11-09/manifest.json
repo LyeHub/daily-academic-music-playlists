@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-09",
+  "items": [
+    {
+      "artists": [
+        "untitled (halo)"
+      ],
+      "release_date": "2026-11-06",
+      "release_type": "album",
+      "title": "untitled (halo)"
+    },
+    {
+      "artists": [
+        "Silk"
+      ],
+      "release_date": "2026-11-06",
+      "release_type": "ep",
+      "title": "Soft As..."
+    },
+    {
+      "artists": [
+        "Eeem [eim]"
+      ],
+      "release_date": "2026-11-06",
+      "release_type": "ep",
+      "title": "Le 6 novembre 1919"
+    },
+    {
+      "artists": [
+        "500 Goats"
+      ],
+      "release_date": "2026-11-11",
+      "release_type": "album",
+      "title": "Unstructured tunes"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-11-09",
+  "schema_version": 1
+}
