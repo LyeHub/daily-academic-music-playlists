@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-11",
+  "items": [
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    This research presents the first comprehensive analysis of medieval pottery (10th–13th centuries CE) from Mongolia, focusing on ceramics unearthed from the Medieval Border Systems. Lipid residue and archaeobotanical analyses revealed the presence of domesticated plants, particularly various types of millets, suggesting that millet was an important dietary component alongside domesticated animals and wild resources through collection, hunting, and fishing. Miliacin, a biomarker specific to broomcorn millet (\n                    <jats:italic>Panicum miliaceum</jats:italic>\n                    ), was identified in approximately 80% of the analyzed vessels. In addition, Scanning Electron Microscopy (SEM) revealed the use of foxtail millet for the preparation of food in pottery vessels. Isotope analysis of extracted palmitic and stearic acids is consistent with lipid residues derived primarily from C\n                    <jats:sub>3</jats:sub>\n                    -based resources, with C\n                    <jats:sub>4</jats:sub>\n                    -enriched signals interpreted as millet consumption and ruminant foddering practices. These findings demonstrate substantial millet use on the steppe, though the limited archaeobotanical evidence for on-site processing leaves the question of local cultivation versus external supply unresolved. The data reported here are significant not only for understanding dietary, culinary, and subsistence practices at Mongolian medieval frontier sites but also for contributing to a baseline for the study of the medieval diet and economy across the sparsely populated Mongolian steppe. By integrating multi-proxy evidence from lipid residue analysis and high-resolution microscopy of carbonized foodcrusts as well as stable isotope, archaeobotanical and zooarchaeological data, this study offers valuable insights into the foodways and economic foundations of these frontier communities while addressing the gap in our understanding of medieval border management in Mongolia.\n                  </jats:p>",
+      "authors": [
+        "Alexandre Lucquin",
+        "Amartuvshin Chunag",
+        "Gideon Shelach-Lavi",
+        "Jingchao Chen",
+        "Julia Becher",
+        "Lara González Carretero",
+        "Oliver E. Craig",
+        "William Honeychurch"
+      ],
+      "doi": "10.1007/s12520-026-02579-2",
+      "id": "doi:10.1007/s12520-026-02579-2",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《“长城居民”的饮食方式：通过陶器残留物分析揭示蒙古长墙体系的中世纪生计》：该研究首次对蒙古中世纪边境遗址出土的10至13世纪陶器进行脂质残留与植物考古分析，发现约80%的陶器含黍素标志物，表明黍类是与家畜及野生资源并重的重要食物来源，并借助同位素分析探讨黍类消费与反刍动物饲养，为理解蒙古草原边疆社群的饮食与经济提供了多证据基线。",
+      "title": "Foodways of “The Wall People”: unraveling medieval subsistence at the long-wall system in Mongolia through pottery residue analysis",
+      "topics": [
+        "stable isotope",
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1007/s12520-026-02579-2",
+      "venue": "Archaeological and Anthropological Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Palatal morphology shows considerable inter-individual variability; however, its utility in forensic identification remains uncertain. It is also unclear whether developmental changes in palatal shape affect matching performance when comparing against earlier antemortem records from primary and mixed dentitions. Our study aimed to evaluate the discriminative potential of 3D palatal surface scans for antemortem-postmortem (AM-PM) matching across developmental stages.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>\n                      Maxillary dental casts from a longitudinal twin cohort (\n                      <jats:italic>n</jats:italic>\n                       = 81 pairs) were digitised to generate palate-only models simulating PM datasets, while full scans served as AM references across permanent, mixed, and primary dentitions. Comparison was performed using a two-stage registration framework incorporating feature-based RANSAC (Random Sample Consensus) and geometry-based Iterative Closest Point (ICP) algorithms. The matching performance was assessed using global alignment score (RANSAC inlier ratio), fitness (final correspondence ratio after refinement), root mean square error (RMSE; mean surface distance after alignment), and rank-based identification analysis.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>True matches demonstrated significantly higher fitness values than true mismatches across all comparisons, whereas RMSE was significantly lower only in permanent-to-permanent comparisons. Identification performance decreased with increasing developmental differences, with the lowest accuracy in permanent-to-primary comparisons. Fitness demonstrated greater robustness to cross-stage morphological variation than RMSE.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>3D palatal surface scans show discriminatory potential for AM-PM matching, but performance reduced across developmental transitions. Palatal comparison could still potentially act as a supplementary tool for screening and candidate prioritisation in forensic identification.</jats:p>\n                  </jats:sec>",
+      "authors": [
+        "Denice Higgins",
+        "Lyle J Palmer",
+        "Thao Liang Chiam",
+        "Toby Hughes"
+      ],
+      "doi": "10.1007/s00414-026-04066-8",
+      "id": "doi:10.1007/s00414-026-04066-8",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《三维腭表面配准用于身份识别评估：发育牙列阶段的影响》：该研究基于81对双胞胎纵向队列的上颌牙模数字化模型，采用RANSAC与ICP两阶段配准框架，评估三维腭表面扫描在恒牙列、混合牙列及乳牙列阶段进行生前死后匹配的区分能力，发现真实匹配的适应度值显著高于错误匹配，识别性能随发育阶段差异增大而下降，恒牙列对乳牙列比较准确率最低，适应度较均方根误差对跨阶段形态…",
+      "title": "Evaluation of 3D palatal surface registration for human identification: The impact of developmental dentition stages",
+      "topics": [
+        "三维自动形态分析"
+      ],
+      "url": "https://doi.org/10.1007/s00414-026-04066-8",
+      "venue": "International Journal of Legal Medicine",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Admixture between populations is a common feature of human history. Admixture events introduce new genetic variation that can fuel evolution. Characterizing the significance of admixture events on the evolution of populations across various species is of great interest to evolutionary geneticists. Local ancestry inference (LAI) methods infer genetic ancestry of an individual at a particular chromosomal location. Certain methods specialize in detecting archaic introgression, which consists of interbreeding between modern and archaic humans like Neanderthals and Denisovans. Most current LAI methods allow the detection of a single archaic ancestry, and post-processing may distinguish between multiple waves of introgression. These methods vary in how they choose archaic or modern reference genomes for the inference. Here, we present a new hidden Markov model-based method (DAIseg), which has the advantage of simultaneously distinguishing between multiple waves of ancient and recent admixture, using only modern human reference genomes. Simulations demonstrate that DAIseg achieves higher overall performance than state-of-the-art methods. We also apply DAIseg to Papuan populations to jointly detect Denisovan and Neanderthal introgressed segments, and identify a higher number of archaic segments than previous methods. Analysis of inferred introgressed segments shows that we can identify evidence for two Denisovan introgression events in Papuans. Overall, on top of being able to deal with both archaic and recent admixture, DAIseg provides a more principled approach for detecting and classifying Denisovan and Neanderthal segments which will improve downstream analysis of introgressed segments to infer the impact of archaic introgression in humans.",
+      "authors": [
+        "Léo Planche",
+        "Anna Vasil'evna Il'ina",
+        "María C. Ávila‐Arcos",
+        "Flora Jay",
+        "Emilia Huerta‐Sánchez",
+        "Vladimir Shchur"
+      ],
+      "doi": "10.1093/molbev/msag235",
+      "id": "doi:10.1093/molbev/msag235",
+      "publication_date": "2026-09-15",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《一种联合推断现代人类基因组中尼安德特人与丹尼索瓦人渗入片段的无需古老参考序列的方法》：该研究提出基于隐马尔可夫模型的DAIseg方法，仅用现代人类参考基因组即可同时区分多次古老与近期混合事件；模拟显示其整体性能优于现有方法，应用于巴布亚人群时检测到更多古老片段并发现两次丹尼索瓦人渗入事件的证据，值得关注。",
+      "title": "An Archaic Reference-Free Method to Jointly Infer Neanderthal and Denisovan Introgressed Segments in Modern Human Genomes",
+      "topics": [
+        "Denisovan",
+        "Neanderthal"
+      ],
+      "url": "https://doi.org/10.1093/molbev/msag235",
+      "venue": "Molecular Biology and Evolution",
+      "work_type": "article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Peatlands provide critical ecosystem services, including carbon storage, water regulation, and climate mitigation, yet spatial information on their ecological condition remains limited despite widespread degradation. Specific biogeochemical analyses (e.g., biomarkers, molecular compounds, compound specific stable isotopes) can characterize drainage‐related changes in peat properties but are time‐consuming, costly, linked to sophisticated analytical set‐up and thus spatially restricted. We therefore investigated whether high‐resolution PlanetScope imagery capture consistent spectral differences between pristine and drained areas and explored their multivariate correspondence with complementary site‐level biogeochemical properties. Spectral indices, including NDVI, EVI, gNDVI, Greenness Index, and albedo were derived from PlanetScope Analysis‐Ready Surface Reflectance (ARPS) data for nine European peatland sites spanning three climatic zones and contrasting open and sparsely treed vegetation structures. Peat biogeochemistry was characterized using elemental carbon and nitrogen contents and molecular composition determined by pyrolysis–GC/MS. NDVI and Greenness Index differed most consistently between the investigated pristine and drained areas, with higher values under drained conditions across both vegetation structures. In contrast, EVI and albedo, even though also suitable indicators, depended more strongly on vegetation structure and the patterns differed between open and sparsely treed systems. Spectral differences were most pronounced during May and June, identifying the early growing season as the period of strongest spectral separation within the investigated dataset. Drained areas were additionally characterized by higher nitrogen contents, lower C/N ratios, and a greater relative abundance of compounds indicative of metabolized organic matter. Exploratory principal component analyses indicated complementary site‐level patterns between spectral and biogeochemical variables associated with hydrological condition. Consequently, this study demonstrates the potential of high‐resolution PlanetScope spectral data to differentiate between pristine and drained peatland conditions across the investigated sites. However, predictive classification of previously unknown peatland areas will require dedicated modeling and independent validation especially in differentiating from surrounding transition peats and mineral grassland soils.</jats:p>",
+      "authors": [
+        "Miriam Groß‐Schmölders",
+        "Surya Gupta",
+        "Maddie Grady",
+        "Annett Wania",
+        "Fia Bengtsson",
+        "Christine Alewell"
+      ],
+      "doi": "10.1002/ece3.74658",
+      "id": "doi:10.1002/ece3.74658",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《结合光谱与分子数据构建欧洲泥炭地评估框架》：论文比较了九个欧洲泥炭地原始与排水区域的高分辨率PlanetScope光谱差异，并分析其与泥炭元素及分子组成的多元对应关系，发现NDVI和绿度指数区分最稳定、五月至六月光谱分离最强，排水区氮含量更高、C/N比更低；适合关注泥炭地退化监测与遥感生物地球化学交叉研究的读者。",
+      "title": "Building a Framework for Peatland Assessment in Europe by Combining Spectral and Molecular Data",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.1002/ece3.74658",
+      "venue": "Ecology and Evolution",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Chao Geng, Xiaomeng Wang, Wei Liu, Jingye Cai, Jingyi Shen, Jianfeng Lang",
+      "authors": [
+        "Chao Geng",
+        "Jianfeng Lang",
+        "Jingye Cai",
+        "Jingyi Shen",
+        "Wei Liu",
+        "Xiaomeng Wang"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106174",
+      "id": "doi:10.1016/j.jasrep.2026.106174",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《唐代至元代耀州窑青瓷工艺特征与演变的多元分析研究》：论文以多元分析方法考察唐至元耀州窑青瓷的工艺特征及其演变，适合关注中国古代陶瓷技术史与考古科学分析的读者阅读。",
+      "title": "Multiple-analytical study on the technological characteristics and evolution of Yaozhou celadon from the Tang to Yuan Dynasty",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106174",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The Last Glacial Maximum (LGM) ice extent in the western Danish North Sea remains unchartered, which impedes our understanding of the last glacial to Holocene transition in the region. Despite increasing interest in the shallow subsurface of the North Sea, there is still a knowledge gap concerning this transition. In this study, we describe the geological evolution of the southern part of the western Danish North Sea using high‐resolution seismic data, with emphasis on the LGM and the late Quaternary development. We have identified a large glaciotectonic complex that delineates the maximum extent of the LGM ice sheet and indicates a general NNW‐SSE ice flow direction. We describe the drainage history associated with a large ice‐dammed lake, which covered most of the southern North Sea, presumably lasting for more than 2000 years from the LGM until ~19 cal kyrs BP. Based on the interpreted seismic profiles and regional depositional and deformational patterns, we provide a model for how the deglaciation unfolded in the western Danish North Sea. The deglacial sequence of events is placed into a late Quaternary context and related to the existing stratigraphic models for the area. Our study sheds new light on the distribution of potentially challenging buried landscapes for offshore construction and windfarm development.</jats:p>",
+      "authors": [
+        "Bodil Wesenberg Lauridsen",
+        "Katrine Elnegaard Hansen",
+        "Katrine Juul Andresen",
+        "Lasse Tésik Prins",
+        "Lis Allaart",
+        "Ole Bennike",
+        "Paul C. Knutz"
+      ],
+      "doi": "10.1002/jqs.70140",
+      "id": "doi:10.1002/jqs.70140",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《丹麦北海西部一座大型冰堰湖：冰消期演化与冰缘动力学》：该研究利用高分辨率地震数据，描述丹麦北海西部南部在末次盛冰期及晚第四纪的地质演化，识别出标示末次盛冰期冰盖最大范围的大型冰川构造复合体，并重建覆盖北海南部大部分区域、可能持续两千余年的大型冰堰湖排水历史，提出冰消过程模型，为近海工程与风电场建设所涉埋藏地貌提供参考。",
+      "title": "A large ice‐dammed lake in the western Danish North Sea: Deglacial evolution and ice‐margin dynamics",
+      "topics": [],
+      "url": "https://doi.org/10.1002/jqs.70140",
+      "venue": "Journal of Quaternary Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Tilman Böckenförde"
+      ],
+      "doi": "10.1016/j.qeh.2026.100126",
+      "id": "doi:10.1016/j.qeh.2026.100126",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《量化北欧旧石器时代晚期人类与环境的互动》：该研究聚焦北欧旧石器时代晚期人类与环境的互动关系，值得关注其如何量化这一互动过程。",
+      "title": "Quantifying the human-environment interaction in the northern European Upper Palaeolithic",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.qeh.2026.100126",
+      "venue": "Quaternary Environments and Humans",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "10.1002/ar.70393",
+      "id": "doi:10.1002/ar.70393",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《封面图像》：该论文围绕期刊封面图像展开，具体内容需结合正文进一步了解，值得关注其图像背后的解剖学意义。",
+      "title": "Cover Image",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70393",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "10.1002/ar.70391",
+      "id": "doi:10.1002/ar.70391",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《解剖学记录》期刊的这期内容值得关注，可借此了解该刊本期收录的解剖学研究成果。",
+      "title": "Issue Information",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70391",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "10.1002/ar.70392",
+      "id": "doi:10.1002/ar.70392",
+      "publication_date": "2026-11-10",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《解剖学记录》期刊的这期内容值得关注，可了解该期刊本期收录的学术文献信息。",
+      "title": "Issue Information",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70392",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    }
+  ],
+  "schema_version": 1
+}
