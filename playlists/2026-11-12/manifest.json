@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-12",
+  "items": [
+    {
+      "artists": [
+        "Takuya Nakamura"
+      ],
+      "release_date": "2026-11-12",
+      "release_type": "album",
+      "title": "Shape the Future"
+    },
+    {
+      "artists": [
+        "Jeanne River"
+      ],
+      "release_date": "2026-11-10",
+      "release_type": "single",
+      "title": "PP2"
+    },
+    {
+      "artists": [
+        "Twisted Teens"
+      ],
+      "release_date": "2026-11-06",
+      "release_type": "album",
+      "title": "The Holy Cross Tigers"
+    },
+    {
+      "artists": [
+        "TREYDELAGHETTO"
+      ],
+      "release_date": "2026-11-12",
+      "release_type": "single",
+      "title": "Only You Know"
+    },
+    {
+      "artists": [
+        "Chastity Belt"
+      ],
+      "release_date": "2026-11-06",
+      "release_type": "album",
+      "title": "All My Friends"
+    },
+    {
+      "artists": [
+        "sottovoce"
+      ],
+      "release_date": "2026-11-12",
+      "release_type": "album",
+      "title": "musica sottovoce"
+    },
+    {
+      "artists": [
+        "Coil"
+      ],
+      "release_date": "2026-11-11",
+      "release_type": "album",
+      "title": "Gold Is the Metal (With the Broadest Shoulders)"
+    },
+    {
+      "artists": [
+        "DeLoyd Elze"
+      ],
+      "release_date": "2026-11-10",
+      "release_type": "single",
+      "title": "Yamaha 250"
+    },
+    {
+      "artists": [
+        "more eaze"
+      ],
+      "release_date": "2026-10-09",
+      "release_type": "album",
+      "title": "valley and structure"
+    },
+    {
+      "artists": [
+        "Reikkuma"
+      ],
+      "release_date": "2026-11-11",
+      "release_type": "single",
+      "title": "Bad Bomber"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-11-12",
+  "schema_version": 1
+}
