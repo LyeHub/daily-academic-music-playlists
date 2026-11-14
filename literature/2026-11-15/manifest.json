@@ -1,0 +1,419 @@
+{
+  "date": "2026-11-15",
+  "items": [
+    {
+      "abstract": "Reconstructing terrestrial palaeoenvironmental change during the Middle Pleistocene is essential for understanding ecosystem stability and resilience under long-term climatic forcing. However, well-dated, quantitative records from Australia remain limited. Fossil deposits at Mount Etna Caves, central eastern Queensland, preserve two taxonomically distinct faunal assemblages that have been interpreted as a substantial ecological transition from a diverse rainforest system to an arid-adapted faunal community. Previous interpretations of this transition have relied primarily on faunal evidence, with limited site-specific geochemical validation. Here, we integrate oxygen isotope (δ 18 O) analyses of fossil macropodid enamel with refined in-situ U-Th geochronology to reconstruct changes in hydroclimatic conditions across this transition. New U-Th ages better constrain deposition of the arid-adapted assemblage to a narrow interval between 199 ± 5 and 205 ± 4 ka. Fossils from older deposits (pre-280 ka) exhibit consistently low δ 18 O values (−2.59 ± 0.54 ‰), suggesting relatively humid conditions, whereas the younger deposit is markedly enriched (4.59 ± 1.92 ‰). Random Forest classification models trained on modern macropodine δ 18 O data suggest that pre-280 ka assemblages show strongest similarity with humid temperate forest environments analogous to modern temperate oceanic (Cfb-like) systems of southeastern Australia and highland New Guinea. In contrast, the post-205 ka assemblages show the strongest affinity with arid, hot desert (BWh-like) conditions characteristic of central Australia. This transition coincides with broader Middle Pleistocene climatic reorganisation centred on ∼270 ka, which may have contributed to sustained regional drying. These findings suggest that long-term climatic forcing may push ecosystems beyond hydroclimatic thresholds, resulting in major ecological reorganisation, altered species distributions, and reduced biogeographic connectivity. By providing a directly dated, multi-proxy terrestrial record, this study highlights how substantial environmental change during the Quaternary offers an important analogue for understanding ecosystem vulnerability under ongoing and future climate change.",
+      "authors": [
+        "Andrew M. Lorrey",
+        "Anthony Dosseto",
+        "Christopher Laurikainen Gaete",
+        "Katarina M. Mikac",
+        "Katarina Maryann Mikac",
+        "Rochelle A. Lawrence",
+        "Rochelle Lawrence",
+        "Scott A. Hocknull",
+        "Scott Hocknull"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110367",
+      "id": "doi:10.1016/j.quascirev.2026.110367",
+      "publication_date": "2026-11-13",
+      "sources": [
+        "crossref",
+        "openalex",
+        "rss",
+        "rss:Quaternary Science Reviews"
+      ],
+      "summary": "《氧同位素揭示澳大利亚东部中更新世从温带雨林向干旱荒漠条件的显著转变》：研究利用袋鼠类化石牙釉质氧同位素与铀钍定年，重建昆士兰东部中更新世的水文气候与生态转变，为理解生态系统在长期气候强迫下的脆弱性提供直接定年的陆地记录。",
+      "title": "Oxygen isotopes reveal a significant Middle Pleistocene transition from temperate rainforest to arid desert-like conditions in eastern Australia",
+      "topics": [
+        "faunal assemblage",
+        "Middle Pleistocene",
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110367",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Environmental on‐site records covering the late La Tène culture in the late 2nd century BC and early 1st century AD are rare in southern Germany. On a local level such records could help to address the question if and when a settlement gap occurred in southern Germany between the late La Tène culture in the late 1st century BC and the onset of Roman colonisation in the late 1st century AD. Various scenarios have been proposed, ranging from complete depopulation of some areas to the collapse of primarily larger settlements accompanied by only a partial decline of land‐use intensity, up to a settlement continuity that remains obscured by taphonomic filters and insufficient typochronological resolution. Precisely dated environmental on‐site records covering the beginning of this time period therefore provide crucial evidence. Here, we present a multi‐proxy analysis (macrobotanical remains, palynology, archaeozoology and entomology) of the sediments within a wooden well structure built after 133 BC in the highly fertile Nördlinger Ries area, Bavaria. The initial record reflects nearby settlement activities, including husbandry and agriculture. A secondary use of the structure for processing of nettle is likely. The upper infill layers provide a pollen sequence that shows a rapid decline of taxa related to human activity, accompanied by species indicative of ecological succession on abandoned patches of land. We conclude that settlement activities in this region declined drastically during the 1st century BC. Our results support the hypothesis of regional depopulation in southern Germany prior to the establishment of the Roman province of Raetia.</jats:p>",
+      "authors": [
+        "Caesar Kjellström",
+        "Christoph Herbig",
+        "Franz Herzig",
+        "Johann Friedrich Tolksdorf",
+        "Libor Petr",
+        "Manfred Woidich",
+        "Nadja Pöllath",
+        "Philip Buckland"
+      ],
+      "doi": "10.1002/gea.70084",
+      "id": "doi:10.1002/gea.70084",
+      "publication_date": "2026-11-14",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《公元前2世纪末诺德林根巴伐利亚拉坦诺时期水井所记录聚落衰退的环境证据》：该研究对巴伐利亚诺德林根里斯地区一座建于公元前133年之后的木制水井沉积物进行多指标分析，包括大植物遗存、孢粉学、考古动物学和昆虫学，重建周边畜牧与农业活动及荨麻加工等利用方式，并依据上部填充层的孢粉序列发现人类活动相关类群迅速减少、废弃地上出现生态演替指示物种，从而认为该地区聚落活…",
+      "title": "An Environmental Record of the Settlement Decline at the Turn of the 2nd Century BC From a La Tène Well at Nördlingen, Bavaria",
+      "topics": [
+        "archaeozoology"
+      ],
+      "url": "https://doi.org/10.1002/gea.70084",
+      "venue": "Geoarchaeology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Extensive degradation has necessitated high‐priority restoration of UK peatland ecosystems. Palaeoecology has great potential to support peatland restoration, offering a long‐term perspective of environmental change that can help determine baseline conditions, restoration targets, and intervention success. However, it is suggested by palaeoenvironmental researchers that palaeoecology is underutilised in practical settings, with few examples of applied palaeoecological studies within academic literature. This study uses a practice perspective to evaluate the extent to which palaeoecology is incorporated into UK peatland restoration and identifies barriers and opportunities for integrating long‐term ecological research into restoration practice. A desk‐based study of 68 UK peatland restoration projects and survey of 32 peatland practitioners were used to explore the use of palaeoecological research as part of UK peatland restoration projects. A total of 10 instances of applied palaeoecology in UK peatland restoration were found between the desk‐based study and practitioner survey. The findings indicate that palaeoecology is rarely utilised in UK peatland restoration practice, with limitations in funding, time, and academic input identified as key barriers. Cases where palaeoecology has been considered primarily utilised pollen analysis and radiocarbon dating, with practitioners largely involved in fieldwork and research design. This study makes two recommendations to facilitate the incorporation of palaeoecological research into UK peatland restoration practice: (i) better dissemination and documentation of case studies to provide greater evidence of how palaeoecology may be used to support UK peatland restoration and clearer insight into the use of palaeoecology in practice; (ii) better two‐way knowledge transfer between palaeoecologists and practitioners to identify restoration challenges and knowledge gaps where palaeoecology could contribute.</jats:p>",
+      "authors": [
+        "J. Gauld",
+        "E. L. Shuttleworth",
+        "W. Fletcher",
+        "J. Akerman",
+        "H. Harper"
+      ],
+      "doi": "10.1002/ece3.74620",
+      "id": "doi:10.1002/ece3.74620",
+      "publication_date": "2026-11-13",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《古生态学在英国泥炭地恢复中的应用：实践视角》：该研究通过档案调查68个英国泥炭地恢复项目和问卷访谈32名从业者，考察古生态学在恢复实践中的实际应用情况，发现仅记录到10例应用，资金、时间和学术投入不足是主要障碍，并据此提出加强案例传播与双向知识转移的建议，适合关注泥炭地恢复与长期生态研究衔接的读者。",
+      "title": "The Use of Palaeoecology in UK Peatland Restoration: Perspectives From Practice",
+      "topics": [
+        "palaeoenvironment"
+      ],
+      "url": "https://doi.org/10.1002/ece3.74620",
+      "venue": "Ecology and Evolution",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:4de923a6f58f6463c21597b29e803ca6497e92fbb8f86203d85a66521a195c98",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《双极切片石器：外喀尔巴阡下旧石器时代的机会性技术》：该研究探讨外喀尔巴阡地区下旧石器时代双极切片石器的机会性技术特征，适合关注旧石器时代石器技术演变与区域适应策略的读者阅读。",
+      "title": "BIPOLAR SLICING THE STONE: OPPORTUNISTIC TECHNOLOGIES IN THE LOWER PALAEOLITHIC OF THE OUTER CARPATHIANS",
+      "topics": [
+        "Lower Palaeolithic"
+      ],
+      "url": "https://www.researchgate.net/profile/Oleksandr-Naumenko/publication/417614846_Bipolar_Slicing_the_Stone_Opportunistic_Technologies_in_the_Lower_Palaeolithic_of_the_Outer_Carpathians/links/6aef8ce73d63ef0688de56e0/Bipolar-Slicing-the-Stone-Opportunistic-Technologies-in-the-Lower-Palaeolithic-of-the-Outer-Carpathians.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:46b57ff1a6d13d3e0ab6950a79f8e226b96cdc5508193d6e07cc794a9a07d9c1",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《再思隔离：杰贝勒巴拉卡与中旧石器时代景观利用——扎夫拉旧石器项目初步成果》：该研究以杰贝勒巴拉卡为对象，报告扎夫拉旧石器项目关于中旧石器时代景观利用的初步成果，为理解该地区古人类活动提供新资料。",
+      "title": "Isolation reconsidered: Jebel Barakah and Middle Palaeolithic landscape use—first results of the Al Dhafra Palaeolithic Project",
+      "topics": [
+        "Middle Palaeolithic"
+      ],
+      "url": "https://www.archaeopresspublishing.com/ojs/index.php/PSAS/article/view/3701",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Detailed microstratigraphic analyses have been rare in Australia, and exceptionally so from the temperate southeast. Located in GunaiKurnai Country, southeastern Australia, Cloggs Cave preserves a well‐stratified Late Pleistocene to Holocene archaeological and environmental record, with remarkable evidence for use of the site as a place of ritual practices informed by local cosmologies. Although the geomorphological history of the cave has been well established, here, we present the results of microstratigraphic analyses that identify the key drivers of sedimentation that resulted in the accumulation and preservation of the archaeological deposits in the cave. The stratigraphic sequence tracks a largely dry cave environment, which has led to the high level of organic preservation, despite some minor phosphate‐ and sulphate‐related diagenesis being observed. Micro‐scale evidence traces the Old Ancestors' use of the cave for ~25,000 years, and supports both GunaiKurnai cultural knowledge and independent archaeological evidence that the cave was not an occupation site, but was rather periodically visited for special purposes. Cave sedimentation is driven by alternating cycles of faunal inputs and roof spall that accumulate during periods of human absence, and burning signatures and plant remains that signal the recurrent presence of the Old Ancestors in the cave. The investigation of in situ combustion features suggests low‐temperature burning of soft plant materials, which can be linked to practices known by GunaiKurnai knowledge and ethnography, and reinforces the cosmological value of Cloggs Cave in GunaiKurnai culture.</jats:p>",
+      "authors": [
+        "Bruno David",
+        "Declan J. Miller",
+        "Elle Grono",
+        "Fiona Petchey",
+        "Jean‐Jacques Delannoy",
+        "Joanna Fresløv",
+        "Mike W. Morley",
+        "Russell Mullett"
+      ],
+      "doi": "10.1002/gea.70080",
+      "id": "doi:10.1002/gea.70080",
+      "publication_date": "2026-11-14",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《克洛格斯洞穴的微地层研究：重建澳大利亚东南部的沉积环境与遗址使用模式》：论文通过微地层分析识别洞穴沉积的主要驱动因素，揭示该遗址近2.5万年来主要处于干燥环境、有机质保存良好，沉积序列由动物输入与洞顶剥落交替及燃烧痕迹和植物遗存构成，支持其并非居住地而是周期性举行仪式的场所，值得关注。",
+      "title": "Microstratigraphic Investigations at Cloggs Cave: Reconstructing Depositional Environments and Site Use Patterns in Southeast Australia",
+      "topics": [],
+      "url": "https://doi.org/10.1002/gea.70080",
+      "venue": "Geoarchaeology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Adam T. Smith",
+        "Amy Cromartie",
+        "Erwan Messager",
+        "Giulio Palumbi",
+        "Guillemette Ménot",
+        "Lori Khatchadourian",
+        "Odile Peyron",
+        "Ruben Badalyan",
+        "Sébastien Joannin"
+      ],
+      "doi": "10.1016/j.qeh.2026.100128",
+      "id": "doi:10.1016/j.qeh.2026.100128",
+      "publication_date": "2026-11-14",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《亚美尼亚卡萨赫河谷山地草原的社会介导史前土地利用与土地覆盖变化》：论文研究该地区史前土地利用和土地覆盖变化如何受社会因素介导，值得关注其对人地关系与史前环境研究的启示。",
+      "title": "Socially Mediated Prehistoric Land use and Land cover Change in the Mountain Grassland Steppes of the Kasakh Valley, Armenia",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.qeh.2026.100128",
+      "venue": "Quaternary Environments and Humans",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:8bbd3b728ea4df743b22b3c116e2569485a359509072929ccd28f69744a25349",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《英国埃文河谷更新世河流阶地的钾长石pIRIR测年：对光释光测年、气候驱动河流系统响应等的启示》：该研究用钾长石pIRIR方法对埃文河谷更新世河流阶地测年，并探讨其对光释光测年与气候驱动河流系统响应的意义，可供关注释光测年与河流地貌演化的读者参考。",
+      "title": "K-feldspar pIRIR Dating of Pleistocene River Terraces in the Avon Valley, UK: Implications for Luminescence dating, Climate Driven Fluvial System Responses and ...",
+      "topics": [
+        "luminescence dating"
+      ],
+      "url": "https://eprints.glos.ac.uk/16622/",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:3e97e8d002dcfa4913f26da374a5db14e26a70993ee80b225cca366d50699732",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《超越洞穴、岩棚与岩画：利用信息学将露天史前景观打造为可持续旅游目的地》：论文探讨如何借助信息学方法将露天史前景观发展为可持续旅游目的地，值得关注文化遗产与旅游可持续性交叉研究的读者阅读。",
+      "title": "Beyond Caves, Rock Shelters and Rock Art: Leveraging Informatics for Open-Air Prehistoric Landscapes as Sustainable Tourism Destinations",
+      "topics": [],
+      "url": "https://www.informaticsstudies.org/informatics/article/view/783",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:97996fcc5fe1975f79c00eeb87b013c3926303c9b59271f05a506055550785e6",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《“祝你好胃口！”：纳巴泰—罗马时期沙特阿拉伯西北部巴德阿的考古与饮食方式的GIS洞察》：该研究运用GIS方法考察巴德阿遗址的考古与饮食方式，值得关注其如何以空间分析推进对该地区饮食实践的理解。",
+      "title": "“Bone appétit!”: GIS insights into archaeology and foodways in Nabataean–Roman al-Badʿ (northwestern Saudi Arabia).",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S2352226726000772&hl=zh-CN&sa=X&d=8185086660709162595&ei=yFf4aqXUIrLO6rQP7KC9gAI&scisig=AIL1Nv5qPmrkpcaZAAFj4TNKhlt9&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:AIL1Nv6dQC8TKJSa2ezRDYmsx_xF&html=&pos=1&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:09e1b86f61829f357ab6f2be164e73305c02b9e4b8a607e74a2a85dcb22fc098",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "由于提供的元数据与正文信息不完整（仅有作者姓氏，缺少论文题目、期刊、摘要等实质内容），无法在不推测、不添加信息的前提下生成符合要求的推荐语。请补充论文外文原题与摘要正文。",
+      "title": "Citation: Rodríguez-Gómez, G.",
+      "topics": [],
+      "url": "https://riuma.uma.es/rest/api/core/bitstreams/7638bed3-73b2-4967-b99d-c024ad1a7cb1/content",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:5ab516004b6ba51ef27e0980dc467b32a6891d4b6bf1919ddff4dcd86c8bce06",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《从新石器时代到罗马时代地中海地区的文明与景观动态》：该研究考察这一长时段内地中海地区文明与景观的相互作用与演变，适合关注地中海考古、环境史与人类世前土地利用的读者参考。",
+      "title": "Civilization and Landscape Dynamics in the Mediterranean from the Neolithic to the Roman Era",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://link.springer.com/chapter/10.1007/978-3-032-33348-3_3&hl=zh-CN&sa=X&d=7396811560862393652&ei=yFf4aqXUIrLO6rQP7KC9gAI&scisig=AIL1Nv7poo9w4NHRy4jWrzuCthcB&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:AIL1Nv6dQC8TKJSa2ezRDYmsx_xF&html=&pos=2&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:b81800adb165f900ce11ad2c28d826ea33debcad2363e777e1161c9d81aafef4",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《里奇斯公园（英格兰兰利）旧石器时代中期与晚期考古的直接年代证据：对中石器时代年代学的影响》：该研究为里奇斯公园的旧石器时代中期和晚期考古提供了直接年代证据，并探讨其对中石器时代年代学的影响，适合关注英国旧石器时代年代学的研究者阅读。",
+      "title": "Direct age evidence for Early Middle and Late Upper Palaeolithic archaeology at Richings Park (Langley, England): implications for the chronology of the Middle ...",
+      "topics": [],
+      "url": "https://eprints.glos.ac.uk/16623/",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:90c954e4092aca889a0b27c36156ba61cdeed27575850feefffa64cb1092bec7",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《地中海盆地污染早期证据》：该研究探讨地中海盆地的早期污染证据，摘要信息有限，但主题涉及环境污染历史，值得关注。",
+      "title": "Early Evidence of Pollution in the Mediterranean Basin",
+      "topics": [],
+      "url": "https://link.springer.com/chapter/10.1007/978-3-032-33348-3_6",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:838e85eeee578670b2d93bd0753cca6b5f406732a136c9e9beb1f41acf83b783",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《黎凡特—安纳托利亚交界地带间歇性的人类存在：土耳其加济安泰普北部旧石器时代调查证据》：该研究基于土耳其加济安泰普北部的旧石器时代调查证据，探讨黎凡特—安纳托利亚交界地带间歇性的人类存在，可供关注该区域旧石器时代人类活动与调查材料的读者参考。",
+      "title": "Episodic human presence at the Levantine–Anatolianinterface: Palaeolithic survey evidence fromnorthern Gaziantep, Türkiye",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://journals.uni-lj.si/DocumentaPraehistorica/article/view/28089&hl=zh-CN&sa=X&d=762059391748075961&ei=yFf4aqXUIrLO6rQP7KC9gAI&scisig=AIL1Nv78XIJ0iG3r3X5Mr6fTzzrl&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:AIL1Nv6dQC8TKJSa2ezRDYmsx_xF&html=&pos=4&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:9d2507915d19c26930df6ebfc88751e73031578e25b889e673489436f5652179",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《社会认同的演化基础》：该论文探讨社会认同的演化基础，值得关注。",
+      "title": "Evolutionary foundations of social identity",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://royalsocietypublishing.org/rstb/article/381/1962/20250157/483962&hl=zh-CN&sa=X&d=12994456784569172042&ei=yFf4aqXUIrLO6rQP7KC9gAI&scisig=AIL1Nv6vjKj-7B9C3Db_ycQvQgmd&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:AIL1Nv6dQC8TKJSa2ezRDYmsx_xF&html=&pos=0&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:d2ec25d7b348291dd480c450cc5b55eff7ea821b08347626fe785ad745554224",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《公元前十至七世纪安纳托利亚中部东西方政治边界的形成与发展》：该研究考察这一时段安纳托利亚中部东西方政治边界的形成与演变，适合关注古代安纳托利亚政治地理与边界史的读者阅读。",
+      "title": "Formazione e sviluppo del confine politico tra Oriente e Occidente in Anatolia centrale tra il X–VII sec. aC",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.hcsjournal.org/ojs/index.php/hcs/article/download/134/125&hl=zh-CN&sa=X&d=14042010647772021741&ei=yFf4arDsB7rGieoPpd2W6AQ&scisig=AIL1Nv4czCsKOHmkpaWv1tkZw7Gl&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=3&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:ff281ccc5bdf0d0bc2d620d3778a9a5fb48567f99fd771dd102a1cb1bb778b74",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《从墨西拿盐度危机至今：地中海生物多样性的变迁》：该研究探讨地中海从墨西拿盐度危机到现在的生物多样性变化，值得关注这一长时段生物多样性演变的研究者阅读。",
+      "title": "From the Messinian Salinity Crisis to the Present: The Change of Biodiversity in the Mediterranean",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://link.springer.com/chapter/10.1007/978-3-032-33348-3_1&hl=zh-CN&sa=X&d=11445369760162832320&ei=yFf4aqXUIrLO6rQP7KC9gAI&scisig=AIL1Nv6F_iFP819XDy64-TPm3Z-3&oi=scholaralrt&hist=cauAAVQAAAAJ:14825883241465008768:AIL1Nv6dQC8TKJSa2ezRDYmsx_xF&html=&pos=3&folt=cit",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:faab2c62dbb621893285c49b402d479c4dd9d5511f23fb16aa888897aff1f104",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《基于锌与氨基酸氮同位素对贝加尔湖西岸史前饮食及营养结构的多同位素重建》：该研究运用锌同位素与氨基酸氮同位素方法，重建贝加尔湖西岸史前人类的饮食与营养组织，值得关注多同位素方法在考古饮食重建中应用的读者阅读。",
+      "title": "Multi‐Isotopic Reconstruction of Prehistoric Diet and Trophic Organization in Cis‐Baikal Using Zinc and Amino Acid Nitrogen Isotopes",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://onlinelibrary.wiley.com/doi/pdf/10.1002/ajpa.70396&hl=zh-CN&sa=X&d=15386938560974601021&ei=yFf4arDsB7rGieoPpd2W6AQ&scisig=AIL1Nv5vRNw9aoZtRram0awtKJXX&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=4&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:5416714f29a93a0244957848b79e7f1b6c993b323e635d3e7cac2bf98ce99921",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《法医人类学案例中遇到的埋藏学效应：埋葬、陆地表面和海洋环境》：该文围绕埋葬、陆地表面与海洋环境中的法医人类学案例，讨论所遇到的埋藏学效应，适合关注法医人类学与埋藏学交叉议题的读者阅读。",
+      "title": "Taphonomic Effects Encountered in Forensic Anthropology Cases: Burial, Terrestrial Surface, and Marine Environments",
+      "topics": [],
+      "url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781003469094-38&type=chapterpdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:5b9fdfeca46fd8c8f18607945b2e2c19fc879cef7c18463f56517a546e175f8a",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《韦尔戈蒂纳洞穴：人类遗骸直接放射性碳测年结果与石制品材料修订》：该研究对人类遗骸进行直接放射性碳测年，并据此修订石制品材料，值得关注洞穴遗址年代学与考古材料再评估的读者阅读。",
+      "title": "Vergotinova Pećina: results of direct radiocarbon dating of human remains and revision of lithic material",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://hrcak.srce.hr/clanak/509709&hl=zh-CN&sa=X&d=14559442281148206905&ei=yFf4arDsB7rGieoPpd2W6AQ&scisig=AIL1Nv7sZfgrgzF1uJUUeq6l5uCQ&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=7&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:6f0dca8afb0b562ae7541b7256d77813b70ec98a240c82fcea841c5d8ae1fecd",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《兹博热尼科斯泰莱茨1号遗址：波希米亚马格达林文化聚落的新证据》：该研究报道了波希米亚地区马格达林文化聚落的新证据，为理解该地区旧石器时代晚期人类活动提供了新资料，值得关注。",
+      "title": "Zbořený Kostelec 1: New evidence of Magdalenian settlement in Bohemia",
+      "topics": [],
+      "url": "https://www.researchgate.net/profile/Katarina-Kapustka/publication/417650283_Zboreny_Kostelec_1_New_evidence_of_Magdalenian_settlement_in_Bohemia/links/6af22eb61ad3626457d8685c/Zboreny-Kostelec-1-New-evidence-of-Magdalenian-settlement-in-Bohemia.pdf",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}
