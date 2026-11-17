@@ -1,0 +1,308 @@
+{
+  "date": "2026-11-18",
+  "items": [
+    {
+      "abstract": "<jats:p>Specializations of blood vasculature in the central nervous system (CNS), including the blood–brain barrier (BBB), neurovascular coupling, and perivascular spaces, maintain CNS homeostasis and become dysfunctional in disease and aging. Protein turnover, the process by which proteins are continually degraded and replaced, profoundly influences cell and tissue function and is dysregulated in aging and disease. Understanding the turnover of neurovascular proteins could provide insight into how the vasculature achieves both long-term structural stability and dynamic regulation. Vascular proteins, however, are underrepresented in previous studies of in vivo brain protein turnover. In this work, we used stable isotope labeling, nonenzymatic blood vessel enrichment, and high-resolution mass spectrometry-based proteomics to quantify the half-lives of brain vascular proteins in young adult and aged mice. We report half-life estimates for 1,358 proteins, including components of endothelial junctions, BBB transporters, astrocyte endfoot proteins, and vascular basement membrane proteins. We found that certain classes of proteins with related functions had similar half-lives, including BBB junctional proteins (~3 d), BBB transporters (~2 to 6 d), and most basement membrane components (&gt;30 d). We also identified peptide motifs enriched in proteins with short and long half-lives and found differences in half-life distributions for cell type–specific proteomes. Finally, although we did not observe a global age-related shift in vascular protein turnover, we did identify specific proteins with increased or decreased half-lives in aging. This work establishes a high-quality database of neurovascular protein half-lives and provides a foundation for understanding how protein turnover contributes to neurovascular function and age-associated dysfunction.</jats:p>",
+      "authors": [
+        "Benjamin D. Gastfriend",
+        "David J. Gonzalez",
+        "Irfan Baig",
+        "Lucija Pintarić",
+        "Richard Daneman"
+      ],
+      "doi": "10.1073/pnas.2614977123",
+      "id": "doi:10.1073/pnas.2614977123",
+      "publication_date": "2026-11-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《健康与衰老中的神经血管蛋白半衰期》：该研究采用稳定同位素标记、非酶法血管富集和高分辨率质谱蛋白质组学，量化年轻成年与老年小鼠脑血管蛋白半衰期，报告1358种蛋白的半衰期估计，涵盖内皮连接、血脑屏障转运体、星形胶质细胞终足蛋白和血管基底膜蛋白，发现功能相关蛋白类别半衰期相似，并识别衰老中半衰期增减的特定蛋白，建立了神经血管蛋白半衰期高质量数据库，值得关注蛋…",
+      "title": "Neurovascular protein half-lives in health and aging",
+      "topics": [
+        "stable isotope"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2614977123",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Taphonomy, the study of environmental effects on decomposition and skeletonisation across different environments, requires an in-depth understanding of contextual variation. This study aimed to test the suitability of porcine taphonomic scoring criteria when applied to the human skeletal remains of individuals from the historic Koffiefontein and Witwatersrand Deep mines and to assess the effects of different burial environments on bone. The sample comprised 60 individuals and was divided into six skeletal regions and scored on six alterations: bone weathering, adipocere formation, acidic soil corrosion, depositional soil staining, plant activity and animal activity. Soil staining showed the most variation between the Koffiefontein and porcine groups, with Koffiefontein exhibiting unique artefact staining. Significant differences were found between the Koffiefontein and porcine groups for all alterations (\n                    <jats:italic>p</jats:italic>\n                     &lt; 0.026), except animal activity. Following these results, amendments were made to the scoring criteria to better fit patterns observed in human bone taphonomy, and taphonomic comparisons were then conducted between the two human groups to assess the effects of differential burial environments. Bone weathering and corrosion showed the most prominent differences between the human groups. Significant differences were found between the human groups in all dry bone alterations (\n                    <jats:italic>p</jats:italic>\n                     &lt; 0.035), except for soil staining. Variation in climatic conditions and burial microenvironments appears to underlie these taphonomic differences. Taken together, the findings indicate that the porcine scoring system is inadequate for characterising taphonomy in human remains, underscoring the need to account for the specific burial environment when interpreting taphonomic evidence.\n                  </jats:p>",
+      "authors": [
+        "Nicola Jackson",
+        "Claudia Landsman",
+        "Anja Meyer"
+      ],
+      "doi": "10.1007/s00414-026-04059-7",
+      "id": "doi:10.1007/s00414-026-04059-7",
+      "publication_date": "2026-11-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《评估一种新的猪干骨评分方法在应用于两份死后人类骨骼样本时对南非墓葬埋藏学的适用性》：该研究检验猪埋藏学评分标准用于历史Koffiefontein与Witwatersrand Deep矿区人类遗骸时的适用性，比较不同埋葬环境对骨骼的影响，发现除动物活动外两组在各项变化上均存在显著差异，并据此修订评分标准，指出猪评分系统不足以刻画人类遗骸埋藏学，值得关注。",
+      "title": "Assessing the suitability of a new porcine dry bone scoring method for South African burial taphonomy when applied to two posthumous human skeletal samples",
+      "topics": [
+        "taphonomy"
+      ],
+      "url": "https://doi.org/10.1007/s00414-026-04059-7",
+      "venue": "International Journal of Legal Medicine",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "Publication date: Available online 17 November 2026 Source: Palaeogeography, Palaeoclimatology, Palaeoecology Author(s): Hanzhang Song, Cédric Del Rio, Edoardo Martinetto, Rafał Kowalski, Arata Momohara, Cheng Quan, Jianhua Jin, Xinkai Wu",
+      "authors": [
+        "Arata Momohara",
+        "Cheng Quan",
+        "Cédric Del Rio",
+        "Edoardo Martinetto",
+        "Hanzhang Song",
+        "Jianhua Jin",
+        "Rafał Kowalski",
+        "Xinkai Wu"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114357",
+      "id": "doi:10.1016/j.palaeo.2026.114357",
+      "publication_date": "2026-11-17",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Palaeogeography Palaeoclimatology Palaeoecology"
+      ],
+      "summary": "《东亚特有植物大血藤（木通科）的深时生物地理历史：化石修订、祖先分布区重建与生态位模拟》：该研究通过化石修订、祖先分布区重建和生态位模拟，探讨大血藤的深时生物地理历史，适合关注东亚植物演化与古生物地理的读者阅读。",
+      "title": "Deep-time biogeographic history of the East Asian endemic <em>Sargentodoxa</em> (Lardizabalaceae): fossil revision, ancestral-range reconstruction and niche modelling",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114357",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "American Journal of Biological Anthropology, Volume 191, Issue 3, November 2026.",
+      "authors": [
+        "Rachel J. Watkins",
+        "Rachel J. Watkins, Sheela Athreya",
+        "Sheela Athreya"
+      ],
+      "doi": "10.1002/ajpa.70378",
+      "id": "doi:10.1002/ajpa.70378",
+      "publication_date": "2026-11-17",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:American Journal of Biological Anthropology"
+      ],
+      "summary": "《去殖民化对话：反思》：该文由Rachel J. Watkins与Sheela Athreya等学者撰写，刊于《美国生物人类学杂志》2026年11月第191卷第3期，围绕去殖民化议题展开对话与反思，值得关注生物人类学去殖民化讨论的读者阅读。",
+      "title": "Dialogues in Decolonization: Reflections",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ajpa.70378",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:385a72989854fcd094c5e3f377cd03cf66fec29d1f7cddd50a6d0d4a2c3d56fa",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《通过古环境证据与石器使用痕迹分析探究旧石器时代木材利用：韩国佳阳洞遗址案例研究》：该研究结合古环境证据与石器使用痕迹分析，探讨旧石器时代木材利用问题，值得关注旧石器时代生计方式与石器功能研究的读者阅读。",
+      "title": "Investigating Paleolithic Wood Use through Paleoenvironmental Evidence and Lithic Use-Wear Analysis: A Case Study of the Gayang-dong Site, Korea",
+      "topics": [
+        "lithic use-wear",
+        "paleoenvironment"
+      ],
+      "url": "https://www.kseeg.org/journal/view.html?spage=749&volume=59&number=5",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:9a95300aff4e6adffca3edf584ab5b225ff358e9bec7e452fe766812b85148ab",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《苏丹中石器时代石器与背景数据库（SUM）：结构、研究潜力与未来方向》：该论文介绍苏丹中石器时代石器及背景数据库的结构，探讨其研究潜力与未来发展方向，适合关注中石器时代考古数据整理与区域研究的读者参考。",
+      "title": "The Sudan middle stone age lithic and contextual database (SUM): structure, research potential, and future directions",
+      "topics": [
+        "Middle Stone Age"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://sapientia.ualg.pt/entities/publication/68e74989-ccfe-4869-bd90-045fa853ea65&hl=zh-CN&sa=X&d=16428486177455781348&ei=Ngv8aseuMfTR6rQP5bznsAg&scisig=AIL1Nv4okZmomBJI9o36LC2tKuih&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=7&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Bianqing Guo",
+        "Di Gao",
+        "Guangrong Peng",
+        "Wei Wu",
+        "Jijian Shi",
+        "Meng Li",
+        "Junjiao Yang"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114369",
+      "id": "doi:10.1016/j.palaeo.2026.114369",
+      "publication_date": "2026-11-17",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《长期黄赤交角强迫对珠江口盆地中新世沉积的影响》：该研究探讨长期黄赤交角强迫对珠江口盆地中新世沉积的作用，值得关注其如何揭示轨道尺度因素与沉积记录的联系。",
+      "title": "Effect of long-term obliquity forcing on Miocene sedimentation in the Pearl River Mouth Basin",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114369",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:2f8096c029e3ed434f325b2f6215de84cbba1f41b6b99bfaa5393cf9d0df8148",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《沉积物古DNA拓展了罗马时期哈勒尔贝克遗址的生物考古学证据与阐释》：该研究利用沉积物古DNA为罗马时期哈勒尔贝克遗址提供新的生物考古学证据与解读，适合关注古DNA与考古结合的研究者阅读。",
+      "title": "Sedimentary ancient DNA expands bioarchaeological evidence and interpretation at Roman Harelbeke",
+      "topics": [
+        "ancient DNA"
+      ],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://www.biorxiv.org/content/10.64898/2026.11.06.764647.full.pdf&hl=zh-CN&sa=X&d=17299217911260767711&ei=Ngv8aseuMfTR6rQP5bznsAg&scisig=AIL1Nv7SRqcBMLOUJ_hUysN4wBKh&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=3&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:475ce6a414cea69e61a2a544ba3029bd98976ff4f0bfd1f7998c94ad1e6f4f8b",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《距今24000至20000年前上旧石器时代石器原料的经济与管理：以梭鲁特文化为例》：该研究聚焦上旧石器时代梭鲁特文化时期的石器原料经济与管理，适合关注史前人类资源利用策略的读者阅读。",
+      "title": "24 000-20 000 BP Economia e gestão das matérias-primas líticas durante o Paleolítico Superior: O caso do Solutrense",
+      "topics": [],
+      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=10980439",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:c361d5a61408a69ad049fdd6a6b7efb6a671480f76e07cae49dc1f8a073b20d6",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《伊比利亚半岛东南部旧石器时代晚期：年代学与考古学背景》：该文围绕伊比利亚半岛东南部旧石器时代晚期的年代框架与考古背景展开梳理，适合关注该地区史前考古与年代学问题的读者参考。",
+      "title": "El paleolítico superior en el sureste de la península ibérica: contexto cronológico y arqueológico",
+      "topics": [],
+      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=10980120",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:acf34fa14d6dc09a8c0297dc5b9216846bc5ef36d2a6fc8123c82a6060e51c32",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《OH 83与另外33件中更新世和晚更新世人类化石的四项颅骨测量指标》：该研究对OH 83及33件中更新世和晚更新世人类化石的四项颅骨测量指标进行分析，可为相关化石的颅骨形态比较提供参考。",
+      "title": "Four cranial metrics for OH 83 and 33 other Middle and Late Pleistocene Homo fossils",
+      "topics": [],
+      "url": "https://ui.adsabs.harvard.edu/abs/2026dryd.data.2012H/abstract",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:5ff95154e2bb1d5d4bf7e280a0207bb8e36f585f2a6e0ed42a3f7f720c8266c5",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《北美岩画中的数学思想》：该论文探讨北美岩画中蕴含的数学观念，值得对岩画与数学交叉研究感兴趣的读者阅读。",
+      "title": "Mathematical Ideas in North American Rock Art",
+      "topics": [],
+      "url": "https://attachments.academia-assets.com/extracted-pdfs/37670700.pdf",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:7494c3330959d74b074e893872f6c42458dc5bf3b5ee9152b2b99f82cf983920",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《千年尺度的森林衰退与意大利稳定核心区：面向保护的古生态学启示》：该研究基于古生态学证据，探讨意大利森林在千年尺度上的衰退过程及稳定核心区，为保护工作提供启示，值得关注。",
+      "title": "Millennial-Scale Forest Decline and Stable Core Areas in Italy: Palaeoecological Insights for Conservation",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2197562026001442",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:5137d82eb8dae7d31d788238c6c8d44fbca01b0b2c6df0cbb04906ef2eeda31a",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《意大利维罗纳Veja Grotta A遗址晚更新世与全新世记录的新见解：动物群动态、炭屑记录与人类活动》：该研究整合动物群动态、炭屑记录与人类活动证据，为理解该遗址晚更新世至全新世的环境演变与人类存在提供新资料，适合关注旧石器时代晚期至全新世考古、动物考古与古环境研究的读者参考。",
+      "title": "New insights into the Late Pleistocene and Holocene record of Veja Grotta A (Verona, Italy): faunal dynamics, anthracological record, and human presence",
+      "topics": [],
+      "url": "https://www.sciencedirect.com/science/article/pii/S1040618226004295",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:79032916d6bde2062508f031f9d68f474331fa1a509d8d345d12b8c182a7bcfd",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《 poisoned hunting weapons, megafauna, and plant use at a 125,000-year-old Arabian paleolakeshore》中文译题应为《12.5万年前阿拉伯古湖岸的毒猎武器、巨型动物与植物利用》：该研究考察了12.5万年前阿拉伯古湖岸的毒猎武器、巨型动物与植物利用，值得关注其如何整合…",
+      "title": "Poisoned hunting weapons, megafauna, and plant use at a 125,000-year-old Arabian paleolakeshore",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://orbi.uliege.be/bitstream/2268/350564/1/Clarkson%2520et%2520al_Science2026_Arabia.pdf&hl=zh-CN&sa=X&d=5638522864168385586&ei=Ngv8aseuMfTR6rQP5bznsAg&scisig=AIL1Nv7FkcvpudSpyO9YHz0OLsdz&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=0&folt=rel",
+      "venue": "",
+      "work_type": ""
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "",
+      "id": "paperfp:e68759df1d59bfe3e47553b1bc320ae788c92c817ba4212bd3a9a3e601a7bd85",
+      "publication_date": "",
+      "sources": [
+        "scholar_email"
+      ],
+      "summary": "《谢格达尔蒂遗址与阿拉斯加中部：其对白令陆桥人群定居的贡献》：该论文探讨了阿拉斯加中部谢格达尔蒂遗址及其对白令陆桥人群定居的贡献，值得关注。",
+      "title": "Shég'Xdaltth'í', Central Alaska, and its Contribution to the Peopling of Beringia",
+      "topics": [],
+      "url": "https://scholar.google.com.hk/scholar_url?url=https://hal.science/hal-05860593/&hl=zh-CN&sa=X&d=10300257714897534038&ei=Ngv8aseuMfTR6rQP5bznsAg&scisig=AIL1Nv7nyeSztfhmWIiL8iT7cKs1&oi=scholaralrt&hist=cauAAVQAAAAJ:13123906264898342985:AIL1Nv5v5_hCrcExK_8R77-fRVjo&html=&pos=5&folt=rel",
+      "venue": "",
+      "work_type": ""
+    }
+  ],
+  "schema_version": 1
+}

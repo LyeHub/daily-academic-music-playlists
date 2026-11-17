@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-18",
+  "items": [
+    {
+      "artists": [
+        "Iceboy Violet"
+      ],
+      "release_date": "2026-11-04",
+      "release_type": "album",
+      "title": "How to Glitch Under the Map"
+    },
+    {
+      "artists": [
+        "Vivians"
+      ],
+      "release_date": "2026-11-17",
+      "release_type": "album",
+      "title": "Take Your Desires for Reality"
+    },
+    {
+      "artists": [
+        "Ben Webster"
+      ],
+      "release_date": "2026-11-17",
+      "release_type": "album",
+      "title": "Music For Loving"
+    },
+    {
+      "artists": [
+        "Snoh Aalegra"
+      ],
+      "release_date": "2026-11-13",
+      "release_type": "album",
+      "title": "Legendary Love"
+    }
+  ],
+  "playlist_name": "每日音乐 2026-11-18",
+  "schema_version": 1
+}
