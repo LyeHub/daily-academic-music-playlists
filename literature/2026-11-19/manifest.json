@@ -1,0 +1,513 @@
+{
+  "date": "2026-11-19",
+  "items": [
+    {
+      "abstract": "Nature, Published online: 18 November 2026; doi:10.1038/s41586-026-11271-3 Late Middle Pleistocene hominin teeth from the Naxian and Baxian caves of southern China, dated to around 324–184 thousand years ago, fill a gap in the geographical and chronological distribution of Homo erectus in East Asia.",
+      "authors": [
+        "Anne-Marie Bacon",
+        "Changzhu Jin",
+        "Clément Zanolli",
+        "Fabrice Demeter",
+        "Feng Liu",
+        "Frido Welker",
+        "Gaudry Troché",
+        "Hua Liang",
+        "Jesper V. Olsen",
+        "Kai Zhou",
+        "Kira E. Westaway",
+        "Liyun Yang",
+        "Molly Quinn",
+        "Qiaomei Fu",
+        "Qingfeng Shao",
+        "Ragnheiður Diljá Ásmundsdóttir",
+        "Reiko T. Kono",
+        "Renaud Joannes-Boyau",
+        "Viridiana Villa-Islas",
+        "Wei Liao",
+        "Wei Wang",
+        "Wenjing Yu",
+        "Xiaotian Feng",
+        "Yanyan Yao",
+        "Yaobin Fan",
+        "Yingqi Zhang",
+        "Yuan Wang",
+        "Yue Pan",
+        "Zandra Fagernäs",
+        "Zhixing Yi",
+        "Zhongyou Wu"
+      ],
+      "doi": "10.1038/s41586-026-11271-3",
+      "id": "doi:10.1038/s41586-026-11271-3",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Nature"
+      ],
+      "summary": "《东亚大陆中更新世晚期直立人的证据》：该研究报道了华南那仙洞和拔仙洞约32.4万至18.4万年前的直立人牙齿化石，填补了直立人在东亚地理与年代分布上的空白，值得关注。",
+      "title": "Evidence for late Middle Pleistocene <i>Homo erectus</i> in mainland East Asia",
+      "topics": [
+        "hominin",
+        "Homo erectus",
+        "Middle Pleistocene"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-11271-3",
+      "venue": "Nature",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Nature, Published online: 18 November 2026; doi:10.1038/s41586-026-11155-6 Eight Homo erectus teeth from two caves in southern China reveal that the species persisted in closed rainforest ecosystems between 324 and 184 ka, challenging assumptions about their ecological preferences and behavioural limitations.",
+      "authors": [
+        "A.-M. Bacon",
+        "C. Jin",
+        "C. Zanolli",
+        "F. Demeter",
+        "F. Welker",
+        "H. Liang",
+        "J.-x. Zhao",
+        "K. E. Westaway",
+        "L. Yang",
+        "M. Quinn",
+        "N. Bourgon",
+        "P. Roberts",
+        "Q. Fu",
+        "Q. Shao",
+        "R. D. Ásmundsdóttir",
+        "R. Joannes-Boyau",
+        "R. Kono",
+        "S. Murray",
+        "V. Balter",
+        "W. Liao",
+        "W. Wang",
+        "W. Yu",
+        "Y. Pan",
+        "Y. Wang",
+        "Y. Zhang",
+        "Z. Wu"
+      ],
+      "doi": "10.1038/s41586-026-11155-6",
+      "id": "doi:10.1038/s41586-026-11155-6",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Nature"
+      ],
+      "summary": "《华南晚期直立人的雨林适应》：研究通过华南两个洞穴出土的八颗直立人牙齿，揭示该物种在距今32.4万至18.4万年间持续生活在封闭雨林生态系统中，挑战了对其生态偏好和行为局限的既有假设，值得关注。",
+      "title": "Rainforest adaptation in late <i>Homo erectus</i> from southern China",
+      "topics": [
+        "Homo erectus"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-11155-6",
+      "venue": "Nature",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03777-7 Teeth found in south China challenge the idea that Homo erectus was limited to woodlands and savannahs.",
+      "authors": [
+        "Ewen Callaway"
+      ],
+      "doi": "10.1038/d41586-026-03777-7",
+      "id": "doi:10.1038/d41586-026-03777-7",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Nature"
+      ],
+      "summary": "《丛林之王？》：该文报道在中国南方发现的牙齿化石挑战了直立人仅局限于林地和稀树草原的观点，值得关注早期人类生存适应能力的研究者阅读。",
+      "title": "Kings of the jungle? This early human had surprising survival skills that rivalled ours",
+      "topics": [
+        "Homo erectus"
+      ],
+      "url": "https://doi.org/10.1038/d41586-026-03777-7",
+      "venue": "Nature",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:sec>\n                    <jats:title>Objectives</jats:title>\n                    <jats:p>\n                      Some researchers have adopted a 20 kg upper limit to avian predation on primates, with no confirmed cases exceeding 13 kg. Here, we report evidence of eagle interactions with adult male olive baboons (\n                      <jats:styled-content style=\"fixed-case\">\n                        <jats:italic>Papio anubis</jats:italic>\n                      </jats:styled-content>\n                      ) and evaluate the implications for understanding past predation pressures during hominin evolution.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Materials and Methods</jats:title>\n                    <jats:p>\n                      Fieldwork was conducted in Réserve Naturelle et Culturelle d'Ennedi, Chad, in February–March 2025. Surveys of sandstone cliffs and talus deposits yielded cranial and postcranial remains of\n                      <jats:styled-content style=\"fixed-case\">\n                        <jats:italic>P. anubis</jats:italic>\n                      </jats:styled-content>\n                      , including proximal femora. We measured the superoinferior breadth of each femoral head to estimate body mass using established cercopithecid regression equations. The remains were examined for taphonomic signatures of eagle predation.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Our sample of nine individuals includes eight adult males with a mean estimated body mass of 22.2 ± 3.8 kg. We observed punctured orbits in two males, along with a raked scapula, two telling signs of eagle predation and/or feeding activity. One male was associated with a femur, enabling a body mass estimate of 21.8 kg. Postscript: in June 2026, we recovered the cranium and partial skeleton of an adult male with an estimated body mass of 26.2 kg; and again, we observed evidence of talon punctures and severe raking of the scapulae.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Discussion</jats:title>\n                    <jats:p>\n                      Our findings are consistent with the depredations of Verreaux's eagles (\n                      <jats:styled-content style=\"fixed-case\">\n                        <jats:italic>Aquila verreauxii</jats:italic>\n                      </jats:styled-content>\n                      ). If confirmed, the interaction exceeds the primate body‐mass threshold deemed susceptible to avian predation, indicating that moderately large primates, including some hominins, may have experienced greater avian predation pressure than previously recognized.\n                    </jats:p>\n                  </jats:sec>",
+      "authors": [
+        "Catherine Hobaiter",
+        "Catherine Hobaiter, Tewogbade J. D. Akpona, Gisela H. Kopp, Nathaniel J. Dominy",
+        "Gisela H. Kopp",
+        "Nathaniel J. Dominy",
+        "Tewogbade J. D. Akpona"
+      ],
+      "doi": "10.1002/ajpa.70377",
+      "id": "doi:10.1002/ajpa.70377",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:American Journal of Biological Anthropology"
+      ],
+      "summary": "《鹰类捕食22公斤成年灵长类的迹象》：该研究在乍得恩内迪自然保护区发现成年雄性橄榄狒狒遗骸，依据股骨头尺寸估算平均体重约22.2公斤，并观察到眼眶穿孔与肩胛骨抓痕等鹰类捕食或进食痕迹，认为可能与黑雕有关；若获确认，这一互动超出以往认为易受鸟类捕食的灵长类体重阈值，提示包括部分古人类在内的中等体型灵长类可能承受过更大的鸟类捕食压力，值得关注。",
+      "title": "Signs of Eagle Predation on a 22‐\n                    <scp>kg</scp>\n                    Adult Primate",
+      "topics": [
+        "hominin"
+      ],
+      "url": "https://doi.org/10.1002/ajpa.70377",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Alberto Marchán-Fernández",
+        "Alejandra de la Osa",
+        "Arnau Brosa-Planella",
+        "Carlos D. Simões",
+        "Carlos Tavares da Silva",
+        "Danai Rovithaki",
+        "Esteban Álvarez-Fernández",
+        "Javier Martín-Vallejo",
+        "Joaquina Soares",
+        "Jonathan P. Miller",
+        "Laura Llorente",
+        "Lucía Tinoco",
+        "Luis C. Teira",
+        "María José Fernández-Gómez",
+        "María Teresa Aparicio",
+        "Miriam Cubas",
+        "Pablo Arias"
+      ],
+      "doi": "10.1007/s12520-026-02586-3",
+      "id": "doi:10.1007/s12520-026-02586-3",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《葡萄牙萨杜河口新石器时代孔波尔塔的沿海生计与贝丘形成：巴罗西尼亚遗址的动物考古学与微形态学证据》：该研究结合动物考古学与微形态学证据，探讨孔波尔塔地区新石器时代的沿海生计方式及贝丘形成过程，适合关注沿海适应与贝丘遗址研究的读者阅读。",
+      "title": "Coastal subsistence and shell midden formation at Neolithic Comporta (Sado estuary, Portugal): archaeozoological and micromorphological evidence from Barrosinha",
+      "topics": [
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1007/s12520-026-02586-3",
+      "venue": "Archaeological and Anthropological Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Build orientation for selective laser melting (SLM) manufacturing of dental parts is usually chosen manually by technicians. We treat orientation prediction as supervised machine learning of the part's up-axis from technician-labeled production data, and test which rotation representations produce the best results. Using $n\\approx2400$ patient-specific dental parts, we trained a ResNet-50 multi-view image backbone and a PointNeXt-S point-cloud backbone, both pretrained and fine-tuned end-to-end, on 13 up-axis representations spanning six classical $SO(3)$ parameterizations and seven representations defined directly on the unit sphere $S^2$. We report the geodesic angular error between predicted and ground-truth up-axis on a test set, with and without test-time augmentation (TTA) over $K=21$ known rotations. With TTA, the octahedral map achieves the lowest mean angular error ($10.6^\\circ$, ResNet-50). The three lowest-error results overall are direct $S^2$ representations, though this may reflect label noise in the unsupervised in-plane component of the $SO(3)$ targets rather than a topological advantage. von Mises-Fisher collapses to a near-constant prediction when trained with PointNeXt-S but not with ResNet-50. TTA reduces mean angular error by 31-73 % across almost every representation and backbone. Overall, test-time augmentation over a small set of known rotations is the most consistent driver of accuracy, whereas the best-performing representation is strongly backbone-dependent.",
+      "authors": [
+        "Felix Schmalzel",
+        "Reimar Waitz",
+        "Moritz Kronberger",
+        "Thorsten Schöler"
+      ],
+      "doi": "10.48550/arxiv.2609.15710",
+      "id": "doi:10.48550/arxiv.2609.15710",
+      "publication_date": "2026-09-14",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《SLM牙科零件构建方向预测：旋转表示与直接向量回归的比较》：该研究将牙科零件SLM构建方向预测视为基于技师标注数据的监督学习，比较13种上轴旋转表示在ResNet-50与PointNeXt-S骨干上的角误差表现，发现测试时增强在几乎所有表示下均降低平均角误差，而最佳表示高度依赖骨干网络，可供关注三维形态分析与增材制造自动化的读者参考。",
+      "title": "Predicting build orientation for SLM dental parts: a comparison of rotation representations and direct vector regression",
+      "topics": [
+        "三维自动形态分析"
+      ],
+      "url": "https://arxiv.org/abs/2609.15710",
+      "venue": "arXiv (Cornell University)",
+      "work_type": "preprint"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    The study of dogs (\n                    <jats:styled-content style=\"fixed-case\">\n                      <jats:italic>Canis familiaris</jats:italic>\n                    </jats:styled-content>\n                    ) in the Byzantine Empire is under‐developed relative to earlier and more western portions of the Roman world, largely due to their archeological rarity. Salvage excavations beginning in 2004 in the Yenikapı neighborhood of Istanbul over the former Harbor of Theodosius however retrieved the remains of several hundred dogs from the Byzantine period of the City, providing exceptional opportunity for dedicated study. Here, we present the first 3D geometric morphometric assessment of this large assemblage, which aimed to investigate the prevailing phenotypic character of the dogs of Constantinople during the Early and Middle Byzantine periods (7th–12th centuries\n                    <jats:sc>AD</jats:sc>\n                    ). Similar to prior assessments, we determined that most of these dogs were small, mesocephalic individuals of a generic and unspecialised appearance. Of modern dogs, they are nearest to members of the Spitz–Primitive group, most of which are unspecialised varieties with origins as free‐ranging village and pariah‐types. A smaller proportion of the Byzantine dogs however show close similarities to specialized dog breed groups historically associated with specific working purposes, such as livestock guardian dogs, sighthounds, and terriers. We conclude that the dog population of Constantinople as represented by those which ended up in the Theodosian Harbor was diverse in its overall range of observed phenotypes but was dominated by a prevailing unspecialised morphotype that is reminiscent of the free‐ranging street dogs historically known from the city.\n                  </jats:p>",
+      "authors": [
+        "Loukas G. Koungoulos",
+        "Margot Michaud",
+        "Murat Karabağlı",
+        "Seyyid Said Sabancı",
+        "Vedat Onar",
+        "Şamil Sefergil"
+      ],
+      "doi": "10.1002/oa.70187",
+      "id": "doi:10.1002/oa.70187",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《伊斯坦布尔耶尼卡珀狄奥多西港拜占庭时期犬类颅骨表型的3D几何形态测量分析》：该研究首次对伊斯坦布尔耶尼卡珀狄奥多西港遗址出土的数百只拜占庭时期犬类遗存进行3D几何形态测量，旨在探究7至12世纪君士坦丁堡犬群的主要表型特征，发现其以小型、中头型且外观非特化的个体为主，与现代斯皮茨—原始犬组最为接近，另有少数与牲畜护卫犬、视觉猎犬和梗犬等专业犬种相似，值得关…",
+      "title": "Byzantine Era Dog Cranial Phenotypes From Constantinople's Theodosian Harbor at Yenikapı, Istanbul, Characterized With 3D Geometric Morphometrics",
+      "topics": [
+        "geometric morphometrics"
+      ],
+      "url": "https://doi.org/10.1002/oa.70187",
+      "venue": "International Journal of Osteoarchaeology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The Barro Alto fossil site (Rio Grande do Sul State, Brazil) is considered a prolific place for understanding the Guadalupian (Wordian) vertebrate diversity, especially for tetrapods and cartilaginous fishes. However, its paleoenvironmental context has not been deeply discussed in the literature. The present work aims to integrate previous and new paleontological data for this fossiliferous site and provide the depositional context for the Permian fauna of the Rio do Rasto Formation (Paraná Basin) at the Barro Alto site. The stratigraphic columnar profile is divided into six sedimentary facies grouped into two facies associations, which were integrated with paleontological and petrological data. The association of facies suggests that the paleoenvironmental context for the Barro Alto fossil site consists of a lacustrine paleoenvironment with seasonal variations in water levels and sediment influx, being eventually invaded by river channels. Furthermore, it contained a remarkable diversity of vertebrate remains, with bony (both Actinopterygii and Sarcopterygii) and cartilaginous fishes, terrestrial tetrapods from different groups such as anomodont synapsids, archosauromorphs, and temnospondyls, besides coprolites and plant remains. Additionally, recent paleontological studies involving the Karoo basin in South Africa may suggest a geochronological repositioning of the Barro Alto site to the Wordian due to biostratigraphic relationships between South African and Brazilian taxa.</jats:p>",
+      "authors": [
+        "Amanda Goulart Rodrigues",
+        "Douglas da Silva Strattmann",
+        "Heitor Francischini",
+        "Paula Dentzien‐Dias",
+        "Pedro Lucas de Barros Pruciano",
+        "Thiago Britto"
+      ],
+      "doi": "10.1002/ar.70389",
+      "id": "doi:10.1002/ar.70389",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《巴罗阿尔托遗址的古生物学与古环境分析：窥探西冈瓦纳中二叠世的窗口》：该研究整合新旧古生物学数据，重建巴西巴罗阿尔托化石点的沉积环境，提出其为具有季节性水位与沉积物输入变化的湖泊环境、后曾被河道侵入，并梳理了该点丰富的鱼类、四足动物、粪化石与植物遗存，值得关注二叠纪脊椎动物多样性与古环境背景的读者阅读。",
+      "title": "Paleontological and paleoenvironmental analyses of the Barro Alto site: A window to the mid Permian of western Gondwana",
+      "topics": [
+        "paleoenvironment"
+      ],
+      "url": "https://doi.org/10.1002/ar.70389",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 18 November 2026 Source: Quaternary Geochronology Author(s): Bastian E.W.W. Grimm, Christian Zeeden, Thomas Kolb, Markus Fuchs",
+      "authors": [
+        "Bastian E.W.W. Grimm",
+        "Christian Zeeden",
+        "Markus Fuchs",
+        "Thomas Kolb"
+      ],
+      "doi": "10.1016/j.quageo.2026.101781",
+      "id": "doi:10.1016/j.quageo.2026.101781",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Quaternary Geochronology"
+      ],
+      "summary": "《晚全新世中尺度河流流域的沉积动力学——基于上弗兰肯（德国东南部）的OSL年代学贝叶斯年龄-深度建模》：该研究运用光释光年代学与贝叶斯年龄-深度建模，重建德国东南部上弗兰肯地区一个中尺度河流流域晚全新世的沉积过程，可供关注河流沉积演变与年代学方法的读者参考。",
+      "title": "Late Holocene sediment dynamics in a mesoscale fluvial catchment from Upper Franconia (SE-Germany): Bayesian age-depth modelling based on OSL-chronologies",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quageo.2026.101781",
+      "venue": "Quaternary Geochronology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Anthropological Archaeology, Volume 84 Author(s): Tolga Kaan Kıyak",
+      "authors": [
+        "Tolga Kaan Kıyak"
+      ],
+      "doi": "10.1016/j.jaa.2026.101830",
+      "id": "doi:10.1016/j.jaa.2026.101830",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Anthropological Archaeology"
+      ],
+      "summary": "《近东晚期铜石并用时代印章的构图模式与视觉组织定量分析》：该论文对近东晚期铜石并用时代印章的构图模式与视觉组织进行定量分析，值得关注其如何以量化方法考察古代印章的视觉设计。",
+      "title": "A quantitative analysis of compositional patterns and visual organization in late chalcolithic stamp seals from the near east",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jaa.2026.101830",
+      "venue": "Journal of Anthropological Archaeology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 18 November 2026 Source: Palaeogeography, Palaeoclimatology, Palaeoecology Author(s): Elena Ivanova, Dmitrii Borisov, Ekaterina Ovsepyan, Roman Veselovskiy, Paula Diz, Varvara Dudanova",
+      "authors": [
+        "Dmitrii Borisov",
+        "Ekaterina Ovsepyan",
+        "Elena Ivanova",
+        "Paula Diz",
+        "Roman Veselovskiy",
+        "Varvara Dudanova"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114367",
+      "id": "doi:10.1016/j.palaeo.2026.114367",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Palaeogeography Palaeoclimatology Palaeoecology"
+      ],
+      "summary": "《过去26万年间中大西洋多尔德鲁姆斯断裂带的轨道强迫沉积与深水环流变化》：该研究探讨轨道尺度对沉积作用和深水环流的影响，值得关注古海洋与古气候研究进展的读者阅读。",
+      "title": "Orbital forcing of sedimentation and deep-water circulation changes in Doldrums Fracture Zone, Central Atlantic, over the last 260 kyr",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114367",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 18 November 2026 Source: Palaeogeography, Palaeoclimatology, Palaeoecology Author(s): Shuai Liu, Bingjie Wang, Shixin Guo, Da-Wei Li, Rong Xiang, Liping Zhou, Yang Ding, Li Li, Meixun Zhao",
+      "authors": [
+        "Bingjie Wang",
+        "Da-Wei Li",
+        "Li Li",
+        "Liping Zhou",
+        "Meixun Zhao",
+        "Rong Xiang",
+        "Shixin Guo",
+        "Shuai Liu",
+        "Yang Ding"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114366",
+      "id": "doi:10.1016/j.palaeo.2026.114366",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Palaeogeography Palaeoclimatology Palaeoecology"
+      ],
+      "summary": "《过去七千年黄海冷水团与东亚冬季风的相互作用和演替增强南黄海陆源有机碳保存》：该研究探讨黄海冷水团与东亚冬季风的相互作用和演替如何增强南黄海陆源有机碳保存，值得关注古海洋与碳循环的读者阅读。",
+      "title": "Interaction and succession of the Yellow Sea Cold Water Mass and East Asian Winter Monsoon enhancing terrestrial organic carbon preservation in the southern Yellow Sea over the last 7 kyr",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114366",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Danica Grujić, Mladen Mladenović, Uroš Nikolić, Teodora Mladenović",
+      "authors": [
+        "Danica Grujić",
+        "Mladen Mladenović",
+        "Teodora Mladenović",
+        "Uroš Nikolić"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106182",
+      "id": "doi:10.1016/j.jasrep.2026.106182",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《帝国边缘的动物管理：晚期古代乔尔塔诺夫齐—普罗夏尼采遗址的动物考古学证据》：该研究基于动物考古学证据，探讨罗马帝国边缘地区的动物管理实践，适合关注古代畜牧经济与边疆社会的研究者参考。",
+      "title": "Animal management at the edge of the Empire: Archaeozoological evidence from the Late Antique Čortanovci – Prosjanice site",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106182",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 17 November 2026 Source: L'Anthropologie Author(s): Richard Michael Gramly, James B. Harrod",
+      "authors": [
+        "James B. Harrod",
+        "Richard Michael Gramly"
+      ],
+      "doi": "10.1016/j.anthro.2026.103542",
+      "id": "doi:10.1016/j.anthro.2026.103542",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:L'Anthropologie"
+      ],
+      "summary": "《北美北部希斯科克与下蓝舔遗址旧石器时代晚期萨满法器及人类遗骸的性质与绝对年代》：文章考察这两处遗址出土的萨满法器与人类遗骸的性质并测定其绝对年代，可供关注北美旧石器时代晚期考古与年代学研究的读者参考。",
+      "title": "Nature and Absolute Age of Upper Palaeolithic Shamanic Paraphernalia and Human Remains at the Hiscock and Lower Blue Lick Sites, Northern North America<sup>1</sup>",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.anthro.2026.103542",
+      "venue": "L'Anthropologie",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:sec>\n                    <jats:title>Objectives</jats:title>\n                    <jats:p>Relationships between chronological age and skeletal and dental indicators of growth and development have largely contributed to shaping our approaches to subadult age estimation in biological anthropology. Dental development has historically been considered the most accurate age indicator. This somewhat suppositional appreciation of the predictive capability of age indicators conflates genetic potential (a biological phenomenon) with predictive power (a statistical phenomenon). Further, indicators of growth and development are scored or assessed differently (i.e., continuous vs. ordinal data). This data complexity further convolutes the relationship between indicator and estimates. The current study uses information theory to better understand the relationships of skeletal and dental growth and development indicators with age across postnatal ontogeny and evaluate their respective predictive power.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Materials and Methods</jats:title>\n                    <jats:p>Sixty‐two indicators including long bone measurements, epiphyseal fusion stages, and dental development stages were recorded for 1317 contemporary male and female US individuals aged between birth and 21 years. Information gain of each indicator on age was assessed using 62 univariate mixed cumulative probit (MCP) models.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Each variable provides varying levels of information to age throughout the subadult period. Patterns of information gain mirror developmental trajectories (i.e., growth velocity, fusion/mineralization activity), are sexually dimorphic, and are affected by the data type and precision in data collection.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Discussion</jats:title>\n                    <jats:p>These findings challenge the idea of a best indicator or variable for subadult age estimation, elucidate the complex patterns of age‐related relationships during ontogeny, and corroborate multivariate and multi‐indicator age estimation models.</jats:p>\n                  </jats:sec>",
+      "authors": [
+        "Christopher A. Wolfe",
+        "Elaine Y. Chu",
+        "Kyra E. Stull",
+        "Kyra E. Stull, Louise K. Corron, Elaine Y. Chu, Michael H. Price, Christopher A. Wolfe",
+        "Louise K. Corron",
+        "Michael H. Price"
+      ],
+      "doi": "10.1002/ajpa.70397",
+      "id": "doi:10.1002/ajpa.70397",
+      "publication_date": "2026-11-17",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:American Journal of Biological Anthropology"
+      ],
+      "summary": "《利用信息论评估亚成年年龄指标在整个个体发育过程中的预测能力》：该研究以1317名0至21岁美国个体为样本，记录62项骨骼与牙齿发育指标，用信息论方法评估各指标对年龄的预测力，发现信息增益随发育轨迹变化并存在性别差异，挑战了单一最佳年龄指标的观念，值得关注亚成年年龄推断的研究者阅读。",
+      "title": "Using Information Theory to Evaluate the Predictive Capability of Subadult Age Indicators Throughout Ontogeny",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ajpa.70397",
+      "venue": "American Journal of Biological Anthropology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    The skull of carnivorans represents a highly integrated anatomical structure shaped by selective pressures associated with feeding ecology, sensory specialization, locomotion, and phylogenetic history. This review provides a comprehensive synthesis of craniomandibular morphometric indices in the order\n                    <jats:italic>Carnivora</jats:italic>\n                    , integrating their anatomical definitions, morphometric foundations, and functional significance. Standardized cranial and mandibular measurements are reviewed together with 11 widely used proportional indices, including the Cranial Index (CI), Skull Index (SI), Facial Index (FI), Facial Length Index (FLI), Cranial Length Index (CLI), Cranial Height Index (CHI), Orbital Index (OI), Palatal Index (PI), Foramen Magnum Index (FMI), Mandibular Body Index (MBI), and Mandibular Ramus Index (MRI). The review highlights the biomechanical and evolutionary relevance of these indices by examining their relationships with bite performance, craniofacial organization, sensory adaptations, feeding ecology, and morphological diversification among carnivoran families. In addition to summarizing published morphometric indices, several proportional indices that have rarely been reported as independent variables are derived from previously published linear craniometric measurements, providing standardized quantitative descriptors for comparative analyses across species. By compiling anatomical landmarks, measurement protocols, functional interpretations, and comparative data within a unified framework, this review identifies current knowledge gaps and promotes greater methodological consistency in future studies. Although some proportional indices were calculated from published measurements rather than directly reported in the original literature, they provide valuable complementary metrics for evaluating cranial and mandibular morphology. Overall, the integration of these 11 morphometric indices offers a comprehensive approach for investigating craniofacial evolution, functional morphology, feeding adaptations, and taxonomic diversity in both extant and fossil carnivorans. This review provides a practical reference for researchers in comparative anatomy, evolutionary biology, paleontology, and veterinary morphology.\n                  </jats:p>",
+      "authors": [
+        "Babak Rasouli"
+      ],
+      "doi": "10.1002/ar.70400",
+      "id": "doi:10.1002/ar.70400",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《食肉目颅颌形态测量指标综合评述：解剖学基础、功能意义与比较应用》：该文系统梳理食肉目颅骨与下颌的标准化测量及11项常用比例指标，结合咬合性能、感官适应、摄食生态与形态分化阐释其生物力学和演化意义，并整合解剖标志、测量方案与比较数据，指出研究空白、倡导方法统一，可供比较解剖学、演化生物学、古生物学与兽医学形态学研究者参考。",
+      "title": "A comprehensive review of craniomandibular morphometric indices in carnivora: Anatomical basis, functional significance, and comparative applications",
+      "topics": [],
+      "url": "https://doi.org/10.1002/ar.70400",
+      "venue": "The Anatomical Record",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "10.1016/s0305-4403(26)00274-8",
+      "id": "doi:10.1016/s0305-4403(26)00274-8",
+      "publication_date": "2026-11-18",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《编辑委员会》：这是《考古科学杂志》的编辑委员会页面，未提供论文题目、作者或摘要内容，无法据此判断具体研究主题与阅读价值。",
+      "title": "Editorial Board",
+      "topics": [],
+      "url": "https://doi.org/10.1016/s0305-4403(26)00274-8",
+      "venue": "Journal of Archaeological Science",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Lei Gao",
+        "Chunlian Wang",
+        "Ruidong Yang",
+        "Junbo Gao",
+        "Chengxin Zhang",
+        "Zhenliang Cao",
+        "Guoyiji Xu",
+        "Xinzheng Li",
+        "Wei Li"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114368",
+      "id": "doi:10.1016/j.palaeo.2026.114368",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《华南牛蹄塘组缺氧下寒武统盆地中的深水海绵-刺胞动物组合：生物地球化学记录》：论文研究华南牛蹄塘组缺氧下寒武统盆地中的深水海绵-刺胞动物组合及其生物地球化学记录，值得关注早期生命与环境关系的读者阅读。",
+      "title": "Deep-water sponge–cnidarian assemblages in an oxygen-depleted Lower Cambrian basin: biogeochemical records from the Niutitang Formation, South China",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114368",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Francisco de O. Arouca",
+        "Bruna C. Schneider",
+        "Leslie M.E. Manríquez",
+        "Rodrigo do M. Guerra",
+        "Karlos G.D. Kochhann",
+        "Gerson Fauth",
+        "Rodrigo S. Horodyski"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114365",
+      "id": "doi:10.1016/j.palaeo.2026.114365",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《南极始新世海龙介（龙介虫科）揭示德雷克海峡打开期间的威德尔动物区系连通性》：该研究基于南极始新世龙介虫科化石，探讨德雷克海峡打开期间威德尔动物区系的连通性，可供关注南极古生物地理与德雷克海峡演化关系的读者参考。",
+      "title": "Eocene Hydroides (Serpulidae) from Antarctic reveals Weddellian faunal connectivity during the opening of the Drake Passage",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114365",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    }
+  ],
+  "schema_version": 1
+}
