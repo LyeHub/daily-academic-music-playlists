@@ -1,0 +1,419 @@
+{
+  "date": "2026-11-21",
+  "items": [
+    {
+      "abstract": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03797-3 Fossil teeth suggest that Homo erectus could live in a habitat researchers thought that only Homo sapiens could hack. Plus, what experts think remains underappreciated in neuroscience and tips on networking at a conference.",
+      "authors": [
+        "Jacob Smith"
+      ],
+      "doi": "10.1038/d41586-026-03797-3",
+      "id": "doi:10.1038/d41586-026-03797-3",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Nature"
+      ],
+      "summary": "《直立人具备在雨林中繁衍生息的能力》：论文基于化石牙齿证据，探讨直立人能否生活在研究者此前认为只有智人才能适应的栖息地，并兼及神经科学中仍被低估的问题与会议社交建议，值得关注。",
+      "title": "Daily briefing: <i>Homo erectus</i> had what it takes to thrive in the rainforest",
+      "topics": [
+        "Homo erectus"
+      ],
+      "url": "https://doi.org/10.1038/d41586-026-03797-3",
+      "venue": "Nature",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>\n                    The Chaco-Santiagueña region of South America has long been regarded as marginal to agricultural development, with subsistence systems usually described as mixed foraging and low-intensity horticulture. Here, we present the first integrated stable isotope analysis (δ\n                    <jats:sup>13</jats:sup>\n                    C and δ\n                    <jats:sup>15</jats:sup>\n                    N) of human and faunal bone collagen from the Dry Chaco, spanning the last ~1600 years. This dataset is assessed together with modern plant and animal isotopic baselines and regional radiocarbon summed probability distributions (SPDs). Our results reveal a clear temporal shift in camelid isotopic values. Specimens from the late ceramic period (after ~1000–800 BP) are enriched in both δ\n                    <jats:sup>13</jats:sup>\n                    C and δ\n                    <jats:sup>15</jats:sup>\n                    N relative to earlier contexts. Mixing models indicate a greater contribution of C\n                    <jats:sub>4</jats:sub>\n                    resources, while human samples show very high δ\n                    <jats:sup>13</jats:sup>\n                    C values consistent with a substantial intake of maize or other C\n                    <jats:sub>4</jats:sub>\n                    -linked foods. These patterns suggest a sustained reorganization of subsistence practices, rather than merely occasional or small-scale horticulture. Contrary to expectations, the isotopic data do not clearly separate camelids morphometrically assigned to wild (\n                    <jats:italic toggle=\"yes\">Lama guanicoe</jats:italic>\n                    ) and domestic (\n                    <jats:italic toggle=\"yes\">Lama glama</jats:italic>\n                    ) forms. Both groups show substantial isotopic overlap and marked dietary heterogeneity. This result highlights the limits of osteometric classification alone and supports the use of isotopic proxies for reconstructing animal management, foraging behavior, and landscape use. Regional SPDs show no significant demographic departures at local scales, although the aggregated dataset suggests episodic population fluctuations broadly consistent with isotopic evidence for increased C\n                    <jats:sub>4</jats:sub>\n                    consumption. Taken together, these results challenge the long-standing characterization of the Chaco-Santiagueña region as a marginal agricultural zone. Instead, they point to a dynamic late Holocene mosaic in which maize cultivation, camelid exploitation or management, and the continued use of wild resources were closely intertwined.\n                  </jats:p>",
+      "authors": [
+        "Fernando J. Fernández",
+        "Guillermo Lamenza",
+        "José Manuel López",
+        "Julia Lund",
+        "Luis Manuel del Papa"
+      ],
+      "doi": "10.1177/09596836261494523",
+      "id": "doi:10.1177/09596836261494523",
+      "publication_date": "2026-11-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《阿根廷北部晚全新世干旱查科地区的同位素变异与人类策略》：该研究首次对干旱查科地区距今约1600年的人与动物骨胶原进行碳氮稳定同位素综合分析，发现晚陶瓷期骆驼科动物同位素值富集、人类样本碳同位素值极高，指示玉米等C4资源摄入显著增加，且野生与家养骆驼科动物同位素高度重叠，挑战了该地区为边缘农业区的传统认识，值得关注。",
+      "title": "Isotopic variability and human strategies in the Late-Holocene Dry Chaco of northern Argentina",
+      "topics": [
+        "stable isotope",
+        "subsistence"
+      ],
+      "url": "https://doi.org/10.1177/09596836261494523",
+      "venue": "The Holocene",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Guoyuan Yang",
+        "Jia-Hong Gao",
+        "P. Thomas Schoenemann"
+      ],
+      "doi": "10.1073/pnas.2634306123",
+      "id": "doi:10.1073/pnas.2634306123",
+      "publication_date": "2026-11-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《对Kochiyama等人的回应：认知能力上推断出的广泛重叠使尼安德特人替代的演化模型复杂化》：该文针对尼安德特人替代的演化模型提出商榷，指出认知能力上推断出的广泛重叠会使相关模型复杂化，适合关注尼安德特人演化与认知比较的读者参阅。",
+      "title": "Reply to Kochiyama et al.: Extensive inferred overlap in cognitive abilities complicate evolutionary models of Neanderthal replacement",
+      "topics": [
+        "Neanderthal"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2634306123",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Windblown dunes are found everywhere in the Solar System where a supply of loose sediment is mobilized by gas flows, from the sluggish winds of Venus to speed-of-sound sublimation flows on comets. Their abundance is nontrivial because dunes only form where grains hop ballistically (“saltate”). This implies that winds across the Solar System reach “goldilocks” speeds that are just right to initiate and maintain saltation of whatever sediment is available despite vast variations in material and fluid properties, and gravity. Based on select observations, it was proposed that dune fields may be characterized by a near-threshold transport state where dune-forming winds minimally exceed the saltation threshold on Earth. Here, we demonstrate that this is indeed the case globally. Next, we show that, unlike riverbeds—which evolve to a similar state through adjustments of channel geometry—dune fields are born in it due to the rapid decrease in wind frequency with increasing wind speed. These results imply that grain sizes in windblown dunes provide a robust record of formative winds, such that corresponding wind speeds can be estimated from aeolian sandstones and dune deposits across planets. The near-threshold state of windblown dunes thus opens a promising line of investigation for paleoenvironmental and paleoclimate reconstructions on Earth and beyond.</jats:p>",
+      "authors": [
+        "Alex Gleason",
+        "Clément Narteau",
+        "M. Colin Marvin",
+        "Mathieu G. A. Lapôtre",
+        "Olivier Rozier"
+      ],
+      "doi": "10.1073/pnas.2613085123",
+      "id": "doi:10.1073/pnas.2613085123",
+      "publication_date": "2026-11-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《风成沙丘诞生于输运临界状态的沙中》：该研究论证全球风成沙丘场普遍处于近临界输运状态，并指出这与河床通过调整河道几何达到类似状态不同，沙丘场是因风速频率随风速增大而快速下降而天生处于该状态；据此可由风成砂岩和沙丘沉积中的粒径稳健反推成风风速，为地球及其他行星的古环境与古气候重建提供新途径，值得相关研究者阅读。",
+      "title": "Windblown dunes are born in sand at the brink of transport",
+      "topics": [
+        "paleoenvironment"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2613085123",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    The\n                    <jats:italic>Tachysurus argentivittatus</jats:italic>\n                    group represents the smallest‐bodied lineage within\n                    <jats:italic>Tachysurus</jats:italic>\n                    with adults not exceeding 50 mm in standard length (SL), and is widely distributed across East Asia. Owing to pronounced morphological conservatism, species delimitation within this group has long been challenging. Previous studies recognized two species within this species group,\n                    <jats:italic>T. argentivittatus</jats:italic>\n                    sensu stricto, restricted to the Pearl River and\n                    <jats:italic>Tachysurus mica</jats:italic>\n                    , distributed from the Yangtze to the Amur Rivers and also indicated that the Hainan Island population represents an undescribed lineage. In this study, geographic sampling encompasses the northern margin of the East Asian tropics, including populations from central and northern Vietnam and coastal mainland China. Using an integrative framework, we confirm the validity of\n                    <jats:italic>Tachysurus longispinalis</jats:italic>\n                    from the Red River basin. Furthermore, this species forms part of a species complex, comprising four reciprocally monophyletic lineages. Within this complex, two allopatric lineages from Hainan Island and the Moyang River (in Guangdong Province of China) exhibit consistent genetic divergence and diagnostic morphological differences, and are described herein as\n                    <jats:italic>Tachysurus lativittatus</jats:italic>\n                    sp. nov. and\n                    <jats:italic>Tachysurus stenomaculatus</jats:italic>\n                    sp. nov., respectively. The central Vietnam lineage shows shallow genetic divergence and limited morphological differentiation from\n                    <jats:italic>T. longispinalis</jats:italic>\n                    and is provisionally treated as\n                    <jats:italic>T.</jats:italic>\n                    aff.\n                    <jats:italic>longispinalis</jats:italic>\n                    . Divergence‐time estimates suggest that diversification within the complex occurred from the late Pliocene to the middle Pleistocene, potentially overlapping with major climatic transitions associated with the onset and intensification of Northern Hemisphere glaciation. Repeated sea‐level declines during this period may have facilitated ancestral dispersal and subsequent divergence. Moreover, our findings refine the morphological boundaries of the\n                    <jats:italic>T. argentivittatus</jats:italic>\n                    group.\n                  </jats:p>",
+      "authors": [
+        "Wei‐Han Shao",
+        "Xing‐Wei Cai",
+        "Tao Dinh Nguyen",
+        "Ke Zheng",
+        "E. Zhang"
+      ],
+      "doi": "10.1002/ece3.74737",
+      "id": "doi:10.1002/ece3.74737",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《银纹黄颡鱼组的整合分类学修订揭示东亚热带北缘的隐存多样性》：该研究对东亚热带北缘包括越南中北部与中国大陆沿海的银纹黄颡鱼组种群进行整合分类学分析，确认红河盆地长刺黄颡鱼的有效性，并描述海南岛与漠阳江两个新种，同时估算该复合种的分化时间约在上新世晚期至中更新世，值得关注鱼类隐存多样性与古气候、海平面变化关系的读者阅读。",
+      "title": "Integrative Taxonomic Revision of the\n                    <scp>\n                      <i>Tachysurus argentivittatus</i>\n                    </scp>\n                    Group (Siluriformes: Bagridae) Illuminates Cryptic Diversification Along the Northern Margin of the East Asian Tropics",
+      "topics": [
+        "Middle Pleistocene"
+      ],
+      "url": "https://doi.org/10.1002/ece3.74737",
+      "venue": "Ecology and Evolution",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "The evolution of hunter-gatherer subsistence strategies in Mainland Southeast Asia remains poorly understood. While recent studies have explored the hunting behaviors of Late Pleistocene and early Holocene Hoabinhian groups, most research has focused on sedentary populations from the later Holocene. Nevertheless, hunter-gatherer communities persisted into recent times in certain areas, including southern Thailand, and their archaeological record is only beginning to be systematically investigated.Khao Ta Plai (Chumphon Province, southern Thailand), currently excavated by the Fine Arts Department of Thailand, provides new insights into this issue. Archaeological materials uncovered from two excavation pits reveal a long occupational chronology across the Late Pleistocene, Neolithic, and Metal Ages, alongside evidence of geographical diversity in site use. Over 20,000 faunal assemblages provide beneficial data related to prehistoric hunting behaviors. Zooarchaeological and taphonomic investigations suggest continuous exploitation of wild animals throughout all stratigraphic layers. While the relative abundance of specific taxa changes over time, the representation of reptile remains, especially turtles are predominant in several occupation layers.These findings enable us to clarify how hunter-gatherer subsistence strategies emerged alongside innovations in technology, such as ceramics and metallurgy.",
+      "authors": [
+        "Sirikanya Chantasri",
+        "Jutinach Bowonsachoti",
+        "Apirat Jaelao",
+        "Sarat Chalawsuntisakul",
+        "Corentin Bochaton"
+      ],
+      "doi": "",
+      "id": "openalex:w7236912990",
+      "publication_date": "2026-11-01",
+      "sources": [
+        "openalex"
+      ],
+      "summary": "《泰国南部狩猎采集者生计策略的长期演变：春蓬府考塔普莱洞穴动物遗存的动物考古学分析》：该研究通过分析超过两万件动物遗存，探讨晚更新世至金属时代狩猎采集生计的延续与变化，并揭示龟类等爬行动物遗存在多个地层中占主导的现象，为理解东南亚大陆狩猎采集者生计策略与技术革新并存的关系提供了新证据。",
+      "title": "Long-term Evolution of Hunter-Gatherer Subsistence Strategies in Southern Thailand: Zooarchaeological Analysis of the Faunal Assemblage from Khao Ta Plai Cave (Chumphon Province)",
+      "topics": [
+        "faunal assemblage",
+        "subsistence"
+      ],
+      "url": "https://hal.science/hal-05868953",
+      "venue": "HAL",
+      "work_type": "conference-paper"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Ozan Özbudak, Bogdana Milić, Sidar Gündüzalp",
+      "authors": [
+        "Bogdana Milić",
+        "Ozan Özbudak",
+        "Sidar Gündüzalp"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106185",
+      "id": "doi:10.1016/j.jasrep.2026.106185",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《填补空白：安纳托利亚中部北缘后旧石器时代至铜石并用时代占据的新证据》：该论文为安纳托利亚中部北缘后旧石器时代至铜石并用时代的人类活动提供了新证据，值得关注该地区史前考古的研究者阅读。",
+      "title": "Filling the gap: New evidence for Epipaleolithic to Chalcolithic occupation on the northern frontier of Central Anatolia",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106185",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Manisha Kesarwani, Sharada Channarayapatna, Debajyoti Paul, Vineet Goswami",
+      "authors": [
+        "Debajyoti Paul",
+        "Manisha Kesarwani",
+        "Sharada Channarayapatna",
+        "Vineet Goswami"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106186",
+      "id": "doi:10.1016/j.jasrep.2026.106186",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《印度古吉拉特邦多拉维拉哈拉帕人畜牧实践的重建：基于牛和水牛牙釉质同位素（碳、氧、锶）研究的见解》：该研究利用碳、氧、锶同位素分析牛和水牛牙釉质，重建哈拉帕人的畜牧实践，值得关注。",
+      "title": "Reconstruction of animal husbandry practices by the Harappans at Dholavira, Gujarat, India: Insights from isotope (C, O, and Sr) studies of cattle/buffalo tooth enamel",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106186",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 19 November 2026 Source: Palaeogeography, Palaeoclimatology, Palaeoecology Author(s): Zaiwei Wang, Kun Zhao, Renjie Tao, Songzhuo Li, Boling Zhang, Xianguo Lang",
+      "authors": [
+        "Boling Zhang",
+        "Kun Zhao",
+        "Renjie Tao",
+        "Songzhuo Li",
+        "Xianguo Lang",
+        "Zaiwei Wang"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114374",
+      "id": "doi:10.1016/j.palaeo.2026.114374",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Palaeogeography Palaeoclimatology Palaeoecology"
+      ],
+      "summary": "《华南埃迪卡拉纪早期海洋硝酸盐储库非均质性的氮同位素证据》：该研究利用氮同位素证据探讨华南埃迪卡拉纪早期海洋硝酸盐储库的非均质性，值得关注早期海洋氮循环的读者阅读。",
+      "title": "Nitrogen isotope evidence for a heterogeneous nitrate reservoir in the early Ediacaran ocean of South China",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114374",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Deepesh Singh, Abhishek Ranjan, Virag Gopal Sontakke",
+      "authors": [
+        "Abhishek Ranjan",
+        "Deepesh Singh",
+        "Virag Gopal Sontakke"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106191",
+      "id": "doi:10.1016/j.jasrep.2026.106191",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《印度东北温迪亚山脉巨石墓葬景观的GIS空间分析：来自拉姆普尔达巴伊的证据》：该研究运用GIS空间分析考察拉姆普尔达巴伊的巨石墓葬景观，值得关注其如何从空间维度揭示这一墓葬遗存的组织与布局。",
+      "title": "Gis-based spatial analysis of a megalithic mortuary landscape in the North-Eastern Vindhyas: Evidence from Rampur Dhabai, India",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106191",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): M. Peharda, M. Bodružić, M. Burchell, N.J. de Winter, N. Bujas, D.P. Gillikin, I. Hajdas, E.M. Harper, B.R. Schöne, H. Uvanović, A. Verheyden, D. Vujević",
+      "authors": [
+        "A. Verheyden",
+        "B.R. Schöne",
+        "D. Vujević",
+        "D.P. Gillikin",
+        "E.M. Harper",
+        "H. Uvanović",
+        "I. Hajdas",
+        "M. Bodružić",
+        "M. Burchell",
+        "M. Peharda",
+        "N. Bujas",
+        "N.J. de Winter"
+      ],
+      "doi": "10.1016/j.jasrep.2026.106178",
+      "id": "doi:10.1016/j.jasrep.2026.106178",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Journal of Archaeological Science: Reports"
+      ],
+      "summary": "《东亚得里亚海新石器时代近海岸洞穴遗址贻贝贝壳的硬组织年代学分析》：该研究对东亚得里亚海一处新石器时代近海岸洞穴遗址出土的贻贝贝壳进行硬组织年代学分析，值得关注其如何借助贝壳生长序列解读该遗址的相关信息。",
+      "title": "Sclerochronological analysis of mussel shells from a Neolithic near-coastal cave site in the eastern Adriatic Sea",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jasrep.2026.106178",
+      "venue": "Journal of Archaeological Science: Reports",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 19 November 2026 Source: Palaeogeography, Palaeoclimatology, Palaeoecology Author(s): Yinhong Su, Shengli Yang, Lei Li, Fuli Wu, Weilin Zhang, Qingquan Meng, Tao Zhang, Jizhong Qiu, Xiaomin Fang",
+      "authors": [
+        "Fuli Wu",
+        "Jizhong Qiu",
+        "Lei Li",
+        "Qingquan Meng",
+        "Shengli Yang",
+        "Tao Zhang",
+        "Weilin Zhang",
+        "Xiaomin Fang",
+        "Yinhong Su"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114371",
+      "id": "doi:10.1016/j.palaeo.2026.114371",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Palaeogeography Palaeoclimatology Palaeoecology"
+      ],
+      "summary": "《华南红土化学蚀变指数作为古降水潜在代用指标》：该研究探讨华南红土化学蚀变指数能否作为古降水的代用指标，值得关注古气候重建的研究者阅读。",
+      "title": "Chemical index of alteration in South China red earth as a potential proxy for paleoprecipitation",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114371",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "Publication date: Available online 19 November 2026 Source: Quaternary Science Reviews Author(s): Katelyn N. McDonough, Emily B.P. Milton",
+      "authors": [
+        "Emily B.P. Milton",
+        "Katelyn N. McDonough"
+      ],
+      "doi": "10.1016/j.quascirev.2026.110381",
+      "id": "doi:10.1016/j.quascirev.2026.110381",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref",
+        "rss",
+        "rss:Quaternary Science Reviews"
+      ],
+      "summary": "《西半球干旱与山地环境中的早期人类动态》：该文探讨西半球干旱与山地环境中的早期人类活动，由Milton与McDonough发表于《Quaternary Science Reviews》，可供关注早期人类与环境互动的研究者参考。",
+      "title": "Introduction - Early human dynamics in arid and mountain environments of the Western Hemisphere",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110381",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Fluvial microvertebrate assemblages are important but underexplored archives for reconstructing Quaternary environments, particularly in regions lacking karstic and cave deposits. We analyse late Middle and early Late Pleistocene small‐vertebrate assemblages from the Middle Dnipro region, Ukraine, to compare two interpretative frameworks: habitat‐weighting analysis and bioclimatic spectra. The studied assemblages span multiple Marine Isotope Stages (MIS 11 to MIS 5) and derive exclusively from alluvial contexts characterised by taphonomic overprinting and time‐averaging. Using principal component analysis, we compare the environmental signals extracted by both methods across different taxonomic datasets. In both approaches, the dominant source of variation reflects changes in ecological evenness, expressed as shifts in the relative importance of steppe, tundra–steppe and high‐latitude taxa. The most even assemblages correspond to cold‐stage conditions and are characterised by arctic and boreal elements, whereas low‐evenness assemblages are dominated by core tundra–steppe taxa. Habitat spectra additionally capture geomorphological influences related to river‐valley dynamics, resulting in a diffuse climatic signal. In contrast, bioclimatic spectra more directly resolve glacial–interglacial climatic gradients and show greater robustness to incomplete faunal lists and taphonomic biases. Our results demonstrate that bioclimatic spectra provide a clearer palaeoclimatic signal than habitat‐based approaches for fluvial microvertebrate assemblages. This method is therefore particularly well suited to Quaternary environmental reconstruction in lowland river systems affected by taphonomic and sedimentary filtering.</jats:p>",
+      "authors": [
+        "Alina Mishta",
+        "Lilia Popova",
+        "Oleksandr Kovalchuk",
+        "Tetiana Mironchuk",
+        "Vadym Yanenko"
+      ],
+      "doi": "10.1002/jqs.70143",
+      "id": "doi:10.1002/jqs.70143",
+      "publication_date": "2026-11-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《乌克兰第聂伯河中游地区更新世河流微型脊椎动物组合中的生物气候与生境信号》：该研究分析第聂伯河中游地区中更新世晚期至晚更新世早期的小型脊椎动物组合，比较生境加权分析与生物气候谱两种解释框架，发现生物气候谱能更清晰地反映冰期—间冰期气候梯度，且对动物名录不完整和埋藏偏差更具稳健性，值得关注河流相微型脊椎动物用于第四纪环境重建的读者阅读。",
+      "title": "Bioclimatic and habitat signals in Pleistocene fluvial microvertebrate assemblages from the Middle Dnipro region, Ukraine",
+      "topics": [],
+      "url": "https://doi.org/10.1002/jqs.70143",
+      "venue": "Journal of Quaternary Science",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "<jats:p>Of the three substantial areas of postglacial aerial exposure on the Irish Sea shelf (Liverpool Bay, Cardigan Bay and the Bristol Channel), Cardigan Bay is the largest and the one about which we know the least. This article provides the first empirical sea level data for Cardigan Bay since the 1980s. It examines the proposition that the valleys of north Cardigan Bay were subject to a long period of marine influence that is not modelled in current palaeogeographical reconstructions. Detailed lithostratigraphic investigations traced the extent of Early to Mid‐Holocene marine influence in the Dysynni valley. Multiple microfossil proxies were used to calculate sea level data points. Two sea level index points from a back‐barrier marsh indicated relative sea level rise from −5.55 to −3.13 mOD between 7790–7630 and 6399–6296 cal. a BP. Freshwater/terrestrial limiting points from 7 km inland bracketed a period of marine influence between 9889–9545 and 4783–4416 cal. a BP. Pollen recorded a transition from saltmarsh, fen and reed‐swamp environments to alder carr and then birch woodland. The results were combined with existing lithostratigraphic and biostratigraphic data to show that the overdeepened glacial valleys of north Cardigan Bay were subject to marine influence from before 12 000 cal. a BP, with different palaeogeographical histories dependent on their depths and rates of postglacial sedimentation.</jats:p>",
+      "authors": [
+        "Caitlin Nagle",
+        "Katherine A. Selby",
+        "Robert Johnston"
+      ],
+      "doi": "10.1111/bor.70097",
+      "id": "doi:10.1111/bor.70097",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《威尔士卡迪根湾全新世海岸变化与爱尔兰海古地理的河谷系统研究》：该文提供了自20世纪80年代以来卡迪根湾首批实证海平面数据，通过详细岩性分层与多重微体化石指标重建迪辛尼河谷早至中全新世的海侵范围，并结合已有资料揭示北卡迪根湾深挖冰川河谷自距今12000年前起受海洋影响的不同古地理历史，值得关注爱尔兰海古地理与海平面研究的读者阅读。",
+      "title": "A valley system investigation of Holocene coastal change and Irish Sea palaeogeography in Cardigan Bay, Wales,\n                    <scp>UK</scp>",
+      "topics": [],
+      "url": "https://doi.org/10.1111/bor.70097",
+      "venue": "Boreas",
+      "work_type": "journal_article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "Amy P.I. Hagen",
+        "Benjamin C. Gill",
+        "Sara B. Pruss",
+        "David K. Brezinski",
+        "Junyao Kang"
+      ],
+      "doi": "10.1016/j.palaeo.2026.114372",
+      "id": "doi:10.1016/j.palaeo.2026.114372",
+      "publication_date": "2026-11-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《寒武纪SPICE事件期间沉积学与古生物学变化及其与海平面升降的联系：来自南阿巴拉契亚山脉的记录》：该研究以南阿巴拉契亚山脉的沉积记录为对象，探讨寒武纪SPICE事件期间沉积学与古生物学变化同海平面变化之间的关系，可供关注寒武纪环境事件与地层记录的读者参考。",
+      "title": "Sedimentological and paleontological variability during the Cambrian SPICE event linked to sea-level change as recorded in the southern Appalachian Mountains",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.palaeo.2026.114372",
+      "venue": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [
+        "David A. Reid",
+        "Kurt Rademaker"
+      ],
+      "doi": "10.1016/j.jaa.2026.101831",
+      "id": "doi:10.1016/j.jaa.2026.101831",
+      "publication_date": "2026-11-20",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《重思“废弃”：通过彩绘石板便携岩画传统看秘鲁的递归场所营造与社会记忆》：文章以彩绘石板便携岩画传统为线索，探讨秘鲁的递归场所营造与社会记忆，适合关注安第斯考古、景观与记忆研究的读者阅读。",
+      "title": "Rethinking “abandonment”: recursive place-making and social memory in Peru through the placas pintadas portable rock art tradition",
+      "topics": [],
+      "url": "https://doi.org/10.1016/j.jaa.2026.101831",
+      "venue": "Journal of Anthropological Archaeology",
+      "work_type": "journal-article"
+    },
+    {
+      "abstract": "",
+      "authors": [],
+      "doi": "10.1016/s0277-3791(26)00584-6",
+      "id": "doi:10.1016/s0277-3791(26)00584-6",
+      "publication_date": "2026-11-19",
+      "sources": [
+        "crossref"
+      ],
+      "summary": "《第四纪科学评论》编辑委员会：本期汇集第四纪研究领域编辑委员会相关内容，适合关注该领域学术动态与研究方向的读者参阅。",
+      "title": "Editorial Board",
+      "topics": [],
+      "url": "https://doi.org/10.1016/s0277-3791(26)00584-6",
+      "venue": "Quaternary Science Reviews",
+      "work_type": "journal-article"
+    }
+  ],
+  "schema_version": 1
+}
